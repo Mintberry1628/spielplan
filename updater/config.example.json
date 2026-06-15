@@ -1,0 +1,19 @@
+{
+  "_hinweis": "Kopiere diese Datei zu 'config.json' und trage deine API-Schlüssel ein. ODER setze sie als Umgebungsvariablen (in der Cloud empfohlen). config.json wird NICHT mit hochgeladen (.gitignore).",
+
+  "FOOTBALL_DATA_API_KEY": "hier-dein-football-data-org-schluessel",
+  "ODDS_API_KEY": "hier-dein-the-odds-api-schluessel",
+
+  "_ki_hinweis": "KI-Anbieter für die Prognosen: trage ENTWEDER einen Google-Key (GOOGLE_API_KEY, empfohlen – Gratis-Tarif) ODER einen Anthropic/Claude-Key (ANTHROPIC_API_KEY) ein. Ist ein Google-Key gesetzt, wird automatisch Gemini genutzt. PREDICTION_MODEL passend zum Anbieter wählen (Gemini-Empfehlung: gemini-2.5-flash-lite).",
+  "GOOGLE_API_KEY": "hier-dein-google-gemini-schluessel",
+  "ANTHROPIC_API_KEY": "",
+
+  "PREDICTION_MODEL": "gemini-2.5-flash-lite",
+  "USE_WEB_SEARCH": "0",
+  "PRED_TTL_HOURS": "20",
+  "DAYS_AHEAD": "21",
+
+  "_tv_hinweis": "TV-Sender kommen automatisch (Live-Quelle fussballgucken.info + Regel-Engine). USE_TV_SCRAPE='0' schaltet die Live-Quelle ab (dann nur Regeln). TV_SCRAPE_DAYS = wie viele Tage im Voraus live abgefragt werden.",
+  "USE_TV_SCRAPE": "1",
+  "TV_SCRAPE_DAYS": "10"
+}

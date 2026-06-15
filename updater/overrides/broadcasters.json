@@ -1,0 +1,11 @@
+{
+  "_hinweis": "TV-Sender werden VOLLAUTOMATISCH bestimmt (Live-Quelle fussballgucken.info + Regel-Engine in tv_sources.py) – hier musst du normalerweise NICHTS eintragen. Dieser Block dient nur als optionale manuelle Übersteuerung für Einzelfälle: 'byMatch' hat IMMER Vorrang vor Live-Quelle und Regeln. Schlüssel ist entweder die Spiel-ID oder exakt 'Heim vs Gast' (Teamnamen wie in den Daten). 'free': true = frei empfangbar (ARD/ZDF/RTL/Sat.1 ...).",
+
+  "byMatch": {
+    "_beispiel-id": {
+      "channels": ["ARD"],
+      "free": true,
+      "note": "Beispiel-Eintrag (Schlüssel beginnt mit _ und wird ignoriert). Zum Aktivieren echte Spiel-ID oder 'Heim vs Gast' verwenden."
+    }
+  }
+}

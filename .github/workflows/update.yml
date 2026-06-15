@@ -1,0 +1,54 @@
+name: Spielplan aktualisieren
+
+# Läuft automatisch in der Cloud (kostenlos) – dein Laptop muss NICHT an sein.
+on:
+  schedule:
+    # Alle 3 Stunden (UTC). Tipp: an Spieltagen kann man den Takt erhöhen.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}   # erlaubt manuelles Auslösen per Knopf auf GitHub
+
+permissions:
+  contents: write          # damit der Workflow die aktualisierte data.json committen darf
+
+concurrency:
+  group: spielplan-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Daten aktualisieren
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          # KI-Anbieter: GOOGLE_API_KEY (Gemini, empfohlen) ODER ANTHROPIC_API_KEY (Claude)
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PREDICTION_MODEL: ${{ vars.PREDICTION_MODEL || 'gemini-2.5-flash-lite' }}
+          USE_WEB_SEARCH: ${{ vars.USE_WEB_SEARCH || '0' }}
+          PRED_TTL_HOURS: ${{ vars.PRED_TTL_HOURS || '20' }}
+          DAYS_AHEAD: ${{ vars.DAYS_AHEAD || '21' }}
+          USE_TV_SCRAPE: ${{ vars.USE_TV_SCRAPE || '1' }}
+          TV_SCRAPE_DAYS: ${{ vars.TV_SCRAPE_DAYS || '10' }}
+        run: python updater/update.py
+
+      - name: Geänderte data.json committen
+        run: |
+          git config user.name "spielplan-bot"
+          git config user.email "bot@spielplan.local"
+          if [ -n "$(git status --porcelain app/data.json)" ]; then
+            git add app/data.json
+            git commit -m "Daten aktualisiert: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "Keine Änderungen."
+          fi

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0b6e4f" />
+  <title>Spielplan</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon.svg" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Kopfzeile -->
+  <header class="app-header">
+    <div class="header-row">
+      <div class="brand">
+        <span class="brand-mark">⚽</span>
+        <span class="brand-text">Spielplan</span>
+      </div>
+      <button id="settingsBtn" class="icon-button" aria-label="Einstellungen">⚙️</button>
+    </div>
+
+    <!-- Tages-Navigation -->
+    <div class="date-nav">
+      <button id="prevDay" class="nav-arrow" aria-label="Vorheriger Tag">‹</button>
+      <button id="currentDate" class="current-date" aria-label="Datum">
+        <span id="dateWeekday" class="date-weekday">Heute</span>
+        <span id="dateFull" class="date-full">—</span>
+      </button>
+      <button id="nextDay" class="nav-arrow" aria-label="Nächster Tag">›</button>
+    </div>
+
+    <!-- Schnellsprung "Heute" -->
+    <button id="todayBtn" class="today-button hidden">Zurück zu heute</button>
+  </header>
+
+  <!-- Status / Offline-Hinweis -->
+  <div id="statusBar" class="status-bar hidden"></div>
+
+  <!-- Hauptbereich: hier werden die Spiele gerendert -->
+  <main id="content" class="content">
+    <div id="loading" class="loading">Lade Spiele…</div>
+  </main>
+
+  <!-- Untere Aktionsleiste -->
+  <nav class="bottom-bar">
+    <button id="shareDayBtn" class="bottom-action">
+      <span class="ba-icon">📋</span><span class="ba-label">Tag teilen</span>
+    </button>
+    <button id="shareTeamBtn" class="bottom-action">
+      <span class="ba-icon">⭐</span><span class="ba-label">Mein Team</span>
+    </button>
+    <button id="shareCompBtn" class="bottom-action">
+      <span class="ba-icon">🏆</span><span class="ba-label">Wettbewerb</span>
+    </button>
+  </nav>
+
+  <!-- Einstellungs-Dialog -->
+  <div id="settingsSheet" class="sheet hidden" role="dialog" aria-modal="true">
+    <div class="sheet-backdrop" data-close-sheet></div>
+    <div class="sheet-panel">
+      <div class="sheet-handle"></div>
+      <h2>Einstellungen</h2>
+
+      <label class="setting-row">
+        <span>Sehr große Schrift</span>
+        <input type="checkbox" id="bigTextToggle" />
+      </label>
+
+      <label class="setting-row">
+        <span>Erinnerungen erlauben</span>
+        <input type="checkbox" id="notifyToggle" />
+      </label>
+
+      <div class="setting-block">
+        <span class="setting-title">Meine Mannschaften (immer ganz oben)</span>
+        <div id="favList" class="fav-list"></div>
+        <p class="setting-hint">Diese Teams werden an ihrem Spieltag immer zuerst angezeigt.</p>
+      </div>
+
+      <div class="setting-block">
+        <span class="setting-title">Daten-Stand</span>
+        <p id="dataStamp" class="setting-hint">—</p>
+        <button id="refreshBtn" class="text-button">Jetzt aktualisieren</button>
+      </div>
+
+      <button class="primary-button" data-close-sheet>Schließen</button>
+    </div>
+  </div>
+
+  <!-- Teilen-Auswahl-Dialog -->
+  <div id="shareSheet" class="sheet hidden" role="dialog" aria-modal="true">
+    <div class="sheet-backdrop" data-close-sheet></div>
+    <div class="sheet-panel">
+      <div class="sheet-handle"></div>
+      <h2 id="shareTitle">Teilen</h2>
+      <div id="shareOptions" class="share-options"></div>
+      <button class="text-button" data-close-sheet>Abbrechen</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

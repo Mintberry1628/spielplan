@@ -1,0 +1,14 @@
+# Geheime Schlüssel niemals hochladen!
+updater/config.json
+*.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

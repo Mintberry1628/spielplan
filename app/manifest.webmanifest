@@ -1,0 +1,26 @@
+{
+  "name": "Spielplan – Fußball-Termine",
+  "short_name": "Spielplan",
+  "description": "Bundesliga, WM, EM und Champions League: wann, wer gegen wen, auf welchem Sender, mit Quoten und KI-Prognose.",
+  "lang": "de",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b6e4f",
+  "theme_color": "#0b6e4f",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Spielplan">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e8a63"/>
+      <stop offset="1" stop-color="#095a40"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- Fußball -->
+  <g transform="translate(256 244)">
+    <circle r="132" fill="#ffffff"/>
+    <g fill="#0b3d2c">
+      <polygon points="0,-58 55,-18 34,47 -34,47 -55,-18"/>
+      <path d="M0,-132 L40,-104 L24,-70 L-24,-70 L-40,-104 Z"/>
+      <path d="M104,-30 L120,18 L92,40 L60,8 L78,-40 Z"/>
+      <path d="M-104,-30 L-78,-40 L-60,8 L-92,40 L-120,18 Z"/>
+      <path d="M44,118 L-44,118 L-58,78 L-22,58 L22,58 L58,78 Z"/>
+    </g>
+  </g>
+  <!-- Kalenderbalken unten -->
+  <rect x="116" y="396" width="280" height="20" rx="10" fill="#f0a500"/>
+</svg>
