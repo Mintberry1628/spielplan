@@ -46,7 +46,7 @@ Dafür laufen zwei Dinge **kostenlos in der Cloud** über ein GitHub-Konto:
 
 1. **GitHub-Konto** erstellen (gratis) und ein neues Repository anlegen, z. B. `spielplan`.
 2. Diesen Ordner dort hochladen (per GitHub Desktop oder `git push`).
-3. Unter **Settings → Pages**: Quelle auf den `main`-Branch, Ordner `/app` stellen.
+3. Unter **Settings → Pages**: Quelle „Deploy from a branch", `main`-Branch, Ordner `/docs` stellen.
    → Die App ist dann unter `https://DEINNAME.github.io/spielplan/` erreichbar.
 4. Unter **Settings → Secrets and variables → Actions** die API-Schlüssel als
    *Secrets* hinterlegen (siehe Schritt 4): `FOOTBALL_DATA_API_KEY`,
@@ -77,7 +77,7 @@ geht mit `gemini-2.5-flash`. Den Key bekommst du gratis im
 2. Schlüssel eintragen
 3. Im Ordner `updater` ausführen: `python update.py`
 
-Der Updater schreibt dann `app/data.json` neu. Fehlt ein Schlüssel, wird der
+Der Updater schreibt dann `docs/data.json` neu. Fehlt ein Schlüssel, wird der
 jeweilige Teil übersprungen und die vorhandenen Daten bleiben erhalten.
 
 ---
@@ -126,7 +126,7 @@ Die TV-Sender werden **automatisch** bestimmt, in zwei Stufen (in `updater/tv_so
 
 ```
 Spielplan/
-├─ app/                  ← die App (das, was auf dem Handy läuft)
+├─ docs/                 ← die App (das, was auf dem Handy läuft; GitHub Pages liefert diesen Ordner aus)
 │  ├─ index.html, styles.css, app.js
 │  ├─ manifest.webmanifest, sw.js   (Installierbarkeit + Offline)
 │  ├─ icons/

@@ -45,8 +45,8 @@ jobs:
         run: |
           git config user.name "spielplan-bot"
           git config user.email "bot@spielplan.local"
-          if [ -n "$(git status --porcelain app/data.json)" ]; then
-            git add app/data.json
+          if [ -n "$(git status --porcelain docs/data.json)" ]; then
+            git add docs/data.json
             git commit -m "Daten aktualisiert: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           else

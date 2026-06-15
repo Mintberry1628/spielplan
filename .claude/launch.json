@@ -4,7 +4,7 @@
     {
       "name": "spielplan",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "8123", "--directory", "app"],
+      "runtimeArgs": ["-m", "http.server", "8123", "--directory", "docs"],
       "port": 8123
     }
   ]

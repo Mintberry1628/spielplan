@@ -5,7 +5,7 @@ Spielplan – Daten-Updater
 =========================
 
 Holt Spielpläne, Quoten und TV-Sender, lässt eine KI eine Prognose erstellen
-und schreibt alles in app/data.json. Diese Datei liest die App.
+und schreibt alles in docs/data.json. Diese Datei liest die App.
 
 Bewusst OHNE Zusatzpakete (nur Python-Standardbibliothek), damit es überall
 läuft – auf deinem Laptop genauso wie kostenlos in der Cloud (GitHub Actions).
@@ -17,7 +17,7 @@ Steuerung über Umgebungsvariablen (oder updater/config.json):
   PREDICTION_MODEL        Claude-Modell (Standard: günstig)
   USE_WEB_SEARCH          "1" = KI recherchiert live im Internet (etwas teurer)
   DAYS_AHEAD              Wie viele Tage in die Zukunft (Standard 21)
-  OUTPUT                  Zielpfad (Standard: ../app/data.json)
+  OUTPUT                  Zielpfad (Standard: ../docs/data.json)
 
 Wenn ein Schlüssel fehlt, überspringt der Updater den jeweiligen Teil und
 behält die vorhandene data.json, statt sie kaputtzuschreiben.
@@ -73,7 +73,7 @@ def load_config():
         "days_ahead": int(get("DAYS_AHEAD", "21")),
         "use_tv_scrape": str(get("USE_TV_SCRAPE", "1")) == "1",
         "tv_scrape_days": int(get("TV_SCRAPE_DAYS", "10")),
-        "output": get("OUTPUT", os.path.join(HERE, "..", "app", "data.json")),
+        "output": get("OUTPUT", os.path.join(HERE, "..", "docs", "data.json")),
         "tz_offset": "+02:00",  # Europe/Berlin Sommerzeit (wird unten genauer behandelt)
     }
 
