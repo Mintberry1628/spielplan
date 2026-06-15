@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T19:04:12.483245+00:00",
+  "generatedAt": "2026-06-15T23:03:08.561114+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -88,19 +88,19 @@
       "dateLocal": "2026-06-15",
       "kickoff": "2026-06-15T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Belgien",
         "short": "BEL",
         "crest": "https://crests.football-data.org/805.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Ägypten",
         "short": "EGY",
         "crest": "https://crests.football-data.org/825.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -115,22 +115,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Belgien",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Belgien hat den Heimvorteil und die stärkere Mannschaft",
-          "Ägypten hat in der Vergangenheit gegen stärkere Gegner Probleme gehabt",
-          "Belgien ist in guter Form und hat eine starke Offensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:07:53.679406+00:00"
+        "available": false
       }
     },
     {
@@ -140,19 +125,19 @@
       "dateLocal": "2026-06-16",
       "kickoff": "2026-06-16T00:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Saudi-Arabien",
         "short": "KSA",
         "crest": "https://crests.football-data.org/saudi_arabia.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Uruguay",
         "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
