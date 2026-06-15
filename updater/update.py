@@ -269,8 +269,11 @@ def attach_odds(cfg, matches):
             print(f"[WARN] Quoten {sport}: {e}")
             continue
         for ev in events:
-            odds_index[norm(ev.get("home_team")) + "|" + norm(ev.get("away_team"))] = ev
+            # Quoten-API liefert englische Namen -> via Tabelle ins Deutsche bringen,
+            # damit der Abgleich mit unseren (deutschen) Spielnamen klappt.
+            odds_index[norm(de_name(ev.get("home_team"))) + "|" + norm(de_name(ev.get("away_team")))] = ev
 
+    n_odds = 0
     for m in matches:
         key = norm(m["home"]["name"]) + "|" + norm(m["away"]["name"])
         ev = odds_index.get(key) or fuzzy_odds(odds_index, m)
@@ -279,6 +282,8 @@ def attach_odds(cfg, matches):
         h, d, a = extract_h2h(ev)
         if h:
             m["odds"] = {"known": True, "home": h, "draw": d, "away": a, "source": "the-odds-api"}
+            n_odds += 1
+    print(f"[INFO] Quoten zugeordnet: {n_odds} Spiele.")
 
 
 def extract_h2h(ev):
