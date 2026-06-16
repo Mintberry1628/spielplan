@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T13:47:01.868238+00:00",
+  "generatedAt": "2026-06-16T04:01:12.856475+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -9,32 +9,33 @@
   ],
   "matches": [
     {
-      "id": "fd-537358",
+      "id": "fd-537364",
       "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_F",
-      "dateLocal": "2026-06-15",
-      "kickoff": "2026-06-15T04:00:00+02:00",
+      "competitionStage": "Gruppenphase · Gruppe_G",
+      "dateLocal": "2026-06-16",
+      "kickoff": "2026-06-16T03:00:00+02:00",
       "kickoffKnown": true,
       "status": "finished",
       "minute": null,
       "home": {
-        "name": "Schweden",
-        "short": "SWE",
-        "crest": "https://crests.football-data.org/792.svg",
-        "score": 5
+        "name": "Iran",
+        "short": "IRN",
+        "crest": "https://crests.football-data.org/iran.svg",
+        "score": 2
       },
       "away": {
-        "name": "Tunesien",
-        "short": "TUN",
-        "crest": "https://crests.football-data.org/tunisia.svg",
-        "score": 1
+        "name": "Neuseeland",
+        "short": "NZL",
+        "crest": "https://crests.football-data.org/783.svg",
+        "score": 2
       },
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV"
+          "MagentaTV",
+          "ZDF"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -42,230 +43,6 @@
       },
       "prediction": {
         "available": false
-      }
-    },
-    {
-      "id": "fd-537369",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_H",
-      "dateLocal": "2026-06-15",
-      "kickoff": "2026-06-15T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Spanien",
-        "short": "ESP",
-        "crest": "https://crests.football-data.org/760.svg",
-        "score": null
-      },
-      "away": {
-        "name": "Kap Verde",
-        "short": "CPV",
-        "crest": "https://crests.football-data.org/cape_verde.svg",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": null
-      },
-      "odds": {
-        "known": true,
-        "home": 1.08,
-        "draw": 15.5,
-        "away": 36.0,
-        "source": "the-odds-api"
-      },
-      "prediction": {
-        "available": true,
-        "outcome": "Sieg Spanien",
-        "scoreline": "3:0",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.8,
-          "draw": 0.15,
-          "away": 0.05
-        },
-        "reasons": [
-          "Spanien ist klarer Favorit mit deutlich höherem Marktwert und aktueller Form",
-          "Kap Verde hat eine der schwächsten Offensiven im Turnier",
-          "Spanien spielt zu Hause vor eigenem Publikum"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:07:51.871903+00:00"
-      }
-    },
-    {
-      "id": "fd-537363",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_G",
-      "dateLocal": "2026-06-15",
-      "kickoff": "2026-06-15T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Belgien",
-        "short": "BEL",
-        "crest": "https://crests.football-data.org/805.svg",
-        "score": null
-      },
-      "away": {
-        "name": "Ägypten",
-        "short": "EGY",
-        "crest": "https://crests.football-data.org/825.svg",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": null
-      },
-      "odds": {
-        "known": true,
-        "home": 1.6,
-        "draw": 4.18,
-        "away": 6.2,
-        "source": "the-odds-api"
-      },
-      "prediction": {
-        "available": true,
-        "outcome": "Sieg Belgien",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Belgien hat den Heimvorteil und die stärkere Mannschaft",
-          "Ägypten hat in der Vergangenheit gegen stärkere Gegner Probleme gehabt",
-          "Belgien ist in guter Form und hat eine starke Offensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:07:53.679406+00:00"
-      }
-    },
-    {
-      "id": "fd-537370",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_H",
-      "dateLocal": "2026-06-16",
-      "kickoff": "2026-06-16T00:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Saudi-Arabien",
-        "short": "KSA",
-        "crest": "https://crests.football-data.org/saudi_arabia.svg",
-        "score": null
-      },
-      "away": {
-        "name": "Uruguay",
-        "short": "URY",
-        "crest": "https://crests.football-data.org/758.svg",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "MagentaTV",
-          "ZDF"
-        ],
-        "free": true,
-        "note": null
-      },
-      "odds": {
-        "known": true,
-        "home": 8.65,
-        "draw": 4.5,
-        "away": 1.47,
-        "source": "the-odds-api"
-      },
-      "prediction": {
-        "available": true,
-        "outcome": "Sieg Uruguay",
-        "scoreline": "0:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.3,
-          "away": 0.5
-        },
-        "reasons": [
-          "Uruguay hat die stärkere Mannschaft",
-          "Saudi-Arabien hat zuletzt schwache Leistungen gezeigt",
-          "Uruguay ist erfahrener auf dieser Bühne"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:07:55.641665+00:00"
-      }
-    },
-    {
-      "id": "fd-537364",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_G",
-      "dateLocal": "2026-06-16",
-      "kickoff": "2026-06-16T03:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Iran",
-        "short": "IRN",
-        "crest": "https://crests.football-data.org/iran.svg",
-        "score": null
-      },
-      "away": {
-        "name": "Neuseeland",
-        "short": "NZL",
-        "crest": "https://crests.football-data.org/783.svg",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "MagentaTV",
-          "ZDF"
-        ],
-        "free": true,
-        "note": null
-      },
-      "odds": {
-        "known": true,
-        "home": 1.83,
-        "draw": 3.58,
-        "away": 5.08,
-        "source": "the-odds-api"
-      },
-      "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.35,
-          "draw": 0.4,
-          "away": 0.25
-        },
-        "reasons": [
-          "Iran mit Heimvorteil, aber schwankender Form.",
-          "Neuseeland defensiv stabil, aber offensiv limitiert.",
-          "Beide Teams kämpfen um wichtige Punkte, was zu einem ausgeglichenen Spiel führt."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:07:57.638949+00:00"
       }
     },
     {
@@ -298,11 +75,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.47,
-        "draw": 4.51,
-        "away": 7.29,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -353,11 +126,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 17.8,
-        "draw": 7.5,
-        "away": 1.2,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -409,11 +178,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.4,
-        "draw": 4.58,
-        "away": 9.34,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -465,11 +230,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.33,
-        "draw": 5.6,
-        "away": 10.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -521,11 +282,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.29,
-        "draw": 5.8,
-        "away": 12.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -577,11 +334,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.74,
-        "draw": 3.87,
-        "away": 4.96,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -632,11 +385,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 2.21,
-        "draw": 3.46,
-        "away": 3.43,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -687,11 +436,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 9.23,
-        "draw": 4.76,
-        "away": 1.39,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -743,11 +488,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.74,
-        "draw": 3.75,
-        "away": 4.75,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -850,11 +591,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.23,
-        "draw": 5.3,
-        "away": 8.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -905,11 +642,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.97,
-        "draw": 3.3,
-        "away": 4.1,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -961,11 +694,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.64,
-        "draw": 4.5,
-        "away": 5.7,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1016,11 +745,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 4.8,
-        "draw": 3.75,
-        "away": 1.74,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1072,11 +797,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 1.08,
-        "draw": 9.61,
-        "away": 21.84,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1128,11 +849,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 2.1,
-        "draw": 3.4,
-        "away": 3.9,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1184,11 +901,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.66,
-        "draw": 3.75,
-        "away": 5.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1240,11 +953,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.53,
-        "draw": 4.1,
-        "away": 5.8,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1296,11 +1005,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.1,
-        "draw": 11.5,
-        "away": 19.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1351,11 +1056,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 6.75,
-        "draw": 4.0,
-        "away": 1.48,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1406,11 +1107,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.12,
-        "draw": 11.0,
-        "away": 33.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1462,11 +1159,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.36,
-        "draw": 4.68,
-        "away": 7.89,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1518,11 +1211,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.43,
-        "draw": 4.4,
-        "away": 8.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1573,11 +1262,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 5.0,
-        "draw": 3.5,
-        "away": 1.7,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1629,11 +1314,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.6,
-        "draw": 3.85,
-        "away": 5.4,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1685,11 +1366,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.1,
-        "draw": 9.0,
-        "away": 21.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1740,11 +1417,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 2.22,
-        "draw": 3.57,
-        "away": 3.51,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1796,11 +1469,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 7.08,
-        "draw": 4.36,
-        "away": 1.55,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1852,11 +1521,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.2,
-        "draw": 5.7,
-        "away": 9.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1908,11 +1573,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.28,
-        "draw": 5.0,
-        "away": 7.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1963,14 +1624,25 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 5.5,
-        "draw": 3.85,
-        "away": 1.49,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Kroatien",
+        "scoreline": "0:2",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
+        },
+        "reasons": [
+          "Kroatien hat die deutlich erfahrenere und individuell stärkere Mannschaft.",
+          "Panama hat in der Gruppenphase bisher wenig überzeugende Leistungen gezeigt.",
+          "Kroatien benötigt einen Sieg, um die Chancen auf das Weiterkommen zu wahren."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-16T04:01:05.635290+00:00"
       }
     },
     {
@@ -2004,14 +1676,25 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.49,
-        "draw": 4.3,
-        "away": 8.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Kolumbien",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Kolumbien mit starker Form und Heimvorteil",
+          "DR Kongo schwächelt auswärts",
+          "Kolumbien hat mehr Qualität im Kader"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-16T04:01:07.459815+00:00"
       }
     },
     {
@@ -2045,14 +1728,25 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 2.05,
-        "draw": 3.3,
-        "away": 3.4,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Schweiz",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Schweiz mit starker Defensive und guter Turnierform",
+          "Kanada fehlt es an internationaler Erfahrung",
+          "Heimvorteil und bessere Tabellensituation der Schweiz"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-16T04:01:10.294651+00:00"
       }
     },
     {
@@ -2088,7 +1782,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bosnien und Herzegowina",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Bosnien und Herzegowina mit Heimvorteil",
+          "Katar in schwacher Form",
+          "Bosnien und Herzegowina hat mehr zu verlieren"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-16T04:01:11.856234+00:00"
       }
     },
     {
@@ -2115,18 +1824,14 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
+          "MagentaTV",
+          "ZDF"
         ],
         "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.25,
-        "draw": 5.5,
-        "away": 9.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2156,18 +1861,13 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
-        "known": true,
-        "home": 6.75,
-        "draw": 4.7,
-        "away": 1.41,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2197,18 +1897,13 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
-        "known": true,
-        "home": 3.8,
-        "draw": 3.15,
-        "away": 1.66,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2238,18 +1933,13 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
-        "known": true,
-        "home": 4.5,
-        "draw": 3.45,
-        "away": 1.48,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2279,18 +1969,14 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "ARD",
           "MagentaTV"
         ],
         "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "note": null
       },
       "odds": {
-        "known": true,
-        "home": 3.9,
-        "draw": 3.3,
-        "away": 1.58,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2320,18 +2006,13 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
-        "known": true,
-        "home": 10.5,
-        "draw": 5.9,
-        "away": 1.09,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2368,11 +2049,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 6.5,
-        "draw": 4.4,
-        "away": 1.24,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2409,11 +2086,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 1.94,
-        "draw": 3.2,
-        "away": 3.1,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2450,11 +2123,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 2.45,
-        "draw": 3.2,
-        "away": 2.15,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2491,11 +2160,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 2.0,
-        "draw": 3.05,
-        "away": 3.1,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2532,11 +2197,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 4.39,
-        "draw": 3.66,
-        "away": 1.78,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2573,11 +2234,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 1.45,
-        "draw": 4.53,
-        "away": 7.72,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2614,11 +2271,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 5.3,
-        "draw": 3.8,
-        "away": 1.57,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2655,11 +2308,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 2.4,
-        "draw": 3.5,
-        "away": 2.6,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2696,11 +2345,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 9.48,
-        "draw": 5.58,
-        "away": 1.3,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2737,11 +2382,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 2.26,
-        "draw": 3.08,
-        "away": 3.62,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2778,11 +2419,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 9.0,
-        "draw": 5.7,
-        "away": 1.25,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2819,11 +2456,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 1.57,
-        "draw": 3.7,
-        "away": 5.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2860,11 +2493,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 3.6,
-        "draw": 3.35,
-        "away": 2.16,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2901,11 +2530,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 2.15,
-        "draw": 3.1,
-        "away": 2.8,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2942,11 +2567,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 14.0,
-        "draw": 6.5,
-        "away": 1.16,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -2983,11 +2604,7 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": true,
-        "home": 3.05,
-        "draw": 2.9,
-        "away": 1.94,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": false
@@ -3777,6 +3394,80 @@
       "dateLocal": "2026-07-07",
       "kickoff": "2026-07-07T02:00:00+02:00",
       "kickoffKnown": false,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537381",
+      "competition": "WM",
+      "competitionStage": "Achtelfinale",
+      "dateLocal": "2026-07-07",
+      "kickoff": "2026-07-07T18:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537382",
+      "competition": "WM",
+      "competitionStage": "Achtelfinale",
+      "dateLocal": "2026-07-07",
+      "kickoff": "2026-07-07T22:00:00+02:00",
+      "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
       "home": {
