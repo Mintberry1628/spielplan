@@ -863,10 +863,10 @@
         "available": true,
         "outcome": "Sieg Ghana",
         "scoreline": "1:0",
-        "confidence": 0.55,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
-          "draw": 0.3,
+          "home": 0.6,
+          "draw": 0.25,
           "away": 0.15
         },
         "reasons": [
@@ -1194,9 +1194,9 @@
         "scoreline": "2:0",
         "confidence": 0.6,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
           "USA mit Heimvorteil und stärkerer Kaderbreite",
