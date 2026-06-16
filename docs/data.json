@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T23:03:08.561114+00:00",
+  "generatedAt": "2026-06-16T04:01:12.856475+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -9,187 +9,25 @@
   ],
   "matches": [
     {
-      "id": "fd-537358",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_F",
-      "dateLocal": "2026-06-15",
-      "kickoff": "2026-06-15T04:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Schweden",
-        "short": "SWE",
-        "crest": "https://crests.football-data.org/792.svg",
-        "score": 5
-      },
-      "away": {
-        "name": "Tunesien",
-        "short": "TUN",
-        "crest": "https://crests.football-data.org/tunisia.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "MagentaTV"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537369",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_H",
-      "dateLocal": "2026-06-15",
-      "kickoff": "2026-06-15T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Spanien",
-        "short": "ESP",
-        "crest": "https://crests.football-data.org/760.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Kap Verde",
-        "short": "CPV",
-        "crest": "https://crests.football-data.org/cape_verde.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537363",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_G",
-      "dateLocal": "2026-06-15",
-      "kickoff": "2026-06-15T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Belgien",
-        "short": "BEL",
-        "crest": "https://crests.football-data.org/805.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Ägypten",
-        "short": "EGY",
-        "crest": "https://crests.football-data.org/825.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537370",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_H",
-      "dateLocal": "2026-06-16",
-      "kickoff": "2026-06-16T00:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "live",
-      "minute": null,
-      "home": {
-        "name": "Saudi-Arabien",
-        "short": "KSA",
-        "crest": "https://crests.football-data.org/saudi_arabia.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Uruguay",
-        "short": "URY",
-        "crest": "https://crests.football-data.org/758.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "MagentaTV",
-          "ZDF"
-        ],
-        "free": true,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": true,
-        "outcome": "Sieg Uruguay",
-        "scoreline": "0:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.3,
-          "away": 0.5
-        },
-        "reasons": [
-          "Uruguay hat die stärkere Mannschaft",
-          "Saudi-Arabien hat zuletzt schwache Leistungen gezeigt",
-          "Uruguay ist erfahrener auf dieser Bühne"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:07:55.641665+00:00"
-      }
-    },
-    {
       "id": "fd-537364",
       "competition": "WM",
       "competitionStage": "Gruppenphase · Gruppe_G",
       "dateLocal": "2026-06-16",
       "kickoff": "2026-06-16T03:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Iran",
         "short": "IRN",
         "crest": "https://crests.football-data.org/iran.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Neuseeland",
         "short": "NZL",
         "crest": "https://crests.football-data.org/783.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -204,22 +42,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.35,
-          "draw": 0.4,
-          "away": 0.25
-        },
-        "reasons": [
-          "Iran mit Heimvorteil, aber schwankender Form.",
-          "Neuseeland defensiv stabil, aber offensiv limitiert.",
-          "Beide Teams kämpfen um wichtige Punkte, was zu einem ausgeglichenen Spiel führt."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:07:57.638949+00:00"
+        "available": false
       }
     },
     {
@@ -1804,7 +1627,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Kroatien",
+        "scoreline": "0:2",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
+        },
+        "reasons": [
+          "Kroatien hat die deutlich erfahrenere und individuell stärkere Mannschaft.",
+          "Panama hat in der Gruppenphase bisher wenig überzeugende Leistungen gezeigt.",
+          "Kroatien benötigt einen Sieg, um die Chancen auf das Weiterkommen zu wahren."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-16T04:01:05.635290+00:00"
       }
     },
     {
@@ -1841,7 +1679,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Kolumbien",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Kolumbien mit starker Form und Heimvorteil",
+          "DR Kongo schwächelt auswärts",
+          "Kolumbien hat mehr Qualität im Kader"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-16T04:01:07.459815+00:00"
       }
     },
     {
@@ -1878,7 +1731,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Schweiz",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Schweiz mit starker Defensive und guter Turnierform",
+          "Kanada fehlt es an internationaler Erfahrung",
+          "Heimvorteil und bessere Tabellensituation der Schweiz"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-16T04:01:10.294651+00:00"
       }
     },
     {
@@ -1914,7 +1782,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bosnien und Herzegowina",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Bosnien und Herzegowina mit Heimvorteil",
+          "Katar in schwacher Form",
+          "Bosnien und Herzegowina hat mehr zu verlieren"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-16T04:01:11.856234+00:00"
       }
     },
     {
@@ -1941,11 +1824,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
+          "MagentaTV",
+          "ZDF"
         ],
         "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1978,11 +1861,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
@@ -2015,11 +1897,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
@@ -2052,11 +1933,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
@@ -2089,11 +1969,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "ARD",
           "MagentaTV"
         ],
         "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2126,11 +2006,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
@@ -3515,6 +3394,80 @@
       "dateLocal": "2026-07-07",
       "kickoff": "2026-07-07T02:00:00+02:00",
       "kickoffKnown": false,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537381",
+      "competition": "WM",
+      "competitionStage": "Achtelfinale",
+      "dateLocal": "2026-07-07",
+      "kickoff": "2026-07-07T18:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537382",
+      "competition": "WM",
+      "competitionStage": "Achtelfinale",
+      "dateLocal": "2026-07-07",
+      "kickoff": "2026-07-07T22:00:00+02:00",
+      "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
       "home": {
