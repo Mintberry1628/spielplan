@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T20:50:27.028434+00:00",
+  "generatedAt": "2026-06-16T22:53:37.571154+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -432,7 +432,7 @@
       },
       "away": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 1
       },
@@ -496,19 +496,19 @@
       "dateLocal": "2026-06-16",
       "kickoff": "2026-06-16T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Frankreich",
         "short": "FRA",
         "crest": "https://crests.football-data.org/773.svg",
-        "score": 1
+        "score": 3
       },
       "away": {
         "name": "Senegal",
         "short": "SEN",
         "crest": "https://crests.football-data.org/senegal.svg",
-        "score": 0
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -522,22 +522,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Senegal mit starker Defensive",
-          "Frankreich fehlt oft die Effizienz",
-          "Beide Teams mit Druck, defensiv stabil"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-16T12:27:19.893803+00:00"
+        "available": false
       }
     },
     {
@@ -547,19 +532,19 @@
       "dateLocal": "2026-06-17",
       "kickoff": "2026-06-17T00:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Irak",
         "short": "IRQ",
         "crest": "https://crests.football-data.org/iraq.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Norwegen",
         "short": "NOR",
         "crest": "https://crests.football-data.org/813.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -1635,7 +1620,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2695,7 +2680,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
