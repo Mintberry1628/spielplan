@@ -70,7 +70,8 @@ def load_config():
         "model": get("PREDICTION_MODEL", default_model),
         "use_web_search": str(get("USE_WEB_SEARCH", "0")) == "1",
         "pred_ttl_hours": int(get("PRED_TTL_HOURS", "20")),
-        "days_ahead": int(get("DAYS_AHEAD", "21")),
+        "days_ahead": int(get("DAYS_AHEAD", "300")),
+        "days_past": int(get("DAYS_PAST", "3")),
         "use_tv_scrape": str(get("USE_TV_SCRAPE", "1")) == "1",
         "tv_scrape_days": int(get("TV_SCRAPE_DAYS", "10")),
         "output": get("OUTPUT", os.path.join(HERE, "..", "docs", "data.json")),
@@ -171,14 +172,14 @@ def fetch_fixtures(cfg):
         print("[INFO] Kein FOOTBALL_DATA_API_KEY – Spielpläne werden übersprungen.")
         return None
 
-    date_from = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    date_to = (datetime.now(timezone.utc) + timedelta(days=cfg["days_ahead"])).strftime("%Y-%m-%d")
+    # Ganze laufende Saison holen (ohne Datumsfilter) und alte Spiele unten wegfiltern.
+    # So sind automatisch ALLE kommenden Spiele der Saison dabei, sobald veröffentlicht.
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=cfg["days_past"])).strftime("%Y-%m-%d")
     headers = {"X-Auth-Token": cfg["football_key"]}
     matches = []
 
     for comp in COMPETITIONS:
-        url = (f"https://api.football-data.org/v4/competitions/{comp['fd_code']}/matches"
-               f"?dateFrom={date_from}&dateTo={date_to}")
+        url = f"https://api.football-data.org/v4/competitions/{comp['fd_code']}/matches"
         try:
             data = http_get_json(url, headers=headers)
         except urllib.error.HTTPError as e:
@@ -192,7 +193,7 @@ def fetch_fixtures(cfg):
 
         for fx in data.get("matches", []):
             date_local, kickoff, known = to_local(fx.get("utcDate"))
-            if not date_local:
+            if not date_local or date_local < cutoff:
                 continue
             ft = (fx.get("score") or {}).get("fullTime") or {}
             home = fx.get("homeTeam") or {}
@@ -247,6 +248,73 @@ def build_stage(fx):
     if fx.get("matchday") and (fx.get("stage") in (None, "REGULAR_SEASON", "LEAGUE_STAGE")):
         parts.append(f"{fx['matchday']}. Spieltag")
     return " · ".join(parts) if parts else None
+
+
+# ----------------------------------------------------------------------------
+# DFB-Pokal (OpenLigaDB – kostenlos, kein Schlüssel; football-data hat ihn nicht)
+# ----------------------------------------------------------------------------
+
+def fetch_openligadb_dfb(cfg):
+    """Holt die DFB-Pokal-Spiele der laufenden Saison von OpenLigaDB."""
+    now = datetime.now(timezone.utc)
+    season = now.year if now.month >= 6 else now.year - 1  # Pokal-Saison beginnt im August
+    cutoff = (now - timedelta(days=cfg["days_past"])).strftime("%Y-%m-%d")
+    url = f"https://api.openligadb.de/getmatchdata/dfb/{season}"
+    try:
+        data = http_get_json(url)
+    except Exception as e:
+        print(f"[WARN] DFB-Pokal (OpenLigaDB): {e}")
+        return []
+    if not isinstance(data, list):
+        return []
+
+    out = []
+    for m in data:
+        utc = m.get("matchDateTimeUTC")
+        if utc:
+            date_local, kickoff, known = to_local(utc)
+        else:  # Termin noch offen -> lokales Datum, falls vorhanden
+            loc = m.get("matchDateTime")
+            date_local = loc[:10] if loc else None
+            kickoff, known = None, False
+        if not date_local or date_local < cutoff:
+            continue
+        t1, t2 = m.get("team1") or {}, m.get("team2") or {}
+        finished = bool(m.get("matchIsFinished"))
+        s1 = s2 = None
+        if finished:
+            res = m.get("matchResults") or []
+            end = next((r for r in res if r.get("resultTypeID") == 2), res[-1] if res else None)
+            if end:
+                s1, s2 = end.get("pointsTeam1"), end.get("pointsTeam2")
+        out.append({
+            "id": f"oldb-{m.get('matchID')}",
+            "competition": "DFB-Pokal",
+            "competitionStage": (m.get("group") or {}).get("groupName"),
+            "dateLocal": date_local,
+            "kickoff": kickoff,
+            "kickoffKnown": known,
+            "status": "finished" if finished else "scheduled",
+            "minute": None,
+            "home": oldb_team(t1, s1),
+            "away": oldb_team(t2, s2),
+            "tv": {"known": False, "channels": [], "free": False, "note": None},
+            "odds": {"known": False},
+            "prediction": {"available": False},
+            "_oddsKey": None,
+        })
+    print(f"[INFO] DFB-Pokal: {len(out)} Spiele (OpenLigaDB, Saison {season}/{(season + 1) % 100:02d}).")
+    return out
+
+
+def oldb_team(t, score):
+    name = de_name(t.get("teamName") or t.get("shortName") or "?")
+    return {
+        "name": name,
+        "short": t.get("shortName") or name[:3].upper(),
+        "crest": t.get("teamIconUrl"),
+        "score": score,
+    }
 
 
 # ----------------------------------------------------------------------------
@@ -593,11 +661,16 @@ def main():
     print("[START] Spielplan-Updater")
 
     matches = fetch_fixtures(cfg)
+    no_fixture_source = matches is None
     if matches is None:
+        matches = []
+    matches += fetch_openligadb_dfb(cfg)  # DFB-Pokal (braucht keinen Schlüssel)
+
+    if no_fixture_source and not matches:
         print("[STOP] Ohne Spielplan-Daten wird die vorhandene data.json nicht überschrieben.")
         sys.exit(0)
     if not matches:
-        print("[STOP] Keine Spiele im Zeitfenster gefunden – data.json bleibt unverändert.")
+        print("[STOP] Keine Spiele gefunden – data.json bleibt unverändert.")
         sys.exit(0)
 
     attach_odds(cfg, matches)

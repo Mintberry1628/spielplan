@@ -14,10 +14,12 @@
 /* ----------------- Konfiguration ----------------- */
 
 // Reihenfolge der Wettbewerbe (Abschnitte) an einem Tag
-const COMP_ORDER = ["WM", "EM", "Champions League", "Bundesliga"];
+const COMP_ORDER = ["WM", "EM", "Champions League", "Bundesliga", "DFB-Pokal"];
 const COMP_ICON = {
-  "WM": "🌍", "EM": "🇪🇺", "Champions League": "🏆", "Bundesliga": "🇩🇪",
+  "WM": "🌍", "EM": "🇪🇺", "Champions League": "🏆", "Bundesliga": "🇩🇪", "DFB-Pokal": "🥇",
 };
+// Wettbewerbe, die im Teilen-Dialog IMMER angeboten werden (auch ohne aktuelle Spiele)
+const SHARE_COMPS = ["Bundesliga", "Champions League", "DFB-Pokal", "WM", "EM"];
 
 // Lieblings-Teams (Standard). Werden in den Einstellungen angezeigt.
 // "aliases" fängt verschiedene Schreibweisen aus den Daten ab.
@@ -485,39 +487,39 @@ function openShareSheet() {
   opts.innerHTML = "";
   const today = todayStr();
   const all = (state.data && state.data.matches) || [];
+  const countUpcoming = (pred) => all.filter((m) => m.dateLocal >= today && pred(m)).length;
 
   // 1) Der aktuell angezeigte Tag (falls Spiele vorhanden)
-  if ((state.byDate.get(state.selectedDate) || []).length) {
+  const dayMatches = (state.byDate.get(state.selectedDate) || []).length;
+  if (dayMatches) {
     const lbl = state.selectedDate === today ? "Alle Spiele heute" : `Alle Spiele am ${formatFull(state.selectedDate)}`;
-    addShareOption(opts, "📅", lbl, formatWeekday(state.selectedDate), () => shareText(dayToText(), "Spiele"));
+    addShareOption(opts, "📅", lbl, dayMatches, () => shareText(dayToText(), "Spiele"));
   }
-  // 2) Lieblings-Mannschaften mit kommenden Spielen
+  // 2) Lieblings-Mannschaften – IMMER anzeigen (alle Wettbewerbe zusammen)
   for (const f of FAVORITES) {
-    if (all.some((m) => matchFavoriteIs(m, f) && m.dateLocal >= today)) {
-      addShareOption(opts, f.emoji, "Alle kommenden Spiele", f.label, () => shareText(teamToText(f), f.label));
-    }
+    const n = countUpcoming((m) => matchFavoriteIs(m, f));
+    addShareOption(opts, f.emoji, f.label, n, n ? () => shareText(teamToText(f), f.label) : null);
   }
-  // 3) Wettbewerbe mit kommenden Spielen
-  for (const c of COMP_ORDER) {
-    if (all.some((m) => m.competition === c && m.dateLocal >= today)) {
-      addShareOption(opts, COMP_ICON[c], "Alle kommenden Spiele", c, () => shareText(compToText(c), c));
-    }
-  }
-  if (!opts.children.length) {
-    const info = document.createElement("p");
-    info.className = "sheet-sub";
-    info.textContent = "Aktuell sind keine kommenden Spiele zum Teilen vorhanden.";
-    opts.appendChild(info);
+  // 3) Wettbewerbe – IMMER anzeigen (Bundesliga, Champions League, DFB-Pokal, WM, EM)
+  for (const c of SHARE_COMPS) {
+    const n = countUpcoming((m) => m.competition === c);
+    addShareOption(opts, COMP_ICON[c], c, n, n ? () => shareText(compToText(c), c) : null);
   }
   showSheet(sheet);
 }
 
-// Ein Tipp -> Dialog schließen und sofort die Teilen-Leiste des Handys öffnen
-function addShareOption(container, icon, label, sub, onClick) {
+// Ein Tipp -> Dialog schließen und sofort die Teilen-Leiste des Handys öffnen.
+// count = Anzahl kommender Spiele; onClick = null bedeutet "derzeit keine Spiele".
+function addShareOption(container, icon, title, count, onClick) {
   const b = document.createElement("button");
-  b.className = "share-option";
-  b.innerHTML = `<span class="so-icon">${icon}</span><span class="so-txt">${sub ? `<strong>${sub}</strong>` : ""}<span class="so-sub">${label}</span></span><span class="so-arrow">↗</span>`;
-  b.addEventListener("click", () => { hideSheet(document.getElementById("shareSheet")); onClick(); });
+  b.className = "share-option" + (count ? "" : " empty");
+  const sub = count ? `${count} ${count === 1 ? "Spiel" : "Spiele"}` : "derzeit keine Spiele";
+  b.innerHTML = `<span class="so-icon">${icon}</span><span class="so-txt"><strong>${title}</strong><span class="so-sub">${sub}</span></span><span class="so-arrow">↗</span>`;
+  b.addEventListener("click", () => {
+    hideSheet(document.getElementById("shareSheet"));
+    if (onClick) onClick();
+    else toast(`Aktuell keine kommenden Spiele: ${title}`);
+  });
   container.appendChild(b);
 }
 

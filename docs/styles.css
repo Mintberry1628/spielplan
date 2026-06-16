@@ -245,6 +245,8 @@ button { font-family: inherit; cursor: pointer; }
 .share-option .so-txt { display: flex; flex-direction: column; min-width: 0; }
 .share-option .so-sub { font-size: 0.82rem; color: var(--text-soft); font-weight: 500; }
 .share-option .so-arrow { margin-left: auto; color: var(--green); font-weight: 800; font-size: 1.3rem; }
+.share-option.empty { opacity: 0.5; }
+.share-option.empty .so-arrow { display: none; }
 
 /* Toast */
 .toast {

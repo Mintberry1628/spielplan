@@ -47,6 +47,9 @@ def tv_by_rules(competition, kickoff_iso, kickoff_known, date_local):
                 "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"}
     if competition == "EM":
         return {"known": True, "channels": ["ARD/ZDF"], "free": True, "note": None}
+    if competition == "DFB-Pokal":
+        return {"known": True, "channels": ["Sky"], "free": False,
+                "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"}
     if competition == "Champions League":
         # Rechtewechsel ab Saison 2027/28 (Stichtag ~ 1. Juli 2027)
         if date_local and date_local >= "2027-07-01":

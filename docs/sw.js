@@ -4,11 +4,11 @@
    damit auch ohne Internet die letzten Spiele angezeigt werden.
    ========================================================= */
 
-const CACHE = "spielplan-v2";
+const CACHE = "spielplan-v3";
 const SHELL = [
   "./index.html",
-  "./styles.css?v=2",
-  "./app.js?v=2",
+  "./styles.css?v=3",
+  "./app.js?v=3",
   "./manifest.webmanifest",
   "./icons/icon.svg",
   "./icons/icon-maskable.svg",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T04:01:12.856475+00:00",
+  "generatedAt": "2026-06-16T12:28:18.711457+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,6 +8,450 @@
     "Bosnien"
   ],
   "matches": [
+    {
+      "id": "fd-537345",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_D",
+      "dateLocal": "2026-06-13",
+      "kickoff": "2026-06-13T03:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "USA",
+        "short": "USA",
+        "crest": "https://crests.football-data.org/usa.svg",
+        "score": 4
+      },
+      "away": {
+        "name": "Paraguay",
+        "short": "PAR",
+        "crest": "https://crests.football-data.org/761.svg",
+        "score": 1
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537334",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_B",
+      "dateLocal": "2026-06-13",
+      "kickoff": "2026-06-13T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Katar",
+        "short": "QAT",
+        "crest": "https://crests.football-data.org/8030.svg",
+        "score": 1
+      },
+      "away": {
+        "name": "Schweiz",
+        "short": "SUI",
+        "crest": "https://crests.football-data.org/788.svg",
+        "score": 1
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537339",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_C",
+      "dateLocal": "2026-06-14",
+      "kickoff": "2026-06-14T00:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Brasilien",
+        "short": "BRA",
+        "crest": "https://crests.football-data.org/764.svg",
+        "score": 1
+      },
+      "away": {
+        "name": "Marokko",
+        "short": "MAR",
+        "crest": "https://crests.football-data.org/morocco.svg",
+        "score": 1
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537340",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_C",
+      "dateLocal": "2026-06-14",
+      "kickoff": "2026-06-14T03:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Haiti",
+        "short": "HAI",
+        "crest": "https://crests.football-data.org/haiti.svg",
+        "score": 0
+      },
+      "away": {
+        "name": "Schottland",
+        "short": "SCO",
+        "crest": "https://crests.football-data.org/814.svg",
+        "score": 1
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537346",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_D",
+      "dateLocal": "2026-06-14",
+      "kickoff": "2026-06-14T06:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Australien",
+        "short": "AUS",
+        "crest": "https://crests.football-data.org/779.svg",
+        "score": 2
+      },
+      "away": {
+        "name": "Türkei",
+        "short": "TUR",
+        "crest": "https://crests.football-data.org/803.svg",
+        "score": 0
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537351",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_E",
+      "dateLocal": "2026-06-14",
+      "kickoff": "2026-06-14T19:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Deutschland",
+        "short": "GER",
+        "crest": "https://crests.football-data.org/759.svg",
+        "score": 7
+      },
+      "away": {
+        "name": "Curaçao",
+        "short": "CUR",
+        "crest": "https://crests.football-data.org/curacao.svg",
+        "score": 1
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537357",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_F",
+      "dateLocal": "2026-06-14",
+      "kickoff": "2026-06-14T22:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Niederlande",
+        "short": "NED",
+        "crest": "https://crests.football-data.org/8601.svg",
+        "score": 2
+      },
+      "away": {
+        "name": "Japan",
+        "short": "JPN",
+        "crest": "https://crests.football-data.org/766.svg",
+        "score": 2
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537352",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_E",
+      "dateLocal": "2026-06-15",
+      "kickoff": "2026-06-15T01:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Elfenbeinküste",
+        "short": "CIV",
+        "crest": "https://crests.football-data.org/787.svg",
+        "score": 1
+      },
+      "away": {
+        "name": "Ecuador",
+        "short": "ECU",
+        "crest": "https://crests.football-data.org/791.svg",
+        "score": 0
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537358",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_F",
+      "dateLocal": "2026-06-15",
+      "kickoff": "2026-06-15T04:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Schweden",
+        "short": "SWE",
+        "crest": "https://crests.football-data.org/792.svg",
+        "score": 5
+      },
+      "away": {
+        "name": "Tunesien",
+        "short": "TUN",
+        "crest": "https://crests.football-data.org/tunisia.svg",
+        "score": 1
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537369",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_H",
+      "dateLocal": "2026-06-15",
+      "kickoff": "2026-06-15T18:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Spanien",
+        "short": "ESP",
+        "crest": "https://crests.football-data.org/760.svg",
+        "score": 0
+      },
+      "away": {
+        "name": "Kap Verde",
+        "short": "CPV",
+        "crest": "https://crests.football-data.org/cape_verde.svg",
+        "score": 0
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537363",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_G",
+      "dateLocal": "2026-06-15",
+      "kickoff": "2026-06-15T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Belgien",
+        "short": "BEL",
+        "crest": "https://crests.football-data.org/805.svg",
+        "score": 1
+      },
+      "away": {
+        "name": "Ägypten",
+        "short": "EGY",
+        "crest": "https://crests.football-data.org/825.svg",
+        "score": 1
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537370",
+      "competition": "WM",
+      "competitionStage": "Gruppenphase · Gruppe_H",
+      "dateLocal": "2026-06-16",
+      "kickoff": "2026-06-16T00:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "Saudi-Arabien",
+        "short": "KSA",
+        "crest": "https://crests.football-data.org/saudi_arabia.svg",
+        "score": 1
+      },
+      "away": {
+        "name": "Uruguay",
+        "short": "URY",
+        "crest": "https://crests.football-data.org/758.svg",
+        "score": 1
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "MagentaTV",
+          "ZDF"
+        ],
+        "free": true,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
     {
       "id": "fd-537364",
       "competition": "WM",
@@ -75,25 +519,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 5.35,
+        "draw": 1.19,
+        "away": 12.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Frankreich",
-        "scoreline": "2:0",
-        "confidence": 0.65,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Frankreich hat eine stärkere Mannschaft",
-          "Senegal hat zuletzt schwankende Leistungen gezeigt",
-          "Frankreich spielt zu Hause"
+          "Senegal mit starker Defensive",
+          "Frankreich fehlt oft die Effizienz",
+          "Beide Teams mit Druck, defensiv stabil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:07:59.520639+00:00"
+        "generatedAt": "2026-06-16T12:27:19.893803+00:00"
       }
     },
     {
@@ -126,25 +574,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 15.75,
+        "draw": 7.2,
+        "away": 1.22,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Norwegen",
+        "scoreline": "0:2",
+        "confidence": 0.7,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.1,
+          "draw": 0.2,
+          "away": 0.7
         },
         "reasons": [
-          "Beide Teams sind in der Gruppenphase bisher ungeschlagen.",
-          "Irak hat einen leichten Heimvorteil.",
-          "Norwegen verfügt über die individuell stärkeren Spieler."
+          "Norwegen deutlich höher eingestuft",
+          "Irak mit schwacher Form in den letzten Spielen",
+          "Norwegen hat die Qualität, das Spiel zu dominieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:10:52.582489+00:00"
+        "generatedAt": "2026-06-16T12:27:21.866600+00:00"
       }
     },
     {
@@ -178,25 +630,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 4.65,
+        "draw": 1.24,
+        "away": 11.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Argentina",
-        "scoreline": "3:1",
+        "outcome": "Sieg Algerien",
+        "scoreline": "0:1",
         "confidence": 0.7,
         "probs": {
-          "home": 0.7,
+          "home": 0.1,
           "draw": 0.2,
-          "away": 0.1
+          "away": 0.7
         },
         "reasons": [
-          "Argentinien starke Offensive",
-          "Algerien defensiv anfällig",
-          "Heimvorteil für Argentinien"
+          "Algerien in starker Form",
+          "Argentinien mit vielen Ausfällen",
+          "Algerien hat den Heimvorteil in der Höhe"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:02.270684+00:00"
+        "generatedAt": "2026-06-16T12:27:23.877693+00:00"
       }
     },
     {
@@ -230,25 +686,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.38,
+        "draw": 5.25,
+        "away": 9.5,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Austria",
-        "scoreline": "2:0",
-        "confidence": 0.65,
+        "outcome": "Sieg Österreich",
+        "scoreline": "3:0",
+        "confidence": 0.75,
         "probs": {
-          "home": 0.65,
-          "draw": 0.25,
+          "home": 0.75,
+          "draw": 0.15,
           "away": 0.1
         },
         "reasons": [
-          "Österreich hat die deutlich stärkere Mannschaft",
-          "Jordanien hat in der Vergangenheit wenig beeindruckt",
-          "Österreich hat Heimvorteil und ist favorisiert"
+          "Österreich klarer Favorit mit besserer Spielerqualität",
+          "Jordanien schwache Form in den letzten Spielen",
+          "Hoher Heimvorteil für Österreich"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:03.991515+00:00"
+        "generatedAt": "2026-06-16T12:27:25.903190+00:00"
       }
     },
     {
@@ -282,25 +742,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.3,
+        "draw": 5.8,
+        "away": 12.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
         "outcome": "Sieg Portugal",
-        "scoreline": "3:1",
-        "confidence": 0.7,
+        "scoreline": "3:0",
+        "confidence": 0.8,
         "probs": {
-          "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
+          "home": 0.8,
+          "draw": 0.15,
+          "away": 0.05
         },
         "reasons": [
-          "Portugal hat eine starke Offensive und gute Form.",
-          "Congo DR hat zuletzt schwache Ergebnisse gezeigt.",
-          "Portugal genießt Heimvorteil und hat mehr Erfahrung."
+          "Portugal ist klarer Favorit mit starker Offensive",
+          "DR Kongo hat zuletzt schwache Leistungen gezeigt",
+          "Fehlende Schlüsselspieler bei DR Kongo"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:05.920985+00:00"
+        "generatedAt": "2026-06-16T12:27:27.790868+00:00"
       }
     },
     {
@@ -334,25 +798,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.73,
+        "draw": 3.76,
+        "away": 5.05,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
         "outcome": "Sieg England",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "scoreline": "2:1",
+        "confidence": 0.58,
         "probs": {
-          "home": 0.6,
+          "home": 0.58,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.17
         },
         "reasons": [
-          "England hat eine starke aktuelle Form.",
-          "Croatia hat zuletzt einige Schwächen gezeigt.",
-          "England genießt den Heimvorteil in der Gruppenphase."
+          "England hat Heimvorteil und eine starke Offensive",
+          "Kroatien zeigt sich zuletzt defensiv anfällig",
+          "Englands Formkurve ist positiv, Kroatiens wechselhaft"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:07.806219+00:00"
+        "generatedAt": "2026-06-16T12:27:29.977901+00:00"
       }
     },
     {
@@ -385,7 +853,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.25,
+        "draw": 3.28,
+        "away": 3.42,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
@@ -398,12 +870,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Ghana mit Heimvorteil und stärkerer Gruppenphase",
-          "Panama defensiv anfällig und auswärts schwächer",
-          "Beide Teams mit ähnlicher Form, Ghana leicht im Vorteil"
+          "Ghana mit Heimvorteil und leichter Favoritenrolle",
+          "Panama in schwacher Form auswärts",
+          "Beide Teams defensivstark, erwartet torarmes Spiel"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:09.855578+00:00"
+        "generatedAt": "2026-06-16T12:27:31.927613+00:00"
       }
     },
     {
@@ -436,25 +908,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 9.8,
+        "draw": 4.75,
+        "away": 1.37,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Colombia",
-        "scoreline": "1:2",
-        "confidence": 0.4,
+        "outcome": "Sieg Kolumbien",
+        "scoreline": "0:2",
+        "confidence": 0.7,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.1,
+          "draw": 0.2,
+          "away": 0.7
         },
         "reasons": [
-          "Kolumbien hat die stärkere Offensive",
-          "Usbekistan ist in der Defensive anfällig",
-          "Kolumbien ist in besserer Form"
+          "Kolumbien deutlich stärker besetzt",
+          "Usbekistan mit schlechterer Form",
+          "Kolumbien hat mehr zu verlieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:11.803541+00:00"
+        "generatedAt": "2026-06-16T12:27:34.025488+00:00"
       }
     },
     {
@@ -488,25 +964,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.7,
+        "draw": 3.8,
+        "away": 5.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Czechia",
+        "outcome": "Sieg Tschechien",
         "scoreline": "1:0",
         "confidence": 0.6,
         "probs": {
           "home": 0.6,
-          "draw": 0.2,
-          "away": 0.2
+          "draw": 0.25,
+          "away": 0.15
         },
         "reasons": [
-          "Czechia hat Heimvorteil",
-          "South Africa in schwacher Form",
-          "Beide Teams brauchen Punkte, aber Czechia ist stärker einzuschätzen"
+          "Tschechien hat Heimvorteil",
+          "Südafrika in schwacher Form",
+          "Tschechien hat mehr zu verlieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:13.709886+00:00"
+        "generatedAt": "2026-06-16T12:27:35.877330+00:00"
       }
     },
     {
@@ -552,12 +1032,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Schweiz in besserer Verfassung",
-          "Bosnien-Herzegowina mit Auswärtsschwäche",
-          "Schweiz hat Heimvorteil"
+          "Schweiz hat Heimvorteil",
+          "Bosnien und Herzegowina in schwacher Verfassung",
+          "Schweiz ist tabellarisch in besserer Position"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:15.489601+00:00"
+        "generatedAt": "2026-06-16T12:27:37.894061+00:00"
       }
     },
     {
@@ -591,25 +1071,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.23,
+        "draw": 5.3,
+        "away": 8.5,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Kanada",
+        "scoreline": "3:0",
+        "confidence": 0.8,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.8,
+          "draw": 0.15,
+          "away": 0.05
         },
         "reasons": [
-          "Kanada mit Heimvorteil und stärkerer Ligastruktur",
-          "Katar als Gastgeber mit Motivation, aber schwächerer Form",
-          "Beide Teams mit ähnlichen Offensiv- und Defensivschwächen"
+          "Kanada mit Heimvorteil und deutlich stärkerer Form",
+          "Katar hat bisher enttäuscht und schwache Leistungen gezeigt",
+          "Kanada muss gewinnen, um eine Chance auf das Weiterkommen zu haben"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:17.537701+00:00"
+        "generatedAt": "2026-06-16T12:27:39.815332+00:00"
       }
     },
     {
@@ -642,25 +1126,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.02,
+        "draw": 3.2,
+        "away": 4.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Mexico",
+        "outcome": "Sieg Mexiko",
         "scoreline": "1:0",
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
+          "draw": 0.25,
+          "away": 0.2
         },
         "reasons": [
-          "Mexico mit Heimvorteil und besserer Form",
-          "South Korea mit schwacher Turnierleistung",
-          "Mexiko hat mehr zu verlieren"
+          "Mexiko mit Heimvorteil und stärkerer Kaderbreite",
+          "Südkorea zuletzt mit wechselhaften Leistungen",
+          "Mexiko hat mehr zu verlieren in der Gruppenphase"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:19.176002+00:00"
+        "generatedAt": "2026-06-16T12:27:41.973468+00:00"
       }
     },
     {
@@ -694,11 +1182,15 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.66,
+        "draw": 4.5,
+        "away": 5.5,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg United States",
+        "outcome": "Sieg USA",
         "scoreline": "2:0",
         "confidence": 0.6,
         "probs": {
@@ -707,12 +1199,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Stärkerer Kader und Heimvorteil",
-          "Bessere aktuelle Form",
-          "Australien mit Auswärtsschwäche"
+          "USA mit Heimvorteil und stärkerer Kaderbreite",
+          "Australien in schwacher Verfassung auswärts",
+          "USA braucht Sieg für das Weiterkommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:20.837206+00:00"
+        "generatedAt": "2026-06-16T12:27:43.924011+00:00"
       }
     },
     {
@@ -745,25 +1237,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 4.8,
+        "draw": 3.75,
+        "away": 1.74,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Marokko",
+        "scoreline": "1:2",
+        "confidence": 0.45,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.25,
+          "draw": 0.3,
+          "away": 0.45
         },
         "reasons": [
-          "Schottland mit starkem Heimvorteil und kämpferischer Einstellung",
-          "Marokko zuletzt in guter Form, aber auswärts anfällig",
-          "Beide Teams haben ähnliche defensive Stärken und Schwächen, was ein enges Spiel erwarten lässt"
+          "Marokko hat die stärkere Mannschaftsbesetzung",
+          "Schottland hat Probleme in der Defensive",
+          "Marokko ist auswärtsstark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:22.813687+00:00"
+        "generatedAt": "2026-06-16T12:27:45.911616+00:00"
       }
     },
     {
@@ -797,25 +1293,29 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.08,
+        "draw": 9.61,
+        "away": 22.97,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Brazil",
-        "scoreline": "3:0",
-        "confidence": 0.85,
+        "outcome": "Sieg Brasilien",
+        "scoreline": "4:0",
+        "confidence": 0.95,
         "probs": {
-          "home": 0.85,
-          "draw": 0.1,
-          "away": 0.05
+          "home": 0.95,
+          "draw": 0.03,
+          "away": 0.02
         },
         "reasons": [
-          "Brazil hat eine deutlich stärkere Mannschaft und bessere Form",
-          "Haiti hat in der Gruppenphase bisher enttäuscht",
-          "Heimvorteil und höhere Motivation für Brazil"
+          "Brasilien ist haushoch überlegen",
+          "Haiti hat eine extrem schwache Defensive",
+          "Brasilien hat Heimvorteil und starke Form"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:24.495145+00:00"
+        "generatedAt": "2026-06-16T12:27:47.711252+00:00"
       }
     },
     {
@@ -849,25 +1349,29 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.07,
+        "draw": 3.4,
+        "away": 4.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "outcome": "Sieg Türkei",
+        "scoreline": "1:0",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Türkei mit stärkerer aktueller Form",
-          "Paraguay mit schwacher Auswärtsbilanz",
-          "Türkei hat Heimvorteil und mehr Qualität im Kader"
+          "Türkei mit Heimvorteil und besserer Form",
+          "Paraguay hat zuletzt schwache Leistungen gezeigt",
+          "Türkei hat mehr Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:26.437492+00:00"
+        "generatedAt": "2026-06-16T12:27:49.579535+00:00"
       }
     },
     {
@@ -901,25 +1405,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.68,
+        "draw": 3.75,
+        "away": 4.8,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Netherlands",
-        "scoreline": "1:0",
-        "confidence": 0.55,
+        "outcome": "Sieg Niederlande",
+        "scoreline": "2:0",
+        "confidence": 0.65,
         "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
         },
         "reasons": [
-          "Netherlands hat eine leicht bessere Form",
-          "Sweden hat Probleme in der Offensive",
-          "Heimvorteil spricht für die Niederlande"
+          "Niederlande mit starker Form und Heimvorteil",
+          " Schweden hat zuletzt schwankende Leistungen gezeigt",
+          " Niederlage im direkten Vergleich in den letzten Jahren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:28.391916+00:00"
+        "generatedAt": "2026-06-16T12:27:51.430309+00:00"
       }
     },
     {
@@ -953,12 +1461,16 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.5,
+        "draw": 4.25,
+        "away": 6.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
         "outcome": "Sieg Deutschland",
-        "scoreline": "2:0",
+        "scoreline": "2:1",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
@@ -966,12 +1478,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Deutschland hat Heimvorteil und stärkere Einzelspieler",
-          "Elfenbeinküste zeigte zuletzt inkonsistente Leistungen",
-          "Deutschland ist in der Gruppenphase meist sehr dominant"
+          "Deutschland mit starker Form und Heimvorteil",
+          "Elfenbeinküste mit Auswärtsschwäche",
+          "Wichtigkeit des Spiels für Deutschland zur Gruppenphasen-Sicherung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:10:54.743370+00:00"
+        "generatedAt": "2026-06-16T12:27:53.447524+00:00"
       }
     },
     {
@@ -991,7 +1503,7 @@
       },
       "away": {
         "name": "Curaçao",
-        "short": "CUW",
+        "short": "CUR",
         "crest": "https://crests.football-data.org/curacao.svg",
         "score": null
       },
@@ -1005,25 +1517,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.09,
+        "draw": 12.0,
+        "away": 20.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
         "outcome": "Sieg Ecuador",
         "scoreline": "3:0",
-        "confidence": 0.75,
+        "confidence": 0.9,
         "probs": {
-          "home": 0.75,
-          "draw": 0.15,
-          "away": 0.1
+          "home": 0.9,
+          "draw": 0.07,
+          "away": 0.03
         },
         "reasons": [
-          "Ecuador ist klarer Favorit in der Gruppe",
-          "Curaçao hat eine schwache Bilanz in Qualifikationsspielen",
-          "Heimvorteil und höhere Spielklasse von Ecuador"
+          "Ecuador ist klarer Favorit aufgrund der deutlich höheren Spielstärke und individuellen Qualität.",
+          "Curaçao hat in der Vergangenheit wenig internationale Erfahrung und schwache Ergebnisse gezeigt.",
+          "Der Heimvorteil in Südamerika ist für Ecuador signifikant, auch wenn das Spiel in neutraler Umgebung stattfindet, ist die Anreise für Curaçao erschwerend."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:30.677939+00:00"
+        "generatedAt": "2026-06-16T12:27:55.556708+00:00"
       }
     },
     {
@@ -1056,25 +1572,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 6.75,
+        "draw": 4.0,
+        "away": 1.49,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Japan",
+        "scoreline": "1:2",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
         },
         "reasons": [
-          "Tunisia mit Heimvorteil und starker Defensive",
-          "Japan zeigt in der Gruppenphase unkonventionelle Stärke",
-          "Beide Teams sind taktisch diszipliniert und defensiv orientiert"
+          "Japan ist klarer Favorit laut Buchmacher",
+          "Tunesien hat zuletzt schwache Leistungen gezeigt",
+          "Japan hat die bessere aktuelle Form und Kaderqualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:32.516879+00:00"
+        "generatedAt": "2026-06-16T12:27:57.464078+00:00"
       }
     },
     {
@@ -1107,25 +1627,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.11,
+        "draw": 11.3,
+        "away": 34.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
         "outcome": "Sieg Spanien",
         "scoreline": "3:0",
-        "confidence": 0.8,
+        "confidence": 0.9,
         "probs": {
-          "home": 0.8,
-          "draw": 0.15,
+          "home": 0.9,
+          "draw": 0.05,
           "away": 0.05
         },
         "reasons": [
-          "Spanien klarer Favorit mit stärkerem Kader",
-          "Saudi-Arabien unterliegt in der Breite",
-          "Spanien mit Heimvorteil und starker Form"
+          "Spanien ist klarer Favorit mit starker Offensive.",
+          "Saudi-Arabien hat Schwierigkeiten gegen Top-Nationen.",
+          "Spanien hat Heimvorteil und eine bessere Form."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:34.516222+00:00"
+        "generatedAt": "2026-06-16T12:27:59.274267+00:00"
       }
     },
     {
@@ -1159,25 +1683,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.43,
+        "draw": 4.72,
+        "away": 7.85,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
         "outcome": "Sieg Belgien",
-        "scoreline": "2:0",
-        "confidence": 0.65,
+        "scoreline": "3:0",
+        "confidence": 0.75,
         "probs": {
-          "home": 0.65,
-          "draw": 0.25,
+          "home": 0.75,
+          "draw": 0.15,
           "away": 0.1
         },
         "reasons": [
-          "Belgien hat eine stärkere Mannschaftsqualität",
-          "Iran hat in der Vergangenheit gegen stärkere Teams Probleme gezeigt",
-          "Belgien genießt Heimvorteil in der Gruppenphase"
+          "Belgien hat eine stärkere Mannschaft",
+          "Iran hat im bisherigen Turnier nicht überzeugt",
+          "Belgien spielt zu Hause"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:36.305231+00:00"
+        "generatedAt": "2026-06-16T12:28:01.264764+00:00"
       }
     },
     {
@@ -1211,7 +1739,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.54,
+        "draw": 3.8,
+        "away": 6.75,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
@@ -1224,12 +1756,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Uruguay hat eine starke Defensive und Heimstärke",
-          "Cape Verde Islands hat Probleme im Angriff gegen etablierte Teams",
-          "Uruguay ist in der Regel das erfahrenere Team in solchen Situationen"
+          "Uruguay mit starker Defensive und Heimstärke",
+          "Kap Verde mit schwacher Auswärtsbilanz",
+          "Formkurve spricht klar für Uruguay"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:38.170668+00:00"
+        "generatedAt": "2026-06-16T12:28:03.383127+00:00"
       }
     },
     {
@@ -1262,25 +1794,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 5.3,
+        "draw": 3.7,
+        "away": 1.63,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Egypt",
-        "scoreline": "1:2",
-        "confidence": 0.4,
+        "outcome": "Sieg Ägypten",
+        "scoreline": "0:2",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.3,
+          "home": 0.15,
           "draw": 0.3,
-          "away": 0.4
+          "away": 0.55
         },
         "reasons": [
-          "Ägypten hat die qualitativ bessere Mannschaft",
-          "Neuseeland fehlt es an internationaler Erfahrung",
-          "Ägypten ist in der Regel heimstark, aber hier spielt die Auswärtsstärke eine Rolle"
+          "Ägypten klarer Favorit laut Buchmacher",
+          "Neuseeland schwächere Mannschaft",
+          "Ägypten hat mehr Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:40.172904+00:00"
+        "generatedAt": "2026-06-16T12:28:05.328702+00:00"
       }
     },
     {
@@ -1314,11 +1850,15 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.6,
+        "draw": 3.85,
+        "away": 5.4,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Argentina",
+        "outcome": "Sieg Argentinien",
         "scoreline": "2:0",
         "confidence": 0.65,
         "probs": {
@@ -1327,12 +1867,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Argentinien hat eine starke Form und ist Favorit.",
-          "Österreich hat Probleme in der Defensive.",
-          "Argentinien hat Heimvorteil und die bessere individuelle Qualität."
+          "Argentinien hat eine stärkere Mannschaftsbesetzung.",
+          "Österreichs Form war zuletzt inkonsistent.",
+          "Argentinien genießt den Heimvorteil."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:42.003781+00:00"
+        "generatedAt": "2026-06-16T12:28:07.318794+00:00"
       }
     },
     {
@@ -1366,25 +1906,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.1,
+        "draw": 9.0,
+        "away": 21.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg France",
+        "outcome": "Sieg Frankreich",
         "scoreline": "3:0",
-        "confidence": 0.75,
+        "confidence": 0.9,
         "probs": {
-          "home": 0.75,
-          "draw": 0.15,
-          "away": 0.1
+          "home": 0.9,
+          "draw": 0.05,
+          "away": 0.05
         },
         "reasons": [
-          "France hat eine stärkere Mannschaft",
-          "Iraq hat eine schlechtere Form",
-          "Frankreich hat Heimvorteil"
+          "Frankreich ist klarer Favorit mit starker Offensive",
+          "Irak hat in der Vergangenheit gegen Top-Nationen wenig entgegensetzen können",
+          "Form und Kaderstärke sprechen deutlich für Frankreich"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:44.004105+00:00"
+        "generatedAt": "2026-06-16T12:28:09.312165+00:00"
       }
     },
     {
@@ -1417,25 +1961,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.22,
+        "draw": 3.57,
+        "away": 3.51,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
         "outcome": "Sieg Norwegen",
         "scoreline": "1:0",
-        "confidence": 0.55,
+        "confidence": 0.45,
         "probs": {
-          "home": 0.55,
+          "home": 0.45,
           "draw": 0.3,
-          "away": 0.15
+          "away": 0.25
         },
         "reasons": [
-          "Norwegen hat Heimvorteil",
-          "Senegal mit schwacher Form in den letzten Spielen",
-          "Norwegen hat die bessere Tabellensituation"
+          "Norwegen mit Heimvorteil und leichter Favoritenrolle laut Quoten",
+          "Senegal zuletzt formschwach in Freundschaftsspielen",
+          "Beide Teams kämpfen um den Aufstieg, was zu einem engen Spiel führt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:45.696291+00:00"
+        "generatedAt": "2026-06-16T12:28:11.494686+00:00"
       }
     },
     {
@@ -1469,25 +2017,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 7.08,
+        "draw": 4.36,
+        "away": 1.55,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Jordan",
-        "scoreline": "1:0",
-        "confidence": 0.45,
+        "outcome": "Sieg Algerien",
+        "scoreline": "1:2",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.45,
+          "home": 0.2,
           "draw": 0.3,
-          "away": 0.25
+          "away": 0.5
         },
         "reasons": [
-          "Jordan hat Heimvorteil",
-          "Algeria in schlechter Form",
-          "Jordan braucht Punkte für das Weiterkommen"
+          "Algerien ist klarer Favorit aufgrund der individuellen Klasse und der jüngsten Ergebnisse.",
+          "Jordanien hat Heimvorteil, aber die internationale Erfahrung spricht für Algerien.",
+          "Beide Teams haben ähnliche Tabellenpositionen, aber Algerien zeigte sich in den letzten Spielen stabiler."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:47.642217+00:00"
+        "generatedAt": "2026-06-16T12:28:13.728552+00:00"
       }
     },
     {
@@ -1521,25 +2073,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.2,
+        "draw": 5.7,
+        "away": 9.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
         "outcome": "Sieg Portugal",
         "scoreline": "3:0",
-        "confidence": 0.75,
+        "confidence": 0.85,
         "probs": {
-          "home": 0.75,
-          "draw": 0.15,
-          "away": 0.1
+          "home": 0.85,
+          "draw": 0.1,
+          "away": 0.05
         },
         "reasons": [
-          "Portugal ist klarer Favorit mit besserer individueller Qualität",
-          "Uzbekistan hat in der Gruppenphase bisher wenig überzeugt",
-          "Portugal hat Heimvorteil und muss die Punkte für das Weiterkommen holen"
+          "Portugal ist klarer Favorit mit deutlich höherer Qualität im Kader.",
+          "Usbekistan hat in der bisherigen Gruppenphase wenig überzeugende Leistungen gezeigt.",
+          "Der Heimvorteil und die Motivation, die Gruppenphase erfolgreich zu gestalten, sprechen für Portugal."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:08:49.416755+00:00"
+        "generatedAt": "2026-06-16T12:28:15.769367+00:00"
       }
     },
     {
@@ -1573,25 +2129,29 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.28,
+        "draw": 5.0,
+        "away": 7.5,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
         "outcome": "Sieg England",
-        "scoreline": "2:0",
-        "confidence": 0.65,
+        "scoreline": "3:0",
+        "confidence": 0.8,
         "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
+          "home": 0.8,
+          "draw": 0.15,
+          "away": 0.05
         },
         "reasons": [
-          "England hat eine stärkere Mannschaft und bessere individuelle Qualität.",
-          "Ghana kämpft mit Formschwankungen und Verletzungssorgen.",
-          "England spielt zu Hause und hat den Heimvorteil auf seiner Seite."
+          "England überlegen in allen Mannschaftsteilen",
+          "Ghana mit schwacher Form in der Qualifikation",
+          "England hat Heimvorteil und starke Offensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-15T13:10:56.741655+00:00"
+        "generatedAt": "2026-06-16T12:28:17.708104+00:00"
       }
     },
     {
@@ -1624,7 +2184,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 5.5,
+        "draw": 3.85,
+        "away": 1.49,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
@@ -1676,7 +2240,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.49,
+        "draw": 4.3,
+        "away": 8.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
@@ -1728,7 +2296,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.13,
+        "draw": 3.5,
+        "away": 3.6,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": true,
@@ -1831,7 +2403,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.27,
+        "draw": 6.0,
+        "away": 10.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -1867,7 +2443,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 6.75,
+        "draw": 4.7,
+        "away": 1.41,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -1903,7 +2483,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 4.75,
+        "draw": 3.6,
+        "away": 1.85,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -1939,7 +2523,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 6.0,
+        "draw": 4.0,
+        "away": 1.63,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -1976,7 +2564,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 4.0,
+        "draw": 3.3,
+        "away": 1.56,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -1993,7 +2585,7 @@
       "minute": null,
       "home": {
         "name": "Curaçao",
-        "short": "CUW",
+        "short": "CUR",
         "crest": "https://crests.football-data.org/curacao.svg",
         "score": null
       },
@@ -2012,7 +2604,11 @@
         "note": null
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 22.5,
+        "draw": 8.25,
+        "away": 1.16,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2049,7 +2645,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 10.0,
+        "draw": 5.25,
+        "away": 1.35,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2086,7 +2686,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.17,
+        "draw": 3.5,
+        "away": 3.5,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2123,7 +2727,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.45,
+        "draw": 3.2,
+        "away": 2.15,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2160,7 +2768,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.0,
+        "draw": 3.05,
+        "away": 3.1,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2197,7 +2809,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 4.39,
+        "draw": 3.66,
+        "away": 1.78,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2234,7 +2850,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.42,
+        "draw": 4.75,
+        "away": 9.0,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2271,7 +2891,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 6.5,
+        "draw": 4.3,
+        "away": 1.5,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2308,7 +2932,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.75,
+        "draw": 3.6,
+        "away": 2.4,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2345,7 +2973,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 14.0,
+        "draw": 6.25,
+        "away": 1.25,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2382,7 +3014,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.14,
+        "draw": 3.08,
+        "away": 3.82,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2419,7 +3055,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 9.5,
+        "draw": 6.7,
+        "away": 1.25,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2456,7 +3096,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 1.6,
+        "draw": 3.9,
+        "away": 5.8,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2493,7 +3137,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 3.6,
+        "draw": 3.35,
+        "away": 2.16,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2530,7 +3178,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 2.4,
+        "draw": 3.3,
+        "away": 3.2,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2567,7 +3219,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 15.0,
+        "draw": 7.5,
+        "away": 1.17,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -2604,7 +3260,11 @@
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
-        "known": false
+        "known": true,
+        "home": 3.05,
+        "draw": 2.9,
+        "away": 1.94,
+        "source": "the-odds-api"
       },
       "prediction": {
         "available": false
@@ -3490,6 +4150,1454 @@
         ],
         "free": true,
         "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537383",
+      "competition": "WM",
+      "competitionStage": "Viertelfinale",
+      "dateLocal": "2026-07-09",
+      "kickoff": "2026-07-09T22:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537384",
+      "competition": "WM",
+      "competitionStage": "Viertelfinale",
+      "dateLocal": "2026-07-10",
+      "kickoff": "2026-07-10T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537385",
+      "competition": "WM",
+      "competitionStage": "Viertelfinale",
+      "dateLocal": "2026-07-11",
+      "kickoff": "2026-07-11T23:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537386",
+      "competition": "WM",
+      "competitionStage": "Viertelfinale",
+      "dateLocal": "2026-07-12",
+      "kickoff": "2026-07-12T03:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537387",
+      "competition": "WM",
+      "competitionStage": "Halbfinale",
+      "dateLocal": "2026-07-14",
+      "kickoff": "2026-07-14T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537388",
+      "competition": "WM",
+      "competitionStage": "Halbfinale",
+      "dateLocal": "2026-07-15",
+      "kickoff": "2026-07-15T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537389",
+      "competition": "WM",
+      "competitionStage": "Third Place",
+      "dateLocal": "2026-07-18",
+      "kickoff": "2026-07-18T23:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-537390",
+      "competition": "WM",
+      "competitionStage": "Finale",
+      "dateLocal": "2026-07-19",
+      "kickoff": "2026-07-19T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "away": {
+        "name": "?",
+        "short": "?",
+        "crest": null,
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "ARD/ZDF",
+          "MagentaTV"
+        ],
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81832",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SC St. Tönis",
+        "short": "scst",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/8/8c/SC_Tönisvorst_logo.svg",
+        "score": null
+      },
+      "away": {
+        "name": "Eintracht Frankfurt",
+        "short": "Frankfurt",
+        "crest": "https://i.imgur.com/X8NFkOb.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81833",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Erzgebirge Aue",
+        "short": "Aue",
+        "crest": "https://upload.wikimedia.org/wikipedia/de/thumb/1/13/Fc_erzgebirge_aue.svg/960px-Fc_erzgebirge_aue.svg.png",
+        "score": null
+      },
+      "away": {
+        "name": "TSG Hoffenheim",
+        "short": "Hoffenheim",
+        "crest": "https://i.imgur.com/gF0PfEl.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81834",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Eintracht Braunschweig",
+        "short": "Braunschweig",
+        "crest": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg",
+        "score": null
+      },
+      "away": {
+        "name": "1. FC Union Berlin",
+        "short": "Union Berlin",
+        "crest": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81835",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Eintracht Trier",
+        "short": "EIN",
+        "crest": "http://upload.wikimedia.org/wikipedia/de/thumb/7/7a/Eintracht_Trier.svg/20px-Eintracht_Trier.svg.png",
+        "score": null
+      },
+      "away": {
+        "name": "RB Leipzig",
+        "short": "Leipzig",
+        "crest": "https://i.imgur.com/Rpwsjz1.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81837",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "TSV Schott Mainz",
+        "short": "SCHOTT",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_Schott_Mainz.png/120px-TSV_Schott_Mainz.png",
+        "score": null
+      },
+      "away": {
+        "name": "Borussia Mönchengladbach",
+        "short": "Gladbach",
+        "crest": "https://i.imgur.com/KSIk0Eu.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81838",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Fortuna Düsseldorf",
+        "short": "Düsseldorf",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/960px-Fortuna_D%C3%BCsseldorf.svg.png",
+        "score": null
+      },
+      "away": {
+        "name": "SC Freiburg",
+        "short": "Freiburg",
+        "crest": "https://i.imgur.com/r3mvi0h.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81839",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Rot-Weiss Essen",
+        "short": "Rot-Weiss Essen",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rot-Weiss_Essen.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC St. Pauli",
+        "short": "St. Pauli",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fc_st_pauli_logo.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81840",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SG Sonnenhof Großaspach",
+        "short": "Sonnenhof Großaspach",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/8/86/SG_Sonnenhof_Gro%C3%9Faspach_logo.png",
+        "score": null
+      },
+      "away": {
+        "name": "DSC Arminia Bielefeld",
+        "short": "Bielefeld",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Arminia_Bielefeld_Logo_2021%E2%80%93.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81841",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SSV Jeddeloh 2",
+        "short": "SSV Jeddeloh",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_SSV_Jeddeloh.svg",
+        "score": null
+      },
+      "away": {
+        "name": "1. FC Heidenheim 1846",
+        "short": "Heidenheim",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9d/1._FC_Heidenheim_1846.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81842",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SV Wehen Wiesbaden",
+        "short": "Wiesbaden",
+        "crest": "https://upload.wikimedia.org/wikipedia/de/e/e0/SV_Wehen_Logo.png",
+        "score": null
+      },
+      "away": {
+        "name": "Bayer 04 Leverkusen",
+        "short": "Leverkusen",
+        "crest": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81843",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Hallescher FC",
+        "short": "Halle",
+        "crest": "https://derivates.kicker.de/image/fetch/f_webp/w_120%2Ch_120%2Cc_fit%2Cq_auto:best/https://mediadb.kicker.de/2018/fussball/vereine/xxl/4440_20170721710.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Schalke 04",
+        "short": "Schalke",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81844",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Energie Cottbus",
+        "short": "Cottbus",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_Energie_Cottbus.svg",
+        "score": null
+      },
+      "away": {
+        "name": "FC Augsburg",
+        "short": "Augsburg",
+        "crest": "https://i.imgur.com/sdE62e2.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81845",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "VfB 1921 Krieschow ",
+        "short": "VfB Krieschow ",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9a/VfB_Krieschow_Logo_2020.png",
+        "score": null
+      },
+      "away": {
+        "name": "1. FSV Mainz 05",
+        "short": "Mainz",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81846",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SpVgg Greuther Fürth",
+        "short": "Fürth",
+        "crest": "https://i.imgur.com/pwuVbKr.png",
+        "score": null
+      },
+      "away": {
+        "name": "VfL Bochum",
+        "short": "Bochum",
+        "crest": "https://i.imgur.com/5jy3Gfr.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81847",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SV Hemelingen",
+        "short": "Hemelingen",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SV_Hemelingen.gif",
+        "score": null
+      },
+      "away": {
+        "name": "Hannover 96",
+        "short": "Hannover",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81848",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Preußen Münster",
+        "short": "Münster",
+        "crest": "https://upload.wikimedia.org/wikipedia/de/7/7e/SC_Preussen_Muenster_Logo_2018.svg",
+        "score": null
+      },
+      "away": {
+        "name": "Karlsruher SC",
+        "short": "Karlsruhe",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81849",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "1.FC Saarbrücken",
+        "short": "1.FC Saarbrücken",
+        "crest": "https://upload.wikimedia.org/wikipedia/de/f/ff/1._FC_Saarbr%C3%BCcken.svg",
+        "score": null
+      },
+      "away": {
+        "name": "Hertha BSC",
+        "short": "Hertha",
+        "crest": "https://i.imgur.com/apFwbYZ.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81850",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Viktoria Köln",
+        "short": "Viktoria Köln",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FC_Viktoria_K%C3%B6ln_1904_Logo.svg/960px-FC_Viktoria_K%C3%B6ln_1904_Logo.svg.png",
+        "score": null
+      },
+      "away": {
+        "name": "1. FC Nürnberg",
+        "short": "Nürnberg",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81851",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "MSV Duisburg",
+        "short": "Duisburg",
+        "crest": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg",
+        "score": null
+      },
+      "away": {
+        "name": "SV 07 Elversberg",
+        "short": "Elversberg",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81853",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Lüneburger SK Hansa",
+        "short": "LSK",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/0/0b/L%C3%BCneburger_SK_Hansa_Logo.svg",
+        "score": null
+      },
+      "away": {
+        "name": "SV Werder Bremen",
+        "short": "Bremen",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81854",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SC Verl",
+        "short": "Verl",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SC_Verl_Logo.svg/960px-SC_Verl_Logo.svg.png",
+        "score": null
+      },
+      "away": {
+        "name": "Hamburger SV",
+        "short": "HSV",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81855",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Hansa Rostock",
+        "short": "Rostock",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/960px-F.C._Hansa_Rostock_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "score": null
+      },
+      "away": {
+        "name": "VfB Stuttgart",
+        "short": "Stuttgart",
+        "crest": "https://i.imgur.com/v0tkpNx.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81856",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Carl Zeiss Jena",
+        "short": "Jena",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_FC_Carl_Zeiss_Jena.svg",
+        "score": null
+      },
+      "away": {
+        "name": "SV Darmstadt 98",
+        "short": "Darmstadt",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81857",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Bahlinger SC",
+        "short": "Bahlinger SC",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/b/bf/BSC_Logo_rot_wei%E2%94%9C%C6%92.jpg",
+        "score": null
+      },
+      "away": {
+        "name": "1. FC Magdeburg",
+        "short": "Magdeburg",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/8/84/1._FC_Magdeburg.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81858",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "TSV 1860 München",
+        "short": "1860 München",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/960px-TSV_1860_M%C3%BCnchen.svg.png",
+        "score": null
+      },
+      "away": {
+        "name": "Holstein Kiel",
+        "short": "Kiel",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/330px-Holstein_Kiel_Logo.svg.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81859",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SV Waldhof Mannheim",
+        "short": "Mannheim",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Svwaldhof.svg/960px-Svwaldhof.svg.png",
+        "score": null
+      },
+      "away": {
+        "name": "1. FC Kaiserslautern",
+        "short": "Kaiserslautern",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81860",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SV Westfalia Rhynern",
+        "short": "Rhynern",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/0/07/SV_Westfalia_Rhynern_Logo.svg",
+        "score": null
+      },
+      "away": {
+        "name": "Dynamo Dresden",
+        "short": "Dresden",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_SG_Dynamo_Dresden_neu.svg/960px-Logo_SG_Dynamo_Dresden_neu.svg.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81861",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "1. FC Phönix Lübeck",
+        "short": "Phönix Lübeck",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1._FC_Phoenix_Luebeck_Logo.svg",
+        "score": null
+      },
+      "away": {
+        "name": "SC Paderborn 07",
+        "short": "Paderborn",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81862",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "VSG Altglienicke Berlin",
+        "short": "Altglienicke",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e8/VSG_Altglienicke.svg",
+        "score": null
+      },
+      "away": {
+        "name": "VfL Wolfsburg",
+        "short": "Wolfsburg",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/120px-VfL_Wolfsburg_Logo.svg.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81863",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Würzburger Kickers",
+        "short": "Würzburg",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/0/0c/W%C3%BCrzburger_Kickers_Logo.svg",
+        "score": null
+      },
+      "away": {
+        "name": "1. FC Köln",
+        "short": "Köln",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81836",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-09-01",
+      "kickoff": "2026-09-01T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Hamburg Eimsbütteler BC",
+        "short": "Hamburg Eimsbütteler BC",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/98/HEBC_Logo.png",
+        "score": null
+      },
+      "away": {
+        "name": "Borussia Dortmund",
+        "short": "Dortmund",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81852",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-09-01",
+      "kickoff": "2026-09-01T20:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "VfL Osnabrück",
+        "short": "Osnabrück",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VfL_Osnabrueck_Logo_2021%E2%80%93.svg/960px-VfL_Osnabrueck_Logo_2021%E2%80%93.svg.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Bayern München",
+        "short": "Bayern",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
