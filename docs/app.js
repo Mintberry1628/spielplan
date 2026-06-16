@@ -220,151 +220,86 @@ function groupBy(arr, key) {
 function renderMatch(m) {
   const card = document.createElement("article");
   card.className = "match" + (m._fav ? " is-favorite" : "") + (m.status === "live" ? " is-live" : "");
+  const p = (m.prediction && m.prediction.available) ? m.prediction : null;
 
-  card.appendChild(buildTop(m));
-  card.appendChild(buildTeams(m));
-  card.appendChild(buildTv(m));
-  card.appendChild(buildOdds(m));
-  if (m.prediction && m.prediction.available) card.appendChild(buildPrediction(m));
-  card.appendChild(buildActions(m));
+  card.innerHTML =
+    headHtml(m) + teamsHtml(m) + tvHtml(m) + footHtml(m, p) +
+    (p ? predBodyHtml(m, p) : "");
+
+  // Tippen auf die Fuß-Zeile klappt die KI-Prognose auf/zu
+  const foot = card.querySelector(".m-foot.tappable");
+  if (foot) foot.addEventListener("click", () => card.classList.toggle("open"));
+  card.querySelector(".m-act-remind").addEventListener("click", (e) => { e.stopPropagation(); setReminder(m); });
+  card.querySelector(".m-act-share").addEventListener("click", (e) => { e.stopPropagation(); shareText(matchToText(m), "Spiel teilen"); });
   return card;
 }
 
-function buildTop(m) {
-  const top = document.createElement("div");
-  top.className = "match-top";
-  const left = document.createElement("div");
-  left.innerHTML = `<span class="match-comp">${COMP_ICON[m.competition] || "⚽"} ${m.competition}</span>` +
-    (m.competitionStage ? ` <span class="match-stage">· ${m.competitionStage}</span>` : "");
-
-  const right = document.createElement("div");
-  if (m.status === "live") {
-    right.innerHTML = `<span class="live-pill"><span class="live-dot"></span>LIVE${m.minute ? " " + m.minute + "'" : ""}</span>`;
-  } else if (m.status === "finished") {
-    right.innerHTML = `<span class="match-time">Beendet</span>`;
-  } else if (m.kickoff && m.kickoffKnown) {
-    right.innerHTML = `<span class="match-time">${formatTime(m.kickoff)}</span>`;
-  } else {
-    right.innerHTML = `<span class="kickoff-open">Uhrzeit noch offen</span>`;
-  }
-  top.appendChild(left); top.appendChild(right);
-  return top;
+function tn(t) { return (t && t.name) || "?"; }
+function crestImg(t) {
+  return (t && t.crest)
+    ? `<img class="m-crest" src="${t.crest}" alt="" loading="lazy" onerror="this.style.display='none'">`
+    : "";
 }
 
-function buildTeams(m) {
-  const wrap = document.createElement("div");
-  wrap.className = "match-teams";
-  wrap.appendChild(buildTeam(m.home));
+function headHtml(m) {
+  let status;
+  if (m.status === "live") status = `<span class="live-pill"><span class="live-dot"></span>LIVE${m.minute ? " " + m.minute + "'" : ""}</span>`;
+  else if (m.status === "finished") status = `<span class="m-time">Beendet</span>`;
+  else if (m.kickoff && m.kickoffKnown) status = `<span class="m-time">${formatTime(m.kickoff)}</span>`;
+  else status = `<span class="m-open">Zeit offen</span>`;
+  const stage = m.competitionStage ? `<span class="m-stage"> · ${m.competitionStage}</span>` : "";
+  return `<div class="m-head">
+    <span class="m-comp">${COMP_ICON[m.competition] || "⚽"} ${m.competition}${stage}</span>
+    <span class="m-head-right">${status}
+      <button class="m-ic m-act-remind" type="button" aria-label="Erinnerung in den Kalender">⏰</button>
+      <button class="m-ic m-act-share" type="button" aria-label="Dieses Spiel teilen">↗</button>
+    </span>
+  </div>`;
+}
 
-  const center = document.createElement("div");
-  center.className = "match-center";
+function teamsHtml(m) {
   const showScore = (m.status === "live" || m.status === "finished") &&
     m.home && m.away && m.home.score != null && m.away.score != null;
-  if (showScore) {
-    center.innerHTML = `<span class="score">${m.home.score} : ${m.away.score}</span>`;
-  } else {
-    center.innerHTML = `<span class="vs">gegen</span>`;
-  }
-  wrap.appendChild(center);
-  wrap.appendChild(buildTeam(m.away));
-  return wrap;
+  const center = showScore ? `<span class="m-score">${m.home.score}:${m.away.score}</span>` : `<span class="m-dash">–</span>`;
+  return `<div class="m-teams">
+    <span class="m-team m-home">${crestImg(m.home)}<span class="m-tn">${tn(m.home)}</span></span>
+    ${center}
+    <span class="m-team m-away"><span class="m-tn">${tn(m.away)}</span>${crestImg(m.away)}</span>
+  </div>`;
 }
 
-function buildTeam(team) {
-  const t = team || { name: "?" };
-  const el = document.createElement("div");
-  el.className = "team";
-  const crest = t.crest
-    ? `<img class="team-crest" src="${t.crest}" alt="" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'team-crest placeholder',textContent:'⚽'}))" />`
-    : `<div class="team-crest placeholder">⚽</div>`;
-  el.innerHTML = `${crest}<span class="team-name">${t.name || "?"}</span>`;
-  return el;
-}
-
-function buildTv(m) {
+function tvHtml(m) {
   const tv = m.tv || {};
-  const block = document.createElement("div");
-  block.className = "tv-block";
   if (tv.known && tv.channels && tv.channels.length) {
     const chips = tv.channels.map((c) => `<span class="tv-chip ${tv.free ? "free" : ""}">${c}</span>`).join("");
-    block.innerHTML = `<span class="tv-label">📺</span><div class="tv-channels">${chips}</div>` +
-      (tv.free ? `<span class="tv-freetag">Frei empfangbar</span>` : "");
-  } else {
-    block.innerHTML = `<span class="tv-label">📺</span><span class="tv-open">Sender noch nicht bekannt${tv.note ? " – " + tv.note : ""}</span>`;
+    return `<div class="m-tv"><span class="m-tv-ic">📺</span><span class="tv-chips">${chips}</span>${tv.free ? `<span class="tv-free">frei</span>` : ""}</div>`;
   }
-  return block;
+  return `<div class="m-tv unknown"><span class="m-tv-ic">📺</span><span class="m-open">Sender noch offen</span></div>`;
 }
 
-function buildOdds(m) {
+function footHtml(m, p) {
   const o = m.odds || {};
-  if (!o.known) {
-    const el = document.createElement("div");
-    el.className = "odds-open";
-    el.textContent = "Quoten noch nicht verfügbar";
-    return el;
-  }
-  const block = document.createElement("div");
-  block.className = "odds-block";
-  const vals = [["1", o.home], ["X", o.draw], ["2", o.away]];
-  const min = Math.min(...vals.map((v) => v[1] ?? Infinity));
-  block.innerHTML = vals.map(([lab, v]) =>
-    `<div class="odd ${v === min ? "best" : ""}"><span class="odd-label">${lab}</span><span class="odd-value">${v != null ? v.toFixed(2) : "–"}</span></div>`
-  ).join("");
-  return block;
+  const odds = o.known
+    ? `<span class="m-odds">📊 ${fmt(o.home)} · ${fmt(o.draw)} · ${fmt(o.away)}</span>`
+    : `<span class="m-odds muted">Quoten offen</span>`;
+  const pred = p
+    ? `<span class="m-pred"><span class="m-pred-tip">🤖 ${p.outcome}${p.scoreline ? " " + p.scoreline : ""}</span><span class="m-pred-conf">${Math.round((p.confidence || 0) * 100)}%</span><span class="m-chev">▾</span></span>`
+    : "";
+  return `<div class="m-foot${p ? " tappable" : ""}">${odds}${pred}</div>`;
 }
 
-function buildPrediction(m) {
-  const p = m.prediction;
-  const wrap = document.createElement("div");
-  wrap.className = "prediction";
-  const conf = Math.round((p.confidence || 0) * 100);
+function predBodyHtml(m, p) {
   const probs = p.probs || {};
   const bar = (label, val) => {
     const pct = Math.round((val || 0) * 100);
-    return `<div class="pred-bar-row"><span class="pred-bar-label">${label}</span>
-      <span class="pred-bar-track"><span class="pred-bar-fill" style="width:${pct}%"></span></span>
-      <span class="pred-bar-val">${pct}%</span></div>`;
+    return `<div class="pb-row"><span class="pb-lab">${label}</span><span class="pb-track"><span class="pb-fill" style="width:${pct}%"></span></span><span class="pb-val">${pct}%</span></div>`;
   };
-  wrap.innerHTML = `
-    <button class="pred-toggle" type="button">
-      <span class="pred-head"><span class="pred-emoji">🤖</span>
-        <span><span class="pred-tip">${p.outcome}${p.scoreline ? " " + p.scoreline : ""}</span></span>
-      </span>
-      <span style="display:flex;align-items:center;gap:8px">
-        <span class="pred-conf">${conf}% sicher</span>
-        <span class="pred-chevron">▾</span>
-      </span>
-    </button>
-    <div class="pred-body">
-      <div class="pred-bars">
-        ${bar(m.home ? m.home.name : "Heim", probs.home)}
-        ${bar("Unentschieden", probs.draw)}
-        ${bar(m.away ? m.away.name : "Gast", probs.away)}
-      </div>
-      <strong>Warum die KI das denkt:</strong>
-      <ul class="pred-reasons">${(p.reasons || []).map((r) => `<li>${r}</li>`).join("")}</ul>
-      <p class="pred-disclaimer">⚠️ KI-Einschätzung auf Basis von Internet-Recherche – keine Garantie. Fußball bleibt unberechenbar.</p>
-    </div>`;
-  wrap.querySelector(".pred-toggle").addEventListener("click", () => wrap.classList.toggle("open"));
-  return wrap;
-}
-
-function buildActions(m) {
-  const bar = document.createElement("div");
-  bar.className = "match-actions";
-
-  const remind = document.createElement("button");
-  remind.className = "match-action";
-  remind.innerHTML = `⏰ Erinnern`;
-  remind.addEventListener("click", () => setReminder(m));
-
-  const share = document.createElement("button");
-  share.className = "match-action";
-  share.innerHTML = `↗ Teilen`;
-  share.addEventListener("click", () => shareText(matchToText(m), "Spiel teilen"));
-
-  bar.appendChild(remind); bar.appendChild(share);
-  return bar;
+  return `<div class="m-pred-body">
+    <div class="pb-bars">${bar(tn(m.home), probs.home)}${bar("Remis", probs.draw)}${bar(tn(m.away), probs.away)}</div>
+    <strong>Warum die KI das denkt:</strong>
+    <ul class="pb-reasons">${(p.reasons || []).map((r) => `<li>${r}</li>`).join("")}</ul>
+    <p class="pb-disc">⚠️ KI-Schätzung auf Basis von Internet-Recherche – keine Garantie.</p>
+  </div>`;
 }
 
 /* ----------------- Texte für WhatsApp / Teilen ----------------- */
@@ -544,32 +479,44 @@ function toast(msg) {
 
 /* ----------------- Teilen-Auswahl-Dialog ----------------- */
 
-function openShareSheet(kind) {
+function openShareSheet() {
   const sheet = document.getElementById("shareSheet");
-  const title = document.getElementById("shareTitle");
   const opts = document.getElementById("shareOptions");
   opts.innerHTML = "";
+  const today = todayStr();
+  const all = (state.data && state.data.matches) || [];
 
-  if (kind === "day") {
-    title.textContent = "Diesen Tag teilen";
-    addShareOption(opts, "📅", `Alle Spiele am ${formatWeekday(state.selectedDate)}`, "", () => shareText(dayToText(), "Spiele des Tages"));
-  } else if (kind === "team") {
-    title.textContent = "Mannschaft teilen";
-    for (const f of FAVORITES) {
-      addShareOption(opts, f.emoji, `Alle kommenden Spiele`, f.label, () => shareText(teamToText(f), f.label));
+  // 1) Der aktuell angezeigte Tag (falls Spiele vorhanden)
+  if ((state.byDate.get(state.selectedDate) || []).length) {
+    const lbl = state.selectedDate === today ? "Alle Spiele heute" : `Alle Spiele am ${formatFull(state.selectedDate)}`;
+    addShareOption(opts, "📅", lbl, formatWeekday(state.selectedDate), () => shareText(dayToText(), "Spiele"));
+  }
+  // 2) Lieblings-Mannschaften mit kommenden Spielen
+  for (const f of FAVORITES) {
+    if (all.some((m) => matchFavoriteIs(m, f) && m.dateLocal >= today)) {
+      addShareOption(opts, f.emoji, "Alle kommenden Spiele", f.label, () => shareText(teamToText(f), f.label));
     }
-  } else if (kind === "comp") {
-    title.textContent = "Wettbewerb teilen";
-    for (const c of COMP_ORDER) {
-      addShareOption(opts, COMP_ICON[c], `Alle kommenden Spiele`, c, () => shareText(compToText(c), c));
+  }
+  // 3) Wettbewerbe mit kommenden Spielen
+  for (const c of COMP_ORDER) {
+    if (all.some((m) => m.competition === c && m.dateLocal >= today)) {
+      addShareOption(opts, COMP_ICON[c], "Alle kommenden Spiele", c, () => shareText(compToText(c), c));
     }
+  }
+  if (!opts.children.length) {
+    const info = document.createElement("p");
+    info.className = "sheet-sub";
+    info.textContent = "Aktuell sind keine kommenden Spiele zum Teilen vorhanden.";
+    opts.appendChild(info);
   }
   showSheet(sheet);
 }
+
+// Ein Tipp -> Dialog schließen und sofort die Teilen-Leiste des Handys öffnen
 function addShareOption(container, icon, label, sub, onClick) {
   const b = document.createElement("button");
   b.className = "share-option";
-  b.innerHTML = `<span class="so-icon">${icon}</span><span>${sub ? `<strong>${sub}</strong>` : ""}<span class="so-sub">${label}</span></span>`;
+  b.innerHTML = `<span class="so-icon">${icon}</span><span class="so-txt">${sub ? `<strong>${sub}</strong>` : ""}<span class="so-sub">${label}</span></span><span class="so-arrow">↗</span>`;
   b.addEventListener("click", () => { hideSheet(document.getElementById("shareSheet")); onClick(); });
   container.appendChild(b);
 }
@@ -662,9 +609,7 @@ function init() {
   document.getElementById("todayBtn").addEventListener("click", goToday);
   document.getElementById("settingsBtn").addEventListener("click", () => showSheet(document.getElementById("settingsSheet")));
   document.getElementById("refreshBtn").addEventListener("click", () => { toast("Aktualisiere…"); loadData(); });
-  document.getElementById("shareDayBtn").addEventListener("click", () => openShareSheet("day"));
-  document.getElementById("shareTeamBtn").addEventListener("click", () => openShareSheet("team"));
-  document.getElementById("shareCompBtn").addEventListener("click", () => openShareSheet("comp"));
+  document.getElementById("exportBtn").addEventListener("click", openShareSheet);
   document.querySelectorAll("[data-close-sheet]").forEach((el) =>
     el.addEventListener("click", () => { hideSheet(document.getElementById("settingsSheet")); hideSheet(document.getElementById("shareSheet")); })
   );

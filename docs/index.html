@@ -8,7 +8,7 @@
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
   <link rel="apple-touch-icon" href="icons/icon.svg" />
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles.css?v=2" />
 </head>
 <body>
   <!-- Kopfzeile -->
@@ -43,16 +43,11 @@
     <div id="loading" class="loading">Lade Spiele…</div>
   </main>
 
-  <!-- Untere Aktionsleiste -->
+  <!-- Untere Aktionsleiste: ein klarer Teilen-/Export-Knopf -->
   <nav class="bottom-bar">
-    <button id="shareDayBtn" class="bottom-action">
-      <span class="ba-icon">📋</span><span class="ba-label">Tag teilen</span>
-    </button>
-    <button id="shareTeamBtn" class="bottom-action">
-      <span class="ba-icon">⭐</span><span class="ba-label">Mein Team</span>
-    </button>
-    <button id="shareCompBtn" class="bottom-action">
-      <span class="ba-icon">🏆</span><span class="ba-label">Wettbewerb</span>
+    <button id="exportBtn" class="export-button">
+      <span class="export-icon">📤</span>
+      <span class="export-text">Teilen / Exportieren</span>
     </button>
   </nav>
 
@@ -94,12 +89,13 @@
     <div class="sheet-backdrop" data-close-sheet></div>
     <div class="sheet-panel">
       <div class="sheet-handle"></div>
-      <h2 id="shareTitle">Teilen</h2>
+      <h2 id="shareTitle">Was möchtest du teilen?</h2>
+      <p class="sheet-sub">Tippe einfach auf einen Punkt – danach öffnet sich die Teilen-Leiste deines Handys (WhatsApp, SMS …).</p>
       <div id="shareOptions" class="share-options"></div>
       <button class="text-button" data-close-sheet>Abbrechen</button>
     </div>
   </div>
 
-  <script src="app.js"></script>
+  <script src="app.js?v=2"></script>
 </body>
 </html>
