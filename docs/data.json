@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T15:28:41.888595+00:00",
+  "generatedAt": "2026-06-17T15:30:29.049080+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1214,7 +1214,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Niederlande",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Niederlande mit starker Form und Heimvorteil",
+          "Schweden zuletzt inkonsistent",
+          "Niederlande hat die individuell stärkeren Spieler"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-17T15:30:28.048819+00:00"
       }
     },
     {
