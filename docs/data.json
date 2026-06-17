@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T20:12:23.052860+00:00",
+  "generatedAt": "2026-06-17T22:45:22.066606+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -358,7 +358,7 @@
       },
       "away": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 1
       },
@@ -606,19 +606,19 @@
       "dateLocal": "2026-06-17",
       "kickoff": "2026-06-17T22:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "England",
         "short": "ENG",
         "crest": "https://crests.football-data.org/770.svg",
-        "score": 0
+        "score": 4
       },
       "away": {
         "name": "Kroatien",
         "short": "CRO",
         "crest": "https://crests.football-data.org/799.svg",
-        "score": 0
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -633,22 +633,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg England",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
-        },
-        "reasons": [
-          "England hat Heimvorteil",
-          "Kroatien zuletzt schwankend",
-          "England mit starker Offensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-17T10:54:56.864506+00:00"
+        "available": false
       }
     },
     {
@@ -1486,7 +1471,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2633,7 +2618,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
