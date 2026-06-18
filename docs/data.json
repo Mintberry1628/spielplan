@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T15:22:59.435075+00:00",
+  "generatedAt": "2026-06-18T20:25:28.732396+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -173,7 +173,7 @@
       },
       "away": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 1
       },
@@ -531,19 +531,19 @@
       "dateLocal": "2026-06-18",
       "kickoff": "2026-06-18T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Tschechien",
         "short": "CZE",
         "crest": "https://crests.football-data.org/798.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Südafrika",
         "short": "RSA",
         "crest": "https://crests.football-data.org/9396.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -558,22 +558,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Tschechien",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
-        },
-        "reasons": [
-          "Tschechien hat einen leichten Heimvorteil.",
-          "Südafrika ist in einer schwierigen Gruppe und muss punkten.",
-          "Beide Teams sind defensivstark, was zu einem knappen Ergebnis führt."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-18T10:20:09.653151+00:00"
+        "available": false
       }
     },
     {
@@ -583,7 +568,7 @@
       "dateLocal": "2026-06-18",
       "kickoff": "2026-06-18T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Schweiz",
@@ -1257,7 +1242,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2494,7 +2479,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
