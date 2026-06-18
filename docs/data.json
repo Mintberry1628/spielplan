@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T20:25:28.732396+00:00",
+  "generatedAt": "2026-06-18T22:56:11.634680+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -173,7 +173,7 @@
       },
       "away": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 1
       },
@@ -568,19 +568,19 @@
       "dateLocal": "2026-06-18",
       "kickoff": "2026-06-18T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Schweiz",
         "short": "SUI",
         "crest": "https://crests.football-data.org/788.svg",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "Bosnien und Herzegowina",
         "short": "BIH",
         "crest": "https://crests.football-data.org/bosnia.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -594,22 +594,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Schweiz",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Schweiz mit stärkerer Form und breiterem Kader",
-          "Bosnien und Herzegowina hat zuletzt schwache Ergebnisse gezeigt",
-          "Heimvorteil spricht klar für die Schweiz"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-18T10:20:15.843497+00:00"
+        "available": false
       }
     },
     {
@@ -619,19 +604,19 @@
       "dateLocal": "2026-06-19",
       "kickoff": "2026-06-19T00:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Kanada",
         "short": "CAN",
         "crest": "https://crests.football-data.org/canada.svg",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Katar",
         "short": "QAT",
         "crest": "https://crests.football-data.org/8030.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -1242,7 +1227,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2479,7 +2464,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
