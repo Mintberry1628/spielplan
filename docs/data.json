@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T10:26:38.787920+00:00",
+  "generatedAt": "2026-06-19T15:14:29.289807+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -25,7 +25,7 @@
       },
       "away": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 1
       },
@@ -775,12 +775,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Niederlande mit stärkerer aktueller Form und breiterem Kader.",
-          "Schweden hat Ausfälle wichtiger Spieler zu beklagen.",
-          "Der Heimvorteil in der Gruppenphase ist nicht zu unterschätzen."
+          "Niederlande mit stärkerer Form in den letzten Spielen.",
+          "Schweden hat wichtige Ausfälle zu beklagen.",
+          "Niederlande genießt den Heimvorteil und hat eine historisch gute Bilanz gegen Schweden."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-18T15:22:52.450768+00:00"
+        "generatedAt": "2026-06-19T15:14:26.471348+00:00"
       }
     },
     {
@@ -820,19 +820,19 @@
         "available": true,
         "outcome": "Sieg Deutschland",
         "scoreline": "2:0",
-        "confidence": 0.6,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.6,
+          "home": 0.65,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.1
         },
         "reasons": [
-          "Deutschland mit starker Form und Heimvorteil",
-          "Elfenbeinküste mit Auswärtsschwäche",
-          "Deutschland hat die qualitativ bessere Mannschaft"
+          "Deutschland hat Heimvorteil und starke Form",
+          "Elfenbeinküste mit Ausfällen in der Defensive",
+          "Deutschland ist offensivstark und eingespielt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-18T15:22:58.434768+00:00"
+        "generatedAt": "2026-06-19T15:14:28.289502+00:00"
       }
     },
     {
@@ -1052,7 +1052,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2289,7 +2289,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
