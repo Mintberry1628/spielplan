@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T15:14:29.289807+00:00",
+  "generatedAt": "2026-06-19T19:49:23.612627+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -25,7 +25,7 @@
       },
       "away": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 1
       },
@@ -532,19 +532,19 @@
       "dateLocal": "2026-06-19",
       "kickoff": "2026-06-19T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "USA",
         "short": "USA",
         "crest": "https://crests.football-data.org/usa.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Australien",
         "short": "AUS",
         "crest": "https://crests.football-data.org/779.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -1052,7 +1052,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2289,7 +2289,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
