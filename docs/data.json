@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T19:49:23.612627+00:00",
+  "generatedAt": "2026-06-19T22:03:44.082122+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -25,7 +25,7 @@
       },
       "away": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 1
       },
@@ -532,13 +532,13 @@
       "dateLocal": "2026-06-19",
       "kickoff": "2026-06-19T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "USA",
         "short": "USA",
         "crest": "https://crests.football-data.org/usa.svg",
-        "score": 1
+        "score": 2
       },
       "away": {
         "name": "Australien",
@@ -559,22 +559,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg USA",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "USA mit Heimvorteil in der Gruppenphase",
-          "Australien zuletzt schwankende Form",
-          "USA hat die reifere Mannschaft für dieses Turnier"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:25:49.487227+00:00"
+        "available": false
       }
     },
     {
@@ -1052,7 +1037,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2289,7 +2274,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
