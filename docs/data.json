@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T03:36:22.305033+00:00",
+  "generatedAt": "2026-06-20T08:55:42.806458+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -532,7 +532,7 @@
       "dateLocal": "2026-06-20",
       "kickoff": "2026-06-20T05:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Türkei",
@@ -558,22 +558,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Türkei",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
-        },
-        "reasons": [
-          "Türkei mit besserer aktueller Form",
-          "Paraguay schwach in der Offensive",
-          "Heimvorteil für die Türkei"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:25:58.399199+00:00"
+        "available": false
       }
     },
     {
@@ -724,12 +709,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Ecuador deutlich stärkerer Kader",
-          "Curaçao in schwacher Form",
-          "Heimvorteil für Ecuador"
+          "Ecuador hat Heimvorteil und ist klarer Favorit",
+          "Curaçao hat schwächere Form und weniger Erfahrung",
+          "Ecuador ist in der Tabelle besser platziert und hat mehr Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:00.212785+00:00"
+        "generatedAt": "2026-06-20T08:55:14.024526+00:00"
       }
     },
     {
@@ -775,12 +760,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Beide Teams sind in ähnlicher Form",
-          "Tunesien hat Heimvorteil, aber Japan ist auswärtsstark",
-          "Die Tabellensituation könnte zu einem vorsichtigen Spiel führen"
+          "Beide Teams sind in der Gruppenphase bisher ungeschlagen.",
+          "Tunesien hat einen leichten Heimvorteil, aber Japan ist auswärtsstark.",
+          "Die Ausgeglichenheit der Teams spricht für ein Remis."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:01.976044+00:00"
+        "generatedAt": "2026-06-20T08:55:15.775760+00:00"
       }
     },
     {
@@ -822,16 +807,16 @@
         "confidence": 0.8,
         "probs": {
           "home": 0.8,
-          "draw": 0.1,
-          "away": 0.1
+          "draw": 0.15,
+          "away": 0.05
         },
         "reasons": [
-          "Spanien hat eine deutlich stärkere Mannschaft",
-          "Saudi-Arabien hat in der Vergangenheit gegen Top-Nationen wenig geholt",
-          "Spanien spielt zu Hause und hat einen klaren Heimvorteil"
+          "Spanien ist klarer Favorit mit besserer individueller Qualität",
+          "Saudi-Arabien hat in der Regel Probleme gegen starke europäische Teams",
+          "Spanien hat Heimvorteil und will eine gute Turnierleistung zeigen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:04.484088+00:00"
+        "generatedAt": "2026-06-20T08:55:17.716296+00:00"
       }
     },
     {
@@ -871,10 +856,10 @@
         "available": true,
         "outcome": "Sieg Belgien",
         "scoreline": "2:0",
-        "confidence": 0.7,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.7,
-          "draw": 0.2,
+          "home": 0.65,
+          "draw": 0.25,
           "away": 0.1
         },
         "reasons": [
@@ -883,7 +868,7 @@
           "Belgien genießt Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:06.446614+00:00"
+        "generatedAt": "2026-06-20T08:55:19.324385+00:00"
       }
     },
     {
@@ -922,7 +907,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Uruguay",
-        "scoreline": "2:0",
+        "scoreline": "3:0",
         "confidence": 0.7,
         "probs": {
           "home": 0.7,
@@ -930,12 +915,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Uruguay ist klarer Favorit",
-          "Kap Verde hat wenig Erfahrung auf dieser Bühne",
-          "Uruguay spielt zu Hause"
+          "Uruguay hat eine starke Tradition und erfahrenere Spieler",
+          "Kap Verde hat eine schwächere Defensive und weniger Erfahrung auf diesem Niveau",
+          "Uruguay spielt zu Hause und hat den Heimvorteil auf seiner Seite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:08.161280+00:00"
+        "generatedAt": "2026-06-20T08:55:21.074738+00:00"
       }
     },
     {
@@ -981,12 +966,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Neuseeland mit Heimvorteil und leichter Favoritenrolle",
-          "Ägypten defensiv stabil, aber offensiv limitiert",
-          "Beide Teams kämpfen um das Weiterkommen, was zu einem vorsichtigen Spiel führt"
+          "Neuseeland mit Heimvorteil, aber geringerer individueller Qualität",
+          "Ägypten hat mehr Erfahrung, aber Auswärtsnachteile",
+          "Beide Teams kämpfen um den Aufstieg, was zu Vorsicht führt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:10.197844+00:00"
+        "generatedAt": "2026-06-20T08:55:22.875657+00:00"
       }
     },
     {
@@ -1033,12 +1018,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Argentinien ist der Favorit mit einer starken Offensive.",
-          "Österreich hat zuletzt schwankende Leistungen gezeigt.",
+          "Argentinien hat eine starke Offensive und gute Form.",
+          "Österreich ist defensiv anfällig gegen Top-Teams.",
           "Argentinien hat den Heimvorteil auf seiner Seite."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:12.000572+00:00"
+        "generatedAt": "2026-06-20T08:55:25.569568+00:00"
       }
     },
     {
@@ -1087,10 +1072,10 @@
         "reasons": [
           "Frankreich ist klarer Favorit mit starker Offensive",
           "Irak hat in der Vergangenheit gegen Top-Nationen Schwierigkeiten",
-          "Frankreich hat Heimvorteil und eine bessere aktuelle Form"
+          "Frankreich hat Heimvorteil und ist in guter Form"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:13.860545+00:00"
+        "generatedAt": "2026-06-20T08:55:27.581666+00:00"
       }
     },
     {
@@ -1126,22 +1111,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Norwegen",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
-        },
-        "reasons": [
-          "Norwegen mit Heimvorteil",
-          "Senegal zuletzt formschwach",
-          "Norwegen hat mehr zu verlieren"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:15.622623+00:00"
+        "available": false
       }
     },
     {
@@ -1179,21 +1149,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Algerien",
+        "scoreline": "0:2",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.35,
-          "draw": 0.4,
-          "away": 0.25
+          "home": 0.2,
+          "draw": 0.3,
+          "away": 0.5
         },
         "reasons": [
-          "Beide Teams sind formschwach",
-          "Jordanien hat Heimvorteil, aber Algerien ist individuell stärker",
-          "Die Tabellensituation könnte zu einem vorsichtigen Spiel führen"
+          "Algerien hat die stärkere Mannschaft",
+          "Jordanien ist aktuell in schwacher Form",
+          "Algerien hat mehr Erfahrung auf dieser Bühne"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:21.423876+00:00"
+        "generatedAt": "2026-06-20T08:55:29.858844+00:00"
       }
     },
     {
@@ -1240,12 +1210,12 @@
           "away": 0.05
         },
         "reasons": [
-          "Portugal ist klarer Favorit mit besserem Kader",
-          "Usbekistan hat in der Gruppenphase enttäuscht",
-          "Portugal hat Heimvorteil und muss gewinnen"
+          "Portugal hat eine stärkere Mannschaft",
+          "Usbekistan hat in der Vergangenheit gegen stärkere Teams Probleme",
+          "Portugal spielt zu Hause und hat Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:23.251319+00:00"
+        "generatedAt": "2026-06-20T08:55:31.649603+00:00"
       }
     },
     {
@@ -1284,7 +1254,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg England",
-        "scoreline": "2:0",
+        "scoreline": "3:1",
         "confidence": 0.7,
         "probs": {
           "home": 0.7,
@@ -1292,12 +1262,12 @@
           "away": 0.1
         },
         "reasons": [
-          "England hat eine stärkere Mannschaft",
-          "Ghana hat zuletzt schwache Leistungen gezeigt",
-          "England spielt zu Hause"
+          "England hat eine stärkere Mannschaft und bessere Einzelspieler",
+          "Ghana hat zuletzt schwankende Leistungen gezeigt",
+          "England spielt zu Hause und hat den Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:25.028246+00:00"
+        "generatedAt": "2026-06-20T08:55:33.382683+00:00"
       }
     },
     {
@@ -1343,12 +1313,12 @@
           "away": 0.6
         },
         "reasons": [
-          "Kroatien hat die deutlich erfahrenere und qualitativ stärkere Mannschaft.",
-          "Panama hat in der Gruppenphase bisher wenig überzeugt.",
-          "Kroatien benötigt einen Sieg für das Weiterkommen."
+          "Kroatien hat die deutlich erfahrenere und individuell stärkere Mannschaft.",
+          "Panama fehlt es an internationaler Erfahrung auf diesem Niveau.",
+          "Kroatien ist in der Pflicht, die Punkte für das Weiterkommen zu holen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:26.733351+00:00"
+        "generatedAt": "2026-06-20T08:55:35.075466+00:00"
       }
     },
     {
@@ -1395,12 +1365,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Kolumbien ist in starker Form und hat eine positive Heimbilanz",
-          "DR Kongo hat zuletzt schwankende Leistungen gezeigt",
-          "Kolumbien hat mehr Qualität im Kader"
+          "Kolumbien ist in starker Form und ungeschlagen",
+          "DR Kongo hat Probleme in der Offensive",
+          "Kolumbien hat den Heimvorteil und die bessere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:32.794438+00:00"
+        "generatedAt": "2026-06-20T08:55:36.944309+00:00"
       }
     },
     {
@@ -1550,12 +1520,12 @@
           "away": 0.05
         },
         "reasons": [
-          "Marokko ist klarer Favorit",
-          "Haiti hat schwache Ergebnisse in der Qualifikation",
-          "Marokko hat Heimvorteil und bessere Einzelspieler"
+          "Marokko ist klarer Favorit gegen den schwachen Außenseiter Haiti",
+          "Marokko hat den Heimvorteil und eine stärkere Mannschaft",
+          "Haiti hat bisher keine Punkte geholt und eine schlechte Tordifferenz"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:35.662145+00:00"
+        "generatedAt": "2026-06-20T08:55:38.700307+00:00"
       }
     },
     {
@@ -1748,19 +1718,19 @@
         "available": true,
         "outcome": "Sieg Deutschland",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.5,
         "probs": {
           "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
-          "Deutschland hat die stärkere Mannschaft",
-          "Ecuador hat Heimvorteil, aber die Qualität der deutschen Spieler ist höher",
-          "Deutschland ist in der Regel gut in Gruppenphasen bei Turnieren"
+          "Deutschland hat eine stärkere Mannschaftsbreite und individuelle Qualität",
+          "Ecuador ist heimstark, aber Deutschland hat mehr Erfahrung auf diesem Niveau",
+          "Die Tabellensituation könnte Deutschland zu einem Sieg zwingen, während Ecuador mit einem Punkt zufrieden sein könnte"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:26:37.787601+00:00"
+        "generatedAt": "2026-06-20T08:55:40.664912+00:00"
       }
     },
     {
