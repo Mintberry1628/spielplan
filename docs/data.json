@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T16:17:25.421410+00:00",
+  "generatedAt": "2026-06-20T19:25:45.823086+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -568,19 +568,19 @@
       "dateLocal": "2026-06-20",
       "kickoff": "2026-06-20T19:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Niederlande",
         "short": "NED",
         "crest": "https://crests.football-data.org/8601.svg",
-        "score": null
+        "score": 5
       },
       "away": {
         "name": "Schweden",
         "short": "SWE",
         "crest": "https://crests.football-data.org/792.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -595,22 +595,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Niederlande",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Niederlande mit stärkerer Offensive und Form",
-          "Schweden hat Probleme in der Defensive",
-          "Heimvorteil spricht für die Niederlande"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-20T11:18:32.973785+00:00"
+        "available": false
       }
     },
     {
