@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T19:25:45.823086+00:00",
+  "generatedAt": "2026-06-20T22:06:13.472850+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -605,19 +605,19 @@
       "dateLocal": "2026-06-20",
       "kickoff": "2026-06-20T22:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Deutschland",
         "short": "GER",
         "crest": "https://crests.football-data.org/759.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Elfenbeinküste",
         "short": "CIV",
         "crest": "https://crests.football-data.org/787.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -632,22 +632,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Deutschland",
-        "scoreline": "2:1",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Deutschland mit starker Form und Heimvorteil",
-          "Elfenbeinküste zuletzt inkonsistent",
-          "Deutschland hat die qualitativ bessere Mannschaft"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-20T11:18:35.041974+00:00"
+        "available": false
       }
     },
     {
@@ -867,7 +852,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2104,7 +2089,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
