@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T11:18:39.673740+00:00",
+  "generatedAt": "2026-06-20T14:01:52.352628+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -882,7 +882,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2119,7 +2119,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
