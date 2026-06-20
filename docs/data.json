@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T22:03:44.082122+00:00",
+  "generatedAt": "2026-06-20T03:36:22.305033+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,117 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537370",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_H",
-      "dateLocal": "2026-06-16",
-      "kickoff": "2026-06-16T00:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Saudi-Arabien",
-        "short": "KSA",
-        "crest": "https://crests.football-data.org/saudi_arabia.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Uruguay",
-        "short": "URU",
-        "crest": "https://crests.football-data.org/758.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537364",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_G",
-      "dateLocal": "2026-06-16",
-      "kickoff": "2026-06-16T03:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Iran",
-        "short": "IRN",
-        "crest": "https://crests.football-data.org/iran.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "Neuseeland",
-        "short": "NZL",
-        "crest": "https://crests.football-data.org/783.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537391",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_I",
-      "dateLocal": "2026-06-16",
-      "kickoff": "2026-06-16T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Frankreich",
-        "short": "FRA",
-        "crest": "https://crests.football-data.org/773.svg",
-        "score": 3
-      },
-      "away": {
-        "name": "Senegal",
-        "short": "SEN",
-        "crest": "https://crests.football-data.org/senegal.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537392",
       "competition": "WM",
@@ -476,11 +365,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV",
-          "ZDF"
+          "ARD/ZDF",
+          "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -513,10 +402,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -549,11 +439,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -569,19 +459,19 @@
       "dateLocal": "2026-06-20",
       "kickoff": "2026-06-20T00:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Schottland",
         "short": "SCO",
         "crest": "https://crests.football-data.org/814.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Marokko",
         "short": "MAR",
         "crest": "https://crests.football-data.org/morocco.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -595,22 +485,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Schottland mit starkem Heimvorteil und guter Form",
-          "Marokko defensiv stabil, aber auswärts schwächer",
-          "Beide Teams benötigen Punkte, was zu einem vorsichtigen Spiel führen könnte"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:25:54.673339+00:00"
+        "available": false
       }
     },
     {
@@ -620,19 +495,19 @@
       "dateLocal": "2026-06-20",
       "kickoff": "2026-06-20T02:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Brasilien",
         "short": "BRA",
         "crest": "https://crests.football-data.org/764.svg",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Haiti",
         "short": "HAI",
         "crest": "https://crests.football-data.org/haiti.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -647,22 +522,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Brasilien",
-        "scoreline": "3:0",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.8,
-          "draw": 0.15,
-          "away": 0.05
-        },
-        "reasons": [
-          "Brasilien ist klarer Favorit mit deutlich besserer individueller Qualität",
-          "Haiti hat in der Gruppenphase bisher enttäuscht und wenig Durchschlagskraft gezeigt",
-          "Brasilien spielt zu Hause und wird von den Fans angetrieben"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T10:25:56.505613+00:00"
+        "available": false
       }
     },
     {
@@ -672,19 +532,19 @@
       "dateLocal": "2026-06-20",
       "kickoff": "2026-06-20T05:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Türkei",
         "short": "TUR",
         "crest": "https://crests.football-data.org/803.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Paraguay",
         "short": "PAR",
         "crest": "https://crests.football-data.org/761.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -1037,7 +897,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -1587,12 +1447,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Schweiz in besserer Verfassung",
-          "Kanada mit Problemen in der Offensive",
-          "Schweiz mit Heimvorteil"
+          "Schweiz mit stabilerer Defensive",
+          "Kanada fehlt es an internationaler Erfahrung",
+          "Schweiz hat den Heimvorteil auf seiner Seite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:15.444838+00:00"
+        "generatedAt": "2026-06-20T03:35:42.150837+00:00"
       }
     },
     {
@@ -1643,7 +1503,7 @@
           "Bosnien und Herzegowina benötigt Punkte für das Weiterkommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:17.181354+00:00"
+        "generatedAt": "2026-06-20T03:35:44.055888+00:00"
       }
     },
     {
@@ -1733,7 +1593,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Brasilien",
-        "scoreline": "0:2",
+        "scoreline": "1:3",
         "confidence": 0.6,
         "probs": {
           "home": 0.15,
@@ -1741,12 +1601,12 @@
           "away": 0.6
         },
         "reasons": [
-          "Schottland hat zuletzt schwache Leistungen gezeigt.",
-          "Brasilien verfügt über die individuell stärkere Mannschaft.",
-          "Brasilien hat mehr Erfahrung auf diesem Niveau."
+          "Brasilien ist individuell stärker besetzt.",
+          "Schottland hat in der Gruppenphase bisher defensiv anfällig gewirkt.",
+          "Brasilien ist auf dem Weg zur Titelverteidigung und hat die höhere Motivation."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:20.030079+00:00"
+        "generatedAt": "2026-06-20T03:35:45.804838+00:00"
       }
     },
     {
@@ -1783,21 +1643,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Tschechien",
+        "scoreline": "1:0",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
         },
         "reasons": [
-          "Tschechien mit Heimvorteil und leichter Formvorteil",
-          "Mexiko defensiv stabil und mit Erfahrung",
-          "Beide Teams im direkten Duell oft auf Augenhöhe"
+          "Tschechien hat Heimvorteil",
+          "Mexiko in schwacher Form",
+          "Tschechien mit besserer Tabellensituation"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:21.920644+00:00"
+        "generatedAt": "2026-06-20T03:35:47.636730+00:00"
       }
     },
     {
@@ -1834,21 +1694,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Südafrika",
-        "scoreline": "1:0",
-        "confidence": 0.55,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Südafrika mit Heimvorteil und stärkerer Form",
-          "Südkorea mit Auswärtsschwäche",
-          "Beide Teams benötigen Punkte, Südafrika hat die etwas bessere Ausgangslage"
+          "Südafrika mit Heimvorteil und guter Form",
+          "Südkorea defensiv stabil",
+          "Beide Teams brauchen Punkte, was zu einem vorsichtigen Spiel führt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:23.627394+00:00"
+        "generatedAt": "2026-06-20T03:35:49.507850+00:00"
       }
     },
     {
@@ -1939,19 +1799,19 @@
         "available": true,
         "outcome": "Sieg Elfenbeinküste",
         "scoreline": "0:2",
-        "confidence": 0.7,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
         },
         "reasons": [
-          "Elfenbeinküste hat die stärkere Mannschaft",
-          "Curaçao ist Außenseiter in dieser Gruppe",
-          "Elfenbeinküste ist in besserer Form"
+          "Elfenbeinküste klar stärker besetzt",
+          "Curaçao in schlechter Verfassung",
+          "WM-Erfahrung spricht für Elfenbeinküste"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:26.135182+00:00"
+        "generatedAt": "2026-06-20T03:35:51.393489+00:00"
       }
     },
     {
@@ -1990,20 +1850,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Niederlande",
-        "scoreline": "1:2",
-        "confidence": 0.45,
+        "scoreline": "0:2",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.25,
-          "draw": 0.3,
-          "away": 0.45
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
         },
         "reasons": [
-          "Niederlanden haben die stärkere Mannschaft",
+          "Niederländer mit deutlich stärkerem Kader",
           " Tunesien hat zuletzt schwache Leistungen gezeigt",
-          "Niederlande sind im Turnier besser in Form"
+          "Niederlande sind in der Regel konstant in ihren Leistungen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:27.795912+00:00"
+        "generatedAt": "2026-06-20T03:35:53.286494+00:00"
       }
     },
     {
@@ -2040,21 +1900,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Japan",
+        "scoreline": "1:0",
+        "confidence": 0.45,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.45,
+          "draw": 0.3,
+          "away": 0.25
         },
         "reasons": [
-          "Japan mit Heimvorteil und starker Gruppenphase",
-          "Schweden defensiv stabil, aber auswärts schwächer",
-          "Beide Teams haben gute Chancen auf das Weiterkommen, was zu Vorsicht führt"
+          "Japan mit starker Heimform in der Gruppenphase",
+          "Schweden hat zuletzt auswärts geschwächelt",
+          "Beide Teams kämpfen um den Gruppensieg, was zu einem knappen Spiel führt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:29.598104+00:00"
+        "generatedAt": "2026-06-20T03:35:55.137483+00:00"
       }
     },
     {
@@ -2091,21 +1951,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg USA",
-        "scoreline": "1:2",
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "USA mit stärkerer Form in den letzten Spielen",
-          "Türkei hat Heimvorteil, aber USA ist auswärtsstark",
-          "Beide Teams brauchen Punkte, was zu einem offenen Spiel führt"
+          "Beide Teams haben ähnliche Formkurven.",
+          "Die Türkei hat einen leichten Heimvorteil.",
+          "Die USA sind defensiv stabil, aber offensiv nicht immer durchschlagskräftig."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:31.374395+00:00"
+        "generatedAt": "2026-06-20T03:35:57.022794+00:00"
       }
     },
     {
@@ -2152,12 +2012,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Paraguay mit Heimvorteil",
-          "Australien in schwacher Form",
-          "Paraguay hat mehr zu verlieren"
+          "Paraguay mit Heimvorteil in Südamerika",
+          "Australien hat oft Probleme auf fremdem Kontinent",
+          "Beide Teams defensivstark, wenig Tore zu erwarten"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:33.041545+00:00"
+        "generatedAt": "2026-06-20T03:35:58.783002+00:00"
       }
     },
     {
@@ -2194,22 +2054,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Frankreich",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.3,
-          "away": 0.5
-        },
-        "reasons": [
-          "Norwegen mit schwacher Form in den letzten Spielen",
-          "Frankreich hat eine starke Offensive und gute Einzelspieler",
-          "Die Tabellensituation spricht für Frankreich, das auf den Sieg angewiesen ist"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:34.805187+00:00"
+        "available": false
       }
     },
     {
@@ -2255,12 +2100,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Senegal mit Heimvorteil und stärkerer individueller Qualität",
-          "Irak in schwacher Verfassung und ohne klare Spielidee",
-          "Senegal benötigt Punkte für das Weiterkommen"
+          "Senegal mit Heimvorteil und stärkerer Form",
+          "Irak mit schwacher Leistung in den letzten Spielen",
+          "Senegal hat mehr individuelle Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:36.567251+00:00"
+        "generatedAt": "2026-06-20T03:36:01.370695+00:00"
       }
     },
     {
@@ -2274,7 +2119,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2307,11 +2152,11 @@
         },
         "reasons": [
           "Uruguay mit starker Defensive und Heimvorteil",
-          "Spanien zuletzt inkonsistent in Auswärtsspielen",
-          "Beide Teams sichern sich mit einem Sieg das Weiterkommen, was zu einem vorsichtigen Spiel führt"
+          "Spanien zuletzt inkonsistent in der Fremde",
+          "Beide Teams kämpfen um die Tabellenspitze"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:38.385722+00:00"
+        "generatedAt": "2026-06-20T03:36:03.362270+00:00"
       }
     },
     {
@@ -2358,12 +2203,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Kap Verde mit Heimvorteil und stärkerer aktueller Form",
-          "Saudi-Arabien hat Schwierigkeiten in der Offensive",
-          "Beide Teams benötigen Punkte, was zu einem knappen Spiel führt"
+          "Kap Verde mit Heimvorteil und stärkerer Form",
+          "Saudi-Arabien enttäuschte bisher",
+          "Kap Verde benötigt Punkte für das Weiterkommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:40.238280+00:00"
+        "generatedAt": "2026-06-20T03:36:05.143021+00:00"
       }
     },
     {
@@ -2409,12 +2254,12 @@
           "away": 0.7
         },
         "reasons": [
-          "Belgien ist klarer Favorit",
-          "Neuseeland hat schwächere Einzelspieler",
-          "Belgien hat mehr Erfahrung auf diesem Niveau"
+          "Belgien deutlich stärker besetzt",
+          "Neuseeland hat kaum internationale Erfahrung",
+          "Belgien hat mehr zu verlieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:41.933712+00:00"
+        "generatedAt": "2026-06-20T03:36:06.749109+00:00"
       }
     },
     {
@@ -2451,21 +2296,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Ägypten",
+        "scoreline": "1:0",
+        "confidence": 0.45,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.45,
+          "draw": 0.3,
+          "away": 0.25
         },
         "reasons": [
-          "Beide Teams sind offensivstark, aber defensiv anfällig.",
-          "Die Tabellensituation könnte zu einem vorsichtigen Spiel führen.",
-          "Der Heimvorteil von Ägypten wird durch die Reisebelastung für den Iran ausgeglichen."
+          "Ägypten mit Heimvorteil in der Gruppenphase",
+          "Iran in der jüngeren Vergangenheit formschwach",
+          "Ägypten hat die bessere Ausgangslage in der Tabelle"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:43.736770+00:00"
+        "generatedAt": "2026-06-20T03:36:08.554627+00:00"
       }
     },
     {
@@ -2503,20 +2348,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg England",
-        "scoreline": "0:2",
-        "confidence": 0.7,
+        "scoreline": "0:3",
+        "confidence": 0.8,
         "probs": {
-          "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
+          "home": 0.05,
+          "draw": 0.15,
+          "away": 0.8
         },
         "reasons": [
-          "England deutlich stärkere Einzelspieler und breiterer Kader.",
-          "Panama hat Heimvorteil, aber die Qualität der Gegner ist zu hoch.",
-          "England ist im Turnier fokussiert und hat mehr Erfahrung auf diesem Niveau."
+          "England hat die deutlich stärkere Mannschaft",
+          "Panama ist Außenseiter in dieser Gruppe",
+          "England ist in besserer Form und hat mehr Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:45.782426+00:00"
+        "generatedAt": "2026-06-20T03:36:10.351151+00:00"
       }
     },
     {
@@ -2556,19 +2401,19 @@
         "available": true,
         "outcome": "Sieg Kroatien",
         "scoreline": "1:0",
-        "confidence": 0.55,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
-          "draw": 0.3,
+          "home": 0.6,
+          "draw": 0.25,
           "away": 0.15
         },
         "reasons": [
-          "Kroatien hat Heimvorteil und mehr Erfahrung",
-          "Ghana ist in schlechterer Verfassung",
-          "Kroatien ist in der Tabelle besser platziert"
+          "Kroatien mit stärkerer Kaderbreite und Erfahrung",
+          "Ghana zuletzt inkonsistent",
+          "Heimvorteil spricht für Kroatien"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T04:13:47.508535+00:00"
+        "generatedAt": "2026-06-20T03:36:12.250549+00:00"
       }
     },
     {
@@ -2605,7 +2450,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Kolumbien",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Kolumbien mit starker Heimform in der Qualifikation",
+          "Portugal hat oft Probleme gegen defensivstarke Teams",
+          "Kolumbien hat mehr auf dem Spiel (Qualifikation)"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-20T03:36:14.020602+00:00"
       }
     },
     {
@@ -2641,7 +2501,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg DR Kongo",
+        "scoreline": "1:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "DR Kongo hat Heimvorteil",
+          "Usbekistan in schwacher Form",
+          "DR Kongo ist tabellarisch besser platziert"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-20T03:36:15.801556+00:00"
       }
     },
     {
@@ -2677,7 +2552,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Argentinien",
+        "scoreline": "0:3",
+        "confidence": 0.85,
+        "probs": {
+          "home": 0.05,
+          "draw": 0.1,
+          "away": 0.85
+        },
+        "reasons": [
+          "Argentinien ist klarer Favorit mit Weltklasse-Spielern",
+          "Jordanien hat eine schwächere Mannschaftsstruktur",
+          "Form und bisherige Ergebnisse sprechen deutlich für Argentinien"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-20T03:36:17.642328+00:00"
       }
     },
     {
@@ -2714,7 +2604,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Algerien hat Heimvorteil und zuletzt gute Form gezeigt.",
+          "Österreich ist defensiv stabil, aber auswärts oft unauffällig.",
+          "Beide Teams benötigen Punkte, was zu einem vorsichtigen Spiel führen könnte."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-20T03:36:19.506367+00:00"
       }
     },
     {
@@ -2750,7 +2655,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "1:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Heimvorteil nutzen",
+          "Formstärke des Heimteams",
+          "Defensive Stabilität"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-20T03:36:21.304715+00:00"
       }
     },
     {
