@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T08:55:42.806458+00:00",
+  "generatedAt": "2026-06-20T11:18:39.673740+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -597,20 +597,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Niederlande",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Niederlande mit stärkerer Form in den letzten Spielen.",
-          "Schweden hat wichtige Ausfälle zu beklagen.",
-          "Niederlande genießt den Heimvorteil und hat eine historisch gute Bilanz gegen Schweden."
+          "Niederlande mit stärkerer Offensive und Form",
+          "Schweden hat Probleme in der Defensive",
+          "Heimvorteil spricht für die Niederlande"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T15:14:26.471348+00:00"
+        "generatedAt": "2026-06-20T11:18:32.973785+00:00"
       }
     },
     {
@@ -649,20 +649,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Deutschland",
-        "scoreline": "2:0",
-        "confidence": 0.65,
+        "scoreline": "2:1",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.65,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "Deutschland hat Heimvorteil und starke Form",
-          "Elfenbeinküste mit Ausfällen in der Defensive",
-          "Deutschland ist offensivstark und eingespielt"
+          "Deutschland mit starker Form und Heimvorteil",
+          "Elfenbeinküste zuletzt inkonsistent",
+          "Deutschland hat die qualitativ bessere Mannschaft"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-19T15:14:28.289502+00:00"
+        "generatedAt": "2026-06-20T11:18:35.041974+00:00"
       }
     },
     {
@@ -1111,7 +1111,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Norwegen",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Norwegen mit Heimvorteil",
+          "Senegal zuletzt formschwach",
+          "Norwegen hat mehr zu verlieren"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-20T11:18:36.808577+00:00"
       }
     },
     {
@@ -2024,7 +2039,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Frankreich",
+        "scoreline": "1:2",
+        "confidence": 0.45,
+        "probs": {
+          "home": 0.25,
+          "draw": 0.3,
+          "away": 0.45
+        },
+        "reasons": [
+          "Frankreich hat die stärkere Mannschaft",
+          "Norwegen ist auswärts anfällig",
+          "Beide Teams brauchen Punkte, was zu einem offenen Spiel führt"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-20T11:18:38.673449+00:00"
       }
     },
     {
