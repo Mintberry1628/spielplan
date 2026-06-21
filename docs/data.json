@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T14:09:38.398163+00:00",
+  "generatedAt": "2026-06-21T16:45:39.201881+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -532,19 +532,19 @@
       "dateLocal": "2026-06-21",
       "kickoff": "2026-06-21T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Spanien",
         "short": "ESP",
         "crest": "https://crests.football-data.org/760.svg",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Saudi-Arabien",
         "short": "KSA",
         "crest": "https://crests.football-data.org/saudi_arabia.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -639,7 +639,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -1876,7 +1876,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
