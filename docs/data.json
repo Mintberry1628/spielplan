@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T09:49:50.431025+00:00",
+  "generatedAt": "2026-06-21T14:09:38.398163+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -639,7 +639,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -1127,7 +1127,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Kolumbien",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Kolumbien ist in starker Form und ungeschlagen",
+          "DR Kongo hat zuletzt schwache Ergebnisse gezeigt",
+          "Kolumbien hat einen klaren Heimvorteil und motivierte Fans"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-21T14:09:37.397862+00:00"
       }
     },
     {
@@ -1861,7 +1876,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
