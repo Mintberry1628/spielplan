@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T19:29:13.803884+00:00",
+  "generatedAt": "2026-06-21T22:14:42.263960+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -538,7 +538,7 @@
         "name": "Spanien",
         "short": "ESP",
         "crest": "https://crests.football-data.org/760.svg",
-        "score": 5
+        "score": 4
       },
       "away": {
         "name": "Saudi-Arabien",
@@ -568,7 +568,7 @@
       "dateLocal": "2026-06-21",
       "kickoff": "2026-06-21T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Belgien",
@@ -595,22 +595,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Belgien",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Belgien ist klarer Favorit mit stärkerem Kader",
-          "Iran hat sich in der Vergangenheit schwer gegen Top-Nationen getan",
-          "Belgien hat Heimvorteil und die höhere Motivation"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:22.222110+00:00"
+        "available": false
       }
     },
     {
@@ -620,19 +605,19 @@
       "dateLocal": "2026-06-22",
       "kickoff": "2026-06-22T00:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Kap Verde",
         "short": "CPV",
         "crest": "https://crests.football-data.org/cape_verde.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -1861,7 +1846,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2491,11 +2476,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
