@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T04:08:51.020581+00:00",
+  "generatedAt": "2026-06-22T11:53:52.117491+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -463,7 +463,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 2
       },
@@ -569,12 +569,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Argentinien hat eine starke Offensive und gute Form.",
-          "Österreich hat zuletzt wechselhafte Ergebnisse gezeigt.",
-          "Argentinien genießt Heimvorteil und hat mehr Erfahrung auf diesem Niveau."
+          "Argentinien hat eine starke Form und eine gute Turnierhistorie.",
+          "Österreich hat mit Verletzungssorgen zu kämpfen.",
+          "Argentinien genießt den Heimvorteil und die Unterstützung der Fans."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:27.995030+00:00"
+        "generatedAt": "2026-06-22T11:52:44.785690+00:00"
       }
     },
     {
@@ -621,12 +621,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Frankreich ist klarer Favorit mit stärkerem Kader",
-          "Irak hat in der Vergangenheit gegen Top-Nationen Schwierigkeiten gezeigt",
-          "Frankreich hat Heimvorteil und eine gute Turnierform"
+          "Frankreich ist klarer Favorit mit starker Offensive.",
+          "Irak hat zuletzt schwache Leistungen gezeigt.",
+          "Frankreich hat Heimvorteil und eine bessere Gesamtqualität."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:29.924439+00:00"
+        "generatedAt": "2026-06-22T11:52:47.472211+00:00"
       }
     },
     {
@@ -664,20 +664,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Norwegen",
-        "scoreline": "2:1",
+        "scoreline": "1:0",
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
+          "draw": 0.3,
+          "away": 0.15
         },
         "reasons": [
-          "Norwegen hat Heimvorteil und ist motiviert.",
-          "Senegal hatte zuletzt wechselhafte Ergebnisse.",
-          "Norwegen ist in der Tabelle leicht besser platziert."
+          "Norwegen hat Heimvorteil",
+          "Senegal zuletzt schwankend",
+          "Norwegen defensiv stabil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:32.265638+00:00"
+        "generatedAt": "2026-06-22T11:53:04.754687+00:00"
       }
     },
     {
@@ -725,11 +725,11 @@
         },
         "reasons": [
           "Jordanien mit Heimvorteil und zuletzt stabiler Form",
-          "Algerien hat mehr individuelle Klasse, aber auswärts oft schwächer",
-          "Beide Teams kämpfen um den Aufstieg, was zu einem vorsichtigen Spiel führt"
+          "Algerien hat leichte Vorteile in der individuellen Qualität",
+          "Beide Teams kämpfen um eine gute Ausgangsposition in der Gruppe und agieren vorsichtig."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:34.236592+00:00"
+        "generatedAt": "2026-06-22T11:53:09.699360+00:00"
       }
     },
     {
@@ -776,12 +776,12 @@
           "away": 0.05
         },
         "reasons": [
-          "Portugal hat eine deutlich stärkere Mannschaft",
-          "Usbekistan hat in der Qualifikation nur wenige starke Gegner gesehen",
-          "Portugal spielt zu Hause und hat eine positive Heimbilanz"
+          "Portugal hat eine starke Offensive und eine gute Form.",
+          "Usbekistan ist Außenseiter und hat weniger Erfahrung auf diesem Niveau.",
+          "Portugal spielt zu Hause und hat den Heimvorteil auf seiner Seite."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:36.002798+00:00"
+        "generatedAt": "2026-06-22T11:53:14.044135+00:00"
       }
     },
     {
@@ -828,12 +828,12 @@
           "away": 0.1
         },
         "reasons": [
-          "England hat eine stärkere Mannschaft und bessere Einzelspieler.",
-          "Ghana hat zuletzt schwankende Leistungen gezeigt.",
-          "England hat den Heimvorteil und eine hohe Motivation in der Gruppenphase."
+          "England hat eine starke Offensive und ist in der Regel dominant.",
+          "Ghana hat Schwierigkeiten, konstant gute Leistungen abzurufen.",
+          "England spielt zu Hause und hat den Heimvorteil auf seiner Seite."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:37.726970+00:00"
+        "generatedAt": "2026-06-22T11:53:21.733122+00:00"
       }
     },
     {
@@ -880,11 +880,11 @@
         },
         "reasons": [
           "Kroatien hat die deutlich erfahrenere und individuell stärkere Mannschaft.",
-          "Panama ist Außenseiter und hat weniger internationale Erfahrung.",
-          "Kroatien benötigt Punkte für das Weiterkommen und wird entsprechend auftreten."
+          "Panama hat in der Gruppenphase bisher wenig überzeugende Leistungen gezeigt.",
+          "Kroatien ist unter Zugzwang, um das Weiterkommen zu sichern."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:40.245549+00:00"
+        "generatedAt": "2026-06-22T11:53:23.654971+00:00"
       }
     },
     {
@@ -936,7 +936,7 @@
           "Kolumbien hat einen klaren Heimvorteil und motivierte Fans"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T14:09:37.397862+00:00"
+        "generatedAt": "2026-06-22T11:53:28.194264+00:00"
       }
     },
     {
@@ -1082,16 +1082,16 @@
         "confidence": 0.8,
         "probs": {
           "home": 0.8,
-          "draw": 0.15,
-          "away": 0.05
+          "draw": 0.1,
+          "away": 0.1
         },
         "reasons": [
-          "Marokko ist klarer Favorit gegen den Außenseiter Haiti.",
-          "Haiti hat in der bisherigen Gruppenphase keine Punkte geholt und eine schwache Tordifferenz.",
-          "Marokko hat Heimvorteil und die höhere Motivation, um weiterzukommen."
+          "Marokko ist klarer Favorit gegen den Außenseiter Haiti",
+          "Haiti hat bisher keine Punkte geholt und eine schwache Tordifferenz",
+          "Marokko hat mehr Qualität im Kader und Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:42.914751+00:00"
+        "generatedAt": "2026-06-22T11:53:30.346111+00:00"
       }
     },
     {
@@ -1292,11 +1292,11 @@
         },
         "reasons": [
           "Deutschland hat die stärkere Mannschaft",
-          "Ecuador hat Heimvorteil, aber Deutschland ist auswärtsstark",
-          "Deutschland ist in besserer Form und hat mehr Erfahrung bei großen Turnieren"
+          "Ecuador verlor zuletzt gegen ein Top-Team",
+          "Deutschland ist im Turnierverlauf konstanter"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:44.821696+00:00"
+        "generatedAt": "2026-06-22T11:53:35.211859+00:00"
       }
     },
     {
@@ -1593,19 +1593,19 @@
         "available": true,
         "outcome": "Sieg Frankreich",
         "scoreline": "1:2",
-        "confidence": 0.5,
+        "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
+          "home": 0.25,
+          "draw": 0.35,
+          "away": 0.4
         },
         "reasons": [
-          "Norwegen hat zuletzt schwankende Leistungen gezeigt",
-          "Frankreich ist in der Regel offensivstark",
-          "Norwegen hat im direkten Vergleich oft Schwierigkeiten gegen Frankreich"
+          "Norwegen hat Heimvorteil, aber Frankreich ist stärker besetzt.",
+          "Frankreichs Form zuletzt konstant, Norwegen schwankend.",
+          "Beide Teams haben noch Chancen auf das Weiterkommen, was zu einem offenen Spiel führt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:47.821941+00:00"
+        "generatedAt": "2026-06-22T11:53:37.156215+00:00"
       }
     },
     {
@@ -1670,7 +1670,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -1907,12 +1907,12 @@
           "away": 0.7
         },
         "reasons": [
-          "England ist klarer Favorit",
-          "Panama hat geringere individuelle Klasse",
-          "England hat eine starke Offensive"
+          "England hat eine deutlich stärkere Mannschaft",
+          "Panama ist Außenseiter in dieser Gruppe",
+          "England ist in besserer Form"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-21T09:49:49.430698+00:00"
+        "generatedAt": "2026-06-22T11:53:51.117191+00:00"
       }
     },
     {
