@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T20:47:45.226608+00:00",
+  "generatedAt": "2026-06-22T22:47:25.800567+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -569,19 +569,19 @@
       "dateLocal": "2026-06-22",
       "kickoff": "2026-06-22T23:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Frankreich",
         "short": "FRA",
         "crest": "https://crests.football-data.org/773.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Irak",
         "short": "IRQ",
         "crest": "https://crests.football-data.org/iraq.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
