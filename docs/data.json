@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T16:55:36.929978+00:00",
+  "generatedAt": "2026-06-22T20:47:45.226608+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -532,19 +532,19 @@
       "dateLocal": "2026-06-22",
       "kickoff": "2026-06-22T19:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Argentinien",
         "short": "ARG",
         "crest": "https://crests.football-data.org/762.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Österreich",
         "short": "AUT",
         "crest": "https://crests.football-data.org/816.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -559,22 +559,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Argentinien",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Argentinien hat eine starke Form und eine gute Turnierhistorie.",
-          "Österreich hat mit Verletzungssorgen zu kämpfen.",
-          "Argentinien genießt den Heimvorteil und die Unterstützung der Fans."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-22T11:52:44.785690+00:00"
+        "available": false
       }
     },
     {
