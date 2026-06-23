@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T20:03:46.210379+00:00",
+  "generatedAt": "2026-06-23T22:12:36.037875+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -352,7 +352,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 2
       },
@@ -606,19 +606,19 @@
       "dateLocal": "2026-06-23",
       "kickoff": "2026-06-23T22:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "England",
         "short": "ENG",
         "crest": "https://crests.football-data.org/770.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Ghana",
         "short": "GHA",
         "crest": "https://crests.football-data.org/ghana.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -633,22 +633,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg England",
-        "scoreline": "2:0",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
-        },
-        "reasons": [
-          "England hat eine stärkere Mannschaft und ist in besserer Form.",
-          "Ghana hat in der Vergangenheit gegen stärkere Gegner Probleme gezeigt.",
-          "Der Heimvorteil spricht klar für England."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-23T09:37:42.488379+00:00"
+        "available": false
       }
     },
     {
@@ -1485,7 +1470,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -2102,9 +2087,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Deutschland",
+        "short": "GER",
+        "crest": "https://crests.football-data.org/759.svg",
         "score": null
       },
       "away": {
@@ -2310,9 +2295,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Mexiko",
+        "short": "MEX",
+        "crest": "https://crests.football-data.org/769.svg",
         "score": null
       },
       "away": {
@@ -2465,9 +2450,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "USA",
+        "short": "USA",
+        "crest": "https://crests.football-data.org/usa.svg",
         "score": null
       },
       "away": {
