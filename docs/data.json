@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T17:17:37.563090+00:00",
+  "generatedAt": "2026-06-23T20:03:46.210379+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -352,7 +352,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 2
       },
@@ -569,13 +569,13 @@
       "dateLocal": "2026-06-23",
       "kickoff": "2026-06-23T19:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Portugal",
         "short": "POR",
         "crest": "https://crests.football-data.org/765.svg",
-        "score": 1
+        "score": 5
       },
       "away": {
         "name": "Usbekistan",
@@ -596,22 +596,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Portugal",
-        "scoreline": "3:0",
-        "confidence": 0.75,
-        "probs": {
-          "home": 0.75,
-          "draw": 0.15,
-          "away": 0.1
-        },
-        "reasons": [
-          "Portugal hat eine deutlich stärkere Mannschaft",
-          "Usbekistan hat in der Qualifikation Schwächen gezeigt",
-          "Portugal spielt zu Hause und hat die bessere Form"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-23T09:37:39.532829+00:00"
+        "available": false
       }
     },
     {
@@ -1500,7 +1485,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
