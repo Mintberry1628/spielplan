@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T14:46:59.563895+00:00",
+  "generatedAt": "2026-06-23T17:17:37.563090+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -352,7 +352,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 2
       },
@@ -569,19 +569,19 @@
       "dateLocal": "2026-06-23",
       "kickoff": "2026-06-23T19:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Portugal",
         "short": "POR",
         "crest": "https://crests.football-data.org/765.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Usbekistan",
         "short": "UZB",
         "crest": "https://crests.football-data.org/8070.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -1500,7 +1500,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
