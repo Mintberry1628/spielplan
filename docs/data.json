@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T09:28:40.373226+00:00",
+  "generatedAt": "2026-06-24T14:27:53.579585+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1784,11 +1784,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN",
-          "RTL"
+          "ARD/ZDF",
+          "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
