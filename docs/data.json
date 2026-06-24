@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T03:32:06.471142+00:00",
+  "generatedAt": "2026-06-24T09:28:40.373226+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -167,7 +167,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 2
       },
@@ -495,13 +495,13 @@
       "dateLocal": "2026-06-24",
       "kickoff": "2026-06-24T04:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Kolumbien",
         "short": "COL",
         "crest": "https://crests.football-data.org/818.svg",
-        "score": 0
+        "score": 1
       },
       "away": {
         "name": "DR Kongo",
@@ -522,22 +522,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Kolumbien",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Kolumbien mit starker Form und Heimvorteil",
-          "DR Kongo hat Probleme in der Offensive",
-          "Kolumbien hat die qualitativ bessere Mannschaft"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-23T09:37:53.895340+00:00"
+        "available": false
       }
     },
     {
@@ -574,7 +559,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Schweiz",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Schweiz mit stärkerer Turnierform",
+          "Kanada mit Problemen in der Offensive",
+          "Schweiz hat Heimvorteil in der Gruppe"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-24T09:28:04.938167+00:00"
       }
     },
     {
@@ -672,12 +672,12 @@
           "away": 0.05
         },
         "reasons": [
-          "Marokko hat eine deutlich stärkere Mannschaft und spielt zu Hause.",
-          "Haiti hat in der bisherigen Gruppenphase keine überzeugenden Leistungen gezeigt.",
-          "Marokko ist auf eine bessere Platzierung in der Gruppe angewiesen."
+          "Marokko hat Heimvorteil in der Gruppenphase",
+          "Haiti ist klarer Außenseiter in dieser Gruppe",
+          "Marokko ist in besserer Form und hat stärkere Spieler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-23T09:37:57.043594+00:00"
+        "generatedAt": "2026-06-24T09:28:06.998491+00:00"
       }
     },
     {
@@ -870,19 +870,19 @@
         "available": true,
         "outcome": "Sieg Deutschland",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.5,
         "probs": {
           "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
-          "Deutschland hat die stärkere Mannschaftsbreite und individuelle Qualität.",
-          "Ecuador ist heimstark, aber Deutschland hat mehr Erfahrung auf diesem Niveau.",
-          "Die aktuelle Form beider Teams ist vergleichbar, aber Deutschland hat in entscheidenden Spielen oft die Nase vorn."
+          "Deutschland hat die stärkere Mannschaft",
+          "Ecuador hat Heimvorteil, aber Deutschland ist auswärtsstark",
+          "Deutschland braucht die Punkte für das Weiterkommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-23T09:37:58.982504+00:00"
+        "generatedAt": "2026-06-24T09:28:08.807089+00:00"
       }
     },
     {
@@ -1186,12 +1186,12 @@
           "away": 0.45
         },
         "reasons": [
-          "Frankreich hat die stärkere Mannschaft",
-          "Norwegen hat Heimvorteil, aber nicht ausreichend",
-          "Beide Teams sind in guter Form, Frankreich leicht besser"
+          "Frankreich hat die stärkere Mannschaftsbesetzung",
+          "Norwegen hat im direkten Vergleich oft Probleme",
+          "Frankreich ist in der Regel auswärtsstark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-23T09:38:01.131646+00:00"
+        "generatedAt": "2026-06-24T09:28:14.472363+00:00"
       }
     },
     {
@@ -1256,7 +1256,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URU",
+        "short": "URY",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -1494,12 +1494,12 @@
           "away": 0.8
         },
         "reasons": [
-          "England ist klarer Favorit mit höherer individueller Qualität",
-          "Panama hat eine schwächere Gruppenphase gespielt",
-          "England hat eine starke Offensive"
+          "England deutlich stärker besetzt",
+          "Panama in einer sehr schweren Gruppe",
+          "England hat mehr zu verlieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-23T09:38:03.065797+00:00"
+        "generatedAt": "2026-06-24T09:28:19.398392+00:00"
       }
     },
     {
@@ -1846,7 +1846,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "1:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Heimvorteil in K.o.-Runden oft entscheidend",
+          "Ausgeglichene Teams, leichte Vorteile für Heimteam",
+          "Formkurve spricht leicht für Heimteam"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-24T09:28:39.372942+00:00"
       }
     },
     {
@@ -1859,9 +1874,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Deutschland",
-        "short": "GER",
-        "crest": "https://crests.football-data.org/759.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
@@ -2067,9 +2082,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Mexiko",
-        "short": "MEX",
-        "crest": "https://crests.football-data.org/769.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
@@ -2222,9 +2237,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "USA",
-        "short": "USA",
-        "crest": "https://crests.football-data.org/usa.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
@@ -2436,9 +2451,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Argentinien",
-        "short": "ARG",
-        "crest": "https://crests.football-data.org/762.png",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
