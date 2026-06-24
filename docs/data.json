@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T17:04:19.185581+00:00",
+  "generatedAt": "2026-06-24T19:45:19.181551+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -167,7 +167,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": 2
       },
@@ -532,19 +532,19 @@
       "dateLocal": "2026-06-24",
       "kickoff": "2026-06-24T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Schweiz",
         "short": "SUI",
         "crest": "https://crests.football-data.org/788.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Kanada",
         "short": "CAN",
         "crest": "https://crests.football-data.org/canada.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -584,19 +584,19 @@
       "dateLocal": "2026-06-24",
       "kickoff": "2026-06-24T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Bosnien und Herzegowina",
         "short": "BIH",
         "crest": "https://crests.football-data.org/bosnia.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Katar",
         "short": "QAT",
         "crest": "https://crests.football-data.org/8030.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -1256,7 +1256,7 @@
       "minute": null,
       "home": {
         "name": "Uruguay",
-        "short": "URY",
+        "short": "URU",
         "crest": "https://crests.football-data.org/758.svg",
         "score": null
       },
@@ -1874,9 +1874,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Deutschland",
+        "short": "GER",
+        "crest": "https://crests.football-data.org/759.svg",
         "score": null
       },
       "away": {
@@ -2082,9 +2082,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Mexiko",
+        "short": "MEX",
+        "crest": "https://crests.football-data.org/769.svg",
         "score": null
       },
       "away": {
@@ -2237,9 +2237,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "USA",
+        "short": "USA",
+        "crest": "https://crests.football-data.org/usa.svg",
         "score": null
       },
       "away": {
@@ -2451,9 +2451,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Argentinien",
+        "short": "ARG",
+        "crest": "https://crests.football-data.org/762.png",
         "score": null
       },
       "away": {
