@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T03:29:54.424461+00:00",
+  "generatedAt": "2026-06-25T09:21:21.904938+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -631,22 +631,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Deutschland",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "Deutschland hat die stärkere Mannschaft",
-          "Ecuador hat Heimvorteil, aber Deutschland ist auswärtsstark",
-          "Deutschland braucht die Punkte für das Weiterkommen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-24T09:28:08.807089+00:00"
+        "available": false
       }
     },
     {
@@ -950,12 +935,12 @@
           "away": 0.45
         },
         "reasons": [
-          "Frankreich hat die stärkere Mannschaftsbesetzung",
-          "Norwegen hat im direkten Vergleich oft Probleme",
-          "Frankreich ist in der Regel auswärtsstark"
+          "Frankreich hat die stärkere Mannschaft",
+          "Norwegen hat Heimvorteil, aber nicht ausreichend",
+          "Beide Teams brauchen Punkte, was zu einem offenen Spiel führt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-24T09:28:14.472363+00:00"
+        "generatedAt": "2026-06-25T09:20:48.858099+00:00"
       }
     },
     {
@@ -1247,22 +1232,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg England",
-        "scoreline": "0:3",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
-        },
-        "reasons": [
-          "England deutlich stärker besetzt",
-          "Panama in einer sehr schweren Gruppe",
-          "England hat mehr zu verlieren"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-24T09:28:19.398392+00:00"
+        "available": false
       }
     },
     {
@@ -1609,22 +1579,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "1:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Heimvorteil in K.o.-Runden oft entscheidend",
-          "Ausgeglichene Teams, leichte Vorteile für Heimteam",
-          "Formkurve spricht leicht für Heimteam"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-24T09:28:39.372942+00:00"
+        "available": false
       }
     },
     {
@@ -1637,9 +1592,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Deutschland",
+        "short": "GER",
+        "crest": "https://crests.football-data.org/759.svg",
         "score": null
       },
       "away": {
@@ -1830,9 +1785,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Mexiko",
+        "short": "MEX",
+        "crest": "https://crests.football-data.org/769.svg",
         "score": null
       },
       "away": {
@@ -1985,9 +1940,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "USA",
+        "short": "USA",
+        "crest": "https://crests.football-data.org/usa.svg",
         "score": null
       },
       "away": {
@@ -2244,9 +2199,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Argentinien",
+        "short": "ARG",
+        "crest": "https://crests.football-data.org/762.png",
         "score": null
       },
       "away": {
