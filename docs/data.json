@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T17:01:07.033635+00:00",
+  "generatedAt": "2026-06-26T19:46:05.209158+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -685,13 +685,13 @@
         "name": "Norwegen",
         "short": "NOR",
         "crest": "https://crests.football-data.org/813.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Frankreich",
         "short": "FRA",
         "crest": "https://crests.football-data.org/773.svg",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -737,13 +737,13 @@
         "name": "Senegal",
         "short": "SEN",
         "crest": "https://crests.football-data.org/senegal.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Irak",
         "short": "IRQ",
         "crest": "https://crests.football-data.org/iraq.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -1365,9 +1365,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV"
+          "MagentaTV",
+          "ZDF"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -1519,9 +1520,10 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -1672,9 +1674,10 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -1723,9 +1726,10 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -1927,9 +1931,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV"
+          "MagentaTV",
+          "ZDF"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -1978,9 +1983,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV"
+          "MagentaTV",
+          "ZDF"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
