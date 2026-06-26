@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T09:25:30.342033+00:00",
+  "generatedAt": "2026-06-26T14:23:21.724373+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1023,12 +1023,12 @@
           "away": 0.8
         },
         "reasons": [
-          "England ist klarer Favorit aufgrund der individuellen Klasse und Erfahrung.",
-          "Panama hat Heimvorteil, aber die Qualität des Gegners ist zu hoch.",
-          "England wird das Spiel dominieren und früh für klare Verhältnisse sorgen."
+          "England ist klarer Favorit mit besserer individueller Qualität",
+          "Panama hat in der Gruppenphase bisher wenig überzeugt",
+          "England hat die breitere und tiefere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-25T17:12:18.982863+00:00"
+        "generatedAt": "2026-06-26T14:23:05.855434+00:00"
       }
     },
     {
@@ -1299,24 +1299,25 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Südafrika",
-        "short": "RSA",
-        "crest": "https://crests.football-data.org/9396.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
-        "name": "Kanada",
-        "short": "CAN",
-        "crest": "https://crests.football-data.org/canada.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "tv": {
         "known": true,
         "channels": [
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -1350,15 +1351,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Brasilien",
-        "short": "BRA",
-        "crest": "https://crests.football-data.org/764.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
-        "name": "Japan",
-        "short": "JPN",
-        "crest": "https://crests.football-data.org/766.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "tv": {
@@ -1373,22 +1374,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "1:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Heimvorteil nutzen",
-          "Bessere aktuelle Form",
-          "Gegner mit Auswärtsschwächen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-25T14:32:08.711948+00:00"
+        "available": false
       }
     },
     {
@@ -1401,9 +1387,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Deutschland",
-        "short": "GER",
-        "crest": "https://crests.football-data.org/759.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
@@ -1453,15 +1439,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Niederlande",
-        "short": "NED",
-        "crest": "https://crests.football-data.org/8601.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
-        "name": "Marokko",
-        "short": "MAR",
-        "crest": "https://crests.football-data.org/morocco.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "tv": {
@@ -1588,12 +1574,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Heimvorteil in K.o.-Runden oft entscheidend",
-          "Auswärtsmannschaft in der Gruppenphase nur knapp weitergekommen",
-          "Formkurve der Heimmannschaft zuletzt stabilisiert"
+          "Heimmacht in der Gruppenphase",
+          "Schwäche des Auswärtsteams in engen Spielen",
+          "Statistik spricht für Heimteam"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-25T14:32:32.076496+00:00"
+        "generatedAt": "2026-06-26T14:23:20.724119+00:00"
       }
     },
     {
@@ -1606,9 +1592,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Mexiko",
-        "short": "MEX",
-        "crest": "https://crests.football-data.org/769.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
@@ -1759,15 +1745,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "USA",
-        "short": "USA",
-        "crest": "https://crests.football-data.org/usa.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
-        "name": "Bosnien und Herzegowina",
-        "short": "BIH",
-        "crest": "https://crests.football-data.org/bosnia.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "tv": {
@@ -1912,9 +1898,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Schweiz",
-        "short": "SUI",
-        "crest": "https://crests.football-data.org/788.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
@@ -1963,9 +1949,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Australien",
-        "short": "AUS",
-        "crest": "https://crests.football-data.org/779.svg",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
@@ -2014,9 +2000,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Argentinien",
-        "short": "ARG",
-        "crest": "https://crests.football-data.org/762.png",
+        "name": "?",
+        "short": "?",
+        "crest": null,
         "score": null
       },
       "away": {
