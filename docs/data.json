@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T13:41:01.817342+00:00",
+  "generatedAt": "2026-06-27T16:04:51.492446+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1064,25 +1064,25 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Südafrika",
+        "short": "RSA",
+        "crest": "https://crests.football-data.org/9396.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Kanada",
+        "short": "CAN",
+        "crest": "https://crests.football-data.org/canada.svg",
         "score": null
       },
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "ARD",
           "MagentaTV"
         ],
         "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1116,15 +1116,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Brasilien",
+        "short": "BRA",
+        "crest": "https://crests.football-data.org/764.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Japan",
+        "short": "JPN",
+        "crest": "https://crests.football-data.org/766.svg",
         "score": null
       },
       "tv": {
@@ -1168,9 +1168,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Deutschland",
+        "short": "GER",
+        "crest": "https://crests.football-data.org/759.svg",
         "score": null
       },
       "away": {
@@ -1220,15 +1220,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Niederlande",
+        "short": "NED",
+        "crest": "https://crests.football-data.org/8601.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Marokko",
+        "short": "MAR",
+        "crest": "https://crests.football-data.org/morocco.svg",
         "score": null
       },
       "tv": {
@@ -1271,9 +1271,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Elfenbeinküste",
+        "short": "CIV",
+        "crest": "https://crests.football-data.org/787.svg",
         "score": null
       },
       "away": {
@@ -1374,9 +1374,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Mexiko",
+        "short": "MEX",
+        "crest": "https://crests.football-data.org/769.svg",
         "score": null
       },
       "away": {
@@ -1529,15 +1529,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "USA",
+        "short": "USA",
+        "crest": "https://crests.football-data.org/usa.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Bosnien und Herzegowina",
+        "short": "BIH",
+        "crest": "https://crests.football-data.org/bosnia.svg",
         "score": null
       },
       "tv": {
@@ -1683,9 +1683,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Schweiz",
+        "short": "SUI",
+        "crest": "https://crests.football-data.org/788.svg",
         "score": null
       },
       "away": {
@@ -1735,9 +1735,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Australien",
+        "short": "AUS",
+        "crest": "https://crests.football-data.org/779.svg",
         "score": null
       },
       "away": {
@@ -1787,9 +1787,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Argentinien",
+        "short": "ARG",
+        "crest": "https://crests.football-data.org/762.png",
         "score": null
       },
       "away": {
