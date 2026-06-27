@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T02:59:29.820303+00:00",
+  "generatedAt": "2026-06-27T06:35:01.102343+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -680,19 +680,19 @@
       "dateLocal": "2026-06-27",
       "kickoff": "2026-06-27T05:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Neuseeland",
         "short": "NZL",
         "crest": "https://crests.football-data.org/783.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Belgien",
         "short": "BEL",
         "crest": "https://crests.football-data.org/805.svg",
-        "score": null
+        "score": 5
       },
       "tv": {
         "known": true,
@@ -706,22 +706,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Belgien",
-        "scoreline": "0:2",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
-        },
-        "reasons": [
-          "Belgien hat eine deutlich stärkere Mannschaft",
-          "Neuseeland hat in der Gruppenphase bisher wenig überzeugt",
-          "Belgien ist auf dem Papier der klare Favorit"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-26T09:25:07.537994+00:00"
+        "available": false
       }
     },
     {
@@ -731,19 +716,19 @@
       "dateLocal": "2026-06-27",
       "kickoff": "2026-06-27T05:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Ägypten",
         "short": "EGY",
         "crest": "https://crests.football-data.org/825.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Iran",
         "short": "IRN",
         "crest": "https://crests.football-data.org/iran.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -757,22 +742,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Ägypten mit Heimvorteil und leichter Formsteigerung",
-          "Iran defensiv stabil, aber auswärts schwächer",
-          "Beide Teams kämpfen um den Aufstieg, was zu einem vorsichtigen Spiel führt"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-27T02:58:57.202219+00:00"
+        "available": false
       }
     },
     {
@@ -862,7 +832,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Kroatien",
-        "scoreline": "2:0",
+        "scoreline": "1:0",
         "confidence": 0.6,
         "probs": {
           "home": 0.6,
@@ -870,12 +840,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Kroatien mit stärkerer Kaderbreite und Erfahrung",
-          "Ghana zuletzt mit wechselhaften Leistungen",
-          "Kroatien genießt Heimvorteil in der Gruppenphase"
+          "Kroatien hat mehr Erfahrung bei großen Turnieren",
+          "Ghana hat zuletzt schwankende Leistungen gezeigt",
+          "Kroatien spielt zu Hause"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-26T09:25:15.270560+00:00"
+        "generatedAt": "2026-06-27T06:34:34.503209+00:00"
       }
     },
     {
@@ -914,20 +884,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Kolumbien",
-        "scoreline": "1:0",
-        "confidence": 0.55,
+        "scoreline": "2:1",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.55,
+          "home": 0.5,
           "draw": 0.3,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Kolumbien hat Heimvorteil",
-          "Portugal mit leichter Formschwäche",
-          "Beide Teams defensivstark, erwartet torarmes Spiel"
+          "Kolumbien mit starker Heimform in der Qualifikation",
+          "Portugal hat wichtige Ausfälle in der Offensive",
+          "Kolumbien hat den Heimvorteil und die breitere Kaderdichte"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-26T09:25:17.109949+00:00"
+        "generatedAt": "2026-06-27T06:34:43.907530+00:00"
       }
     },
     {
@@ -1094,25 +1064,25 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Südafrika",
+        "short": "RSA",
+        "crest": "https://crests.football-data.org/9396.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Kanada",
+        "short": "CAN",
+        "crest": "https://crests.football-data.org/canada.svg",
         "score": null
       },
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "ARD",
           "MagentaTV"
         ],
         "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1146,15 +1116,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Brasilien",
+        "short": "BRA",
+        "crest": "https://crests.football-data.org/764.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Japan",
+        "short": "JPN",
+        "crest": "https://crests.football-data.org/766.svg",
         "score": null
       },
       "tv": {
@@ -1198,9 +1168,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Deutschland",
+        "short": "GER",
+        "crest": "https://crests.football-data.org/759.svg",
         "score": null
       },
       "away": {
@@ -1250,15 +1220,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Niederlande",
+        "short": "NED",
+        "crest": "https://crests.football-data.org/8601.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Marokko",
+        "short": "MAR",
+        "crest": "https://crests.football-data.org/morocco.svg",
         "score": null
       },
       "tv": {
@@ -1301,9 +1271,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Elfenbeinküste",
+        "short": "CIV",
+        "crest": "https://crests.football-data.org/787.svg",
         "score": null
       },
       "away": {
@@ -1404,9 +1374,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Mexiko",
+        "short": "MEX",
+        "crest": "https://crests.football-data.org/769.svg",
         "score": null
       },
       "away": {
@@ -1479,7 +1449,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Beide Teams sind in guter Form und haben ähnliche Spielstile.",
+          "Die Auswärtsmannschaft hat eine starke Defensive, die schwer zu knacken ist.",
+          "Die Heimelf wird durch den Heimvorteil angetrieben, aber das Spiel wird voraussichtlich eng sein."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-27T06:34:51.006986+00:00"
       }
     },
     {
@@ -1544,15 +1529,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "USA",
+        "short": "USA",
+        "crest": "https://crests.football-data.org/usa.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Bosnien und Herzegowina",
+        "short": "BIH",
+        "crest": "https://crests.football-data.org/bosnia.svg",
         "score": null
       },
       "tv": {
@@ -1620,21 +1605,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "1:0",
-        "confidence": 0.6,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Heimmacht ist stärker",
-          "Auswärtsmannschaft in schlechter Form",
-          "Beide Teams haben ähnliche Verletzungssorgen"
+          "Beide Teams in ausgeglichener Form",
+          "Keine klaren Vorteile bei Verletzungen",
+          "Beide Teams haben ähnliche Tabellenpositionen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-26T09:25:29.341725+00:00"
+        "generatedAt": "2026-06-27T06:34:58.183777+00:00"
       }
     },
     {
@@ -1698,9 +1683,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Schweiz",
+        "short": "SUI",
+        "crest": "https://crests.football-data.org/788.svg",
         "score": null
       },
       "away": {
@@ -1750,9 +1735,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Australien",
+        "short": "AUS",
+        "crest": "https://crests.football-data.org/779.svg",
         "score": null
       },
       "away": {
@@ -1802,9 +1787,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Argentinien",
+        "short": "ARG",
+        "crest": "https://crests.football-data.org/762.png",
         "score": null
       },
       "away": {
@@ -1825,7 +1810,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Argentinien",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Argentinien ist klarer Favorit mit starker Form",
+          "Der Heimvorteil spricht deutlich für Argentinien",
+          "Der Gegner hat sich nicht qualifiziert und ist daher unbekannt, was auf eine schwächere Leistung hindeutet"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-27T06:35:00.102083+00:00"
       }
     },
     {
