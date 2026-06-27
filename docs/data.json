@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T10:58:03.689817+00:00",
+  "generatedAt": "2026-06-27T13:41:01.817342+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1141,21 +1141,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "1:0",
-        "confidence": 0.6,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Heimmacht und starke Defensive",
-          "Auswärtsmannschaft mit Formschwankungen",
-          "Letzte Ergebnisse sprechen für Heimteam"
+          "Beide Teams sind in guter Form",
+          "Die Heimstärke des Heimteams wird durch die Auswärtsstärke des Auswärtsteams ausgeglichen",
+          "Die Tabellensituation lässt auf ein vorsichtiges Spiel beider Seiten schließen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-26T17:01:06.033337+00:00"
+        "generatedAt": "2026-06-27T13:41:00.817069+00:00"
       }
     },
     {
