@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T03:42:44.591907+00:00",
+  "generatedAt": "2026-06-28T08:50:47.353438+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -754,7 +754,7 @@
       "dateLocal": "2026-06-28",
       "kickoff": "2026-06-28T04:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Jordanien",
@@ -766,7 +766,7 @@
         "name": "Argentinien",
         "short": "ARG",
         "crest": "https://crests.football-data.org/762.png",
-        "score": 2
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -780,22 +780,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Argentinien",
-        "scoreline": "0:3",
-        "confidence": 0.85,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.1,
-          "away": 0.85
-        },
-        "reasons": [
-          "Argentinien ist der klare Favorit mit Weltklasse-Spielern.",
-          "Jordanien hat eine schwächere Bilanz gegen Top-Nationen.",
-          "Argentinien hat mehr auf dem Spiel, um die Gruppenphase zu überstehen."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-28T03:42:05.189490+00:00"
+        "available": false
       }
     },
     {
@@ -805,19 +790,19 @@
       "dateLocal": "2026-06-28",
       "kickoff": "2026-06-28T04:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Algerien",
         "short": "ALG",
         "crest": "https://crests.football-data.org/algeria.svg",
-        "score": 2
+        "score": 3
       },
       "away": {
         "name": "Österreich",
         "short": "AUT",
         "crest": "https://crests.football-data.org/816.svg",
-        "score": 2
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -832,22 +817,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Algerien",
-        "scoreline": "1:0",
-        "confidence": 0.45,
-        "probs": {
-          "home": 0.45,
-          "draw": 0.3,
-          "away": 0.25
-        },
-        "reasons": [
-          "Algerien mit Heimvorteil und starker Gruppenphase",
-          "Österreich zuletzt mit durchwachsenen Ergebnissen",
-          "Beide Teams defensiv stabil, erwartet knappe Partie"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-28T03:42:07.013278+00:00"
+        "available": false
       }
     },
     {
@@ -970,9 +940,9 @@
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Paraguay",
+        "short": "PAR",
+        "crest": "https://crests.football-data.org/761.svg",
         "score": null
       },
       "tv": {
@@ -1073,9 +1043,9 @@
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Norwegen",
+        "short": "NOR",
+        "crest": "https://crests.football-data.org/813.svg",
         "score": null
       },
       "tv": {
@@ -1119,15 +1089,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Frankreich",
+        "short": "FRA",
+        "crest": "https://crests.football-data.org/773.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Schweden",
+        "short": "SWE",
+        "crest": "https://crests.football-data.org/792.svg",
         "score": null
       },
       "tv": {
@@ -1143,21 +1113,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Frankreich",
+        "scoreline": "3:1",
+        "confidence": 0.7,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
         },
         "reasons": [
-          "Beide Teams zeigen ähnliche Leistungen in den letzten Spielen.",
-          "Die Auswärtsmannschaft hat eine solide Defensive.",
-          "Der Heimvorteil gleicht sich durch die taktische Disziplin des Auswärtsteams aus."
+          "Frankreich hat eine starke Offensive",
+          "Schweden hat zuletzt schwankende Leistungen gezeigt",
+          "Frankreich genießt Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-27T10:58:02.689566+00:00"
+        "generatedAt": "2026-06-28T08:50:46.353216+00:00"
       }
     },
     {
@@ -1176,9 +1146,9 @@
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Ecuador",
+        "short": "ECU",
+        "crest": "https://crests.football-data.org/791.svg",
         "score": null
       },
       "tv": {
@@ -1221,15 +1191,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "England",
+        "short": "ENG",
+        "crest": "https://crests.football-data.org/770.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "DR Kongo",
+        "short": "COD",
+        "crest": "https://crests.football-data.org/congo_dr.svg",
         "score": null
       },
       "tv": {
@@ -1273,15 +1243,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Belgien",
+        "short": "BEL",
+        "crest": "https://crests.football-data.org/805.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Senegal",
+        "short": "SEN",
+        "crest": "https://crests.football-data.org/senegal.svg",
         "score": null
       },
       "tv": {
@@ -1376,15 +1346,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Spanien",
+        "short": "ESP",
+        "crest": "https://crests.football-data.org/760.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Österreich",
+        "short": "AUT",
+        "crest": "https://crests.football-data.org/816.svg",
         "score": null
       },
       "tv": {
@@ -1428,15 +1398,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Portugal",
+        "short": "POR",
+        "crest": "https://crests.football-data.org/765.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Kroatien",
+        "short": "CRO",
+        "crest": "https://crests.football-data.org/799.svg",
         "score": null
       },
       "tv": {
@@ -1485,9 +1455,9 @@
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Algerien",
+        "short": "ALG",
+        "crest": "https://crests.football-data.org/algeria.svg",
         "score": null
       },
       "tv": {
@@ -1537,9 +1507,9 @@
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Ägypten",
+        "short": "EGY",
+        "crest": "https://crests.football-data.org/825.svg",
         "score": null
       },
       "tv": {
@@ -1589,9 +1559,9 @@
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Kap Verde",
+        "short": "CPV",
+        "crest": "https://crests.football-data.org/cape_verde.svg",
         "score": null
       },
       "tv": {
@@ -1634,15 +1604,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Kolumbien",
+        "short": "COL",
+        "crest": "https://crests.football-data.org/818.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Ghana",
+        "short": "GHA",
+        "crest": "https://crests.football-data.org/ghana.svg",
         "score": null
       },
       "tv": {
