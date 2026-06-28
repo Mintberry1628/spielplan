@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T10:00:56.152962+00:00",
+  "generatedAt": "2026-06-28T11:07:04.051985+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -858,11 +858,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 6.0,
-        "draw": 3.8,
-        "away": 1.66,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -915,11 +911,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.72,
-        "draw": 3.9,
-        "away": 5.4,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -972,11 +964,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.33,
-        "draw": 5.2,
-        "away": 9.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1028,11 +1016,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 2.18,
-        "draw": 3.1,
-        "away": 4.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1085,11 +1069,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 3.8,
-        "draw": 3.4,
-        "away": 2.02,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1141,11 +1121,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.28,
-        "draw": 6.0,
-        "away": 12.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1197,11 +1173,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 2.25,
-        "draw": 3.05,
-        "away": 4.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1254,11 +1226,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.24,
-        "draw": 5.5,
-        "away": 12.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1311,11 +1279,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 2.1,
-        "draw": 3.3,
-        "away": 3.7,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1420,11 +1384,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.26,
-        "draw": 5.1,
-        "away": 12.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1476,11 +1436,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.82,
-        "draw": 3.55,
-        "away": 4.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1533,11 +1489,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.85,
-        "draw": 3.6,
-        "away": 4.25,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1590,11 +1542,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 3.3,
-        "draw": 2.95,
-        "away": 2.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1646,11 +1594,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.15,
-        "draw": 9.0,
-        "away": 23.0,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1702,11 +1646,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.61,
-        "draw": 3.65,
-        "away": 6.4,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
