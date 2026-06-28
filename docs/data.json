@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T16:10:02.759203+00:00",
+  "generatedAt": "2026-06-28T19:18:46.890779+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -833,19 +833,19 @@
       "dateLocal": "2026-06-28",
       "kickoff": "2026-06-28T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Südafrika",
         "short": "RSA",
         "crest": "https://crests.football-data.org/9396.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Kanada",
         "short": "CAN",
         "crest": "https://crests.football-data.org/canada.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
