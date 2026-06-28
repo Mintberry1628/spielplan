@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T19:18:46.890779+00:00",
+  "generatedAt": "2026-06-28T22:01:53.049417+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -833,7 +833,7 @@
       "dateLocal": "2026-06-28",
       "kickoff": "2026-06-28T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Südafrika",
@@ -845,7 +845,7 @@
         "name": "Kanada",
         "short": "CAN",
         "crest": "https://crests.football-data.org/canada.svg",
-        "score": 0
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -861,22 +861,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Kanada",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.25,
-          "draw": 0.35,
-          "away": 0.4
-        },
-        "reasons": [
-          "Kanada ist favorisiert laut Buchmacher",
-          "Südafrika mit schwächerer Form in den letzten Spielen",
-          "Kanada hat eine stärkere Offensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-28T09:58:35.236024+00:00"
+        "available": false
       }
     },
     {
