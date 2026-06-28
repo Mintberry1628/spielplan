@@ -254,7 +254,16 @@ function renderMatch(m) {
   return card;
 }
 
-function tn(t) { return (t && t.name) || "?"; }
+// Steht der Gegner noch nicht fest? (leer, "?" oder Platzhalter wie "Sieger Gruppe A")
+function teamUnknown(t) {
+  const n = ((t && t.name) || "").trim().toLowerCase();
+  return !n || n === "?" ||
+    /sieger|verlierer|gewinner|winner|loser|gruppe |group |tbd|n\.n|qualif|runner|platz /.test(n);
+}
+function tn(t) {
+  const n = ((t && t.name) || "").trim();
+  return (!n || n === "?") ? "offen" : n;
+}
 function crestImg(t) {
   return (t && t.crest)
     ? `<img class="m-crest" src="${t.crest}" alt="" loading="lazy" onerror="this.style.display='none'">`
@@ -278,6 +287,10 @@ function headHtml(m) {
 }
 
 function teamsHtml(m) {
+  // Beide Gegner noch offen -> klarer Hinweis statt "offen – offen"
+  if (teamUnknown(m.home) && teamUnknown(m.away)) {
+    return `<div class="m-teams m-tbd"><span class="m-tbd-txt">⏳ Paarung steht noch nicht fest</span></div>`;
+  }
   const showScore = (m.status === "live" || m.status === "finished") &&
     m.home && m.away && m.home.score != null && m.away.score != null;
   const center = showScore ? `<span class="m-score">${m.home.score}:${m.away.score}</span>` : `<span class="m-dash">–</span>`;
@@ -334,9 +347,9 @@ function predBodyHtml(m, p) {
 
 function matchToText(m) {
   const time = m.kickoffKnown && m.kickoff ? formatTime(m.kickoff) : "Uhrzeit noch offen";
-  const home = m.home ? m.home.name : "?";
-  const away = m.away ? m.away.name : "?";
-  let t = `⚽ ${home} – ${away}\n${COMP_ICON[m.competition] || ""} ${m.competition}`;
+  const pairing = (teamUnknown(m.home) && teamUnknown(m.away))
+    ? "Paarung noch offen" : `${tn(m.home)} – ${tn(m.away)}`;
+  let t = `⚽ ${pairing}\n${COMP_ICON[m.competition] || ""} ${m.competition}`;
   if (m.competitionStage) t += ` (${m.competitionStage})`;
   t += `\n📅 ${formatWeekday(m.dateLocal)}, ${formatFull(m.dateLocal)} · ${time}`;
   if (m.tv && m.tv.known && m.tv.channels && m.tv.channels.length) {

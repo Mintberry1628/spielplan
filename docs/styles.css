@@ -147,6 +147,8 @@ button { font-family: inherit; cursor: pointer; }
 .m-crest { width: 21px; height: 21px; object-fit: contain; flex-shrink: 0; }
 .m-score { font-size: var(--fs-big); font-weight: 800; white-space: nowrap; }
 .m-dash { color: var(--text-soft); font-weight: 700; }
+.m-teams.m-tbd { display: block; text-align: center; }
+.m-tbd-txt { color: var(--text-soft); font-style: italic; font-weight: 600; font-size: 0.95rem; }
 
 /* TV-Sender – betont (wichtigster Punkt) */
 .m-tv {

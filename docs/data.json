@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T10:00:56.152962+00:00",
+  "generatedAt": "2026-06-28T13:54:47.776554+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -860,8 +860,8 @@
       "odds": {
         "known": true,
         "home": 6.0,
-        "draw": 3.8,
-        "away": 1.66,
+        "draw": 3.65,
+        "away": 1.68,
         "source": "the-odds-api"
       },
       "prediction": {
@@ -973,9 +973,9 @@
       },
       "odds": {
         "known": true,
-        "home": 1.33,
-        "draw": 5.2,
-        "away": 9.5,
+        "home": 1.3,
+        "draw": 5.5,
+        "away": 10.0,
         "source": "the-odds-api"
       },
       "prediction": {
@@ -1029,8 +1029,8 @@
       },
       "odds": {
         "known": true,
-        "home": 2.18,
-        "draw": 3.1,
+        "home": 2.2,
+        "draw": 3.0,
         "away": 4.0,
         "source": "the-odds-api"
       },
@@ -1142,8 +1142,8 @@
       },
       "odds": {
         "known": true,
-        "home": 1.28,
-        "draw": 6.0,
+        "home": 1.27,
+        "draw": 6.4,
         "away": 12.0,
         "source": "the-odds-api"
       },
@@ -1198,8 +1198,8 @@
       },
       "odds": {
         "known": true,
-        "home": 2.25,
-        "draw": 3.05,
+        "home": 2.3,
+        "draw": 2.95,
         "away": 4.0,
         "source": "the-odds-api"
       },
@@ -1312,9 +1312,9 @@
       },
       "odds": {
         "known": true,
-        "home": 2.1,
-        "draw": 3.3,
-        "away": 3.7,
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.8,
         "source": "the-odds-api"
       },
       "prediction": {
@@ -1423,7 +1423,7 @@
         "known": true,
         "home": 1.26,
         "draw": 5.1,
-        "away": 12.0,
+        "away": 12.5,
         "source": "the-odds-api"
       },
       "prediction": {
@@ -1477,9 +1477,9 @@
       },
       "odds": {
         "known": true,
-        "home": 1.82,
-        "draw": 3.55,
-        "away": 4.5,
+        "home": 1.76,
+        "draw": 3.65,
+        "away": 4.6,
         "source": "the-odds-api"
       },
       "prediction": {
@@ -1534,9 +1534,9 @@
       },
       "odds": {
         "known": true,
-        "home": 1.85,
-        "draw": 3.6,
-        "away": 4.25,
+        "home": 1.82,
+        "draw": 3.55,
+        "away": 4.5,
         "source": "the-odds-api"
       },
       "prediction": {
@@ -1591,9 +1591,9 @@
       },
       "odds": {
         "known": true,
-        "home": 3.3,
+        "home": 3.4,
         "draw": 2.95,
-        "away": 2.5,
+        "away": 2.45,
         "source": "the-odds-api"
       },
       "prediction": {
@@ -1647,7 +1647,7 @@
       },
       "odds": {
         "known": true,
-        "home": 1.15,
+        "home": 1.14,
         "draw": 9.0,
         "away": 23.0,
         "source": "the-odds-api"
@@ -1703,9 +1703,9 @@
       },
       "odds": {
         "known": true,
-        "home": 1.61,
-        "draw": 3.65,
-        "away": 6.4,
+        "home": 1.56,
+        "draw": 3.8,
+        "away": 6.75,
         "source": "the-odds-api"
       },
       "prediction": {
@@ -1761,22 +1761,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Beide Teams sind in guter Form und haben ähnliche Stärken.",
-          "Die Auswärtsmannschaft hat eine starke Defensive.",
-          "Das Heimteam hat einen leichten Vorteil durch den Heimvorteil, aber die Auswärtsmannschaft ist schwer zu schlagen."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-28T09:59:06.119982+00:00"
+        "available": false
       }
     },
     {
@@ -1813,22 +1798,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Beide Teams sind formstark und haben ähnliche Offensiv- und Defensivqualitäten.",
-          "Die Auswärtsmannschaft hat eine gute Auswärtsbilanz und wird dem Heimteam alles abverlangen.",
-          "Das Spiel könnte durch Kleinigkeiten entschieden werden, was ein Unentschieden wahrscheinlich macht."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-28T09:59:08.288327+00:00"
+        "available": false
       }
     },
     {
@@ -1865,22 +1835,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "1:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Heimvorteil in K.O.-Runden oft entscheidend",
-          "Auswärtsmannschaft mit Formschwankungen in der Gruppenphase",
-          "Beide Teams defensiv stabil, erwartet torarmes Spiel"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-28T09:59:10.407395+00:00"
+        "available": false
       }
     },
     {
@@ -1917,22 +1872,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:1",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
-        },
-        "reasons": [
-          "Heimvorteil spricht für die Heimmannschaft",
-          "Aktuelle Form ist ausgeglichen",
-          "Beide Teams haben ähnliche Tabellenpositionen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-28T09:59:12.276350+00:00"
+        "available": false
       }
     },
     {
@@ -1969,22 +1909,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Beide Teams sind in guter Form und haben ähnliche Stärken.",
-          "Die Auswärtsmannschaft hat eine starke Defensive, die schwer zu knacken ist.",
-          "Historisch gesehen sind die Duelle zwischen diesen beiden Teams oft ausgeglichen."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-28T09:59:14.393021+00:00"
+        "available": false
       }
     },
     {

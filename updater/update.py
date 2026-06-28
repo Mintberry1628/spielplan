@@ -472,11 +472,15 @@ def generate_predictions(cfg, matches):
     now = datetime.now(timezone.utc)
     horizon = (now + timedelta(days=8)).strftime("%Y-%m-%d")
 
-    count = reused = 0
+    count = reused = skipped = 0
     for m in matches:
         if m["status"] == "finished":
             continue
         if m["dateLocal"] > horizon:  # Kostenkontrolle: nur Spiele der nächsten 8 Tage
+            continue
+        if not teams_known(m):  # noch unbekannte Paarung (z.B. K.-o.-Runde) -> keine Prognose
+            m["prediction"] = {"available": False}
+            skipped += 1
             continue
         cached = prev.get(m["id"])
         if cached and _fresh(cached.get("generatedAt"), now, ttl):
@@ -488,7 +492,21 @@ def generate_predictions(cfg, matches):
             m["prediction"] = pred
             count += 1
             time.sleep(1)
-    print(f"[INFO] KI-Prognosen ({cfg['provider']}/{cfg['model']}): {count} neu, {reused} aus Cache.")
+    print(f"[INFO] KI-Prognosen ({cfg['provider']}/{cfg['model']}): {count} neu, {reused} aus Cache, "
+          f"{skipped} ohne feststehende Paarung übersprungen.")
+
+
+def teams_known(m):
+    """False, wenn ein Gegner noch nicht feststeht (leer, '?' oder Platzhalter wie 'Sieger Gruppe A')."""
+    for side in ("home", "away"):
+        n = ((m.get(side) or {}).get("name") or "").strip().lower()
+        if not n or n == "?":
+            return False
+        if any(k in n for k in ("sieger", "verlierer", "gewinner", "winner", "loser",
+                                "gruppe ", "group ", "tbd", "n.n", "qualif", "runner",
+                                "platz ", "/", " oder ", " or ")):
+            return False
+    return True
 
 
 def load_prev_predictions(cfg):
