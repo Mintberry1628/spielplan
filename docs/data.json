@@ -915,11 +915,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.72,
-        "draw": 3.9,
-        "away": 5.4,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1085,11 +1081,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 3.8,
-        "draw": 3.4,
-        "away": 2.02,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
@@ -1254,11 +1246,7 @@
         "note": null
       },
       "odds": {
-        "known": true,
-        "home": 1.24,
-        "draw": 5.5,
-        "away": 12.5,
-        "source": "the-odds-api"
+        "known": false
       },
       "prediction": {
         "available": true,
