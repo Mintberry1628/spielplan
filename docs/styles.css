@@ -19,9 +19,9 @@
   --pay-tv: #5664d2;
   --shadow: 0 1px 5px rgba(20, 40, 60, 0.07);
 
-  --fs-base: 17px;
-  --fs-team: 1.05rem;
-  --fs-big: 1.3rem;
+  --fs-base: 16px;
+  --fs-team: 1rem;
+  --fs-big: 1.25rem;
   --safe-bottom: env(safe-area-inset-bottom, 0px);
   --safe-top: env(safe-area-inset-top, 0px);
 }
@@ -138,13 +138,13 @@ button { font-family: inherit; cursor: pointer; }
 
 /* Mannschaften – eine Zeile */
 .m-teams {
-  display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 8px; padding: 8px 12px;
+  display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 8px; padding: 6px 12px;
 }
 .m-team { display: flex; align-items: center; gap: 7px; min-width: 0; }
 .m-home { justify-content: flex-end; text-align: right; }
 .m-away { justify-content: flex-start; text-align: left; }
 .m-tn { font-weight: 700; font-size: var(--fs-team); line-height: 1.2; }
-.m-crest { width: 24px; height: 24px; object-fit: contain; flex-shrink: 0; }
+.m-crest { width: 21px; height: 21px; object-fit: contain; flex-shrink: 0; }
 .m-score { font-size: var(--fs-big); font-weight: 800; white-space: nowrap; }
 .m-dash { color: var(--text-soft); font-weight: 700; }
 

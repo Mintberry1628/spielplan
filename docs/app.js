@@ -39,6 +39,7 @@ const state = {
   byDate: new Map(),     // "YYYY-MM-DD" -> [matches]
   selectedDate: todayStr(),
   offline: false,
+  autoJump: true,        // beim ersten Laden ggf. zum nächsten Spieltag springen
 };
 
 /* ----------------- Hilfsfunktionen Datum ----------------- */
@@ -94,9 +95,26 @@ async function loadData() {
   }
   indexData();
   rearmReminders();
+  // Beim ersten Laden: falls heute keine Spiele sind, zum nächsten Spieltag springen
+  if (state.autoJump) {
+    state.autoJump = false;
+    jumpToNearestMatchday();
+  }
   render();
   renderStatus();
   renderDataStamp();
+}
+
+// Springt auf den nächsten Tag (ab heute) mit Spielen, falls der aktuell gewählte
+// Tag leer ist. So landet man immer auf echtem Inhalt statt einer leeren Seite.
+function jumpToNearestMatchday() {
+  if ((state.byDate.get(state.selectedDate) || []).length) return;
+  const today = todayStr();
+  const future = [...state.byDate.keys()].filter((d) => d >= today).sort();
+  if (future.length) { state.selectedDate = future[0]; return; }
+  // sonst: jüngster vergangener Tag mit Spielen
+  const past = [...state.byDate.keys()].filter((d) => d < today).sort();
+  if (past.length) state.selectedDate = past[past.length - 1];
 }
 
 function indexData() {
@@ -270,10 +288,18 @@ function teamsHtml(m) {
   </div>`;
 }
 
+// Echte Free-TV-Sender (grün); alles andere = Pay (blau)
+function isFreeChannel(name) {
+  const n = (name || "").toLowerCase();
+  if (n.includes("rtl+") || n.includes("rtl plus")) return false;
+  return ["ard", "zdf", "das erste", "sat.1", "sat1", "nitro", "sport1", "rtl", "kika", "one"]
+    .some((f) => n.includes(f));
+}
+
 function tvHtml(m) {
   const tv = m.tv || {};
   if (tv.known && tv.channels && tv.channels.length) {
-    const chips = tv.channels.map((c) => `<span class="tv-chip ${tv.free ? "free" : ""}">${c}</span>`).join("");
+    const chips = tv.channels.map((c) => `<span class="tv-chip ${isFreeChannel(c) ? "free" : ""}">${c}</span>`).join("");
     return `<div class="m-tv"><span class="m-tv-ic">📺</span><span class="tv-chips">${chips}</span>${tv.free ? `<span class="tv-free">frei</span>` : ""}</div>`;
   }
   return `<div class="m-tv unknown"><span class="m-tv-ic">📺</span><span class="m-open">Sender noch offen</span></div>`;
@@ -621,7 +647,14 @@ function init() {
 
   // Live-Aktualisierung: solange die App offen ist, alle 60 Sek. neu laden
   setInterval(() => { if (document.visibilityState === "visible") loadData(); }, 60 * 1000);
-  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") loadData(); });
+  // Beim Wiederöffnen der App immer auf "heute" springen (nicht auf einem alten Tag hängen bleiben)
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible") {
+      state.selectedDate = todayStr();
+      state.autoJump = true;
+      loadData();
+    }
+  });
 }
 
 document.addEventListener("DOMContentLoaded", init);

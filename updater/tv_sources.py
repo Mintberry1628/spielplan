@@ -88,8 +88,15 @@ def map_channel(slug, name):
     s = slug.lower()
     if "das-erste" in s or s == "ard":           return ("ARD", True)
     if "zdf" in s:                                return ("ZDF", True)
-    if "magenta" in s or "fussball-tv" in s:      return ("MagentaTV", False)
-    if "dazn" in s:                               return ("DAZN", False)
+    # MagentaTV: genauen Fußball-Kanal zeigen (z.B. "MagentaTV Fußball 1")
+    if "fussball-tv" in s:
+        mm = re.search(r"(\d+)", s)
+        return (("MagentaTV Fußball " + mm.group(1)) if mm else "MagentaTV", False)
+    if "magentasport" in s:                       return ("MagentaSport", False)
+    if "magenta" in s:                            return ("MagentaTV", False)
+    if "dazn" in s:
+        mm = re.search(r"dazn[\- ]?(\d+)", s)
+        return (("DAZN " + mm.group(1)) if mm else "DAZN", False)
     if "wow" in s:                                return ("WOW", False)
     if "sky" in s:                                return ("Sky", False)
     if "amazon" in s or "prime" in s:             return ("Amazon Prime Video", False)
@@ -122,20 +129,22 @@ def scrape_day(date_str, timeout=30):
         teams = re.findall(r'href="/team/([a-z0-9-]+)"', block)
         home_slug = teams[0] if len(teams) >= 1 else ""
         away_slug = teams[1] if len(teams) >= 2 else ""
-        # Sender einsammeln
-        channels = []
-        free = False
+        # Sender einsammeln (mit Frei-/Pay-Kennzeichnung)
+        chans, seen = [], set()
         for m in re.finditer(r'href="/sender/([a-z0-9-]+)"[^>]*>([^<]+)</a>', block):
             disp, is_free = map_channel(m.group(1), htmllib.unescape(m.group(2)).strip())
-            if disp and disp not in channels:
-                channels.append(disp)
-                if is_free:
-                    free = True
+            if disp and disp not in seen:
+                seen.add(disp)
+                chans.append((disp, is_free))
+        free = any(f for _, f in chans)
+        # Frei empfangbare Sender zuerst (damit der kostenlose Sender nicht weggekürzt wird)
+        chans.sort(key=lambda x: 0 if x[1] else 1)
+        channels = [d for d, _ in chans][:3]
         if channels:
             matches.append({
                 "time": ("0" + tm) if len(tm) == 4 else tm,
                 "comp_slug": comp_slug, "home_slug": home_slug, "away_slug": away_slug,
-                "channels": channels[:3], "free": free,
+                "channels": channels, "free": free,
             })
     return matches
 
