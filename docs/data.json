@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T22:01:53.049417+00:00",
+  "generatedAt": "2026-06-29T03:48:18.030940+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,228 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537344",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_C",
-      "dateLocal": "2026-06-25",
-      "kickoff": "2026-06-25T00:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Marokko",
-        "short": "MAR",
-        "crest": "https://crests.football-data.org/morocco.svg",
-        "score": 4
-      },
-      "away": {
-        "name": "Haiti",
-        "short": "HAI",
-        "crest": "https://crests.football-data.org/haiti.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537343",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_C",
-      "dateLocal": "2026-06-25",
-      "kickoff": "2026-06-25T00:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Schottland",
-        "short": "SCO",
-        "crest": "https://crests.football-data.org/814.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Brasilien",
-        "short": "BRA",
-        "crest": "https://crests.football-data.org/764.svg",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537331",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_A",
-      "dateLocal": "2026-06-25",
-      "kickoff": "2026-06-25T03:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Tschechien",
-        "short": "CZE",
-        "crest": "https://crests.football-data.org/798.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Mexiko",
-        "short": "MEX",
-        "crest": "https://crests.football-data.org/769.svg",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537332",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_A",
-      "dateLocal": "2026-06-25",
-      "kickoff": "2026-06-25T03:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Südafrika",
-        "short": "RSA",
-        "crest": "https://crests.football-data.org/9396.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Südkorea",
-        "short": "KOR",
-        "crest": "https://crests.football-data.org/772.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537355",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_E",
-      "dateLocal": "2026-06-25",
-      "kickoff": "2026-06-25T22:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Ecuador",
-        "short": "ECU",
-        "crest": "https://crests.football-data.org/791.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "Deutschland",
-        "short": "GER",
-        "crest": "https://crests.football-data.org/759.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537356",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_E",
-      "dateLocal": "2026-06-25",
-      "kickoff": "2026-06-25T22:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Curaçao",
-        "short": "CUW",
-        "crest": "https://crests.football-data.org/curacao.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Elfenbeinküste",
-        "short": "CIV",
-        "crest": "https://crests.football-data.org/787.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537361",
       "competition": "WM",
@@ -698,12 +476,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
-          "MagentaTV Fußball 1",
-          "MagentaTV Fußball 3"
+          "ARD/ZDF",
+          "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -736,12 +513,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV Fußball 2",
-          "MagentaTV Fußball 3",
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -774,12 +550,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV Fußball 2",
-          "MagentaTV Fußball 3",
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -812,12 +587,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
-          "MagentaTV Fußball 1",
-          "MagentaTV Fußball 3"
+          "ARD/ZDF",
+          "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -850,12 +624,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
