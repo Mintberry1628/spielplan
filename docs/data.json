@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T15:44:44.083235+00:00",
+  "generatedAt": "2026-06-29T19:56:39.419617+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -644,19 +644,19 @@
       "dateLocal": "2026-06-29",
       "kickoff": "2026-06-29T19:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Brasilien",
         "short": "BRA",
         "crest": "https://crests.football-data.org/764.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Japan",
         "short": "JPN",
         "crest": "https://crests.football-data.org/766.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -672,22 +672,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Brasilien",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Brasilien ist Favorit mit starker Offensive",
-          "Japan hat zuletzt schwankende Leistungen gezeigt",
-          "Brasilien hat den Heimvorteil auf seiner Seite"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-29T10:57:29.956454+00:00"
+        "available": false
       }
     },
     {
