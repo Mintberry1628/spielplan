@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:56:39.419617+00:00",
+  "generatedAt": "2026-06-29T22:08:20.122350+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -682,19 +682,19 @@
       "dateLocal": "2026-06-29",
       "kickoff": "2026-06-29T22:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Deutschland",
         "short": "GER",
         "crest": "https://crests.football-data.org/759.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Paraguay",
         "short": "PAR",
         "crest": "https://crests.football-data.org/761.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
