@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T09:34:08.229003+00:00",
+  "generatedAt": "2026-06-30T14:17:22.042468+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -665,7 +665,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Mexiko",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Mexiko hat Heimvorteil",
+          "Ecuador in schwacher Form",
+          "Mexiko hat die bessere Defensive"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-30T14:17:08.135883+00:00"
       }
     },
     {
@@ -808,7 +823,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg USA",
+        "scoreline": "2:0",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
+        },
+        "reasons": [
+          "USA hat Heimvorteil und bessere aktuelle Form",
+          "Bosnien und Herzegowina mit vielen Verletzten",
+          "USA ist offensivstärker und hat mehr individuelle Qualität"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-30T14:17:09.970341+00:00"
       }
     },
     {
@@ -846,7 +876,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Spanien",
+        "scoreline": "2:0",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
+        },
+        "reasons": [
+          "Spanien in starker Form und mit breiterem Kader",
+          "Österreich hat wichtige Ausfälle zu verkraften",
+          "Spanien hat Heimvorteil und mehr Erfahrung in K.o.-Runden"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-06-30T14:17:21.042192+00:00"
       }
     },
     {
@@ -1299,11 +1344,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
@@ -1410,11 +1455,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
