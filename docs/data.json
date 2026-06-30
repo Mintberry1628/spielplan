@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T19:55:47.516422+00:00",
+  "generatedAt": "2026-06-30T22:15:21.251469+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -571,19 +571,19 @@
       "dateLocal": "2026-06-30",
       "kickoff": "2026-06-30T23:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Frankreich",
         "short": "FRA",
         "crest": "https://crests.football-data.org/773.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Schweden",
         "short": "SWE",
         "crest": "https://crests.football-data.org/792.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
