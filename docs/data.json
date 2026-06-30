@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T14:17:22.042468+00:00",
+  "generatedAt": "2026-06-30T17:06:37.474680+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -533,19 +533,19 @@
       "dateLocal": "2026-06-30",
       "kickoff": "2026-06-30T19:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Elfenbeinküste",
         "short": "CIV",
         "crest": "https://crests.football-data.org/787.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Norwegen",
         "short": "NOR",
         "crest": "https://crests.football-data.org/813.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
