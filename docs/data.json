@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T22:08:20.122350+00:00",
+  "generatedAt": "2026-06-30T03:34:32.227593+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,228 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537361",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_F",
-      "dateLocal": "2026-06-26",
-      "kickoff": "2026-06-26T01:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Tunesien",
-        "short": "TUN",
-        "crest": "https://crests.football-data.org/tunisia.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Niederlande",
-        "short": "NED",
-        "crest": "https://crests.football-data.org/8601.svg",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537362",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_F",
-      "dateLocal": "2026-06-26",
-      "kickoff": "2026-06-26T01:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Japan",
-        "short": "JPN",
-        "crest": "https://crests.football-data.org/766.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Schweden",
-        "short": "SWE",
-        "crest": "https://crests.football-data.org/792.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537349",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_D",
-      "dateLocal": "2026-06-26",
-      "kickoff": "2026-06-26T04:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Türkei",
-        "short": "TUR",
-        "crest": "https://crests.football-data.org/803.svg",
-        "score": 3
-      },
-      "away": {
-        "name": "USA",
-        "short": "USA",
-        "crest": "https://crests.football-data.org/usa.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537350",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_D",
-      "dateLocal": "2026-06-26",
-      "kickoff": "2026-06-26T04:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Paraguay",
-        "short": "PAR",
-        "crest": "https://crests.football-data.org/761.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Australien",
-        "short": "AUS",
-        "crest": "https://crests.football-data.org/779.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537395",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_I",
-      "dateLocal": "2026-06-26",
-      "kickoff": "2026-06-26T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Norwegen",
-        "short": "NOR",
-        "crest": "https://crests.football-data.org/813.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Frankreich",
-        "short": "FRA",
-        "crest": "https://crests.football-data.org/773.svg",
-        "score": 4
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537396",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_I",
-      "dateLocal": "2026-06-26",
-      "kickoff": "2026-06-26T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Senegal",
-        "short": "SEN",
-        "crest": "https://crests.football-data.org/senegal.svg",
-        "score": 5
-      },
-      "away": {
-        "name": "Irak",
-        "short": "IRQ",
-        "crest": "https://crests.football-data.org/iraq.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537373",
       "competition": "WM",
@@ -661,12 +439,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -682,50 +459,34 @@
       "dateLocal": "2026-06-29",
       "kickoff": "2026-06-29T22:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Deutschland",
         "short": "GER",
         "crest": "https://crests.football-data.org/759.svg",
-        "score": 1
+        "score": 4
       },
       "away": {
         "name": "Paraguay",
         "short": "PAR",
         "crest": "https://crests.football-data.org/761.svg",
-        "score": 1
+        "score": 5
       },
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Deutschland",
-        "scoreline": "3:1",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
-        },
-        "reasons": [
-          "Deutschland hat eine starke Form und eine überzeugende Gruppenphase gespielt.",
-          "Paraguay hat sich als Außenseiter qualifiziert und ist defensiv anfällig.",
-          "Der Heimvorteil in einem K.o.-Spiel wird Deutschland zusätzlichen Auftrieb geben."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-06-29T10:57:32.265679+00:00"
+        "available": false
       }
     },
     {
@@ -735,19 +496,19 @@
       "dateLocal": "2026-06-30",
       "kickoff": "2026-06-30T03:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Niederlande",
         "short": "NED",
         "crest": "https://crests.football-data.org/8601.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Marokko",
         "short": "MAR",
         "crest": "https://crests.football-data.org/morocco.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
