@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T19:53:52.186605+00:00",
+  "generatedAt": "2026-07-01T22:17:12.112958+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -460,19 +460,19 @@
       "dateLocal": "2026-07-01",
       "kickoff": "2026-07-01T22:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Belgien",
         "short": "BEL",
         "crest": "https://crests.football-data.org/805.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Senegal",
         "short": "SEN",
         "crest": "https://crests.football-data.org/senegal.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -950,10 +950,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ZDF",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -1091,10 +1092,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ZDF",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -1128,11 +1130,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
@@ -1165,11 +1166,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "ARD",
           "MagentaTV"
         ],
         "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1202,10 +1203,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
