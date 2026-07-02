@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:17:12.112958+00:00",
+  "generatedAt": "2026-07-02T03:29:37.588064+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,191 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537407",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_K",
-      "dateLocal": "2026-06-28",
-      "kickoff": "2026-06-28T01:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Kolumbien",
-        "short": "COL",
-        "crest": "https://crests.football-data.org/818.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Portugal",
-        "short": "POR",
-        "crest": "https://crests.football-data.org/765.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537408",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_K",
-      "dateLocal": "2026-06-28",
-      "kickoff": "2026-06-28T01:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "DR Kongo",
-        "short": "COD",
-        "crest": "https://crests.football-data.org/congo_dr.svg",
-        "score": 3
-      },
-      "away": {
-        "name": "Usbekistan",
-        "short": "UZB",
-        "crest": "https://crests.football-data.org/8070.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537401",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_J",
-      "dateLocal": "2026-06-28",
-      "kickoff": "2026-06-28T04:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Jordanien",
-        "short": "JOR",
-        "crest": "https://crests.football-data.org/8049.png",
-        "score": 1
-      },
-      "away": {
-        "name": "Argentinien",
-        "short": "ARG",
-        "crest": "https://crests.football-data.org/762.png",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537402",
-      "competition": "WM",
-      "competitionStage": "Gruppenphase · Gruppe_J",
-      "dateLocal": "2026-06-28",
-      "kickoff": "2026-06-28T04:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Algerien",
-        "short": "ALG",
-        "crest": "https://crests.football-data.org/algeria.svg",
-        "score": 3
-      },
-      "away": {
-        "name": "Österreich",
-        "short": "AUT",
-        "crest": "https://crests.football-data.org/816.svg",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537417",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-06-28",
-      "kickoff": "2026-06-28T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Südafrika",
-        "short": "RSA",
-        "crest": "https://crests.football-data.org/9396.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Kanada",
-        "short": "CAN",
-        "crest": "https://crests.football-data.org/canada.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537423",
       "competition": "WM",
@@ -383,7 +198,7 @@
       "competition": "WM",
       "competitionStage": "Last 32",
       "dateLocal": "2026-07-01",
-      "kickoff": "2026-07-01T03:00:00+02:00",
+      "kickoff": "2026-07-01T04:00:00+02:00",
       "kickoffKnown": true,
       "status": "finished",
       "minute": null,
@@ -402,11 +217,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -439,12 +254,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -460,13 +274,13 @@
       "dateLocal": "2026-07-01",
       "kickoff": "2026-07-01T22:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Belgien",
         "short": "BEL",
         "crest": "https://crests.football-data.org/805.svg",
-        "score": 2
+        "score": 3
       },
       "away": {
         "name": "Senegal",
@@ -477,33 +291,17 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Belgien",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Belgien hat eine stärkere Offensive",
-          "Senegal hat zuletzt schwankende Leistungen gezeigt",
-          "Belgien spielt zu Hause und hat mehr Erfahrung"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T09:43:44.778545+00:00"
+        "available": false
       }
     },
     {
@@ -513,19 +311,19 @@
       "dateLocal": "2026-07-02",
       "kickoff": "2026-07-02T02:00:00+02:00",
       "kickoffKnown": false,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "USA",
         "short": "USA",
         "crest": "https://crests.football-data.org/usa.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Bosnien und Herzegowina",
         "short": "BIH",
         "crest": "https://crests.football-data.org/bosnia.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -540,22 +338,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg USA",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "USA mit Heimvorteil und besserer Form",
-          "Bosnien und Herzegowina mit schwächerer Leistung in der Gruppenphase",
-          "USA hat die breitere Kaderbreite"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T14:33:26.095614+00:00"
+        "available": false
       }
     },
     {
