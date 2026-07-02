@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:23:20.527807+00:00",
+  "generatedAt": "2026-07-02T22:05:54.961557+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -348,19 +348,19 @@
       "dateLocal": "2026-07-02",
       "kickoff": "2026-07-02T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Spanien",
         "short": "ESP",
         "crest": "https://crests.football-data.org/760.svg",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Österreich",
         "short": "AUT",
         "crest": "https://crests.football-data.org/816.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -376,22 +376,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Spanien",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Spanien in starker Form",
-          "Österreich mit Ausfällen in der Defensive",
-          "Spanien hat den Heimvorteil und die bessere Kaderbreite"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-02T16:49:00.408525+00:00"
+        "available": false
       }
     },
     {
@@ -681,10 +666,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ZDF",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -733,11 +719,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": true,
+        "free": false,
         "note": null
       },
       "odds": {
@@ -928,10 +913,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
