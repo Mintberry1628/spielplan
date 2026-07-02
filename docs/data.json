@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T13:58:26.507706+00:00",
+  "generatedAt": "2026-07-02T16:49:17.636931+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -388,10 +388,10 @@
         "reasons": [
           "Spanien in starker Form",
           "Österreich mit Ausfällen in der Defensive",
-          "Spanien hat Heimvorteil und bessere Einzelner Spieler"
+          "Spanien hat den Heimvorteil und die bessere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T19:53:51.186335+00:00"
+        "generatedAt": "2026-07-02T16:49:00.408525+00:00"
       }
     },
     {
@@ -586,7 +586,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Argentinien",
+        "scoreline": "3:0",
+        "confidence": 0.8,
+        "probs": {
+          "home": 0.8,
+          "draw": 0.15,
+          "away": 0.05
+        },
+        "reasons": [
+          "Argentinien ist haushoch überlegen",
+          "Kap Verde fehlt die internationale Erfahrung",
+          "Argentinien hat Heimvorteil und bessere Form"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-02T16:49:16.636631+00:00"
       }
     },
     {
