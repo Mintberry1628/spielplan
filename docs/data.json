@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T03:29:37.588064+00:00",
+  "generatedAt": "2026-07-02T08:56:32.658764+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -491,12 +491,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Schweiz in besserer Form",
-          "Algerien mit vielen Ausfällen",
-          "Heimvorteil für die Schweiz"
+          "Schweiz in besserer Verfassung",
+          "Algerien mit Ausfällen in der Defensive",
+          "Heimvorteil spricht für die Schweiz"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T09:44:17.771506+00:00"
+        "generatedAt": "2026-07-02T08:55:04.025366+00:00"
       }
     },
     {
@@ -641,20 +641,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Kolumbien",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "scoreline": "1:0",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
-          "draw": 0.25,
+          "home": 0.55,
+          "draw": 0.3,
           "away": 0.15
         },
         "reasons": [
           "Kolumbien mit starker Gruppenphase und Heimvorteil",
-          "Ghana hatte Schwierigkeiten in der Vorrunde",
-          "Kolumbien hat die reifere Mannschaft"
+          "Ghana hatte Schwierigkeiten in der Gruppenphase",
+          "Kolumbien hat die bessere Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T09:44:55.849835+00:00"
+        "generatedAt": "2026-07-02T08:55:20.199108+00:00"
       }
     },
     {
@@ -701,12 +701,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Kanada mit Heimvorteil, aber schwankender Form",
-          "Marokko defensiv stabil, aber offensiv limitiert",
-          "Achtelfinale ist oft von Taktik geprägt, was zu knappen Spielen führt"
+          "Kanada hat Heimvorteil",
+          "Marokko zuletzt formstark",
+          "Beide Teams defensiv stabil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T09:45:22.999484+00:00"
+        "generatedAt": "2026-07-02T08:55:25.508262+00:00"
       }
     },
     {
@@ -744,22 +744,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Frankreich",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.25,
-          "draw": 0.35,
-          "away": 0.4
-        },
-        "reasons": [
-          "Frankreich hat die stärkere Mannschaft und bessere Einzelspieler",
-          "Paraguay ist defensiv anfällig",
-          "Frankreich hat mehr Erfahrung in K.o.-Spielen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T09:45:30.613185+00:00"
+        "available": false
       }
     },
     {
@@ -806,12 +791,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Brasilien hat eine stärkere Offensive",
-          "Norwegen hat Probleme in der Defensive",
-          "Brasilien spielt zu Hause und hat mehr Erfahrung"
+          "Brasilien in starker Form",
+          "Norwegen mit Ausfällen in der Defensive",
+          "Historisch starke Heim-Performance Brasiliens"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T09:45:32.355227+00:00"
+        "generatedAt": "2026-07-02T08:55:51.796367+00:00"
       }
     },
     {
@@ -824,15 +809,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Mexiko",
+        "short": "MEX",
+        "crest": "https://crests.football-data.org/769.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "England",
+        "short": "ENG",
+        "crest": "https://crests.football-data.org/770.svg",
         "score": null
       },
       "tv": {
@@ -848,7 +833,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg England",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
+        },
+        "reasons": [
+          "England hat eine stärkere aktuelle Form.",
+          "Mexiko hat Heimvorteil, aber England die bessere Kaderbreite.",
+          "Beide Teams sind defensiv stabil, aber England offensiv gefährlicher."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-02T08:56:03.474520+00:00"
       }
     },
     {
@@ -899,15 +899,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "USA",
+        "short": "USA",
+        "crest": "https://crests.football-data.org/usa.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Belgien",
+        "short": "BEL",
+        "crest": "https://crests.football-data.org/805.svg",
         "score": null
       },
       "tv": {
@@ -922,7 +922,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg USA",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "USA mit Heimvorteil und starker Turnierform",
+          "Belgien hat Probleme in der Offensive",
+          "USA defensiv stabil"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-02T08:56:31.658532+00:00"
       }
     },
     {
