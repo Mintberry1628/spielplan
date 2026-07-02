@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T08:56:32.658764+00:00",
+  "generatedAt": "2026-07-02T11:34:01.473261+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -430,20 +430,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Portugal",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Portugal in starker Form",
-          "Kroatien mit jüngsten Schwächen",
-          "Heimvorteil für Portugal"
+          "Portugal hat eine starke Offensive und ist in guter Form.",
+          "Kroatien hat zuletzt defensiv anfällig gewirkt.",
+          "Der Heimvorteil spricht für Portugal."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T14:33:40.821580+00:00"
+        "generatedAt": "2026-07-02T11:33:46.861415+00:00"
       }
     },
     {
@@ -544,12 +544,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Australien hat Heimvorteil und bessere aktuelle Form",
-          "Ägypten mit schwächerer Leistung in den letzten Spielen",
-          "Australien hat die reifere Mannschaft für dieses Turnier"
+          "Australien hat Heimvorteil und bessere Form",
+          "Ägypten mit Ausfällen und schwacher Auswärtsbilanz",
+          "Australien defensiv stabiler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T14:33:46.027631+00:00"
+        "generatedAt": "2026-07-02T11:33:48.931482+00:00"
       }
     },
     {
@@ -586,22 +586,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Argentinien",
-        "scoreline": "3:0",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.8,
-          "draw": 0.15,
-          "away": 0.05
-        },
-        "reasons": [
-          "Argentinien ist klarer Favorit mit einer starken Offensive.",
-          "Kap Verde hat eine der schwächsten Abwehrreihen des Turniers.",
-          "Argentinien hat Heimvorteil und eine überzeugende Turnierform."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-01T14:33:54.473945+00:00"
+        "available": false
       }
     },
     {
@@ -744,7 +729,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Frankreich",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.2,
+          "draw": 0.3,
+          "away": 0.5
+        },
+        "reasons": [
+          "Frankreich hat die deutlich stärkere Mannschaft",
+          "Paraguay hat im bisherigen Turnier überrascht, aber die Konstanz fehlt",
+          "Frankreich ist erfahren auf diesem Niveau"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-02T11:34:00.472995+00:00"
       }
     },
     {
@@ -913,6 +913,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
         "free": false,
@@ -1039,11 +1040,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
