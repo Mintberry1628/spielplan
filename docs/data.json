@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:20:44.528031+00:00",
+  "generatedAt": "2026-07-03T22:04:21.548992+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -386,19 +386,19 @@
       "dateLocal": "2026-07-03",
       "kickoff": "2026-07-03T20:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Australien",
         "short": "AUS",
         "crest": "https://crests.football-data.org/779.svg",
-        "score": 0
+        "score": 3
       },
       "away": {
         "name": "Ägypten",
         "short": "EGY",
         "crest": "https://crests.football-data.org/825.svg",
-        "score": 1
+        "score": 5
       },
       "tv": {
         "known": true,
@@ -414,22 +414,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Australien",
-        "scoreline": "1:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Australien hat einen stärkeren Kader",
-          "Ägypten zeigte sich zuletzt defensiv anfällig",
-          "Australien genießt Heimvorteil"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-03T14:01:50.805116+00:00"
+        "available": false
       }
     },
     {
