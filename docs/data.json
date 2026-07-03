@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T06:32:34.449902+00:00",
+  "generatedAt": "2026-07-03T11:32:03.241482+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -414,22 +414,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Australien",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
-        },
-        "reasons": [
-          "Australien hat Heimvorteil und bessere Form",
-          "Ägypten mit Ausfällen und schwacher Auswärtsbilanz",
-          "Australien defensiv stabiler"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-02T11:33:48.931482+00:00"
+        "available": false
       }
     },
     {
@@ -634,12 +619,12 @@
           "away": 0.5
         },
         "reasons": [
-          "Frankreich hat die deutlich stärkere Mannschaft",
-          "Paraguay hat im bisherigen Turnier überrascht, aber die Konstanz fehlt",
-          "Frankreich ist erfahren auf diesem Niveau"
+          "Frankreich hat die stärkere Mannschaft",
+          "Paraguay hat im Turnier bisher überrascht, aber die Konstanz fehlt",
+          "Frankreich hat mehr Erfahrung auf diesem Niveau"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-02T11:34:00.472995+00:00"
+        "generatedAt": "2026-07-03T11:32:02.241019+00:00"
       }
     },
     {
@@ -973,11 +958,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
