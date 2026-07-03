@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T11:32:03.241482+00:00",
+  "generatedAt": "2026-07-03T14:01:53.780803+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -414,7 +414,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Australien",
+        "scoreline": "1:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Australien hat einen stärkeren Kader",
+          "Ägypten zeigte sich zuletzt defensiv anfällig",
+          "Australien genießt Heimvorteil"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-03T14:01:50.805116+00:00"
       }
     },
     {
@@ -461,12 +476,12 @@
           "away": 0.05
         },
         "reasons": [
-          "Argentinien ist haushoch überlegen",
-          "Kap Verde fehlt die internationale Erfahrung",
-          "Argentinien hat Heimvorteil und bessere Form"
+          "Argentinien ist klarer Favorit mit Weltklasse-Spielern",
+          "Kap Verde hat eine Außenseiterrolle und weniger Erfahrung",
+          "Argentinien spielt zu Hause und hat den Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-02T16:49:16.636631+00:00"
+        "generatedAt": "2026-07-03T14:01:52.780280+00:00"
       }
     },
     {
