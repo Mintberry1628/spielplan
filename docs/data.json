@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T22:05:54.961557+00:00",
+  "generatedAt": "2026-07-03T02:52:10.781711+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,80 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537423",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-06-29",
-      "kickoff": "2026-06-29T19:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Brasilien",
-        "short": "BRA",
-        "crest": "https://crests.football-data.org/764.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "Japan",
-        "short": "JPN",
-        "crest": "https://crests.football-data.org/766.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537415",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-06-29",
-      "kickoff": "2026-06-29T22:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Deutschland",
-        "short": "GER",
-        "crest": "https://crests.football-data.org/759.svg",
-        "score": 4
-      },
-      "away": {
-        "name": "Paraguay",
-        "short": "PAR",
-        "crest": "https://crests.football-data.org/761.svg",
-        "score": 5
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537418",
       "competition": "WM",
@@ -328,11 +254,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -365,12 +291,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -386,19 +311,19 @@
       "dateLocal": "2026-07-03",
       "kickoff": "2026-07-03T01:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Portugal",
         "short": "POR",
         "crest": "https://crests.football-data.org/765.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Kroatien",
         "short": "CRO",
         "crest": "https://crests.football-data.org/799.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -413,22 +338,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Portugal",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Portugal hat eine starke Offensive und ist in guter Form.",
-          "Kroatien hat zuletzt defensiv anfällig gewirkt.",
-          "Der Heimvorteil spricht für Portugal."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-02T11:33:46.861415+00:00"
+        "available": false
       }
     },
     {
