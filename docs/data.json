@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T16:24:09.090225+00:00",
+  "generatedAt": "2026-07-03T19:20:44.528031+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -386,19 +386,19 @@
       "dateLocal": "2026-07-03",
       "kickoff": "2026-07-03T20:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Australien",
         "short": "AUS",
         "crest": "https://crests.football-data.org/779.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Ägypten",
         "short": "EGY",
         "crest": "https://crests.football-data.org/825.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
