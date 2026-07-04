@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T02:48:25.264369+00:00",
+  "generatedAt": "2026-07-04T06:19:25.164713+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -348,7 +348,7 @@
       "dateLocal": "2026-07-04",
       "kickoff": "2026-07-04T03:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Kolumbien",
@@ -376,22 +376,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Kolumbien",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Kolumbien mit stärkerer Form in der Gruppenphase",
-          "Ghana hat Probleme in der Offensive",
-          "Kolumbien nutzt Heimvorteil effektiv"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-04T02:48:17.012979+00:00"
+        "available": false
       }
     },
     {
@@ -613,15 +598,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Portugal",
+        "short": "POR",
+        "crest": "https://crests.football-data.org/765.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Spanien",
+        "short": "ESP",
+        "crest": "https://crests.football-data.org/760.svg",
         "score": null
       },
       "tv": {
@@ -638,7 +623,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Beide Teams sind in guter Form und haben starke Offensiven.",
+          "Spanien hat eine leichte Überlegenheit in der direkten Bilanz.",
+          "Portugal hat den Heimvorteil, der aber gegen Spanien begrenzt ist."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-04T06:19:21.305220+00:00"
       }
     },
     {
@@ -704,15 +704,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Argentinien",
+        "short": "ARG",
+        "crest": "https://crests.football-data.org/762.png",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Ägypten",
+        "short": "EGY",
+        "crest": "https://crests.football-data.org/825.svg",
         "score": null
       },
       "tv": {
@@ -741,15 +741,15 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Schweiz",
+        "short": "SUI",
+        "crest": "https://crests.football-data.org/788.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Kolumbien",
+        "short": "COL",
+        "crest": "https://crests.football-data.org/818.svg",
         "score": null
       },
       "tv": {
@@ -766,7 +766,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Schweiz",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Schweiz in guter Form",
+          "Kolumbien mit Schwächen in der Defensive",
+          "Heimvorteil für die Schweiz"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-04T06:19:24.164280+00:00"
       }
     },
     {
