@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T22:04:21.548992+00:00",
+  "generatedAt": "2026-07-04T02:48:25.264369+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,117 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537418",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-06-30",
-      "kickoff": "2026-06-30T03:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Niederlande",
-        "short": "NED",
-        "crest": "https://crests.football-data.org/8601.svg",
-        "score": 3
-      },
-      "away": {
-        "name": "Marokko",
-        "short": "MAR",
-        "crest": "https://crests.football-data.org/morocco.svg",
-        "score": 4
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537424",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-06-30",
-      "kickoff": "2026-06-30T19:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Elfenbeinküste",
-        "short": "CIV",
-        "crest": "https://crests.football-data.org/787.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Norwegen",
-        "short": "NOR",
-        "crest": "https://crests.football-data.org/813.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537416",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-06-30",
-      "kickoff": "2026-06-30T23:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Frankreich",
-        "short": "FRA",
-        "crest": "https://crests.football-data.org/773.svg",
-        "score": 3
-      },
-      "away": {
-        "name": "Schweden",
-        "short": "SWE",
-        "crest": "https://crests.football-data.org/792.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537425",
       "competition": "WM",
@@ -328,11 +217,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -365,12 +254,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -403,12 +291,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -424,19 +311,19 @@
       "dateLocal": "2026-07-04",
       "kickoff": "2026-07-04T00:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Argentinien",
         "short": "ARG",
         "crest": "https://crests.football-data.org/762.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Kap Verde",
         "short": "CPV",
         "crest": "https://crests.football-data.org/cape_verde.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -451,22 +338,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Argentinien",
-        "scoreline": "3:0",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.8,
-          "draw": 0.15,
-          "away": 0.05
-        },
-        "reasons": [
-          "Argentinien ist klarer Favorit mit Weltklasse-Spielern",
-          "Kap Verde hat eine Außenseiterrolle und weniger Erfahrung",
-          "Argentinien spielt zu Hause und hat den Heimvorteil"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-03T14:01:52.780280+00:00"
+        "available": false
       }
     },
     {
@@ -476,19 +348,19 @@
       "dateLocal": "2026-07-04",
       "kickoff": "2026-07-04T03:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Kolumbien",
         "short": "COL",
         "crest": "https://crests.football-data.org/818.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Ghana",
         "short": "GHA",
         "crest": "https://crests.football-data.org/ghana.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -506,20 +378,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Kolumbien",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "scoreline": "1:0",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Kolumbien mit starker Gruppenphase und Heimvorteil",
-          "Ghana hatte Schwierigkeiten in der Vorrunde",
-          "Kolumbien hat die reifere Mannschaft"
+          "Kolumbien mit stärkerer Form in der Gruppenphase",
+          "Ghana hat Probleme in der Offensive",
+          "Kolumbien nutzt Heimvorteil effektiv"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-03T06:32:24.508989+00:00"
+        "generatedAt": "2026-07-04T02:48:17.012979+00:00"
       }
     },
     {
@@ -558,21 +430,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Kanada",
-        "scoreline": "1:0",
-        "confidence": 0.45,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.45,
-          "draw": 0.3,
-          "away": 0.25
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Kanada hat Heimvorteil",
-          "Marokko in schwacher Form",
-          "Ausgeglichene Kaderstärke"
+          "Kanada mit Heimvorteil und zuletzt guter Form",
+          "Marokko defensiv stabil, aber auswärts oft unentschieden",
+          "Achtelfinale ist oft von Taktik geprägt, was zu knappen Ergebnissen führt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-03T06:32:26.995071+00:00"
+        "generatedAt": "2026-07-04T02:48:18.878410+00:00"
       }
     },
     {
@@ -671,12 +543,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Brasilien hat eine starke Offensive und gute Form",
-          "Norwegen fehlt es an Erfahrung auf diesem Niveau",
-          "Heimvorteil und höhere individuelle Qualität der Brasilianer"
+          "Brasilien mit starker Form und Heimvorteil",
+          "Norwegen hatte Schwierigkeiten in der Gruppenphase",
+          "Brasilien hat die individuell stärkeren Spieler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-03T06:32:29.747916+00:00"
+        "generatedAt": "2026-07-04T02:48:20.452134+00:00"
       }
     },
     {
@@ -723,12 +595,12 @@
           "away": 0.4
         },
         "reasons": [
-          "England hat eine stärkere aktuelle Form.",
-          "Mexiko hat im Turnierverlauf Schwächen gezeigt.",
-          "England hat die individuell besseren Spieler."
+          "England hat die stärkere Kaderbreite und individuelle Qualität.",
+          "Mexiko ist heimstark, aber England hat mehr Erfahrung in K.o.-Spielen.",
+          "Die jüngste Form beider Teams ist ausgeglichen, aber England zeigte in der Gruppenphase mehr Konstanz."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-03T06:32:31.587460+00:00"
+        "generatedAt": "2026-07-04T02:48:22.421800+00:00"
       }
     },
     {
@@ -815,11 +687,11 @@
         },
         "reasons": [
           "USA mit Heimvorteil und starker Turnierform",
-          "Belgien zeigt Schwächen in der Defensive",
+          "Belgien hat Probleme in der Defensive",
           "USA hat die jüngeren und fitteren Spieler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-03T06:32:33.449521+00:00"
+        "generatedAt": "2026-07-04T02:48:24.263906+00:00"
       }
     },
     {
