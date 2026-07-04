@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T06:19:25.164713+00:00",
+  "generatedAt": "2026-07-04T10:54:25.171445+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -477,11 +477,11 @@
         },
         "reasons": [
           "Frankreich hat die stärkere Mannschaft",
-          "Paraguay hat im Turnier bisher überrascht, aber die Konstanz fehlt",
+          "Paraguay hat im Turnier bisher wenig überzeugt",
           "Frankreich hat mehr Erfahrung auf diesem Niveau"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-03T11:32:02.241019+00:00"
+        "generatedAt": "2026-07-04T10:54:22.473222+00:00"
       }
     },
     {
@@ -728,7 +728,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Argentinien",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Argentinien hat eine stärkere Offensive",
+          "Ägypten hat Probleme in der Defensive",
+          "Argentinien genießt Heimvorteil"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-04T10:54:24.170961+00:00"
       }
     },
     {
