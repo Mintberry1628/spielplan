@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:11:14.441966+00:00",
+  "generatedAt": "2026-07-04T21:58:35.229251+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -424,19 +424,19 @@
       "dateLocal": "2026-07-04",
       "kickoff": "2026-07-04T23:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Paraguay",
         "short": "PAR",
         "crest": "https://crests.football-data.org/761.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Frankreich",
         "short": "FRA",
         "crest": "https://crests.football-data.org/773.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
