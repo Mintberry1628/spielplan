@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:16:41.932624+00:00",
+  "generatedAt": "2026-07-05T22:01:09.522342+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -354,13 +354,13 @@
         "name": "Brasilien",
         "short": "BRA",
         "crest": "https://crests.football-data.org/764.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Norwegen",
         "short": "NOR",
         "crest": "https://crests.football-data.org/813.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
