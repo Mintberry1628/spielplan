@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T03:25:41.354399+00:00",
+  "generatedAt": "2026-07-06T10:18:53.420820+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -472,6 +472,7 @@
         "known": true,
         "channels": [
           "ARD",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
         "free": true,
@@ -491,12 +492,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Argentinien ist klarer Favorit mit starker Offensive",
-          "Ägypten hat defensiv Schwächen gezeigt",
-          "Argentinien hat den Heimvorteil und die bessere aktuelle Form"
+          "Argentinien hat eine starke Offensive und gute Form",
+          "Ägypten hat in der K.o.-Runde Schwierigkeiten gezeigt",
+          "Argentinien genießt Heimvorteil und ist Favorit"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-05T11:04:28.144859+00:00"
+        "generatedAt": "2026-07-06T10:18:47.559298+00:00"
       }
     },
     {
@@ -651,31 +652,46 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Norwegen",
+        "short": "NOR",
+        "crest": "https://crests.football-data.org/813.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "England",
+        "short": "ENG",
+        "crest": "https://crests.football-data.org/770.svg",
         "score": null
       },
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg England",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Norwegen hat Heimvorteil, aber England ist in besserer Form.",
+          "England hat die breitere Kaderbreite und mehr individuelle Klasse.",
+          "Beide Teams sind defensiv stabil, was ein knappes Spiel erwarten lässt."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-06T10:18:52.420343+00:00"
       }
     },
     {
@@ -702,11 +718,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
