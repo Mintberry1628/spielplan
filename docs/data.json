@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T19:55:03.230767+00:00",
+  "generatedAt": "2026-07-06T22:13:47.025011+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -348,7 +348,7 @@
       "dateLocal": "2026-07-06",
       "kickoff": "2026-07-06T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Portugal",
@@ -360,7 +360,7 @@
         "name": "Spanien",
         "short": "ESP",
         "crest": "https://crests.football-data.org/760.svg",
-        "score": 0
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -376,22 +376,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Portugal",
-        "scoreline": "1:0",
-        "confidence": 0.45,
-        "probs": {
-          "home": 0.45,
-          "draw": 0.3,
-          "away": 0.25
-        },
-        "reasons": [
-          "Portugal mit starker Gruppenphase",
-          "Spanien hatte Schwierigkeiten gegen defensivstarke Teams",
-          "Heimvorteil im Achtelfinale"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-06T03:25:35.232849+00:00"
+        "available": false
       }
     },
     {
