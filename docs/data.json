@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T22:01:09.522342+00:00",
+  "generatedAt": "2026-07-06T03:25:41.354399+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,80 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537421",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-07-02",
-      "kickoff": "2026-07-02T02:00:00+02:00",
-      "kickoffKnown": false,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "USA",
-        "short": "USA",
-        "crest": "https://crests.football-data.org/usa.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "Bosnien und Herzegowina",
-        "short": "BIH",
-        "crest": "https://crests.football-data.org/bosnia.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537420",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-07-02",
-      "kickoff": "2026-07-02T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Spanien",
-        "short": "ESP",
-        "crest": "https://crests.football-data.org/760.svg",
-        "score": 3
-      },
-      "away": {
-        "name": "Österreich",
-        "short": "AUT",
-        "crest": "https://crests.football-data.org/816.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537419",
       "competition": "WM",
@@ -348,13 +274,13 @@
       "dateLocal": "2026-07-05",
       "kickoff": "2026-07-05T22:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Brasilien",
         "short": "BRA",
         "crest": "https://crests.football-data.org/764.svg",
-        "score": 0
+        "score": 1
       },
       "away": {
         "name": "Norwegen",
@@ -365,32 +291,17 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Brasilien",
-        "scoreline": "3:1",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
-        },
-        "reasons": [
-          "Brasilien hat eine starke Offensive und gute Form",
-          "Norwegen hat zuletzt defensiv anfällig gewirkt",
-          "Brasilien profitiert vom Heimvorteil und der breiteren Kaderbreite"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-05T02:58:55.290780+00:00"
+        "available": false
       }
     },
     {
@@ -398,51 +309,36 @@
       "competition": "WM",
       "competitionStage": "Achtelfinale",
       "dateLocal": "2026-07-06",
-      "kickoff": "2026-07-06T02:00:00+02:00",
-      "kickoffKnown": false,
-      "status": "scheduled",
+      "kickoff": "2026-07-06T03:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Mexiko",
         "short": "MEX",
         "crest": "https://crests.football-data.org/769.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "England",
         "short": "ENG",
         "crest": "https://crests.football-data.org/770.svg",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg England",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "England hat die individuell stärkeren Spieler",
-          "Mexiko hat im Turnierverlauf Schwächen in der Defensive gezeigt",
-          "England ist in K.o.-Spielen erfahrener"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-05T02:58:57.007917+00:00"
+        "available": false
       }
     },
     {
@@ -481,21 +377,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Portugal",
+        "scoreline": "1:0",
+        "confidence": 0.45,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.45,
+          "draw": 0.3,
+          "away": 0.25
         },
         "reasons": [
-          "Beide Teams auf ähnlichem Niveau",
-          "Spanien mit leichter taktischer Überlegenheit",
-          "Portugal mit Heimvorteil und starker Offensive"
+          "Portugal mit starker Gruppenphase",
+          "Spanien hatte Schwierigkeiten gegen defensivstarke Teams",
+          "Heimvorteil im Achtelfinale"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-05T02:58:58.694272+00:00"
+        "generatedAt": "2026-07-06T03:25:35.232849+00:00"
       }
     },
     {
@@ -543,12 +439,12 @@
           "away": 0.15
         },
         "reasons": [
-          "USA mit Heimvorteil im Achtelfinale",
-          "Belgien hatte eine schwierigere Gruppenphase",
-          "USA in besserer Form im Turnierverlauf des Turniers"
+          "USA mit Heimvorteil in der K.o.-Runde",
+          "Belgien zuletzt in schwacher Form",
+          "USA hat sich als Heimteam stabilisiert"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-05T02:59:00.514970+00:00"
+        "generatedAt": "2026-07-06T03:25:36.898474+00:00"
       }
     },
     {
@@ -643,17 +539,17 @@
         "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.35,
+          "home": 0.4,
           "draw": 0.4,
-          "away": 0.25
+          "away": 0.2
         },
         "reasons": [
-          "Schweiz mit solider Gruppenphase, aber oft schwankend in der Leistung.",
-          "Kolumbien hat sich gesteigert und verfügt über individuelle Klasse.",
-          "Achtelfinale ist oft von Nervosität geprägt, was zu einem ausgeglichenen Spiel führt."
+          "Schweiz mit solider Turnierform, aber Kolumbien zeigt ebenfalls starke Leistungen.",
+          "Beide Teams haben ähnliche Kaderbreiten und keine gravierenden Ausfälle.",
+          "Das Achtelfinale ist oft von taktischer Vorsicht geprägt, was zu knappen Spielen führt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-05T02:59:02.414424+00:00"
+        "generatedAt": "2026-07-06T03:25:38.703764+00:00"
       }
     },
     {
@@ -693,19 +589,19 @@
         "available": true,
         "outcome": "Sieg Frankreich",
         "scoreline": "2:0",
-        "confidence": 0.6,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.6,
+          "home": 0.65,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.1
         },
         "reasons": [
-          "Frankreich hat die stärkere Offensive",
-          "Marokko fehlt es an Breite im Kader",
-          "Frankreich hat mehr Erfahrung auf dieser Bühne"
+          "Frankreich hat eine stärkere Offensive",
+          "Marokko hat zuletzt defensiv wackelig agiert",
+          "Frankreich hat den Heimvorteil auf seiner Seite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-05T06:47:27.649951+00:00"
+        "generatedAt": "2026-07-06T03:25:40.353990+00:00"
       }
     },
     {
