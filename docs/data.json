@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T15:30:18.954782+00:00",
+  "generatedAt": "2026-07-06T19:55:03.230767+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -354,13 +354,13 @@
         "name": "Portugal",
         "short": "POR",
         "crest": "https://crests.football-data.org/765.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Spanien",
         "short": "ESP",
         "crest": "https://crests.football-data.org/760.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
