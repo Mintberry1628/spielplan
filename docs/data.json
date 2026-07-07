@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T19:54:11.885183+00:00",
+  "generatedAt": "2026-07-07T22:11:03.888456+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -350,19 +350,19 @@
       "dateLocal": "2026-07-07",
       "kickoff": "2026-07-07T22:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Schweiz",
         "short": "SUI",
         "crest": "https://crests.football-data.org/788.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Kolumbien",
         "short": "COL",
         "crest": "https://crests.football-data.org/818.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -378,22 +378,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Schweiz",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Schweiz in guter Form bei der WM",
-          "Kolumbien mit Schwächen in der Defensive",
-          "Schweiz hat den Heimvorteil auf ihrer Seite"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-07T02:58:49.362513+00:00"
+        "available": false
       }
     },
     {
