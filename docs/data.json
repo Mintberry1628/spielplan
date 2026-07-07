@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T02:58:52.317062+00:00",
+  "generatedAt": "2026-07-07T06:53:08.998262+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -350,12 +350,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Argentinien hat eine starke Offensive und gute Form",
-          "Ägypten hat in der K.o.-Runde Schwierigkeiten gezeigt",
-          "Argentinien genießt Heimvorteil und ist Favorit"
+          "Argentinien hat eine starke Form und eine erfahrene Mannschaft",
+          "Ägypten hat in der K.o.-Runde Schwächen gezeigt",
+          "Argentinien genießt den Heimvorteil und die Unterstützung der Fans"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-06T10:18:47.559298+00:00"
+        "generatedAt": "2026-07-07T06:53:03.139843+00:00"
       }
     },
     {
@@ -435,10 +435,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -473,31 +474,47 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Spanien",
+        "short": "ESP",
+        "crest": "https://crests.football-data.org/760.svg",
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Belgien",
+        "short": "BEL",
+        "crest": "https://crests.football-data.org/805.svg",
         "score": null
       },
       "tv": {
         "known": true,
         "channels": [
+          "ZDF",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Spanien",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Spanien in starker Form, überzeugende Gruppenphase.",
+          "Belgien mit einigen Schlüsselspielern verletzt oder angeschlagen.",
+          "Spanien hat Heimvorteil und eine breitere Kaderbreite."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-07T06:53:05.929354+00:00"
       }
     },
     {
@@ -544,12 +561,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Norwegen hat Heimvorteil, aber England ist in besserer Form.",
-          "England hat die breitere Kaderbreite und mehr individuelle Klasse.",
-          "Beide Teams sind defensiv stabil, was ein knappes Spiel erwarten lässt."
+          "Norwegen hat Heimvorteil, aber England ist in besserer Form",
+          "England hat die individuell stärkeren Spieler",
+          "Norwegen hat eine schwächere Gruppenphase gespielt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-06T10:18:52.420343+00:00"
+        "generatedAt": "2026-07-07T06:53:07.997802+00:00"
       }
     },
     {
