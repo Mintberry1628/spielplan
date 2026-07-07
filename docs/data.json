@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T17:14:05.981125+00:00",
+  "generatedAt": "2026-07-07T19:54:11.885183+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -312,19 +312,19 @@
       "dateLocal": "2026-07-07",
       "kickoff": "2026-07-07T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Argentinien",
         "short": "ARG",
         "crest": "https://crests.football-data.org/762.png",
-        "score": 0
+        "score": 3
       },
       "away": {
         "name": "Ägypten",
         "short": "EGY",
         "crest": "https://crests.football-data.org/825.svg",
-        "score": 1
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -340,22 +340,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Argentinien",
-        "scoreline": "3:1",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.15,
-          "away": 0.15
-        },
-        "reasons": [
-          "Argentinien hat eine starke Form und eine erfahrene Mannschaft",
-          "Ägypten hat in der K.o.-Runde Schwächen gezeigt",
-          "Argentinien genießt den Heimvorteil und die Unterstützung der Fans"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-07T06:53:03.139843+00:00"
+        "available": false
       }
     },
     {
