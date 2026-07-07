@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T14:31:17.734281+00:00",
+  "generatedAt": "2026-07-07T17:14:05.981125+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -312,19 +312,19 @@
       "dateLocal": "2026-07-07",
       "kickoff": "2026-07-07T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Argentinien",
         "short": "ARG",
         "crest": "https://crests.football-data.org/762.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Ägypten",
         "short": "EGY",
         "crest": "https://crests.football-data.org/825.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
