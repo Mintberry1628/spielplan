@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T08:26:42.273299+00:00",
+  "generatedAt": "2026-07-08T11:04:01.370143+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -318,7 +318,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Spanien",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Spanien in starker Form",
+          "Belgien mit einigen Ausfällen",
+          "Spanien hat den Heimvorteil"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-08T11:04:00.369697+00:00"
       }
     },
     {
