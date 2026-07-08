@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T02:34:56.675746+00:00",
+  "generatedAt": "2026-07-08T05:50:44.714376+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -318,22 +318,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Spanien",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Spanien in starker Form, überzeugende Gruppenphase.",
-          "Belgien mit einigen Schlüsselspielern verletzt oder angeschlagen.",
-          "Spanien hat Heimvorteil und eine breitere Kaderbreite."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-07T06:53:05.929354+00:00"
+        "available": false
       }
     },
     {
@@ -373,19 +358,19 @@
         "available": true,
         "outcome": "Sieg England",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.5,
         "probs": {
           "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
-          "Norwegen hat Heimvorteil, aber England ist in besserer Form",
-          "England hat die individuell stärkeren Spieler",
-          "Norwegen hat eine schwächere Gruppenphase gespielt"
+          "Norwegen hat Heimvorteil, aber England ist in besserer Form.",
+          "Wichtige Spieler bei Norwegen verletzt.",
+          "England hat die breitere und erfahrenere Kaderbreite."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-07T06:53:07.997802+00:00"
+        "generatedAt": "2026-07-08T05:50:43.713950+00:00"
       }
     },
     {
