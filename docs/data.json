@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T22:11:03.888456+00:00",
+  "generatedAt": "2026-07-08T02:34:56.675746+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,154 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537427",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-07-04",
-      "kickoff": "2026-07-04T00:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Argentinien",
-        "short": "ARG",
-        "crest": "https://crests.football-data.org/762.png",
-        "score": 3
-      },
-      "away": {
-        "name": "Kap Verde",
-        "short": "CPV",
-        "crest": "https://crests.football-data.org/cape_verde.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537430",
-      "competition": "WM",
-      "competitionStage": "Last 32",
-      "dateLocal": "2026-07-04",
-      "kickoff": "2026-07-04T03:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Kolumbien",
-        "short": "COL",
-        "crest": "https://crests.football-data.org/818.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Ghana",
-        "short": "GHA",
-        "crest": "https://crests.football-data.org/ghana.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537376",
-      "competition": "WM",
-      "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-07-04",
-      "kickoff": "2026-07-04T19:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Kanada",
-        "short": "CAN",
-        "crest": "https://crests.football-data.org/canada.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Marokko",
-        "short": "MAR",
-        "crest": "https://crests.football-data.org/morocco.svg",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537375",
-      "competition": "WM",
-      "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-07-04",
-      "kickoff": "2026-07-04T23:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Paraguay",
-        "short": "PAR",
-        "crest": "https://crests.football-data.org/761.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Frankreich",
-        "short": "FRA",
-        "crest": "https://crests.football-data.org/773.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537377",
       "competition": "WM",
@@ -291,12 +143,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -329,12 +180,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -356,23 +206,22 @@
         "name": "Schweiz",
         "short": "SUI",
         "crest": "https://crests.football-data.org/788.svg",
-        "score": 0
+        "score": 4
       },
       "away": {
         "name": "Kolumbien",
         "short": "COL",
         "crest": "https://crests.football-data.org/818.svg",
-        "score": 0
+        "score": 3
       },
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -422,16 +271,16 @@
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
+          "draw": 0.25,
+          "away": 0.1
         },
         "reasons": [
-          "Frankreich hat eine stärkere Kaderbreite und individuelle Klasse.",
-          "Marokko hat im Turnierverlauf defensiv stark agiert, aber offensiv Schwächen gezeigt.",
-          "Frankreich hat mehr Erfahrung in entscheidenden K.o.-Spielen."
+          "Frankreich hat eine stärkere Offensive",
+          "Marokko hatte einen schwierigeren Weg ins Viertelfinale",
+          "Frankreich genießt den Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-07T02:58:51.316568+00:00"
+        "generatedAt": "2026-07-08T02:34:55.675316+00:00"
       }
     },
     {
