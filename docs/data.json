@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T19:44:53.887945+00:00",
+  "generatedAt": "2026-07-09T22:22:02.480041+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -200,19 +200,19 @@
       "dateLocal": "2026-07-09",
       "kickoff": "2026-07-09T22:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Frankreich",
         "short": "FRA",
         "crest": "https://crests.football-data.org/773.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Marokko",
         "short": "MAR",
         "crest": "https://crests.football-data.org/morocco.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -228,22 +228,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Frankreich",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Frankreich hat die stärkere Offensive und Defensive",
-          "Marokko hatte einen schwierigeren Weg ins Viertelfinale",
-          "Frankreich genießt den Heimvorteil und hat mehr Erfahrung in solchen Spielen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-09T02:53:26.612998+00:00"
+        "available": false
       }
     },
     {
