@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T02:53:29.314248+00:00",
+  "generatedAt": "2026-07-09T06:49:01.922193+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -395,12 +395,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Argentinien mit starker Form und Heimvorteil",
-          "Schweiz mit Schwierigkeiten in der K.o.-Phase",
-          "Argentinien hat die individuell stärkere Mannschaft"
+          "Argentinien hat eine starke Form und eine höhere individuelle Qualität",
+          "Die Schweiz hat in der KO-Phase bisher defensiv gewackelt",
+          "Argentinien genießt den Heimvorteil und die Unterstützung der Fans"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-08T08:26:41.272855+00:00"
+        "generatedAt": "2026-07-09T06:49:00.921689+00:00"
       }
     },
     {
