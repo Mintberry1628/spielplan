@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T22:04:57.449380+00:00",
+  "generatedAt": "2026-07-09T02:53:29.314248+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,43 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537377",
-      "competition": "WM",
-      "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-07-05",
-      "kickoff": "2026-07-05T22:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Brasilien",
-        "short": "BRA",
-        "crest": "https://crests.football-data.org/764.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Norwegen",
-        "short": "NOR",
-        "crest": "https://crests.football-data.org/813.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537378",
       "competition": "WM",
@@ -275,12 +238,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Frankreich hat eine stärkere Offensive",
+          "Frankreich hat die stärkere Offensive und Defensive",
           "Marokko hatte einen schwierigeren Weg ins Viertelfinale",
-          "Frankreich genießt den Heimvorteil"
+          "Frankreich genießt den Heimvorteil und hat mehr Erfahrung in solchen Spielen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-08T02:34:55.675316+00:00"
+        "generatedAt": "2026-07-09T02:53:26.612998+00:00"
       }
     },
     {
@@ -380,12 +343,12 @@
           "away": 0.5
         },
         "reasons": [
-          "Norwegen hat Heimvorteil, aber England ist in besserer Form.",
-          "Wichtige Spieler bei Norwegen verletzt.",
-          "England hat die breitere und erfahrenere Kaderbreite."
+          "Norwegen hat Heimvorteil, aber England ist in besserer Form",
+          "England hat die individuell stärkeren Spieler",
+          "Beide Teams sind offensivstark, was zu einem knappen Ergebnis führt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-08T05:50:43.713950+00:00"
+        "generatedAt": "2026-07-09T02:53:28.313812+00:00"
       }
     },
     {
@@ -538,11 +501,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
