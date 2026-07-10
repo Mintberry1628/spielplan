@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T22:22:02.480041+00:00",
+  "generatedAt": "2026-07-10T02:55:41.999799+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,80 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537378",
-      "competition": "WM",
-      "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-07-06",
-      "kickoff": "2026-07-06T03:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Mexiko",
-        "short": "MEX",
-        "crest": "https://crests.football-data.org/769.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "England",
-        "short": "ENG",
-        "crest": "https://crests.football-data.org/770.svg",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537379",
-      "competition": "WM",
-      "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-07-06",
-      "kickoff": "2026-07-06T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Portugal",
-        "short": "POR",
-        "crest": "https://crests.football-data.org/765.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Spanien",
-        "short": "ESP",
-        "crest": "https://crests.football-data.org/760.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537380",
       "competition": "WM",
@@ -217,12 +143,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -306,19 +231,19 @@
         "available": true,
         "outcome": "Sieg England",
         "scoreline": "1:2",
-        "confidence": 0.5,
+        "confidence": 0.4,
         "probs": {
           "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
           "Norwegen hat Heimvorteil, aber England ist in besserer Form",
           "England hat die individuell stärkeren Spieler",
-          "Beide Teams sind offensivstark, was zu einem knappen Ergebnis führt"
+          "Norwegen hat in der Vergangenheit Probleme gegen Top-Nationen gezeigt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-09T02:53:28.313812+00:00"
+        "generatedAt": "2026-07-10T02:55:39.325095+00:00"
       }
     },
     {
@@ -365,12 +290,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Argentinien hat eine starke Form und eine höhere individuelle Qualität",
-          "Die Schweiz hat in der KO-Phase bisher defensiv gewackelt",
-          "Argentinien genießt den Heimvorteil und die Unterstützung der Fans"
+          "Argentinien in starker Turnierform",
+          "Schweiz mit Schwächen in der Offensive",
+          "Heimvorteil spricht für Argentinien"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-09T06:49:00.921689+00:00"
+        "generatedAt": "2026-07-10T02:55:40.999332+00:00"
       }
     },
     {
@@ -508,11 +433,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "ZDF",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
         "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "note": null
       },
       "odds": {
         "known": false
