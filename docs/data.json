@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T16:56:00.520425+00:00",
+  "generatedAt": "2026-07-10T19:26:10.066033+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -163,19 +163,19 @@
       "dateLocal": "2026-07-10",
       "kickoff": "2026-07-10T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Spanien",
         "short": "ESP",
         "crest": "https://crests.football-data.org/760.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Belgien",
         "short": "BEL",
         "crest": "https://crests.football-data.org/805.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -337,11 +337,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD/ZDF",
+          "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
