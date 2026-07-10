@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T02:55:41.999799+00:00",
+  "generatedAt": "2026-07-10T06:45:26.918672+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -191,7 +191,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Spanien",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Spanien in starker Form, überzeugende Gruppenspiele.",
+          "Belgien mit einigen Schlüsselspielern verletzt oder angeschlagen.",
+          "Spanien hat Heimvorteil und eine breitere Kaderbreite."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-10T06:45:25.918287+00:00"
       }
     },
     {
@@ -308,9 +323,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Frankreich",
+        "short": "FRA",
+        "crest": "https://crests.football-data.org/773.svg",
         "score": null
       },
       "away": {
