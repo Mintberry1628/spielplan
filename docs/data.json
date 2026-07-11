@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T05:40:24.181565+00:00",
+  "generatedAt": "2026-07-11T07:54:02.380715+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -202,9 +202,9 @@
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Spanien",
+        "short": "ESP",
+        "crest": "https://crests.football-data.org/760.svg",
         "score": null
       },
       "tv": {
@@ -220,7 +220,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Frankreich",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Frankreich hat eine starke Turnierform und eine ausgeglichene Mannschaft.",
+          "Spanien hatte im Turnierverlauf einige Schwächen in der Defensive.",
+          "Der Heimvorteil im Finale könnte Frankreich zusätzlich beflügeln."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-11T07:54:01.380343+00:00"
       }
     },
     {
