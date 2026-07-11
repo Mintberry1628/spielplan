@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T22:01:44.700856+00:00",
+  "generatedAt": "2026-07-11T02:32:48.722248+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,117 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537380",
-      "competition": "WM",
-      "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-07-07",
-      "kickoff": "2026-07-07T02:00:00+02:00",
-      "kickoffKnown": false,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "USA",
-        "short": "USA",
-        "crest": "https://crests.football-data.org/usa.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Belgien",
-        "short": "BEL",
-        "crest": "https://crests.football-data.org/805.svg",
-        "score": 4
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537381",
-      "competition": "WM",
-      "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-07-07",
-      "kickoff": "2026-07-07T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Argentinien",
-        "short": "ARG",
-        "crest": "https://crests.football-data.org/762.png",
-        "score": 3
-      },
-      "away": {
-        "name": "Ägypten",
-        "short": "EGY",
-        "crest": "https://crests.football-data.org/825.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-537382",
-      "competition": "WM",
-      "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-07-07",
-      "kickoff": "2026-07-07T22:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Schweiz",
-        "short": "SUI",
-        "crest": "https://crests.football-data.org/788.svg",
-        "score": 4
-      },
-      "away": {
-        "name": "Kolumbien",
-        "short": "COL",
-        "crest": "https://crests.football-data.org/818.svg",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537383",
       "competition": "WM",
@@ -180,12 +69,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -231,19 +119,19 @@
         "available": true,
         "outcome": "Sieg England",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.5,
         "probs": {
           "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
           "Norwegen hat Heimvorteil, aber England ist in besserer Form",
           "England hat die individuell stärkeren Spieler",
-          "Norwegen hat in der Vergangenheit Probleme gegen Top-Nationen gezeigt"
+          "Norwegen hat in der Gruppenphase defensiv Schwächen gezeigt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-10T02:55:39.325095+00:00"
+        "generatedAt": "2026-07-11T02:32:46.015293+00:00"
       }
     },
     {
@@ -291,11 +179,11 @@
         },
         "reasons": [
           "Argentinien in starker Turnierform",
-          "Schweiz mit Schwächen in der Offensive",
-          "Heimvorteil spricht für Argentinien"
+          "Schweiz mit Ausfällen in der Defensive",
+          "Argentinien hat mehr individuelle Klasse"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-10T02:55:40.999332+00:00"
+        "generatedAt": "2026-07-11T02:32:47.721778+00:00"
       }
     },
     {
