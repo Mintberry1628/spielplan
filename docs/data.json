@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T02:39:09.216651+00:00",
+  "generatedAt": "2026-07-12T05:57:34.930806+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -126,13 +126,13 @@
       "dateLocal": "2026-07-12",
       "kickoff": "2026-07-12T03:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Argentinien",
         "short": "ARG",
         "crest": "https://crests.football-data.org/762.png",
-        "score": 1
+        "score": 3
       },
       "away": {
         "name": "Schweiz",
@@ -153,22 +153,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Argentinien",
-        "scoreline": "3:1",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
-        },
-        "reasons": [
-          "Argentinien in starker Form und mit Heimvorteil",
-          "Schweiz mit einigen Schlüsselspielern verletzt",
-          "Argentinien hat die höhere individuelle Qualität im Kader"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-12T02:39:08.216148+00:00"
+        "available": false
       }
     },
     {
@@ -207,20 +192,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Frankreich",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "1:0",
+        "confidence": 0.45,
         "probs": {
-          "home": 0.55,
+          "home": 0.45,
           "draw": 0.3,
-          "away": 0.15
+          "away": 0.25
         },
         "reasons": [
-          "Frankreich hat eine starke Turnierform und eine ausgeglichene Mannschaft.",
-          "Spanien hatte im Turnierverlauf einige Schwächen in der Defensive.",
-          "Der Heimvorteil im Finale könnte Frankreich zusätzlich beflügeln."
+          "Frankreich hat eine starke Turnierform gezeigt",
+          "Spanien hatte zuletzt einige knappe Ergebnisse",
+          "Frankreichs Defensive ist sehr stabil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-11T07:54:01.380343+00:00"
+        "generatedAt": "2026-07-12T05:57:33.930459+00:00"
       }
     },
     {
