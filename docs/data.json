@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T10:27:17.790130+00:00",
+  "generatedAt": "2026-07-12T13:17:02.065439+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -180,10 +180,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ZDF",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -232,10 +233,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "MagentaTV Fußball 1",
           "MagentaTV"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
