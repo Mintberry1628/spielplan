@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T21:48:34.442477+00:00",
+  "generatedAt": "2026-07-12T02:39:09.216651+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -89,7 +89,7 @@
       "dateLocal": "2026-07-11",
       "kickoff": "2026-07-11T23:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Norwegen",
@@ -101,37 +101,22 @@
         "name": "England",
         "short": "ENG",
         "crest": "https://crests.football-data.org/770.svg",
-        "score": 0
+        "score": 2
       },
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg England",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "Norwegen hat Heimvorteil, aber England ist in besserer Form",
-          "England hat die individuell stärkeren Spieler",
-          "Norwegen hat in der Gruppenphase defensiv Schwächen gezeigt"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-11T02:32:46.015293+00:00"
+        "available": false
       }
     },
     {
@@ -141,19 +126,19 @@
       "dateLocal": "2026-07-12",
       "kickoff": "2026-07-12T03:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Argentinien",
         "short": "ARG",
         "crest": "https://crests.football-data.org/762.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Schweiz",
         "short": "SUI",
         "crest": "https://crests.football-data.org/788.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -170,20 +155,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Argentinien",
-        "scoreline": "2:0",
+        "scoreline": "3:1",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
+          "draw": 0.2,
+          "away": 0.15
         },
         "reasons": [
-          "Argentinien in starker Turnierform",
-          "Schweiz mit Ausfällen in der Defensive",
-          "Argentinien hat mehr individuelle Klasse"
+          "Argentinien in starker Form und mit Heimvorteil",
+          "Schweiz mit einigen Schlüsselspielern verletzt",
+          "Argentinien hat die höhere individuelle Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-11T02:32:47.721778+00:00"
+        "generatedAt": "2026-07-12T02:39:08.216148+00:00"
       }
     },
     {
