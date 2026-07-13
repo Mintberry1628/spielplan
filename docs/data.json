@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T21:49:51.335295+00:00",
+  "generatedAt": "2026-07-13T02:40:39.648618+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,43 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537383",
-      "competition": "WM",
-      "competitionStage": "Viertelfinale",
-      "dateLocal": "2026-07-09",
-      "kickoff": "2026-07-09T22:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Frankreich",
-        "short": "FRA",
-        "crest": "https://crests.football-data.org/773.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "Marokko",
-        "short": "MAR",
-        "crest": "https://crests.football-data.org/morocco.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537384",
       "competition": "WM",
@@ -143,11 +106,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
-        "free": false,
-        "note": null
+        "free": true,
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -194,19 +157,19 @@
         "available": true,
         "outcome": "Sieg Frankreich",
         "scoreline": "1:0",
-        "confidence": 0.45,
+        "confidence": 0.55,
         "probs": {
-          "home": 0.45,
+          "home": 0.55,
           "draw": 0.3,
-          "away": 0.25
+          "away": 0.15
         },
         "reasons": [
-          "Frankreich hat eine starke Turnierform gezeigt",
-          "Spanien hatte zuletzt einige knappe Ergebnisse",
-          "Frankreichs Defensive ist sehr stabil"
+          "Frankreich hat eine starke Turnierform",
+          "Spanien hat zuletzt defensiv wackelig gewirkt",
+          "Frankreichs Erfahrung in K.o.-Spielen ist ein Vorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-12T05:57:33.930459+00:00"
+        "generatedAt": "2026-07-13T02:40:38.648170+00:00"
       }
     },
     {
