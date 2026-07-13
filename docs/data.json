@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T02:40:39.648618+00:00",
+  "generatedAt": "2026-07-13T06:17:30.765903+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -217,12 +217,12 @@
           "away": 0.2
         },
         "reasons": [
-          "England in starker Turnierform",
-          "Argentinien mit Schlüsselverletzungen im Mittelfeld",
-          "Historisch starke Leistungen von England in K.o.-Runden bei großen Turnieren"
+          "England in starker Form",
+          "Argentinien mit Schlüsselverletzungen",
+          "Historisch ausgeglichene Duelle, leichter Vorteil für England durch Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-12T08:23:34.967681+00:00"
+        "generatedAt": "2026-07-13T06:17:29.765437+00:00"
       }
     },
     {
