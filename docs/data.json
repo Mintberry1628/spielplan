@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:55:58.754861+00:00",
+  "generatedAt": "2026-07-14T02:24:14.838725+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,43 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537384",
-      "competition": "WM",
-      "competitionStage": "Viertelfinale",
-      "dateLocal": "2026-07-10",
-      "kickoff": "2026-07-10T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Spanien",
-        "short": "ESP",
-        "crest": "https://crests.football-data.org/760.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "Belgien",
-        "short": "BEL",
-        "crest": "https://crests.football-data.org/805.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537385",
       "competition": "WM",
@@ -157,19 +120,19 @@
         "available": true,
         "outcome": "Sieg Frankreich",
         "scoreline": "1:0",
-        "confidence": 0.55,
+        "confidence": 0.45,
         "probs": {
-          "home": 0.55,
+          "home": 0.45,
           "draw": 0.3,
-          "away": 0.15
+          "away": 0.25
         },
         "reasons": [
-          "Frankreich hat eine starke Turnierform",
-          "Spanien hat zuletzt defensiv wackelig gewirkt",
-          "Frankreichs Erfahrung in K.o.-Spielen ist ein Vorteil"
+          "Frankreich hat eine starke Turnierform gezeigt.",
+          "Spanien hatte im Viertelfinale mehr Mühe.",
+          "Die Defensive Frankreichs ist schwer zu überwinden."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-13T02:40:38.648170+00:00"
+        "generatedAt": "2026-07-14T02:24:12.148817+00:00"
       }
     },
     {
@@ -213,16 +176,16 @@
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
+          "draw": 0.3,
+          "away": 0.15
         },
         "reasons": [
-          "England in starker Form",
-          "Argentinien mit Schlüsselverletzungen",
-          "Historisch ausgeglichene Duelle, leichter Vorteil für England durch Heimvorteil"
+          "England hat eine starke Turnierform gezeigt.",
+          "Argentinien hat mit Verletzungssorgen zu kämpfen.",
+          "England profitiert vom Heimvorteil im Halbfinale."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-13T06:17:29.765437+00:00"
+        "generatedAt": "2026-07-14T02:24:13.838348+00:00"
       }
     },
     {
