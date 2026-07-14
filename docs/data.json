@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T16:13:38.242484+00:00",
+  "generatedAt": "2026-07-14T19:18:10.599876+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -89,19 +89,19 @@
       "dateLocal": "2026-07-14",
       "kickoff": "2026-07-14T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Frankreich",
         "short": "FRA",
         "crest": "https://crests.football-data.org/773.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Spanien",
         "short": "ESP",
         "crest": "https://crests.football-data.org/760.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
