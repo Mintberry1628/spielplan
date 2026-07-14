@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:18:10.599876+00:00",
+  "generatedAt": "2026-07-14T21:57:04.010573+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -89,7 +89,7 @@
       "dateLocal": "2026-07-14",
       "kickoff": "2026-07-14T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Frankreich",
@@ -101,7 +101,7 @@
         "name": "Spanien",
         "short": "ESP",
         "crest": "https://crests.football-data.org/760.svg",
-        "score": 0
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -117,22 +117,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Frankreich",
-        "scoreline": "1:0",
-        "confidence": 0.45,
-        "probs": {
-          "home": 0.45,
-          "draw": 0.3,
-          "away": 0.25
-        },
-        "reasons": [
-          "Frankreich hat eine starke Turnierform gezeigt.",
-          "Spanien hatte im Viertelfinale mehr Mühe.",
-          "Die Defensive Frankreichs ist schwer zu überwinden."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-14T02:24:12.148817+00:00"
+        "available": false
       }
     },
     {
