@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T05:30:33.052623+00:00",
+  "generatedAt": "2026-07-15T08:07:48.364640+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -145,9 +145,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Frankreich",
+        "short": "FRA",
+        "crest": "https://crests.football-data.org/773.svg",
         "score": null
       },
       "away": {
@@ -182,9 +182,9 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Spanien",
+        "short": "ESP",
+        "crest": "https://crests.football-data.org/760.svg",
         "score": null
       },
       "away": {
