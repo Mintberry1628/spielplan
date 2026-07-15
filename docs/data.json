@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T21:57:04.010573+00:00",
+  "generatedAt": "2026-07-15T02:22:38.861438+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,43 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537385",
-      "competition": "WM",
-      "competitionStage": "Viertelfinale",
-      "dateLocal": "2026-07-11",
-      "kickoff": "2026-07-11T23:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Norwegen",
-        "short": "NOR",
-        "crest": "https://crests.football-data.org/813.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "England",
-        "short": "ENG",
-        "crest": "https://crests.football-data.org/770.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537386",
       "competition": "WM",
@@ -106,12 +69,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
@@ -156,21 +118,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg England",
-        "scoreline": "1:0",
-        "confidence": 0.55,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "England hat eine starke Turnierform gezeigt.",
-          "Argentinien hat mit Verletzungssorgen zu kämpfen.",
-          "England profitiert vom Heimvorteil im Halbfinale."
+          "England in starker Form, aber mit Personalsorgen im Mittelfeld.",
+          "Argentinien defensiv stabil, aber offensiv abhängig von wenigen Spielern.",
+          "Historisch ausgeglichene Duelle, das Halbfinale könnte taktisch geprägt sein."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-14T02:24:13.838348+00:00"
+        "generatedAt": "2026-07-15T02:22:37.861085+00:00"
       }
     },
     {
