@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T05:40:04.914292+00:00",
+  "generatedAt": "2026-07-16T08:11:26.955778+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -98,9 +98,9 @@
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "England",
+        "short": "ENG",
+        "crest": "https://crests.football-data.org/770.svg",
         "score": null
       },
       "tv": {
@@ -116,7 +116,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Frankreich",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Frankreich hat die bessere Form im Turnier",
+          "England hat mit Verletzungssorgen zu kämpfen",
+          "Frankreich hat historisch eine gute Bilanz gegen England"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-16T08:11:24.142331+00:00"
       }
     },
     {
@@ -135,9 +150,9 @@
         "score": null
       },
       "away": {
-        "name": "?",
-        "short": "?",
-        "crest": null,
+        "name": "Argentinien",
+        "short": "ARG",
+        "crest": "https://crests.football-data.org/762.png",
         "score": null
       },
       "tv": {
@@ -154,7 +169,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Spanien",
+        "scoreline": "1:0",
+        "confidence": 0.45,
+        "probs": {
+          "home": 0.45,
+          "draw": 0.3,
+          "away": 0.25
+        },
+        "reasons": [
+          "Spanien zeigt konstante Leistungen im Turnierverlauf",
+          "Argentinien hatte im Halbfinale Probleme im Spielaufbau",
+          "Spanien hat den Heimvorteil auf seiner Seite"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-07-16T08:11:25.955398+00:00"
       }
     },
     {
