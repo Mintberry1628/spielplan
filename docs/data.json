@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T02:32:47.513976+00:00",
+  "generatedAt": "2026-07-17T05:42:28.660968+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -126,12 +126,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Frankreich hat die bessere Form im Turnier",
-          "England hat mit Verletzungssorgen zu kämpfen",
-          "Frankreich hat historisch eine gute Bilanz gegen England"
+          "Frankreich hat eine leicht bessere Form im Turnier",
+          "England hat mehr Verletzungssorgen im Kader",
+          "Frankreich hat historisch die Nase vorn in direkten Duellen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-16T08:11:24.142331+00:00"
+        "generatedAt": "2026-07-17T05:42:25.888992+00:00"
       }
     },
     {
@@ -170,21 +170,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Spanien",
-        "scoreline": "1:0",
-        "confidence": 0.45,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.45,
-          "draw": 0.3,
-          "away": 0.25
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Spanien zeigt konstante Leistungen im Turnierverlauf",
-          "Argentinien hatte im Halbfinale Probleme im Spielaufbau",
-          "Spanien hat den Heimvorteil auf seiner Seite"
+          "Spanien hat eine starke Turnierform gezeigt.",
+          "Argentinien verfügt über individuelle Klasse, die Spiele entscheiden kann.",
+          "Bei einem WM-Finale ist die Nervosität oft hoch, was zu einem ausgeglichenen Spiel führt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-16T08:11:25.955398+00:00"
+        "generatedAt": "2026-07-17T05:42:27.660611+00:00"
       }
     },
     {
