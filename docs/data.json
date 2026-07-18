@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T21:53:15.311327+00:00",
+  "generatedAt": "2026-07-18T02:23:35.805574+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,43 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537387",
-      "competition": "WM",
-      "competitionStage": "Halbfinale",
-      "dateLocal": "2026-07-14",
-      "kickoff": "2026-07-14T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Frankreich",
-        "short": "FRA",
-        "crest": "https://crests.football-data.org/773.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Spanien",
-        "short": "ESP",
-        "crest": "https://crests.football-data.org/760.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537388",
       "competition": "WM",
@@ -126,12 +89,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Frankreich hat eine leicht bessere Form im Turnier",
-          "England hat mehr Verletzungssorgen im Kader",
-          "Frankreich hat historisch die Nase vorn in direkten Duellen"
+          "Frankreich hat die bessere aktuelle Form",
+          "England hat mehrere Schlüsselspieler verletzt",
+          "Frankreich hat eine höhere individuelle Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-17T05:42:25.888992+00:00"
+        "generatedAt": "2026-07-18T02:23:32.950700+00:00"
       }
     },
     {
@@ -179,12 +142,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Spanien hat eine starke Turnierform gezeigt.",
-          "Argentinien verfügt über individuelle Klasse, die Spiele entscheiden kann.",
-          "Bei einem WM-Finale ist die Nervosität oft hoch, was zu einem ausgeglichenen Spiel führt."
+          "Spanien in starker Form, aber Argentinien hat Erfahrung in großen Finals.",
+          "Beide Teams verfügen über eine ausgeglichene Kaderstärke.",
+          "Das Finale kann durch Einzelaktionen entschieden werden, was zu einem knappen Ergebnis führt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-17T05:42:27.660611+00:00"
+        "generatedAt": "2026-07-18T02:23:34.805209+00:00"
       }
     },
     {
