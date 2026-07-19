@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T19:04:26.502769+00:00",
+  "generatedAt": "2026-07-19T21:52:01.139000+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -58,13 +58,13 @@
         "name": "Spanien",
         "short": "ESP",
         "crest": "https://crests.football-data.org/760.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Argentinien",
         "short": "ARG",
         "crest": "https://crests.football-data.org/762.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
