@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T21:50:33.533692+00:00",
+  "generatedAt": "2026-07-19T02:35:47.622062+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -9,25 +9,25 @@
   ],
   "matches": [
     {
-      "id": "fd-537388",
+      "id": "fd-537389",
       "competition": "WM",
-      "competitionStage": "Halbfinale",
-      "dateLocal": "2026-07-15",
-      "kickoff": "2026-07-15T21:00:00+02:00",
+      "competitionStage": "Third Place",
+      "dateLocal": "2026-07-18",
+      "kickoff": "2026-07-18T23:00:00+02:00",
       "kickoffKnown": true,
       "status": "finished",
       "minute": null,
       "home": {
+        "name": "Frankreich",
+        "short": "FRA",
+        "crest": "https://crests.football-data.org/773.svg",
+        "score": 4
+      },
+      "away": {
         "name": "England",
         "short": "ENG",
         "crest": "https://crests.football-data.org/770.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Argentinien",
-        "short": "ARG",
-        "crest": "https://crests.football-data.org/762.png",
-        "score": 2
+        "score": 6
       },
       "tv": {
         "known": true,
@@ -43,58 +43,6 @@
       },
       "prediction": {
         "available": false
-      }
-    },
-    {
-      "id": "fd-537389",
-      "competition": "WM",
-      "competitionStage": "Third Place",
-      "dateLocal": "2026-07-18",
-      "kickoff": "2026-07-18T23:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "live",
-      "minute": null,
-      "home": {
-        "name": "Frankreich",
-        "short": "FRA",
-        "crest": "https://crests.football-data.org/773.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "England",
-        "short": "ENG",
-        "crest": "https://crests.football-data.org/770.svg",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "MagentaTV Fußball 1",
-          "MagentaTV"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": true,
-        "outcome": "Sieg Frankreich",
-        "scoreline": "2:1",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
-        },
-        "reasons": [
-          "Frankreich hat die bessere aktuelle Form",
-          "England hat mehrere Schlüsselspieler verletzt",
-          "Frankreich hat eine höhere individuelle Qualität im Kader"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-18T02:23:32.950700+00:00"
       }
     },
     {
@@ -143,11 +91,11 @@
         },
         "reasons": [
           "Spanien in starker Form, aber Argentinien hat Erfahrung in großen Finals.",
-          "Beide Teams verfügen über eine ausgeglichene Kaderstärke.",
-          "Das Finale kann durch Einzelaktionen entschieden werden, was zu einem knappen Ergebnis führt."
+          "Beide Teams verfügen über offensive Stärke, was zu einem ausgeglichenen Spiel führt.",
+          "Die defensive Stabilität beider Mannschaften könnte ein knappes Ergebnis begünstigen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-18T02:23:34.805209+00:00"
+        "generatedAt": "2026-07-19T02:35:46.621589+00:00"
       }
     },
     {
