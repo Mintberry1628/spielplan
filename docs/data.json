@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T02:50:33.761535+00:00",
+  "generatedAt": "2026-07-20T06:17:59.616043+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1343,78 +1343,6 @@
       }
     },
     {
-      "id": "fd-565781",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-29",
-      "kickoff": "2026-08-29T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Borussia Dortmund",
-        "short": "BVB",
-        "crest": "https://crests.football-data.org/4.png",
-        "score": null
-      },
-      "away": {
-        "name": "Hamburger SV",
-        "short": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565782",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-29",
-      "kickoff": "2026-08-29T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "FC Augsburg",
-        "short": "FCA",
-        "crest": "https://crests.football-data.org/16.png",
-        "score": null
-      },
-      "away": {
-        "name": "FC Schalke 04",
-        "short": "S04",
-        "crest": "https://crests.football-data.org/6.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
       "id": "fd-565783",
       "competition": "Bundesliga",
       "competitionStage": "1. Spieltag",
@@ -1451,11 +1379,47 @@
       }
     },
     {
-      "id": "fd-565784",
+      "id": "fd-565781",
       "competition": "Bundesliga",
       "competitionStage": "1. Spieltag",
       "dateLocal": "2026-08-29",
-      "kickoff": "2026-08-29T15:30:00+02:00",
+      "kickoff": "2026-08-29T18:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "away": {
+        "name": "Hamburger SV",
+        "short": "HSV",
+        "crest": "https://crests.football-data.org/7.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565784",
+      "competition": "Bundesliga",
+      "competitionStage": "1. Spieltag",
+      "dateLocal": "2026-08-30",
+      "kickoff": "2026-08-30T15:30:00+02:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
@@ -1474,10 +1438,46 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565782",
+      "competition": "Bundesliga",
+      "competitionStage": "1. Spieltag",
+      "dateLocal": "2026-08-30",
+      "kickoff": "2026-08-30T17:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Augsburg",
+        "short": "FCA",
+        "crest": "https://crests.football-data.org/16.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Schalke 04",
+        "short": "S04",
+        "crest": "https://crests.football-data.org/6.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
@@ -1559,6 +1559,42 @@
       }
     },
     {
+      "id": "fd-565791",
+      "competition": "Bundesliga",
+      "competitionStage": "2. Spieltag",
+      "dateLocal": "2026-09-04",
+      "kickoff": "2026-09-04T20:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "away": {
+        "name": "1. FC Köln",
+        "short": "KOE",
+        "crest": "https://crests.football-data.org/1.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
       "id": "fd-565785",
       "competition": "Bundesliga",
       "competitionStage": "2. Spieltag",
@@ -1577,42 +1613,6 @@
         "name": "RB Leipzig",
         "short": "RBL",
         "crest": "https://crests.football-data.org/721.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565786",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Eintracht Frankfurt",
-        "short": "SGE",
-        "crest": "https://crests.football-data.org/19.png",
-        "score": null
-      },
-      "away": {
-        "name": "FC Augsburg",
-        "short": "FCA",
-        "crest": "https://crests.football-data.org/16.png",
         "score": null
       },
       "tv": {
@@ -1667,78 +1667,6 @@
       }
     },
     {
-      "id": "fd-565788",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Hamburger SV",
-        "short": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "score": null
-      },
-      "away": {
-        "name": "1. FSV Mainz 05",
-        "short": "M05",
-        "crest": "https://crests.football-data.org/15.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565789",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "FC Schalke 04",
-        "short": "S04",
-        "crest": "https://crests.football-data.org/6.png",
-        "score": null
-      },
-      "away": {
-        "name": "FC Bayern München",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
       "id": "fd-565790",
       "competition": "Bundesliga",
       "competitionStage": "2. Spieltag",
@@ -1757,42 +1685,6 @@
         "name": "1. FC Union Berlin",
         "short": "UNB",
         "crest": "https://crests.football-data.org/28.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565791",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "VfB Stuttgart",
-        "short": "VFB",
-        "crest": "https://crests.football-data.org/10.png",
-        "score": null
-      },
-      "away": {
-        "name": "1. FC Köln",
-        "short": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
         "score": null
       },
       "tv": {
@@ -1874,6 +1766,150 @@
         ],
         "free": false,
         "note": "Konferenz auf DAZN"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565789",
+      "competition": "Bundesliga",
+      "competitionStage": "2. Spieltag",
+      "dateLocal": "2026-09-05",
+      "kickoff": "2026-09-05T18:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Schalke 04",
+        "short": "S04",
+        "crest": "https://crests.football-data.org/6.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565788",
+      "competition": "Bundesliga",
+      "competitionStage": "2. Spieltag",
+      "dateLocal": "2026-09-06",
+      "kickoff": "2026-09-06T15:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Hamburger SV",
+        "short": "HSV",
+        "crest": "https://crests.football-data.org/7.png",
+        "score": null
+      },
+      "away": {
+        "name": "1. FSV Mainz 05",
+        "short": "M05",
+        "crest": "https://crests.football-data.org/15.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565786",
+      "competition": "Bundesliga",
+      "competitionStage": "2. Spieltag",
+      "dateLocal": "2026-09-06",
+      "kickoff": "2026-09-06T17:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Eintracht Frankfurt",
+        "short": "SGE",
+        "crest": "https://crests.football-data.org/19.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Augsburg",
+        "short": "FCA",
+        "crest": "https://crests.football-data.org/16.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565797",
+      "competition": "Bundesliga",
+      "competitionStage": "3. Spieltag",
+      "dateLocal": "2026-09-11",
+      "kickoff": "2026-09-11T20:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "1. FC Union Berlin",
+        "short": "UNB",
+        "crest": "https://crests.football-data.org/28.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Schalke 04",
+        "short": "S04",
+        "crest": "https://crests.football-data.org/6.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
@@ -1991,150 +2027,6 @@
       }
     },
     {
-      "id": "fd-565797",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "1. FC Union Berlin",
-        "short": "UNB",
-        "crest": "https://crests.football-data.org/28.png",
-        "score": null
-      },
-      "away": {
-        "name": "FC Schalke 04",
-        "short": "S04",
-        "crest": "https://crests.football-data.org/6.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565798",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "1. FC Köln",
-        "short": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "score": null
-      },
-      "away": {
-        "name": "SV Werder Bremen",
-        "short": "SVW",
-        "crest": "https://crests.football-data.org/12.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565799",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "RB Leipzig",
-        "short": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "score": null
-      },
-      "away": {
-        "name": "Hamburger SV",
-        "short": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565800",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "SV 07 Elversberg",
-        "short": "ELV",
-        "crest": "https://crests.football-data.org/719.png",
-        "score": null
-      },
-      "away": {
-        "name": "FC Bayern München",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
       "id": "fd-565801",
       "competition": "Bundesliga",
       "competitionStage": "3. Spieltag",
@@ -2207,24 +2099,24 @@
       }
     },
     {
-      "id": "fd-565803",
+      "id": "fd-565798",
       "competition": "Bundesliga",
-      "competitionStage": "4. Spieltag",
-      "dateLocal": "2026-09-19",
-      "kickoff": "2026-09-19T15:30:00+02:00",
+      "competitionStage": "3. Spieltag",
+      "dateLocal": "2026-09-12",
+      "kickoff": "2026-09-12T18:30:00+02:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "SC Paderborn 07",
-        "short": "SCP",
-        "crest": "https://crests.football-data.org/29.png",
+        "name": "1. FC Köln",
+        "short": "KOE",
+        "crest": "https://crests.football-data.org/1.png",
         "score": null
       },
       "away": {
-        "name": "TSG 1899 Hoffenheim",
-        "short": "TSG",
-        "crest": "https://crests.football-data.org/2.png",
+        "name": "SV Werder Bremen",
+        "short": "SVW",
+        "crest": "https://crests.football-data.org/12.png",
         "score": null
       },
       "tv": {
@@ -2233,7 +2125,79 @@
           "Sky"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565799",
+      "competition": "Bundesliga",
+      "competitionStage": "3. Spieltag",
+      "dateLocal": "2026-09-13",
+      "kickoff": "2026-09-13T15:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "away": {
+        "name": "Hamburger SV",
+        "short": "HSV",
+        "crest": "https://crests.football-data.org/7.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565800",
+      "competition": "Bundesliga",
+      "competitionStage": "3. Spieltag",
+      "dateLocal": "2026-09-13",
+      "kickoff": "2026-09-13T17:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SV 07 Elversberg",
+        "short": "ELV",
+        "crest": "https://crests.football-data.org/719.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
@@ -2246,8 +2210,8 @@
       "id": "fd-565804",
       "competition": "Bundesliga",
       "competitionStage": "4. Spieltag",
-      "dateLocal": "2026-09-19",
-      "kickoff": "2026-09-19T15:30:00+02:00",
+      "dateLocal": "2026-09-18",
+      "kickoff": "2026-09-18T20:30:00+02:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
@@ -2269,115 +2233,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565805",
-      "competition": "Bundesliga",
-      "competitionStage": "4. Spieltag",
-      "dateLocal": "2026-09-19",
-      "kickoff": "2026-09-19T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "FC Schalke 04",
-        "short": "S04",
-        "crest": "https://crests.football-data.org/6.png",
-        "score": null
-      },
-      "away": {
-        "name": "SV 07 Elversberg",
-        "short": "ELV",
-        "crest": "https://crests.football-data.org/719.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565806",
-      "competition": "Bundesliga",
-      "competitionStage": "4. Spieltag",
-      "dateLocal": "2026-09-19",
-      "kickoff": "2026-09-19T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "VfB Stuttgart",
-        "short": "VFB",
-        "crest": "https://crests.football-data.org/10.png",
-        "score": null
-      },
-      "away": {
-        "name": "Borussia Dortmund",
-        "short": "BVB",
-        "crest": "https://crests.football-data.org/4.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565807",
-      "competition": "Bundesliga",
-      "competitionStage": "4. Spieltag",
-      "dateLocal": "2026-09-19",
-      "kickoff": "2026-09-19T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Bayer 04 Leverkusen",
-        "short": "B04",
-        "crest": "https://crests.football-data.org/3.png",
-        "score": null
-      },
-      "away": {
-        "name": "RB Leipzig",
-        "short": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2522,6 +2378,150 @@
         ],
         "free": false,
         "note": "Konferenz auf DAZN"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565806",
+      "competition": "Bundesliga",
+      "competitionStage": "4. Spieltag",
+      "dateLocal": "2026-09-19",
+      "kickoff": "2026-09-19T18:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "away": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565807",
+      "competition": "Bundesliga",
+      "competitionStage": "4. Spieltag",
+      "dateLocal": "2026-09-20",
+      "kickoff": "2026-09-20T15:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Bayer 04 Leverkusen",
+        "short": "B04",
+        "crest": "https://crests.football-data.org/3.png",
+        "score": null
+      },
+      "away": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565805",
+      "competition": "Bundesliga",
+      "competitionStage": "4. Spieltag",
+      "dateLocal": "2026-09-20",
+      "kickoff": "2026-09-20T17:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Schalke 04",
+        "short": "S04",
+        "crest": "https://crests.football-data.org/6.png",
+        "score": null
+      },
+      "away": {
+        "name": "SV 07 Elversberg",
+        "short": "ELV",
+        "crest": "https://crests.football-data.org/719.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": null
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-565803",
+      "competition": "Bundesliga",
+      "competitionStage": "4. Spieltag",
+      "dateLocal": "2026-09-20",
+      "kickoff": "2026-09-20T19:30:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SC Paderborn 07",
+        "short": "SCP",
+        "crest": "https://crests.football-data.org/29.png",
+        "score": null
+      },
+      "away": {
+        "name": "TSG 1899 Hoffenheim",
+        "short": "TSG",
+        "crest": "https://crests.football-data.org/2.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": null
       },
       "odds": {
         "known": false
