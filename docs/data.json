@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T21:52:01.139000+00:00",
+  "generatedAt": "2026-07-20T02:50:33.761535+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -52,7 +52,7 @@
       "dateLocal": "2026-07-19",
       "kickoff": "2026-07-19T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Spanien",
@@ -69,33 +69,17 @@
       "tv": {
         "known": true,
         "channels": [
-          "ZDF",
-          "MagentaTV Fußball 1",
+          "ARD/ZDF",
           "MagentaTV"
         ],
         "free": true,
-        "note": null
+        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Spanien in starker Form, aber Argentinien hat Erfahrung in großen Finals.",
-          "Beide Teams verfügen über offensive Stärke, was zu einem ausgeglichenen Spiel führt.",
-          "Die defensive Stabilität beider Mannschaften könnte ein knappes Ergebnis begünstigen."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-07-19T02:35:46.621589+00:00"
+        "available": false
       }
     },
     {
