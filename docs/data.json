@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:02:59.375250+00:00",
+  "generatedAt": "2026-07-22T02:32:31.652953+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,43 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537389",
-      "competition": "WM",
-      "competitionStage": "Third Place",
-      "dateLocal": "2026-07-18",
-      "kickoff": "2026-07-18T23:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Frankreich",
-        "short": "FRA",
-        "crest": "https://crests.football-data.org/773.svg",
-        "score": 4
-      },
-      "away": {
-        "name": "England",
-        "short": "ENG",
-        "crest": "https://crests.football-data.org/770.svg",
-        "score": 6
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-537390",
       "competition": "WM",
