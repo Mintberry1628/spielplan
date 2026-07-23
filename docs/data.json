@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:03:19.061060+00:00",
+  "generatedAt": "2026-07-23T02:37:03.932689+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,43 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-537390",
-      "competition": "WM",
-      "competitionStage": "Finale",
-      "dateLocal": "2026-07-19",
-      "kickoff": "2026-07-19T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Spanien",
-        "short": "ESP",
-        "crest": "https://crests.football-data.org/760.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "Argentinien",
-        "short": "ARG",
-        "crest": "https://crests.football-data.org/762.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "ARD/ZDF",
-          "MagentaTV"
-        ],
-        "free": true,
-        "note": "Free-TV bei ARD/ZDF oder exklusiv bei MagentaTV"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "oldb-81832",
       "competition": "DFB-Pokal",
