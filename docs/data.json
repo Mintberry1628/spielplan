@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T19:23:54.879228+00:00",
+  "generatedAt": "2026-07-24T22:04:01.082893+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -81,42 +81,6 @@
       }
     },
     {
-      "id": "oldb-81855",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-21",
-      "kickoff": "2026-08-21T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Hansa Rostock",
-        "short": "Rostock",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/960px-F.C._Hansa_Rostock_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-        "score": null
-      },
-      "away": {
-        "name": "VfB Stuttgart",
-        "short": "Stuttgart",
-        "crest": "https://i.imgur.com/v0tkpNx.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
       "id": "oldb-81859",
       "competition": "DFB-Pokal",
       "competitionStage": "1. Runde",
@@ -135,6 +99,42 @@
         "name": "1. FC Kaiserslautern",
         "short": "Kaiserslautern",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81855",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-21",
+      "kickoff": "2026-08-21T20:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Hansa Rostock",
+        "short": "Rostock",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/960px-F.C._Hansa_Rostock_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "score": null
+      },
+      "away": {
+        "name": "VfB Stuttgart",
+        "short": "Stuttgart",
+        "crest": "https://i.imgur.com/v0tkpNx.png",
         "score": null
       },
       "tv": {
@@ -945,42 +945,6 @@
       }
     },
     {
-      "id": "oldb-81843",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-24",
-      "kickoff": "2026-08-24T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Hallescher FC",
-        "short": "Halle",
-        "crest": "https://derivates.kicker.de/image/fetch/f_webp/w_120%2Ch_120%2Cc_fit%2Cq_auto:best/https://mediadb.kicker.de/2018/fussball/vereine/xxl/4440_20170721710.png",
-        "score": null
-      },
-      "away": {
-        "name": "FC Schalke 04",
-        "short": "Schalke",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
       "id": "oldb-81854",
       "competition": "DFB-Pokal",
       "competitionStage": "1. Runde",
@@ -1071,6 +1035,42 @@
         "name": "1. FC Köln",
         "short": "Köln",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "oldb-81843",
+      "competition": "DFB-Pokal",
+      "competitionStage": "1. Runde",
+      "dateLocal": "2026-08-24",
+      "kickoff": "2026-08-24T20:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Hallescher FC",
+        "short": "Halle",
+        "crest": "https://derivates.kicker.de/image/fetch/f_webp/w_120%2Ch_120%2Cc_fit%2Cq_auto:best/https://mediadb.kicker.de/2018/fussball/vereine/xxl/4440_20170721710.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Schalke 04",
+        "short": "Schalke",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
         "score": null
       },
       "tv": {
@@ -1417,7 +1417,7 @@
       "competition": "DFB-Pokal",
       "competitionStage": "1. Runde",
       "dateLocal": "2026-09-01",
-      "kickoff": "2026-09-01T20:00:00+02:00",
+      "kickoff": "2026-09-01T20:45:00+02:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
@@ -1452,8 +1452,8 @@
       "id": "oldb-81852",
       "competition": "DFB-Pokal",
       "competitionStage": "1. Runde",
-      "dateLocal": "2026-09-01",
-      "kickoff": "2026-09-01T20:00:00+02:00",
+      "dateLocal": "2026-09-02",
+      "kickoff": "2026-09-02T20:45:00+02:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
