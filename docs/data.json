@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T19:01:01.321584+00:00",
+  "generatedAt": "2026-08-13T21:43:18.549220+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -32,8 +32,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -84,8 +83,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -136,8 +134,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
