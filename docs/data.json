@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T21:43:18.549220+00:00",
+  "generatedAt": "2026-08-14T01:50:01.830252+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -51,12 +51,12 @@
           "away": 0.8
         },
         "reasons": [
-          "Deutlicher Klassenunterschied",
-          "St. Tönis ist Amateurverein",
-          "Frankfurt mit starker Vorbereitung"
+          "Klassengefälle zwischen Amateur- und Profiverein",
+          "Frankfurt mit starker Vorbereitung und Zielsetzung im Pokal",
+          "St. Tönis in der Regel als Außenseiter im Pokal"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-13T01:51:20.295412+00:00"
+        "generatedAt": "2026-08-14T01:49:37.969979+00:00"
       }
     },
     {
@@ -97,17 +97,17 @@
         "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
+          "home": 0.35,
+          "draw": 0.25,
           "away": 0.4
         },
         "reasons": [
           "Karlsruher SC in besserer Verfassung",
-          "Preußen Münster mit Heimnachteilen gegen stärkere Gegner",
+          "Preußen Münster mit Heimnachteilen gegen starke Gegner",
           "Kaderqualität spricht für KSC"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-13T01:51:21.911338+00:00"
+        "generatedAt": "2026-08-14T01:49:39.758357+00:00"
       }
     },
     {
@@ -148,17 +148,17 @@
         "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
+          "home": 0.35,
+          "draw": 0.25,
           "away": 0.4
         },
         "reasons": [
-          "Waldhof Mannheim in schwacher Form",
-          "Kaiserslautern mit höherer individueller Qualität",
-          "Pokalspiele oft ausgeglichen und mit Überraschungen"
+          "Kaiserslautern spielt eine Klasse höher",
+          "Waldhof Mannheim zuletzt schwankend",
+          "Pokalspiele sind oft unberechenbar"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-13T01:51:23.715926+00:00"
+        "generatedAt": "2026-08-14T01:49:41.304383+00:00"
       }
     },
     {
@@ -205,12 +205,12 @@
           "away": 0.6
         },
         "reasons": [
-          "VfB Stuttgart in starker Verfassung und internationaler Klasse",
-          "Hansa Rostock kämpft in der 2. Bundesliga",
-          "Qualitätsunterschied im Kader spricht für Stuttgart"
+          "Stuttgart klar stärker in der Liga",
+          "Rostock mit vielen Abgängen und Umbruch",
+          "Stuttgart hat die breitere und erfahrenere Bank"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-13T01:51:25.445354+00:00"
+        "generatedAt": "2026-08-14T01:49:42.870736+00:00"
       }
     },
     {
@@ -247,7 +247,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "0:3",
+        "confidence": 0.8,
+        "probs": {
+          "home": 0.05,
+          "draw": 0.15,
+          "away": 0.8
+        },
+        "reasons": [
+          "Leverkusen ist klarer Favorit mit überragender Form",
+          "Wehen Wiesbaden hat einen deutlich schwächeren Kader",
+          "Pokal-Überraschungen sind selten gegen Top-Teams"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:44.426559+00:00"
       }
     },
     {
@@ -284,7 +299,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Augsburg",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.2,
+          "draw": 0.3,
+          "away": 0.5
+        },
+        "reasons": [
+          "Augsburg spielt eine Liga höher",
+          "Cottbus hat Heimnachteile gegen Profiteams",
+          "Augsburg ist in besserer Verfassung"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:46.044699+00:00"
       }
     },
     {
@@ -321,7 +351,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg TSG Hoffenheim",
+        "scoreline": "1:3",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.2,
+          "draw": 0.2,
+          "away": 0.6
+        },
+        "reasons": [
+          "Hoffenheim spielt eine Klasse höher",
+          "Aue hat zuletzt schwache Leistungen gezeigt",
+          "Hoffenheim ist offensivstark"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:47.647438+00:00"
       }
     },
     {
@@ -358,7 +403,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Hannover 96",
+        "scoreline": "0:3",
+        "confidence": 0.8,
+        "probs": {
+          "home": 0.05,
+          "draw": 0.15,
+          "away": 0.8
+        },
+        "reasons": [
+          "SV Hemelingen ist Amateurverein, Hannover 96 Profiverein",
+          "Deutlicher Klassenunterschied im Kader und in der Spielweise",
+          "Hannover 96 ist motiviert, die Saison erfolgreich zu beginnen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:49.410581+00:00"
       }
     },
     {
@@ -396,7 +456,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Saarbrücken",
+        "scoreline": "1:0",
+        "confidence": 0.45,
+        "probs": {
+          "home": 0.45,
+          "draw": 0.35,
+          "away": 0.2
+        },
+        "reasons": [
+          "Saarbrücken stark im DFB-Pokal",
+          "Hertha BSC mit ungewisser Form nach Abstieg",
+          "Heimvorteil und Pokal-Spezialisten"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:50.918394+00:00"
       }
     },
     {
@@ -433,7 +508,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg 1. FC Nürnberg",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.35,
+          "draw": 0.25,
+          "away": 0.4
+        },
+        "reasons": [
+          "Nürnberg spielt eine Liga höher",
+          "Viktoria Köln zuletzt schwankend",
+          "Nürnberg mit klarer Offensivstärke"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:52.531921+00:00"
       }
     },
     {
@@ -470,7 +560,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg MSV Duisburg",
+        "scoreline": "1:0",
+        "confidence": 0.45,
+        "probs": {
+          "home": 0.45,
+          "draw": 0.3,
+          "away": 0.25
+        },
+        "reasons": [
+          "MSV Duisburg mit Heimvorteil",
+          "SV 07 Elversberg in schwacher Form",
+          "Beide Teams defensivstark, daher wenige Tore erwartet"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:54.056424+00:00"
       }
     },
     {
@@ -507,7 +612,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg SV Werder Bremen",
+        "scoreline": "0:3",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.1,
+          "draw": 0.2,
+          "away": 0.7
+        },
+        "reasons": [
+          "Lüneburger SK Hansa spielt in einer niedrigeren Liga und ist Außenseiter.",
+          "Werder Bremen hat eine höhere individuelle Qualität und Erfahrung.",
+          "Pokalspiele sind oft von Überraschungen geprägt, aber die Favoritenrolle ist klar."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:55.882252+00:00"
       }
     },
     {
@@ -544,7 +664,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "0:3",
+        "confidence": 0.8,
+        "probs": {
+          "home": 0.05,
+          "draw": 0.15,
+          "away": 0.8
+        },
+        "reasons": [
+          "Trier spielt in der Oberliga, vier Ligen unter Leipzig",
+          "Leipzig ist etabliert in der Bundesliga und international",
+          "Trier hat im DFB-Pokal historisch wenig Erfolg gegen Top-Teams"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:57.480886+00:00"
       }
     },
     {
@@ -581,7 +716,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Großaspach mit Heimvorteil in der ersten Pokalrunde",
+          "Bielefeld als favorisiertes Team, aber Pokalüberraschungen möglich",
+          "Beide Teams könnten defensiv agieren, um Fehler zu vermeiden"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:49:59.195860+00:00"
       }
     },
     {
@@ -618,7 +768,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg TSV 1860 München",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Heimvorteil im Stadion an der Grünwalder Straße",
+          "1860 München oft stark im Pokal, besonders zu Hause",
+          "Holstein Kiel mit wechselhafter Form in der Vorbereitung"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-14T01:50:00.829842+00:00"
       }
     },
     {
@@ -645,10 +810,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -681,10 +847,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -717,10 +884,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -753,10 +921,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -789,10 +958,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -825,10 +995,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -861,10 +1032,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -897,10 +1069,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -933,10 +1106,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -969,10 +1143,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1005,10 +1180,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
