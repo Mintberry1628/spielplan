@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:22:40.022416+00:00",
+  "generatedAt": "2026-08-14T09:59:49.345197+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -237,8 +237,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -289,8 +288,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -341,8 +339,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -393,8 +390,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -446,8 +442,7 @@
         "known": true,
         "channels": [
           "RTL",
-          "Sky",
-          "RTL+"
+          "Sky"
         ],
         "free": true,
         "note": null
@@ -498,8 +493,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -550,8 +544,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -602,8 +595,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -654,8 +646,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -706,8 +697,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -758,8 +748,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
