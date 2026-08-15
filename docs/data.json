@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T18:27:00.884426+00:00",
+  "generatedAt": "2026-08-15T21:20:46.514910+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -41,22 +41,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "0:3",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
-        },
-        "reasons": [
-          "Klassengefälle zwischen Regionalligist und Bundesligist",
-          "St. Tönis ist krasser Außenseiter im DFB-Pokal",
-          "Frankfurt ist klarer Favorit und wird die Pflichtaufgabe ernst nehmen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:20.114782+00:00"
+        "available": false
       }
     },
     {
@@ -102,12 +87,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Preußen Münster spielt in einer niedrigeren Liga",
-          "Karlsruher SC hat mehr Erfahrung im Profifußball",
-          "Formkurve spricht leicht für den KSC"
+          "KSC in besserer Verfassung",
+          "Münster mit Heimvorteil, aber schwächerer Kader",
+          "Pokalüberraschungen möglich, aber KSC favorisiert"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:21.680563+00:00"
+        "generatedAt": "2026-08-15T21:20:07.945970+00:00"
       }
     },
     {
@@ -153,12 +138,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Kaiserslautern hat eine höhere Spielklasse und bessere individuelle Qualität",
-          "Waldhof Mannheim spielt in der 3. Liga und ist aktuell nicht in Topform",
-          "Pokalspiele sind oft unberechenbar, Überraschungen sind möglich"
+          "Kaiserslautern in besserer Verfassung",
+          "Waldhof Mannheim mit Heimschwäche in Pokalspielen",
+          "Qualitativer Unterschied im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:23.461511+00:00"
+        "generatedAt": "2026-08-15T21:20:09.568864+00:00"
       }
     },
     {
@@ -198,19 +183,19 @@
         "available": true,
         "outcome": "Sieg VfB Stuttgart",
         "scoreline": "1:3",
-        "confidence": 0.55,
+        "confidence": 0.6,
         "probs": {
           "home": 0.2,
-          "draw": 0.25,
-          "away": 0.55
+          "draw": 0.2,
+          "away": 0.6
         },
         "reasons": [
-          "Stuttgart spielt in der Bundesliga, Rostock in der 2. Bundesliga.",
-          "Stuttgart hat eine bessere aktuelle Form und Kaderqualität.",
-          "Hansa Rostock hat Heimvorteil, aber die spielerische Überlegenheit von Stuttgart ist entscheidend."
+          "Stuttgart klar stärker einzuschätzen",
+          "Rostock in der 2. Liga nicht überzeugend",
+          "Stuttgart mit breiterem Kader und mehr Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:25.262316+00:00"
+        "generatedAt": "2026-08-15T21:20:11.207777+00:00"
       }
     },
     {
@@ -256,12 +241,12 @@
           "away": 0.8
         },
         "reasons": [
-          "Leverkusen ist klarer Favorit mit überlegener Qualität",
-          "Wehen Wiesbaden kämpft in der 2. Liga um den Klassenerhalt",
-          "Leverkusen hat eine beeindruckende Siegesserie und ist offensivstark"
+          "Leverkusen ist klarer Favorit mit starker Saisonform",
+          "Wehen Wiesbaden hat Schwierigkeiten in der Liga",
+          "Pokalspiele gegen Topteams sind oft eine klare Angelegenheit für Favoriten"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:26.902265+00:00"
+        "generatedAt": "2026-08-15T21:20:12.902783+00:00"
       }
     },
     {
@@ -299,20 +284,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Augsburg",
-        "scoreline": "1:3",
-        "confidence": 0.6,
+        "scoreline": "1:2",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.2,
+          "home": 0.3,
           "draw": 0.2,
-          "away": 0.6
+          "away": 0.5
         },
         "reasons": [
-          "Augsburg ist eine Klasse höher angesiedelt",
-          "Cottbus hat in der Vorbereitung schwankende Leistungen gezeigt",
-          "Augsburg hat eine gute Offensive"
+          "Augsburg spielt eine Klasse höher und ist favorisiert.",
+          "Cottbus hat Heimvorteil, aber die Qualität des Gegners ist hoch.",
+          "Augsburg sollte die höhere individuelle Klasse auf den Platz bringen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:28.518569+00:00"
+        "generatedAt": "2026-08-15T21:20:14.575727+00:00"
       }
     },
     {
@@ -358,12 +343,12 @@
           "away": 0.6
         },
         "reasons": [
-          "Hoffenheim spielt eine Klasse höher und ist klarer Favorit",
-          "Aue hat zuletzt schwache Leistungen gezeigt",
-          "Hoffenheim hat die individuell besseren Spieler"
+          "Hoffenheim spielt eine Klasse höher und hat mehr Qualität im Kader.",
+          "Aue hat zuletzt schwankende Leistungen gezeigt.",
+          "Hoffenheim hat eine gute Auswärtsbilanz in Pokalspielen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:30.052936+00:00"
+        "generatedAt": "2026-08-15T21:20:16.415165+00:00"
       }
     },
     {
@@ -409,12 +394,12 @@
           "away": 0.8
         },
         "reasons": [
-          "SV Hemelingen spielt in der unterklassigen Oberliga Niedersachsen, Hannover 96 in der 2. Bundesliga.",
-          "Hannover 96 hat den klar besseren Kader und die höhere Spielklasse.",
-          "Pokalspiele gegen unterklassige Gegner sind oft eine klare Angelegenheit für Profivereine."
+          "Klassengefälle zwischen Amateur- und Profiverein",
+          "Hannover 96 mit starker Vorbereitung",
+          "SV Hemelingen mit geringer Pokalerfahrung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:31.741998+00:00"
+        "generatedAt": "2026-08-15T21:20:18.050763+00:00"
       }
     },
     {
@@ -453,20 +438,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Saarbrücken",
-        "scoreline": "1:0",
-        "confidence": 0.45,
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.45,
-          "draw": 0.3,
-          "away": 0.25
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
         },
         "reasons": [
           "Saarbrücken stark im DFB-Pokal",
-          "Hertha BSC in Umbruchphase",
-          "Heimvorteil und Pokalatmosphäre"
+          "Hertha BSC in der Liga noch nicht stabil",
+          "Heimvorteil für Saarbrücken"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:33.362404+00:00"
+        "generatedAt": "2026-08-15T21:20:19.670278+00:00"
       }
     },
     {
@@ -503,21 +488,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg 1. FC Nürnberg",
-        "scoreline": "1:2",
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Nürnberg in der Regel stärker besetzt",
-          "Kölns Heimstärke nicht überzeugend",
-          "Pokal-Überraschungen möglich, aber tendenziell Favoritensieg"
+          "Nürnberg ist favorisiert, aber Köln hat Heimvorteil",
+          "Beide Teams sind in der Liga noch nicht in Topform",
+          "Pokalspiele sind oft unberechenbar und ausgeglichen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:35.045299+00:00"
+        "generatedAt": "2026-08-15T21:20:21.288839+00:00"
       }
     },
     {
@@ -554,7 +539,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg MSV Duisburg",
+        "outcome": "Sieg Heim",
         "scoreline": "2:1",
         "confidence": 0.55,
         "probs": {
@@ -563,12 +548,12 @@
           "away": 0.2
         },
         "reasons": [
-          "MSV Duisburg mit Heimvorteil und starker Rückrunde",
-          "SV 07 Elversberg mit Personalsorgen und Auswärtsschwäche",
-          "Pokal-Überraschungen sind selten, aber Duisburg ist favorisiert"
+          "MSV Duisburg hat Heimvorteil",
+          "SV Elversberg in der letzten Saison schwächer",
+          "MSV Duisburg hat sich gut verstärkt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:36.715438+00:00"
+        "generatedAt": "2026-08-15T21:20:22.936619+00:00"
       }
     },
     {
@@ -607,19 +592,19 @@
         "available": true,
         "outcome": "Sieg SV Werder Bremen",
         "scoreline": "0:3",
-        "confidence": 0.75,
+        "confidence": 0.8,
         "probs": {
-          "home": 0.1,
+          "home": 0.05,
           "draw": 0.15,
-          "away": 0.75
+          "away": 0.8
         },
         "reasons": [
-          "Lüneburger SK Hansa ist Amateurverein, Werder Bremen Profi-Club",
-          "Deutlicher Klassenunterschied im Kader",
-          "Werder Bremen hat eine positive Pokalhistorie"
+          "Deutlicher Klassenunterschied",
+          "Lüneburger SK Hansa in unterklassiger Liga",
+          "Werder Bremen mit höherer Spielqualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:38.360505+00:00"
+        "generatedAt": "2026-08-15T21:20:24.510897+00:00"
       }
     },
     {
@@ -665,12 +650,12 @@
           "away": 0.8
         },
         "reasons": [
-          "Deutlicher Klassenunterschied",
-          "RB Leipzig ist im internationalen Geschäft etabliert",
-          "Eintracht Trier spielt in der Regionalliga"
+          "Trier spielt in der Oberliga, vier Ligen unter Leipzig",
+          "Leipzig ist etablierter Bundesligist mit internationaler Erfahrung",
+          "Trier hat Heimvorteil, aber Qualitätsunterschied ist zu groß"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:39.955305+00:00"
+        "generatedAt": "2026-08-15T21:20:26.059094+00:00"
       }
     },
     {
@@ -707,21 +692,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Unentschieden",
-        "scoreline": "1:1",
+        "outcome": "Sieg DSC Arminia Bielefeld",
+        "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Großaspach mit Heimvorteil in Pokalspielen oft stark",
-          "Bielefeld in Liga 3 zuletzt inkonsistent",
-          "Pokalspiele sind oft eng und unvorhersehbar"
+          "Höhere Ligaerfahrung von Bielefeld",
+          "SG Sonnenhof Großaspach spielt eine Klasse tiefer",
+          "Pokalspiele sind oft unberechenbar"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:41.617064+00:00"
+        "generatedAt": "2026-08-15T21:20:27.637802+00:00"
       }
     },
     {
@@ -759,20 +744,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg TSV 1860 München",
-        "scoreline": "1:0",
-        "confidence": 0.45,
+        "scoreline": "2:1",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.45,
+          "home": 0.5,
           "draw": 0.3,
-          "away": 0.25
+          "away": 0.2
         },
         "reasons": [
           "1860 München mit Heimvorteil im Pokal",
-          "Holstein Kiel in der Liga noch nicht in Topform",
-          "Pokalspiele sind oft eng und von Nuancen abhängig"
+          "Holstein Kiel in der Vorbereitung noch nicht in Topform",
+          "Pokalspiele oft von Überraschungen geprägt, 1860 kann für einen Coup sorgen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:43.318146+00:00"
+        "generatedAt": "2026-08-15T21:20:29.277852+00:00"
       }
     },
     {
@@ -818,12 +803,12 @@
           "away": 0.8
         },
         "reasons": [
-          "Klassengefälle zwischen Regionalliga und Bundesliga",
-          "SSV Jeddeloh 2 ist krasser Außenseiter",
-          "1. FC Heidenheim 1846 ist etablierter Profiverein"
+          "Klassengefälle zwischen 3. Liga und Regionalliga",
+          "Heidenheim ist etabliert im Profifußball",
+          "Jeddeloh ist Außenseiter im DFB-Pokal"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:44.913887+00:00"
+        "generatedAt": "2026-08-15T21:20:30.781946+00:00"
       }
     },
     {
@@ -869,12 +854,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Bochum hat sich in der Bundesliga etabliert",
-          "Fürth spielt eine Liga tiefer",
-          "Pokalspiele sind oft unvorhersehbar"
+          "Bochum spielt eine Klasse höher",
+          "Fürth hat zuletzt schwache Leistungen gezeigt",
+          "Bochum ist auswärtsstark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:46.571839+00:00"
+        "generatedAt": "2026-08-15T21:20:32.463998+00:00"
       }
     },
     {
@@ -920,12 +905,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Braunschweig in Liga 3 unterklassig",
-          "Union Berlin hat höhere individuelle Qualität",
-          "Pokal-Überraschungen sind möglich, aber Union ist Favorit"
+          "Braunschweig kämpft in der Liga, Union etabliert in der Bundesliga",
+          "Union hat die individuell stärkere Mannschaft",
+          "Pokalspiele sind oft Überraschungen, aber Union ist favorisiert"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:48.148515+00:00"
+        "generatedAt": "2026-08-15T21:20:34.133233+00:00"
       }
     },
     {
@@ -1013,7 +998,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Mainz 05",
+        "outcome": "Sieg 1. FSV Mainz 05",
         "scoreline": "0:3",
         "confidence": 0.8,
         "probs": {
@@ -1022,12 +1007,12 @@
           "away": 0.8
         },
         "reasons": [
-          "Krieschow ist Amateurverein, Mainz Profi-Club",
-          "Deutlicher Klassenunterschied im Kader",
-          "Mainz ist etablierter Profi-Club im Pokal"
+          "Deutlicher Klassenunterschied (Regionalliga vs. Bundesliga)",
+          "Mainz 05 mit höherer individueller Qualität und Erfahrung",
+          "Krieschow wird defensiv gefordert sein und kaum eigene Akzente setzen können"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:50.359413+00:00"
+        "generatedAt": "2026-08-15T21:20:35.727419+00:00"
       }
     },
     {
@@ -1065,20 +1050,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg SV Darmstadt 98",
-        "scoreline": "1:3",
-        "confidence": 0.5,
+        "scoreline": "1:2",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.25,
-          "draw": 0.25,
-          "away": 0.5
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Darmstadt spielt eine Liga höher und ist qualitativ besser besetzt.",
-          "Jena hat im DFB-Pokal oft Schwierigkeiten gegen höherklassige Teams.",
-          "Darmstadt wird mit einer besseren Startelf antreten, um eine frühe Überraschung zu vermeiden."
+          "Darmstadt spielt eine Liga höher",
+          "Jena hat zuletzt schwankende Leistungen gezeigt",
+          "Darmstadt ist auswärtsstark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:52.119608+00:00"
+        "generatedAt": "2026-08-15T21:20:37.349585+00:00"
       }
     },
     {
@@ -1117,19 +1102,19 @@
         "available": true,
         "outcome": "Sieg 1. FC Magdeburg",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.5,
         "probs": {
           "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
-          "Magdeburg spielt eine Liga höher",
-          "Bahlinger SC mit schwacher Saisonvorbereitung",
-          "Auswärtsstärke von Magdeburg"
+          "Magdeburg ist Ligatechnisch höher angesiedelt",
+          "Bahlinger SC hat im Pokal oft Schwierigkeiten gegen Profimannschaften",
+          "Formkurve spricht leicht für Magdeburg"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:53.644258+00:00"
+        "generatedAt": "2026-08-15T21:20:38.960885+00:00"
       }
     },
     {
@@ -1167,20 +1152,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Dynamo Dresden",
-        "scoreline": "1:3",
+        "scoreline": "0:2",
         "confidence": 0.6,
         "probs": {
-          "home": 0.2,
-          "draw": 0.2,
+          "home": 0.15,
+          "draw": 0.25,
           "away": 0.6
         },
         "reasons": [
-          "Rhynern spielt in der Oberliga, Dresden in der 3. Liga",
-          "Dresden hat die klar bessere individuelle Qualität",
-          "Pokal-Überraschungen sind möglich, aber unwahrscheinlich"
+          "Dynamo Dresden spielt eine Liga höher",
+          "Westfalia Rhynern hat im Pokal oft Probleme gegen höherklassige Teams",
+          "Dynamo Dresden ist offensivstark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:55.281796+00:00"
+        "generatedAt": "2026-08-15T21:20:40.545643+00:00"
       }
     },
     {
@@ -1226,12 +1211,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Fortuna Düsseldorf hat Heimvorteil",
-          "SC Freiburg könnte durch die Europa League belastet sein",
-          "Düsseldorf hat eine starke Heimbilanz im Pokal"
+          "Fortuna Düsseldorf hat Heimvorteil in der 2. Bundesliga.",
+          "SC Freiburg hat eine anstrengende Europa League Saison hinter sich.",
+          "Beide Teams sind in der Liga gut in Form, aber Düsseldorf ist zu Hause stärker."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:56.837324+00:00"
+        "generatedAt": "2026-08-15T21:20:42.191452+00:00"
       }
     },
     {
@@ -1268,21 +1253,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
+        "outcome": "Sieg FC St. Pauli",
+        "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
           "home": 0.35,
-          "draw": 0.4,
-          "away": 0.25
+          "draw": 0.25,
+          "away": 0.4
         },
         "reasons": [
-          "St. Pauli hat eine starke Saison gespielt und ist gut in Form.",
-          "Rot-Weiss Essen hat Heimvorteil und ist im Pokal oft stark.",
-          "Beide Teams könnten defensiv solide agieren, was zu einem knappen Ergebnis führt."
+          "St. Pauli in besserer Verfassung",
+          "Rot-Weiss Essen mit Heimnachteilen in Pokalspielen",
+          "St. Pauli mit höherer individueller Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:08:58.650510+00:00"
+        "generatedAt": "2026-08-15T21:20:43.777214+00:00"
       }
     },
     {
@@ -1328,12 +1313,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Phönix Lübeck spielt in der Regionalliga Nord, Paderborn in der 2. Bundesliga",
-          "Paderborn hat die höhere individuelle Qualität",
-          "Pokalspiele sind oft Überraschungen, aber Paderborn ist favorisiert"
+          "Phönix Lübeck in der Regionalliga Nord noch nicht etabliert",
+          "SC Paderborn 07 hat mehr Erfahrung im Profifußball",
+          "Pokalspiele sind oft unberechenbar, aber Paderborn hat die höhere individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-15T01:09:00.399891+00:00"
+        "generatedAt": "2026-08-15T21:20:45.514431+00:00"
       }
     },
     {
