@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:09:01.400275+00:00",
+  "generatedAt": "2026-08-15T03:37:25.737861+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -961,7 +961,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Mönchengladbach",
+        "scoreline": "1:3",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
+        },
+        "reasons": [
+          "Schott Mainz ist ein Amateurverein mit geringer Spielpraxis gegen Profiteams.",
+          "Mönchengladbach hat eine höhere individuelle Qualität und Erfahrung.",
+          "Der Pokal hat zwar eigene Gesetze, aber die Favoritenrolle ist klar verteilt."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-15T03:37:24.737466+00:00"
       }
     },
     {
