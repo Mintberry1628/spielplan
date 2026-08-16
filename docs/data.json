@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T18:27:18.189064+00:00",
+  "generatedAt": "2026-08-16T21:19:01.307537+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -44,19 +44,19 @@
         "available": true,
         "outcome": "Sieg Eintracht Frankfurt",
         "scoreline": "0:3",
-        "confidence": 0.8,
+        "confidence": 0.85,
         "probs": {
           "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
+          "draw": 0.1,
+          "away": 0.85
         },
         "reasons": [
-          "Klassengefälle zwischen Amateur- und Profiverein",
-          "St. Tönis hat keine Chance gegen Bundesligisten",
-          "Frankfurt wird das Spiel ernst nehmen"
+          "Klassengefälle zwischen Amateurverein und Bundesligist",
+          "St. Tönis hat keine Profierfahrung auf diesem Niveau",
+          "Frankfurt wird die Partie ernst nehmen, um eine Blamage zu vermeiden"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-16T01:12:54.418504+00:00"
+        "generatedAt": "2026-08-16T21:18:50.853184+00:00"
       }
     },
     {
@@ -451,7 +451,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Hertha BSC",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Saarbrücken hat Heimvorteil, aber Hertha ist in der Liga besser platziert",
+          "Hertha BSC hat zuletzt eine bessere Form gezeigt",
+          "Pokalspiele sind oft unvorhersehbar, aber Hertha hat die höhere individuelle Qualität"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-16T21:18:52.360356+00:00"
       }
     },
     {
@@ -956,12 +971,12 @@
           "away": 0.6
         },
         "reasons": [
-          "Schott Mainz ist Amateurverein mit geringerer Spielstärke",
-          "Mönchengladbach ist Bundesligist mit höherer Qualität",
-          "Pokalspiele sind oft überraschend, aber Favorit setzt sich meist durch"
+          "Gladbach ist klarer Favorit aufgrund höherer Spielklasse",
+          "Schott Mainz hat Heimvorteil, aber Qualitätsunterschied ist zu groß",
+          "Gladbach wird die Pflichtaufgabe ernst nehmen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-16T01:12:56.059114+00:00"
+        "generatedAt": "2026-08-16T21:18:53.987581+00:00"
       }
     },
     {
@@ -1364,12 +1379,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Hamburger SV ist höherklassig und hat mehr Qualität im Kader",
-          "SC Verl hat im DFB-Pokal oft Schwierigkeiten gegen Profimannschaften",
-          "Hamburger SV ist auswärtsstark und wird versuchen, früh Druck zu machen"
+          "HSV in höherer Liga mit stärkerem Kader",
+          "Verl zuletzt mit durchwachsenen Leistungen",
+          "Pokalspiele oft unberechenbar, Überraschungen möglich"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-16T01:12:57.863820+00:00"
+        "generatedAt": "2026-08-16T21:18:55.546980+00:00"
       }
     },
     {
@@ -1407,7 +1422,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg VfL Wolfsburg",
-        "scoreline": "0:3",
+        "scoreline": "0:2",
         "confidence": 0.7,
         "probs": {
           "home": 0.1,
@@ -1415,12 +1430,12 @@
           "away": 0.7
         },
         "reasons": [
-          "Klassenunterschied zwischen Bundesliga und Regionalliga",
-          "Wolfsburg mit höherer individueller Qualität",
-          "Altglienicke im Pokal oft Außenseiter"
+          "Klassengefälle zwischen Drittligist und Bundesligist",
+          "VSG Altglienicke mit wenig Pokalerfahrung",
+          "VfL Wolfsburg mit starkem Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-16T01:12:59.633666+00:00"
+        "generatedAt": "2026-08-16T21:18:57.003985+00:00"
       }
     },
     {
@@ -1460,19 +1475,19 @@
         "available": true,
         "outcome": "Sieg 1. FC Köln",
         "scoreline": "1:2",
-        "confidence": 0.5,
+        "confidence": 0.4,
         "probs": {
           "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Köln ist höherklassig und qualitativ besser besetzt",
-          "Würzburger Kickers haben zuletzt schwankende Leistungen gezeigt",
-          "Köln hat eine gute Auswärtsbilanz in Pokalspielen"
+          "Köln spielt eine Liga höher und hat höhere individuelle Qualität",
+          "Würzburger Kickers sind in der 3. Liga und haben zuletzt schwankende Leistungen gezeigt",
+          "Pokalspiele sind oft Überraschungen, aber Köln sollte sich durchsetzen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-16T01:13:01.232513+00:00"
+        "generatedAt": "2026-08-16T21:18:58.622861+00:00"
       }
     },
     {
@@ -1510,21 +1525,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Hallescher FC",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
+          "home": 0.4,
+          "draw": 0.4,
           "away": 0.2
         },
         "reasons": [
-          "Halle mit Heimvorteil im Pokal",
-          "Schalke in Liga 2 noch nicht stabil",
-          "Pokalüberraschungen sind häufig"
+          "Hallescher FC mit Heimvorteil in der 3. Liga",
+          "Schalke 04 kämpft in der 2. Bundesliga um den Anschluss",
+          "Pokalspiele sind oft unberechenbar und ausgeglichen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-16T01:13:02.913570+00:00"
+        "generatedAt": "2026-08-16T21:19:00.307165+00:00"
       }
     },
     {
