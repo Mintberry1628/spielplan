@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:19:01.307537+00:00",
+  "generatedAt": "2026-08-17T01:10:05.736109+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1210,7 +1210,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
