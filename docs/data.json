@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:32:05.790276+00:00",
+  "generatedAt": "2026-08-20T18:36:51.790305+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1210,7 +1210,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1261,7 +1261,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1808,7 +1808,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
         "note": null
