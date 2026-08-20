@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:36:51.790305+00:00",
+  "generatedAt": "2026-08-20T21:26:38.017195+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1586,12 +1586,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Bayern hat Heimvorteil und eine starke Bilanz gegen Stuttgart",
-          "Stuttgart hat Probleme in der Defensive",
-          "Bayern ist generell offensivstark"
+          "FC Bayern München ist national und international eine Spitzenmannschaft.",
+          "Der VfB Stuttgart hat eine gute Rückrunde gespielt, aber die Auswärtsstärke gegen Bayern ist fraglich.",
+          "Der Heimvorteil im heimischen Stadion ist für Bayern signifikant."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-20T01:08:26.268952+00:00"
+        "generatedAt": "2026-08-20T21:26:37.016602+00:00"
       }
     },
     {
