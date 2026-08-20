@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:23:50.810921+00:00",
+  "generatedAt": "2026-08-20T01:08:27.269654+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1210,7 +1210,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -1261,7 +1261,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -1576,7 +1576,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Bayern hat Heimvorteil und eine starke Bilanz gegen Stuttgart",
+          "Stuttgart hat Probleme in der Defensive",
+          "Bayern ist generell offensivstark"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-20T01:08:26.268952+00:00"
       }
     },
     {
@@ -1603,10 +1618,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "RTL",
+          "Sky",
+          "DAZN"
         ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
+        "free": true,
+        "note": null
       },
       "odds": {
         "known": false
@@ -1639,10 +1656,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1675,10 +1694,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1711,10 +1732,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1747,10 +1770,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1783,7 +1808,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
         "note": null
