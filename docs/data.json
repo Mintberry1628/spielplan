@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:26:38.017195+00:00",
+  "generatedAt": "2026-08-21T01:12:32.894235+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1629,7 +1629,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "2:0",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
+        },
+        "reasons": [
+          "RB Leipzig hat eine starke Heimform",
+          "Borussia Mönchengladbach hat Probleme in der Offensive",
+          "RB Leipzig ist qualitativ besser besetzt"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-21T01:12:24.005912+00:00"
       }
     },
     {
@@ -1667,7 +1682,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Mainz hat den Heimvorteil und ist in der Regel stärker auf eigenem Platz.",
+          "Paderborn hat eine schwächere Auswärtsbilanz.",
+          "Mainz ist tabellarisch besser positioniert und hat eine stabilere Form."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-21T01:12:25.657980+00:00"
       }
     },
     {
@@ -1705,7 +1735,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Beide Teams auf ähnlichem Niveau",
+          "Union Berlin mit starkem Heimvorteil",
+          "Frankfurt auswärts oft defensivstark"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-21T01:12:27.160267+00:00"
       }
     },
     {
@@ -1743,7 +1788,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "0:3",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.1,
+          "draw": 0.2,
+          "away": 0.7
+        },
+        "reasons": [
+          "Leverkusen als Meister klarer Favorit",
+          "Elversberg als Aufsteiger Außenseiter",
+          "Leverkusen mit starker Vorbereitung und Kaderbreitem Kader"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-21T01:12:28.780749+00:00"
       }
     },
     {
@@ -1781,7 +1841,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Köln mit starkem Heimvorteil in der Vergangenheit",
+          "Hoffenheim oft auswärts anfällig",
+          "Beide Teams mit ähnlicher Form, aber Kölns Aufsteiger-Moral könnte den Ausschlag geben"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-21T01:12:30.369329+00:00"
       }
     },
     {
@@ -1818,7 +1893,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Dortmund",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Dortmund hat eine starke Heimbilanz",
+          "HSV ist auswärts anfällig",
+          "Dortmunds Offensive ist besser bestückt"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-21T01:12:31.893658+00:00"
       }
     },
     {
@@ -1845,7 +1935,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1881,7 +1972,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
