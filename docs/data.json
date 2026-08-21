@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:43:07.359474+00:00",
+  "generatedAt": "2026-08-21T15:31:44.567065+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1507,7 +1507,7 @@
       },
       "away": {
         "name": "FC Schalke 04",
-        "short": "Schalke",
+        "short": "S04",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
         "score": null
       },
