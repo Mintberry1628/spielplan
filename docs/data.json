@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:31:44.567065+00:00",
+  "generatedAt": "2026-08-21T18:34:38.315680+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -15,19 +15,19 @@
       "dateLocal": "2026-08-21",
       "kickoff": "2026-08-21T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SC St. Tönis",
         "short": "scst",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/8/8c/SC_Tönisvorst_logo.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Eintracht Frankfurt",
         "short": "Frankfurt",
         "crest": "https://i.imgur.com/X8NFkOb.png",
-        "score": null
+        "score": 11
       },
       "tv": {
         "known": true,
@@ -41,22 +41,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "0:3",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
-        },
-        "reasons": [
-          "Klassengefälle zwischen Regionalligist und Bundesligist",
-          "St. Tönis hat keine Profierfahrung",
-          "Frankfurt ist im Pokal traditionell stark"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:01.635739+00:00"
+        "available": false
       }
     },
     {
@@ -66,19 +51,19 @@
       "dateLocal": "2026-08-21",
       "kickoff": "2026-08-21T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Preußen Münster",
         "short": "Münster",
         "crest": "https://upload.wikimedia.org/wikipedia/de/7/7e/SC_Preussen_Muenster_Logo_2018.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Karlsruher SC",
         "short": "Karlsruhe",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -92,22 +77,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Karlsruher SC",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Karlsruher SC spielt eine Klasse höher",
-          "Preußen Münster zuletzt mit wechselhaften Ergebnissen",
-          "Karlsruher SC hat die höhere individuelle Qualität"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T03:49:40.670870+00:00"
+        "available": false
       }
     },
     {
@@ -1582,16 +1552,16 @@
         "confidence": 0.7,
         "probs": {
           "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
+          "draw": 0.15,
+          "away": 0.15
         },
         "reasons": [
-          "FC Bayern München ist national und international eine Spitzenmannschaft.",
-          "Der VfB Stuttgart hat eine gute Rückrunde gespielt, aber die Auswärtsstärke gegen Bayern ist fraglich.",
-          "Der Heimvorteil im heimischen Stadion ist für Bayern signifikant."
+          "FC Bayern München hat eine starke Heimbilanz gegen den VfB Stuttgart.",
+          "Der VfB Stuttgart hat in der Rückrunde der letzten Saison nachgelassen.",
+          "FC Bayern München ist in der Regel gut in die Saison gestartet."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-20T21:26:37.016602+00:00"
+        "generatedAt": "2026-08-21T18:34:37.315167+00:00"
       }
     },
     {
