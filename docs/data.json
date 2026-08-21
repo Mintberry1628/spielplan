@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:34:38.315680+00:00",
+  "generatedAt": "2026-08-21T21:23:00.957943+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -87,19 +87,19 @@
       "dateLocal": "2026-08-21",
       "kickoff": "2026-08-21T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SV Waldhof Mannheim",
         "short": "Mannheim",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Svwaldhof.svg/960px-Svwaldhof.svg.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "1. FC Kaiserslautern",
         "short": "Kaiserslautern",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -113,22 +113,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg 1. FC Kaiserslautern",
-        "scoreline": "1:2",
-        "confidence": 0.35,
-        "probs": {
-          "home": 0.35,
-          "draw": 0.3,
-          "away": 0.35
-        },
-        "reasons": [
-          "Beide Teams sind in der 3. Liga und die Duelle sind oft eng.",
-          "Kaiserslautern hat historisch und qualitativ leichte Vorteile.",
-          "Pokalspiele sind unberechenbar, Überraschungen sind möglich."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T03:49:42.280966+00:00"
+        "available": false
       }
     },
     {
@@ -138,19 +123,19 @@
       "dateLocal": "2026-08-21",
       "kickoff": "2026-08-21T20:45:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Hansa Rostock",
         "short": "Rostock",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/960px-F.C._Hansa_Rostock_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "VfB Stuttgart",
         "short": "Stuttgart",
         "crest": "https://i.imgur.com/v0tkpNx.png",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -165,22 +150,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg VfB Stuttgart",
-        "scoreline": "1:3",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.2,
-          "away": 0.6
-        },
-        "reasons": [
-          "Stuttgart klar stärker in der Liga",
-          "Rostock mit vielen Abgängen und Umbruch",
-          "Pokal-Überraschungen möglich, aber Stuttgart favorisiert"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T03:49:43.886743+00:00"
+        "available": false
       }
     },
     {
@@ -1605,16 +1575,16 @@
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
+          "draw": 0.2,
+          "away": 0.15
         },
         "reasons": [
-          "RB Leipzig hat eine starke Heimform",
-          "Borussia Mönchengladbach hat Probleme in der Offensive",
-          "RB Leipzig ist qualitativ besser besetzt"
+          "RB Leipzig mit starker Heimform in der Vorsaison.",
+          "Borussia Mönchengladbach hatte Auswärtsschwächen.",
+          "RB Leipzig hat den Kader qualitativ verstärkt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T01:12:24.005912+00:00"
+        "generatedAt": "2026-08-21T21:22:51.070739+00:00"
       }
     },
     {
@@ -1662,12 +1632,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Mainz hat den Heimvorteil und ist in der Regel stärker auf eigenem Platz.",
-          "Paderborn hat eine schwächere Auswärtsbilanz.",
-          "Mainz ist tabellarisch besser positioniert und hat eine stabilere Form."
+          "Mainz mit starkem Heimvorteil in der Vergangenheit",
+          "Paderborns Auswärtsschwäche",
+          "Mainz' höhere individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T01:12:25.657980+00:00"
+        "generatedAt": "2026-08-21T21:22:53.104382+00:00"
       }
     },
     {
@@ -1715,12 +1685,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Beide Teams auf ähnlichem Niveau",
-          "Union Berlin mit starkem Heimvorteil",
-          "Frankfurt auswärts oft defensivstark"
+          "Union Berlin ist zu Hause stark und schwer zu schlagen.",
+          "Eintracht Frankfurt hat eine solide Mannschaft, aber auswärts oft Probleme.",
+          "Beide Teams sind zu Saisonbeginn oft noch nicht in Topform, was zu einem ausgeglichenen Spiel führt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T01:12:27.160267+00:00"
+        "generatedAt": "2026-08-21T21:22:54.986161+00:00"
       }
     },
     {
@@ -1768,12 +1738,12 @@
           "away": 0.7
         },
         "reasons": [
-          "Leverkusen als Meister klarer Favorit",
-          "Elversberg als Aufsteiger Außenseiter",
-          "Leverkusen mit starker Vorbereitung und Kaderbreitem Kader"
+          "Leverkusen ist klarer Meisterschaftsanwärter",
+          "Elversberg hat einen der kleinsten Etats der Liga",
+          "Leverkusen hat eine starke Vorbereitung gespielt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T01:12:28.780749+00:00"
+        "generatedAt": "2026-08-21T21:22:56.824821+00:00"
       }
     },
     {
@@ -1812,21 +1782,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:1",
-        "confidence": 0.5,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
+          "home": 0.4,
+          "draw": 0.4,
           "away": 0.2
         },
         "reasons": [
-          "Köln mit starkem Heimvorteil in der Vergangenheit",
-          "Hoffenheim oft auswärts anfällig",
-          "Beide Teams mit ähnlicher Form, aber Kölns Aufsteiger-Moral könnte den Ausschlag geben"
+          "Köln hat Heimstärke, aber Hoffenheim ist auswärts oft unangenehm.",
+          "Beide Teams sind zu Saisonbeginn oft noch nicht in Topform.",
+          "Die Kaderqualität beider Mannschaften ist vergleichbar, was auf ein enges Spiel hindeutet."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T01:12:30.369329+00:00"
+        "generatedAt": "2026-08-21T21:22:58.496038+00:00"
       }
     },
     {
@@ -1866,19 +1836,19 @@
         "available": true,
         "outcome": "Sieg Borussia Dortmund",
         "scoreline": "3:1",
-        "confidence": 0.7,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.7,
+          "home": 0.65,
           "draw": 0.2,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "Dortmund hat eine starke Heimbilanz",
-          "HSV ist auswärts anfällig",
-          "Dortmunds Offensive ist besser bestückt"
+          "Dortmunds starke Heimform",
+          "HSV mit Auswärtsschwächen",
+          "Dortmunds Offensivstärke"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T01:12:31.893658+00:00"
+        "generatedAt": "2026-08-21T21:22:59.957403+00:00"
       }
     },
     {
