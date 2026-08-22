@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:29:41.362444+00:00",
+  "generatedAt": "2026-08-22T21:20:46.372835+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -484,19 +484,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SG Sonnenhof Großaspach",
         "short": "Sonnenhof Großaspach",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/8/86/SG_Sonnenhof_Gro%C3%9Faspach_logo.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "DSC Arminia Bielefeld",
         "short": "Bielefeld",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Arminia_Bielefeld_Logo_2021%E2%80%93.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -510,22 +510,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg DSC Arminia Bielefeld",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "Höhere Ligaerfahrung von Bielefeld",
-          "SG Sonnenhof Großaspach spielt in der Regionalliga",
-          "Bielefeld hat zuletzt stabilere Leistungen gezeigt"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:19.240146+00:00"
+        "available": false
       }
     },
     {
@@ -600,19 +585,19 @@
         "available": true,
         "outcome": "Sieg 1. FC Heidenheim 1846",
         "scoreline": "0:3",
-        "confidence": 0.8,
+        "confidence": 0.7,
         "probs": {
-          "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
+          "home": 0.1,
+          "draw": 0.2,
+          "away": 0.7
         },
         "reasons": [
           "Klassengefälle zwischen 3. Liga und Regionalliga",
-          "1. FC Heidenheim 1846 spielt eine starke Saison",
-          "SSV Jeddeloh 2 ist krasser Außenseiter"
+          "Heidenheim ist etabliert im Profifußball",
+          "Jeddeloh ist krasser Außenseiter"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:20.766612+00:00"
+        "generatedAt": "2026-08-22T21:20:34.520535+00:00"
       }
     },
     {
@@ -649,21 +634,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg VfL Bochum",
+        "scoreline": "1:2",
+        "confidence": 0.35,
         "probs": {
-          "home": 0.4,
-          "draw": 0.35,
-          "away": 0.25
+          "home": 0.35,
+          "draw": 0.3,
+          "away": 0.35
         },
         "reasons": [
-          "Fürth mit Heimvorteil in der 2. Bundesliga",
-          "Bochum als etablierter Bundesligist mit höherer individueller Qualität",
-          "Pokalspiele oft unberechenbar, Tendenz zu knappen Ergebnissen"
+          "Bochum spielt eine Klasse höher und hat mehr Qualität im Kader",
+          "Fürth hat Heimvorteil, aber Bochum ist auswärtsstark",
+          "Beide Teams sind in der Vorbereitung, Form schwer einzuschätzen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:22.358331+00:00"
+        "generatedAt": "2026-08-22T21:20:36.062569+00:00"
       }
     },
     {
@@ -709,12 +694,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Braunschweig in der 3. Liga unterklassig",
-          "Union Berlin hat höhere individuelle Qualität",
-          "Pokalspiele sind oft Überraschungen, daher knappe Prognose"
+          "Braunschweig in Liga 3 unterklassig",
+          "Union Berlin etabliert in Bundesliga",
+          "Pokalüberraschungen möglich, aber Qualitätsunterschied"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:23.842558+00:00"
+        "generatedAt": "2026-08-22T21:20:37.603444+00:00"
       }
     },
     {
@@ -854,20 +839,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg SV Darmstadt 98",
-        "scoreline": "1:2",
-        "confidence": 0.4,
+        "scoreline": "1:3",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.2,
+          "draw": 0.2,
+          "away": 0.6
         },
         "reasons": [
-          "Darmstadt spielt eine Liga höher und ist daher favorisiert.",
-          "Jena hat im Pokal oft Heimstärke gezeigt, aber die Qualität des Gegners ist hoch.",
-          "Beide Teams hatten eine wechselhafte Vorbereitung, Darmstadt hat aber die breitere Kaderbreite."
+          "Darmstadt spielt eine Liga höher und ist qualitativ besser besetzt.",
+          "Jena hat zuletzt schwankende Leistungen gezeigt.",
+          "Darmstadt hat eine gute Auswärtsbilanz."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:26.104292+00:00"
+        "generatedAt": "2026-08-22T21:20:39.121839+00:00"
       }
     },
     {
@@ -913,12 +898,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Magdeburg spielt eine Klasse höher und ist daher favorisiert.",
-          "Bahlinger SC hat im Pokal oft Schwierigkeiten gegen höherklassige Teams.",
-          "Die Auswärtsform von Magdeburg ist solide."
+          "Magdeburg spielt eine Klasse höher",
+          "Bahlinger SC hat Heimnachteile gegen Profiteams",
+          "Magdeburg ist im Pokal oft stark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:27.898545+00:00"
+        "generatedAt": "2026-08-22T21:20:40.680901+00:00"
       }
     },
     {
@@ -1007,20 +992,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Fortuna Düsseldorf",
-        "scoreline": "2:1",
+        "scoreline": "1:0",
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
+          "draw": 0.3,
+          "away": 0.15
         },
         "reasons": [
-          "Fortuna Düsseldorf spielt zu Hause in der 2. Bundesliga und ist gut in Form.",
-          "SC Freiburg hat eine anstrengende Saison in der Bundesliga hinter sich und könnte rotieren.",
-          "Der DFB-Pokal birgt oft Überraschungen, Heimvorteil kann entscheidend sein."
+          "Fortuna Düsseldorf hat Heimvorteil in der 2. Bundesliga",
+          "SC Freiburg hat eine englische Woche hinter sich",
+          "Pokalspiele sind oft von Überraschungen geprägt, Fortuna ist hier der leichte Favorit"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:29.453924+00:00"
+        "generatedAt": "2026-08-22T21:20:42.244729+00:00"
       }
     },
     {
@@ -1061,17 +1046,17 @@
         "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.35,
-          "draw": 0.25,
+          "home": 0.3,
+          "draw": 0.3,
           "away": 0.4
         },
         "reasons": [
           "St. Pauli in besserer Verfassung",
-          "Rot-Weiss Essen mit Heimnachteilen gegen stärkere Gegner",
+          "Rot-Weiss Essen mit Heimnachteilen in Pokalspielen",
           "St. Pauli hat die höhere individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:30.932648+00:00"
+        "generatedAt": "2026-08-22T21:20:43.749493+00:00"
       }
     },
     {
@@ -1117,12 +1102,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Phönix Lübeck in der Regionalliga Nord noch nicht etabliert",
-          "SC Paderborn 07 hat mehr Erfahrung im Profifußball",
-          "Auswärtsstärke von Paderborn in Pokalspielen"
+          "Paderborn spielt eine Klasse höher (2. Bundesliga).",
+          "Phönix Lübeck hat eine wechselhafte Form in der Regionalliga.",
+          "Paderborn hat die erfahrenere und qualitativ bessere Mannschaft."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:32.463902+00:00"
+        "generatedAt": "2026-08-22T21:20:45.372404+00:00"
       }
     },
     {
@@ -1365,7 +1350,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "FC Bayern München hat eine starke Heimbilanz gegen den VfB Stuttgart.",
+          "Der VfB Stuttgart hat oft Schwierigkeiten gegen Top-Teams auswärts.",
+          "Bayern hat eine höhere individuelle Qualität im Kader."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-22T21:20:21.255878+00:00"
       }
     },
     {
@@ -1403,7 +1403,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "3:1",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.2,
+          "away": 0.15
+        },
+        "reasons": [
+          "RB Leipzig hat eine starke Heimbilanz",
+          "Borussia Mönchengladbach hatte eine schwächere Vorbereitung",
+          "RB Leipzig ist offensiv stärker besetzt"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-22T21:20:22.720568+00:00"
       }
     },
     {
@@ -1441,7 +1456,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Mainz mit starkem Heimvorteil",
+          "Paderborn noch nicht in Topform",
+          "Mainz hat die bessere Kaderbreite"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-22T21:20:24.163313+00:00"
       }
     },
     {
@@ -1479,7 +1509,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Union Berlin heimstark, aber mit wechselhafter Form",
+          "Eintracht Frankfurt defensiv stabil, aber auswärts oft punktlos",
+          "Beide Teams auf Augenhöhe, ausgeglichenes Spiel erwartet"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-22T21:20:25.710197+00:00"
       }
     },
     {
@@ -1517,7 +1562,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "0:3",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.1,
+          "draw": 0.2,
+          "away": 0.7
+        },
+        "reasons": [
+          "Leverkusen ist klarer Meisterschaftsanwärter",
+          "Elversberg hat den schwächsten Kader der Liga",
+          "Leverkusen hat eine starke Auswärtsbilanz"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-22T21:20:27.143102+00:00"
       }
     },
     {
@@ -1555,7 +1615,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Köln hat Heimvorteil",
+          "Hoffenheim mit schwacher Rückrunde",
+          "Köln mit besserer Vorbereitung"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-22T21:20:28.625887+00:00"
       }
     },
     {
@@ -1592,7 +1667,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Dortmund",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Dortmund hat einen stärkeren Kader",
+          "Hamburger SV ist auswärts schwächer",
+          "Dortmunds Heimstärke"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-22T21:20:30.066429+00:00"
       }
     },
     {
@@ -1632,19 +1722,19 @@
         "available": true,
         "outcome": "Sieg Heim",
         "scoreline": "2:1",
-        "confidence": 0.5,
+        "confidence": 0.55,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
+          "home": 0.55,
+          "draw": 0.25,
           "away": 0.2
         },
         "reasons": [
-          "Freiburg hat eine starke Heimform in der letzten Saison gezeigt.",
-          "Werder Bremen hat auswärts oft Schwierigkeiten.",
-          "Beide Teams sind relativ ausgeglichen, aber der Heimvorteil spricht für Freiburg."
+          "Freiburg mit starkem Heimvorteil",
+          "Bremen in der Fremde oft anfällig",
+          "Beide Teams mit ähnlicher Form zum Saisonstart"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:05.652540+00:00"
+        "generatedAt": "2026-08-22T21:20:31.537711+00:00"
       }
     },
     {
@@ -1692,11 +1782,11 @@
         },
         "reasons": [
           "Augsburg mit starker Heimform in der Vorsaison",
-          "Schalke 04 mit Schwierigkeiten in der Fremde",
-          "Augsburg hat den Kader gezielt verstärkt"
+          "Schalke 04 kämpft auswärts oft mit der Defensive",
+          "Augsburg hat den besseren Kader für die aktuelle Saison"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:07.122685+00:00"
+        "generatedAt": "2026-08-22T21:20:33.044128+00:00"
       }
     },
     {
