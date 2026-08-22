@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T01:08:33.464353+00:00",
+  "generatedAt": "2026-08-22T03:40:56.738480+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -348,12 +348,12 @@
           "away": 0.8
         },
         "reasons": [
-          "Klassengefälle zwischen Oberliga und 2. Bundesliga",
-          "Hannover 96 mit starker Vorbereitung",
-          "SV Hemelingen Heimvorteil gering im Pokal"
+          "SV Hemelingen ist Amateurverein, Hannover 96 Profiverein",
+          "Deutlicher Klassenunterschied im Kader und in der Spielweise",
+          "Hannover 96 hat eine höhere Qualität und Erfahrung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:04.048438+00:00"
+        "generatedAt": "2026-08-22T03:40:41.924479+00:00"
       }
     },
     {
@@ -391,21 +391,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg 1.FC Saarbrücken",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "outcome": "Sieg Saarbrücken",
+        "scoreline": "1:0",
+        "confidence": 0.45,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
+          "home": 0.45,
+          "draw": 0.3,
+          "away": 0.25
         },
         "reasons": [
-          "Saarbrücken stark im DFB-Pokal zuletzt",
-          "Hertha BSC mit Unsicherheiten in der Liga",
-          "Heimvorteil und Pokal-Atmosphäre für Saarbrücken"
+          "Saarbrücken stark im DFB-Pokal, Hertha in der 2. Liga noch nicht gefestigt",
+          "Heimvorteil und Pokal-Moral von Saarbrücken",
+          "Hertha mit Auswärtsschwächen in der jüngeren Vergangenheit"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:06.648736+00:00"
+        "generatedAt": "2026-08-22T03:40:43.487704+00:00"
       }
     },
     {
@@ -697,21 +697,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg TSV 1860 München",
+        "scoreline": "1:0",
+        "confidence": 0.45,
         "probs": {
-          "home": 0.4,
-          "draw": 0.35,
+          "home": 0.45,
+          "draw": 0.3,
           "away": 0.25
         },
         "reasons": [
-          "1860 München mit Heimvorteil in der Allianz Arena.",
-          "Holstein Kiel in guter Form und mit Aufstiegsambitionen.",
-          "Pokalspiele oft unberechenbar, Tendenz zu knappen Ergebnissen."
+          "1860 München mit Heimvorteil im Pokal",
+          "Holstein Kiel mit ungewisser Form nach Saisonstart",
+          "Pokalspiele oft von Überraschungen geprägt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:09.006061+00:00"
+        "generatedAt": "2026-08-22T03:40:44.976371+00:00"
       }
     },
     {
@@ -911,11 +911,11 @@
         },
         "reasons": [
           "Schott Mainz spielt in der Regionalliga, Gladbach in der Bundesliga",
-          "Gladbach hat die höhere individuelle Qualität",
-          "Schott Mainz hat Heimvorteil, aber die Klasse ist entscheidend"
+          "Gladbach hat die klar bessere individuelle Qualität",
+          "Pokalspiele sind oft Überraschungen, aber Gladbach ist favorisiert"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:11.113891+00:00"
+        "generatedAt": "2026-08-22T03:40:46.536038+00:00"
       }
     },
     {
@@ -951,7 +951,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg 1. FSV Mainz 05",
+        "scoreline": "0:3",
+        "confidence": 0.8,
+        "probs": {
+          "home": 0.05,
+          "draw": 0.15,
+          "away": 0.8
+        },
+        "reasons": [
+          "Klassengefälle zwischen Regionalliga und Bundesliga",
+          "Mainz 05 ist im Pokal oft stark",
+          "Krieschow hat keine Profi-Erfahrung auf diesem Niveau"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-22T03:40:48.051367+00:00"
       }
     },
     {
@@ -1094,17 +1109,17 @@
         "scoreline": "0:2",
         "confidence": 0.6,
         "probs": {
-          "home": 0.15,
-          "draw": 0.25,
+          "home": 0.2,
+          "draw": 0.2,
           "away": 0.6
         },
         "reasons": [
-          "Rhynern als Amateurverein deutlich unterklassig",
-          "Dresden mit höherer individueller Qualität",
-          "Pokal-Motivation bei Dresden"
+          "Rhynern spielt in der Oberliga, Dresden in der 3. Liga",
+          "Dresden ist im Pokal oft stark",
+          "Kaderqualität spricht für Dresden"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:13.328736+00:00"
+        "generatedAt": "2026-08-22T03:40:49.556151+00:00"
       }
     },
     {
@@ -1296,19 +1311,19 @@
         "available": true,
         "outcome": "Sieg Hamburger SV",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.5,
         "probs": {
           "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
-          "Verl ist ein Drittligist und HSV ein Zweitligist",
-          "HSV hat eine höhere individuelle Qualität",
-          "Pokalspiele sind oft unberechenbar und Verl hat Heimvorteil"
+          "Hamburger SV ist spielerisch stärker einzuschätzen",
+          "SC Verl hat in der letzten Saison oft zu Hause Punkte liegen gelassen",
+          "Hamburger SV hat eine gute Auswärtsbilanz in Pokalspielen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:16.304560+00:00"
+        "generatedAt": "2026-08-22T03:40:51.108183+00:00"
       }
     },
     {
@@ -1354,12 +1369,12 @@
           "away": 0.7
         },
         "reasons": [
-          "Klassengefälle zwischen Amateur- und Profiverein",
-          "VSG Altglienicke mit wenigen Pflichtspielen auf diesem Niveau",
-          "VfL Wolfsburg mit hoher individueller Qualität"
+          "Klassengefälle zwischen Regionalliga und Bundesliga",
+          "VSG Altglienicke mit schwacher Heimbilanz",
+          "VfL Wolfsburg mit starker Auswärtsform in Pokalspielen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:19.284162+00:00"
+        "generatedAt": "2026-08-22T03:40:52.637389+00:00"
       }
     },
     {
@@ -1406,12 +1421,12 @@
           "away": 0.5
         },
         "reasons": [
-          "Köln ist eine Klasse höher angesiedelt",
-          "Würzburger Kickers sind aktuell nicht in Topform",
-          "Köln hat die höhere individuelle Qualität"
+          "Köln als Bundesligist klarer Favorit",
+          "Würzburg in Liga 3 mit Aufstiegssorgen",
+          "Pokalüberraschungen möglich, aber Kölns Qualität setzt sich durch"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:22.181319+00:00"
+        "generatedAt": "2026-08-22T03:40:54.221007+00:00"
       }
     },
     {
@@ -1451,19 +1466,19 @@
         "available": true,
         "outcome": "Sieg Hallescher FC",
         "scoreline": "1:0",
-        "confidence": 0.55,
+        "confidence": 0.45,
         "probs": {
-          "home": 0.55,
+          "home": 0.45,
           "draw": 0.3,
-          "away": 0.15
+          "away": 0.25
         },
         "reasons": [
-          "Halle mit Heimvorteil im Pokal",
-          "Schalke in schwacher Verfassung",
-          "Pokalsensation möglich"
+          "HFC mit Heimvorteil und Pokal-Motivation",
+          "Schalke in der Liga noch nicht stabil",
+          "Pokalüberraschungen sind häufig"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T06:43:25.200895+00:00"
+        "generatedAt": "2026-08-22T03:40:55.738068+00:00"
       }
     },
     {
