@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T12:35:54.490828+00:00",
+  "generatedAt": "2026-08-22T15:19:46.251309+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -159,19 +159,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T13:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SV Wehen Wiesbaden",
         "short": "Wiesbaden",
         "crest": "https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Logo_SV_Wehen_Wiesbaden.svg/250px-Logo_SV_Wehen_Wiesbaden.svg.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Bayer 04 Leverkusen",
         "short": "Leverkusen",
         "crest": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -185,22 +185,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "0:3",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
-        },
-        "reasons": [
-          "Leverkusen ist klarer Favorit mit deutlich höherer Qualität",
-          "Wehen Wiesbaden spielt in einer niedrigeren Liga",
-          "Leverkusen hat eine starke Saison gespielt und wird den Pokal ernst nehmen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:08.739786+00:00"
+        "available": false
       }
     },
     {
@@ -210,19 +195,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T13:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Energie Cottbus",
         "short": "Cottbus",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_Energie_Cottbus.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "FC Augsburg",
         "short": "Augsburg",
         "crest": "https://i.imgur.com/sdE62e2.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -236,22 +221,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Augsburg",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "Augsburg spielt eine Klasse höher",
-          "Cottbus hat Heimnachteile gegen Profiteams",
-          "Augsburgs Offensivstärke"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:10.260347+00:00"
+        "available": false
       }
     },
     {
@@ -366,7 +336,7 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "1.FC Saarbrücken",
+        "name": "1. FC Saarbrücken",
         "short": "1.FC Saarbrücken",
         "crest": "https://upload.wikimedia.org/wikipedia/de/f/ff/1._FC_Saarbr%C3%BCcken.svg",
         "score": null
@@ -1515,22 +1485,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "3:1",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.15,
-          "away": 0.15
-        },
-        "reasons": [
-          "FC Bayern München hat eine starke Heimbilanz gegen den VfB Stuttgart.",
-          "Der VfB Stuttgart hat in der Rückrunde der letzten Saison nachgelassen.",
-          "FC Bayern München ist in der Regel gut in die Saison gestartet."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T18:34:37.315167+00:00"
+        "available": false
       }
     },
     {
