@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T15:19:46.251309+00:00",
+  "generatedAt": "2026-08-22T18:29:41.362444+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -99,7 +99,7 @@
         "name": "1. FC Kaiserslautern",
         "short": "Kaiserslautern",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
-        "score": 1
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -231,19 +231,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Erzgebirge Aue",
         "short": "Aue",
         "crest": "https://upload.wikimedia.org/wikipedia/de/thumb/1/13/Fc_erzgebirge_aue.svg/960px-Fc_erzgebirge_aue.svg.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "TSG Hoffenheim",
         "short": "Hoffenheim",
         "crest": "https://i.imgur.com/gF0PfEl.png",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -257,22 +257,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg TSG Hoffenheim",
-        "scoreline": "1:3",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.2,
-          "away": 0.6
-        },
-        "reasons": [
-          "Hoffenheim spielt eine Klasse höher und hat die deutlich bessere Qualität im Kader.",
-          "Aue hat in der Regel Probleme gegen spielstarke Gegner.",
-          "Hoffenheim hat eine gute Auswärtsbilanz in Pokalspielen."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:11.780607+00:00"
+        "available": false
       }
     },
     {
@@ -282,19 +267,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SV Hemelingen",
         "short": "Hemelingen",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SV_Hemelingen.gif",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Hannover 96",
         "short": "Hannover",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
-        "score": null
+        "score": 9
       },
       "tv": {
         "known": true,
@@ -308,22 +293,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Hannover 96",
-        "scoreline": "0:3",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
-        },
-        "reasons": [
-          "SV Hemelingen ist Amateurverein, Hannover 96 Profiverein",
-          "Deutlicher Klassenunterschied im Kader und in der Spielweise",
-          "Hannover 96 hat eine höhere Qualität und Erfahrung"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T03:40:41.924479+00:00"
+        "available": false
       }
     },
     {
@@ -333,19 +303,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Saarbrücken",
         "short": "1.FC Saarbrücken",
         "crest": "https://upload.wikimedia.org/wikipedia/de/f/ff/1._FC_Saarbr%C3%BCcken.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Hertha BSC",
         "short": "Hertha",
         "crest": "https://i.imgur.com/apFwbYZ.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -360,22 +330,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Saarbrücken",
-        "scoreline": "1:0",
-        "confidence": 0.45,
-        "probs": {
-          "home": 0.45,
-          "draw": 0.3,
-          "away": 0.25
-        },
-        "reasons": [
-          "Saarbrücken stark im DFB-Pokal, Hertha in der 2. Liga noch nicht gefestigt",
-          "Heimvorteil und Pokal-Moral von Saarbrücken",
-          "Hertha mit Auswärtsschwächen in der jüngeren Vergangenheit"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T03:40:43.487704+00:00"
+        "available": false
       }
     },
     {
@@ -385,19 +340,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Viktoria Köln",
         "short": "Viktoria Köln",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FC_Viktoria_K%C3%B6ln_1904_Logo.svg/960px-FC_Viktoria_K%C3%B6ln_1904_Logo.svg.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "1. FC Nürnberg",
         "short": "Nürnberg",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -411,22 +366,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg 1. FC Nürnberg",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.35,
-          "draw": 0.25,
-          "away": 0.4
-        },
-        "reasons": [
-          "Nürnberg spielt eine Liga höher",
-          "Viktoria Köln zuletzt schwankend",
-          "Nürnberg hat eine gute Auswärtsbilanz"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:13.232070+00:00"
+        "available": false
       }
     },
     {
@@ -436,19 +376,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "MSV Duisburg",
         "short": "Duisburg",
         "crest": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "SV 07 Elversberg",
         "short": "Elversberg",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SV_Elversberg_Logo.svg/500px-SV_Elversberg_Logo.svg.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -462,22 +402,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg MSV Duisburg",
-        "scoreline": "2:1",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
-        },
-        "reasons": [
-          "MSV Duisburg hat Heimvorteil",
-          "SV 07 Elversberg mit schwächerer Form",
-          "DFB-Pokal-Überraschungen sind selten"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:14.681311+00:00"
+        "available": false
       }
     },
     {
@@ -487,19 +412,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Lüneburger SK Hansa",
         "short": "LSK",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/0/0b/L%C3%BCneburger_SK_Hansa_Logo.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "SV Werder Bremen",
         "short": "Bremen",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -513,22 +438,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg SV Werder Bremen",
-        "scoreline": "0:3",
-        "confidence": 0.75,
-        "probs": {
-          "home": 0.1,
-          "draw": 0.15,
-          "away": 0.75
-        },
-        "reasons": [
-          "Deutlicher Klassenunterschied",
-          "Lüneburger SK Hansa ist Amateurverein",
-          "Werder Bremen ist Profimannschaft mit höherer Spielqualität"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:16.258814+00:00"
+        "available": false
       }
     },
     {
@@ -538,19 +448,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Eintracht Trier",
         "short": "EIN",
         "crest": "http://upload.wikimedia.org/wikipedia/de/thumb/7/7a/Eintracht_Trier.svg/20px-Eintracht_Trier.svg.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "RB Leipzig",
         "short": "Leipzig",
         "crest": "https://i.imgur.com/Rpwsjz1.png",
-        "score": null
+        "score": 6
       },
       "tv": {
         "known": true,
@@ -564,22 +474,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg RB Leipzig",
-        "scoreline": "0:3",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
-        },
-        "reasons": [
-          "Trier spielt in der Oberliga, RB Leipzig in der Bundesliga",
-          "Deutlicher Qualitätsunterschied im Kader",
-          "RB Leipzig ist international erfahren und konstant stark"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T01:08:17.728045+00:00"
+        "available": false
       }
     },
     {
@@ -640,19 +535,19 @@
       "dateLocal": "2026-08-22",
       "kickoff": "2026-08-22T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "TSV 1860 München",
         "short": "1860 München",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/960px-TSV_1860_M%C3%BCnchen.svg.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Holstein Kiel",
         "short": "Kiel",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/330px-Holstein_Kiel_Logo.svg.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -666,22 +561,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg TSV 1860 München",
-        "scoreline": "1:0",
-        "confidence": 0.45,
-        "probs": {
-          "home": 0.45,
-          "draw": 0.3,
-          "away": 0.25
-        },
-        "reasons": [
-          "1860 München mit Heimvorteil im Pokal",
-          "Holstein Kiel mit ungewisser Form nach Saisonstart",
-          "Pokalspiele oft von Überraschungen geprägt"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T03:40:44.976371+00:00"
+        "available": false
       }
     },
     {
@@ -1523,22 +1403,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg RB Leipzig",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
-        },
-        "reasons": [
-          "RB Leipzig mit starker Heimform in der Vorsaison.",
-          "Borussia Mönchengladbach hatte Auswärtsschwächen.",
-          "RB Leipzig hat den Kader qualitativ verstärkt."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T21:22:51.070739+00:00"
+        "available": false
       }
     },
     {
@@ -1576,22 +1441,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Mainz mit starkem Heimvorteil in der Vergangenheit",
-          "Paderborns Auswärtsschwäche",
-          "Mainz' höhere individuelle Qualität"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T21:22:53.104382+00:00"
+        "available": false
       }
     },
     {
@@ -1629,22 +1479,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Union Berlin ist zu Hause stark und schwer zu schlagen.",
-          "Eintracht Frankfurt hat eine solide Mannschaft, aber auswärts oft Probleme.",
-          "Beide Teams sind zu Saisonbeginn oft noch nicht in Topform, was zu einem ausgeglichenen Spiel führt."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T21:22:54.986161+00:00"
+        "available": false
       }
     },
     {
@@ -1682,22 +1517,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "0:3",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
-        },
-        "reasons": [
-          "Leverkusen ist klarer Meisterschaftsanwärter",
-          "Elversberg hat einen der kleinsten Etats der Liga",
-          "Leverkusen hat eine starke Vorbereitung gespielt"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T21:22:56.824821+00:00"
+        "available": false
       }
     },
     {
@@ -1735,22 +1555,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Köln hat Heimstärke, aber Hoffenheim ist auswärts oft unangenehm.",
-          "Beide Teams sind zu Saisonbeginn oft noch nicht in Topform.",
-          "Die Kaderqualität beider Mannschaften ist vergleichbar, was auf ein enges Spiel hindeutet."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T21:22:58.496038+00:00"
+        "available": false
       }
     },
     {
@@ -1787,22 +1592,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Dortmund",
-        "scoreline": "3:1",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
-        },
-        "reasons": [
-          "Dortmunds starke Heimform",
-          "HSV mit Auswärtsschwächen",
-          "Dortmunds Offensivstärke"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-21T21:22:59.957403+00:00"
+        "available": false
       }
     },
     {
