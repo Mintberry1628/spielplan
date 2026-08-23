@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:27:25.145665+00:00",
+  "generatedAt": "2026-08-23T21:20:32.833080+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -980,19 +980,19 @@
         "available": true,
         "outcome": "Sieg Hamburger SV",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.5,
         "probs": {
           "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
-          "Hamburger SV ist favorisiert aufgrund der höheren Ligazugehörigkeit.",
-          "Der SC Verl hat im DFB-Pokal in der Vergangenheit oft überrascht.",
-          "Der Heimvorteil des SC Verl könnte eine Rolle spielen."
+          "Hamburger SV ist favorisiert aufgrund der höheren Spielklasse",
+          "SC Verl hat zuletzt schwankende Leistungen gezeigt",
+          "HSV hat eine gute Auswärtsbilanz in Pokalspielen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T01:13:54.676452+00:00"
+        "generatedAt": "2026-08-23T21:20:28.024966+00:00"
       }
     },
     {
@@ -1031,19 +1031,19 @@
         "available": true,
         "outcome": "Sieg VfL Wolfsburg",
         "scoreline": "0:2",
-        "confidence": 0.7,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
         },
         "reasons": [
-          "Klassengefälle zwischen Regionalliga und Bundesliga",
-          "VSG Altglienicke mit schwacher Pokalhistorie",
-          "VfL Wolfsburg mit starker Pflichtspiel-Defensive"
+          "VSG Altglienicke spielt in der Regionalliga Nordost, VfL Wolfsburg in der Bundesliga",
+          "Deutlicher Qualitätsunterschied im Kader",
+          "Pokalspiele gegen tiefstehende Gegner sind für Bundesligisten oft zäh, aber die individuelle Klasse sollte sich durchsetzen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T01:13:56.254134+00:00"
+        "generatedAt": "2026-08-23T21:20:29.626870+00:00"
       }
     },
     {
@@ -1083,19 +1083,19 @@
         "available": true,
         "outcome": "Sieg 1. FC Köln",
         "scoreline": "1:2",
-        "confidence": 0.5,
+        "confidence": 0.4,
         "probs": {
           "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Köln spielt eine Klasse höher",
-          "Würzburger Kickers in schwacher Verfassung",
-          "Kölns Offensivstärke"
+          "Köln ist höherklassig und qualitativ besser besetzt",
+          "Würzburger Kickers haben in der letzten Saison in der Regionalliga gespielt",
+          "Köln hat eine höhere Dichte an erfahrenen Spielern"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T01:13:57.659177+00:00"
+        "generatedAt": "2026-08-23T21:20:31.236465+00:00"
       }
     },
     {
@@ -1132,22 +1132,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Halle heimstark im Pokal",
-          "Schalke mit ungewisser Form nach Abstieg",
-          "Pokal-Überraschungen häufig"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T01:13:59.128249+00:00"
+        "available": false
       }
     },
     {
