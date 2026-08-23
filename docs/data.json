@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T15:20:57.887231+00:00",
+  "generatedAt": "2026-08-23T18:27:25.145665+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -627,19 +627,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Eintracht Braunschweig",
         "short": "Braunschweig",
         "crest": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "1. FC Union Berlin",
         "short": "Union Berlin",
         "crest": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -653,22 +653,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg 1. FC Union Berlin",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Braunschweig in Liga 3 unterklassig",
-          "Union Berlin etabliert in Bundesliga",
-          "Pokalüberraschungen möglich, aber Qualitätsunterschied"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:37.603444+00:00"
+        "available": false
       }
     },
     {
@@ -678,19 +663,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "TSV Schott Mainz",
         "short": "SCHOTT",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_Schott_Mainz.png/120px-TSV_Schott_Mainz.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Borussia Mönchengladbach",
         "short": "Gladbach",
         "crest": "https://i.imgur.com/KSIk0Eu.png",
-        "score": null
+        "score": 5
       },
       "tv": {
         "known": true,
@@ -704,22 +689,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Mönchengladbach",
-        "scoreline": "0:2",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.15,
-          "draw": 0.25,
-          "away": 0.6
-        },
-        "reasons": [
-          "Schott Mainz ist ein Amateurverein und spielt in der Regionalliga",
-          "Mönchengladbach ist ein etablierter Bundesligist",
-          "Pokalspiele sind oft von Überraschungen geprägt, aber die Qualitätsunterschiede sind hier sehr groß"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T01:13:50.223779+00:00"
+        "available": false
       }
     },
     {
@@ -765,19 +735,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Carl Zeiss Jena",
         "short": "Jena",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_FC_Carl_Zeiss_Jena.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "SV Darmstadt 98",
         "short": "Darmstadt",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -791,22 +761,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg SV Darmstadt 98",
-        "scoreline": "1:3",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.2,
-          "away": 0.6
-        },
-        "reasons": [
-          "Darmstadt spielt eine Liga höher und ist qualitativ besser besetzt.",
-          "Jena hat zuletzt schwankende Leistungen gezeigt.",
-          "Darmstadt hat eine gute Auswärtsbilanz."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:39.121839+00:00"
+        "available": false
       }
     },
     {
@@ -816,19 +771,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Bahlinger SC",
         "short": "Bahlinger SC",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/b/bf/BSC_Logo_rot_wei%E2%94%9C%C6%92.jpg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "1. FC Magdeburg",
         "short": "Magdeburg",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/8/84/1._FC_Magdeburg.svg",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -842,22 +797,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg 1. FC Magdeburg",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Magdeburg spielt eine Klasse höher",
-          "Bahlinger SC hat Heimnachteile gegen Profiteams",
-          "Magdeburg ist im Pokal oft stark"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:40.680901+00:00"
+        "available": false
       }
     },
     {
@@ -867,19 +807,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SV Westfalia Rhynern",
         "short": "Rhynern",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/0/07/SV_Westfalia_Rhynern_Logo.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Dynamo Dresden",
         "short": "Dresden",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_SG_Dynamo_Dresden_neu.svg/960px-Logo_SG_Dynamo_Dresden_neu.svg.png",
-        "score": null
+        "score": 6
       },
       "tv": {
         "known": true,
@@ -893,22 +833,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Dynamo Dresden",
-        "scoreline": "1:3",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.2,
-          "away": 0.6
-        },
-        "reasons": [
-          "Rhynern spielt in der Oberliga, Dresden in der 3. Liga",
-          "Dresden hat den klar besseren Kader",
-          "Pokal-Überraschungen sind möglich, aber unwahrscheinlich"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T01:13:53.236715+00:00"
+        "available": false
       }
     },
     {
@@ -918,19 +843,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Fortuna Düsseldorf",
         "short": "Düsseldorf",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/960px-Fortuna_D%C3%BCsseldorf.svg.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "SC Freiburg",
         "short": "Freiburg",
         "crest": "https://i.imgur.com/r3mvi0h.png",
-        "score": null
+        "score": 5
       },
       "tv": {
         "known": true,
@@ -944,22 +869,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Fortuna Düsseldorf",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
-        },
-        "reasons": [
-          "Fortuna Düsseldorf hat Heimvorteil in der 2. Bundesliga",
-          "SC Freiburg hat eine englische Woche hinter sich",
-          "Pokalspiele sind oft von Überraschungen geprägt, Fortuna ist hier der leichte Favorit"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:42.244729+00:00"
+        "available": false
       }
     },
     {
@@ -969,19 +879,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Rot-Weiss Essen",
         "short": "Rot-Weiss Essen",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rot-Weiss_Essen.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "FC St. Pauli",
         "short": "St. Pauli",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fc_st_pauli_logo.svg",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -995,22 +905,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC St. Pauli",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "St. Pauli in besserer Verfassung",
-          "Rot-Weiss Essen mit Heimnachteilen in Pokalspielen",
-          "St. Pauli hat die höhere individuelle Qualität"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:43.749493+00:00"
+        "available": false
       }
     },
     {
@@ -1020,19 +915,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Phönix Lübeck",
         "short": "Phönix Lübeck",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1._FC_Phoenix_Luebeck_Logo.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "SC Paderborn 07",
         "short": "Paderborn",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -1046,22 +941,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg SC Paderborn 07",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Paderborn spielt eine Klasse höher (2. Bundesliga).",
-          "Phönix Lübeck hat eine wechselhafte Form in der Regionalliga.",
-          "Paderborn hat die erfahrenere und qualitativ bessere Mannschaft."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:45.372404+00:00"
+        "available": false
       }
     },
     {
@@ -1315,11 +1195,11 @@
         },
         "reasons": [
           "FC Bayern München hat eine starke Heimbilanz gegen den VfB Stuttgart.",
-          "Der VfB Stuttgart hat oft Schwierigkeiten gegen Top-Teams auswärts.",
-          "Bayern hat eine höhere individuelle Qualität im Kader."
+          "Der VfB Stuttgart hat in der Rückrunde der letzten Saison nachgelassen.",
+          "FC Bayern München ist in der Regel gut in die Saison gestartet."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:21.255878+00:00"
+        "generatedAt": "2026-08-23T18:27:11.234538+00:00"
       }
     },
     {
@@ -1358,7 +1238,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg RB Leipzig",
-        "scoreline": "3:1",
+        "scoreline": "2:0",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
@@ -1366,12 +1246,12 @@
           "away": 0.15
         },
         "reasons": [
-          "RB Leipzig hat eine starke Heimbilanz",
-          "Borussia Mönchengladbach hatte eine schwächere Vorbereitung",
-          "RB Leipzig ist offensiv stärker besetzt"
+          "RB Leipzig hat Heimstärke bewiesen.",
+          "Gladbachs Auswärtsbilanz ist schwach.",
+          "Leipzig hat den Kader für die Breite und Spitze."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:22.720568+00:00"
+        "generatedAt": "2026-08-23T18:27:12.868799+00:00"
       }
     },
     {
@@ -1419,12 +1299,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Mainz mit starkem Heimvorteil",
-          "Paderborn noch nicht in Topform",
-          "Mainz hat die bessere Kaderbreite"
+          "Mainz 05 hat einen stärkeren Kader für die Bundesliga",
+          "Paderborn hat in der letzten Saison auswärts geschwächelt",
+          "Heimvorteil für Mainz im eigenen Stadion"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:24.163313+00:00"
+        "generatedAt": "2026-08-23T18:27:14.468411+00:00"
       }
     },
     {
@@ -1472,12 +1352,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Union Berlin heimstark, aber mit wechselhafter Form",
-          "Eintracht Frankfurt defensiv stabil, aber auswärts oft punktlos",
-          "Beide Teams auf Augenhöhe, ausgeglichenes Spiel erwartet"
+          "Union Berlin zuletzt heimstark",
+          "Frankfurt auswärts oft defensiv solide",
+          "Beide Teams auf Augenhöhe in der Tabelle"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:25.710197+00:00"
+        "generatedAt": "2026-08-23T18:27:16.057322+00:00"
       }
     },
     {
@@ -1518,19 +1398,19 @@
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
         "scoreline": "0:3",
-        "confidence": 0.7,
+        "confidence": 0.75,
         "probs": {
           "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
+          "draw": 0.15,
+          "away": 0.75
         },
         "reasons": [
-          "Leverkusen ist klarer Meisterschaftsanwärter",
-          "Elversberg hat den schwächsten Kader der Liga",
-          "Leverkusen hat eine starke Auswärtsbilanz"
+          "Leverkusen ist klarer Meisterschaftsfavorit und hat eine herausragende Saison gespielt.",
+          "Elversberg ist Aufsteiger und hat deutlich weniger Erfahrung auf diesem Niveau.",
+          "Leverkusen hat eine starke Offensive und Defensive, während Elversberg noch seine Form finden muss."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:27.143102+00:00"
+        "generatedAt": "2026-08-23T18:27:17.731073+00:00"
       }
     },
     {
@@ -1569,21 +1449,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:1",
-        "confidence": 0.5,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
+          "home": 0.4,
+          "draw": 0.4,
           "away": 0.2
         },
         "reasons": [
-          "Köln hat Heimvorteil",
-          "Hoffenheim mit schwacher Rückrunde",
-          "Köln mit besserer Vorbereitung"
+          "Kölns Heimstärke in der Rückrunde",
+          "Hoffenheims Auswärtsschwäche gegen Top-Teams",
+          "Beide Teams mit ähnlichem Potenzial im Mittelfeld"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:28.625887+00:00"
+        "generatedAt": "2026-08-23T18:27:19.413550+00:00"
       }
     },
     {
@@ -1623,19 +1503,19 @@
         "available": true,
         "outcome": "Sieg Borussia Dortmund",
         "scoreline": "3:1",
-        "confidence": 0.7,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.7,
+          "home": 0.65,
           "draw": 0.2,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "Dortmund hat einen stärkeren Kader",
-          "Hamburger SV ist auswärts schwächer",
-          "Dortmunds Heimstärke"
+          "Dortmunds starke Heimform",
+          "HSV mit Auswärtsschwächen in der Vergangenheit",
+          "Dortmunds Offensive ist gut besetzt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:30.066429+00:00"
+        "generatedAt": "2026-08-23T18:27:20.952321+00:00"
       }
     },
     {
@@ -1682,12 +1562,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Freiburg mit starkem Heimvorteil",
-          "Bremen in der Fremde oft anfällig",
-          "Beide Teams mit ähnlicher Form zum Saisonstart"
+          "Freiburg hat eine starke Heimform in der Rückrunde der letzten Saison",
+          "Bremen zeigte auswärts Schwächen in der Defensive",
+          "Freiburgs Kader ist breiter und weniger von Ausfällen betroffen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:31.537711+00:00"
+        "generatedAt": "2026-08-23T18:27:22.533314+00:00"
       }
     },
     {
@@ -1734,12 +1614,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Augsburg mit starker Heimform in der Vorsaison",
-          "Schalke 04 kämpft auswärts oft mit der Defensive",
-          "Augsburg hat den besseren Kader für die aktuelle Saison"
+          "Augsburg mit starker Heimform in der Rückrunde",
+          "Schalke 04 schwächelte auswärts in der letzten Saison",
+          "Augsburg hat den besseren Kader für die Bundesliga"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:33.044128+00:00"
+        "generatedAt": "2026-08-23T18:27:24.145182+00:00"
       }
     },
     {
