@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:36:32.789158+00:00",
+  "generatedAt": "2026-08-23T15:20:57.887231+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -555,19 +555,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T13:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SSV Jeddeloh 2",
         "short": "SSV Jeddeloh",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_SSV_Jeddeloh.svg",
-        "score": null
+        "score": 5
       },
       "away": {
         "name": "1. FC Heidenheim 1846",
         "short": "Heidenheim",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9d/1._FC_Heidenheim_1846.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -581,22 +581,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg 1. FC Heidenheim 1846",
-        "scoreline": "0:3",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
-        },
-        "reasons": [
-          "Klassengefälle zwischen 3. Liga und Regionalliga",
-          "Heidenheim ist etabliert im Profifußball",
-          "Jeddeloh ist krasser Außenseiter"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:34.520535+00:00"
+        "available": false
       }
     },
     {
@@ -606,19 +591,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T13:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SpVgg Greuther Fürth",
         "short": "Fürth",
         "crest": "https://i.imgur.com/pwuVbKr.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "VfL Bochum",
         "short": "Bochum",
         "crest": "https://i.imgur.com/5jy3Gfr.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -632,22 +617,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg VfL Bochum",
-        "scoreline": "1:2",
-        "confidence": 0.35,
-        "probs": {
-          "home": 0.35,
-          "draw": 0.3,
-          "away": 0.35
-        },
-        "reasons": [
-          "Bochum spielt eine Klasse höher und hat mehr Qualität im Kader",
-          "Fürth hat Heimvorteil, aber Bochum ist auswärtsstark",
-          "Beide Teams sind in der Vorbereitung, Form schwer einzuschätzen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-22T21:20:36.062569+00:00"
+        "available": false
       }
     },
     {
@@ -759,19 +729,19 @@
       "dateLocal": "2026-08-23",
       "kickoff": "2026-08-23T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "VfB 1921 Krieschow ",
         "short": "VfB Krieschow ",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9a/VfB_Krieschow_Logo_2020.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "1. FSV Mainz 05",
         "short": "Mainz",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg",
-        "score": null
+        "score": 9
       },
       "tv": {
         "known": true,
@@ -785,22 +755,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg 1. FSV Mainz 05",
-        "scoreline": "0:3",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
-        },
-        "reasons": [
-          "Klassengefälle zwischen Regionalliga und Bundesliga",
-          "Mainz 05 ist im Pokal oft stark",
-          "Krieschow hat Heimvorteil, aber nicht genug Qualität"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T01:13:51.763736+00:00"
+        "available": false
       }
     },
     {
@@ -1392,8 +1347,7 @@
         "known": true,
         "channels": [
           "RTL",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": true,
         "note": null
