@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:37:55.679765+00:00",
+  "generatedAt": "2026-08-24T21:27:18.081683+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -987,19 +987,19 @@
       "dateLocal": "2026-08-24",
       "kickoff": "2026-08-24T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "VSG Altglienicke Berlin",
         "short": "Altglienicke",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e8/VSG_Altglienicke.svg",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "VfL Wolfsburg",
         "short": "Wolfsburg",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/VfL_Wolfsburg_logo_2026.svg/960px-VfL_Wolfsburg_logo_2026.svg.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -1013,22 +1013,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg VfL Wolfsburg",
-        "scoreline": "0:2",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.15,
-          "draw": 0.25,
-          "away": 0.6
-        },
-        "reasons": [
-          "Klassengefälle zwischen Drittligist und Bundesligist",
-          "VSG Altglienicke mit wenig Pokalerfahrung",
-          "VfL Wolfsburg mit breiterem Kader und mehr Qualität"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-24T18:37:54.679369+00:00"
+        "available": false
       }
     },
     {
@@ -1075,19 +1060,19 @@
       "dateLocal": "2026-08-24",
       "kickoff": "2026-08-24T20:45:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Hallescher FC",
         "short": "Halle",
         "crest": "https://derivates.kicker.de/image/fetch/f_webp/w_120%2Ch_120%2Cc_fit%2Cq_auto:best/https://mediadb.kicker.de/2018/fussball/vereine/xxl/4440_20170721710.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "FC Schalke 04",
         "short": "S04",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -1102,22 +1087,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "HFC heimstark im Pokal",
-          "Schalke mit Formschwankungen",
-          "Pokalüberraschungen möglich"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-24T01:11:44.605493+00:00"
+        "available": false
       }
     },
     {
@@ -1637,12 +1607,12 @@
           "away": 0.85
         },
         "reasons": [
-          "Großer Qualitätsunterschied zwischen den Teams",
-          "Dortmund mit starker Offensive",
-          "Eimsbüttel als Amateurteam klarer Außenseiter"
+          "Großer Qualitätsunterschied zwischen den Ligen",
+          "Dortmund mit starker Vorbereitung und Kader",
+          "Eimsbüttel klarer Außenseiter im DFB-Pokal"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-24T01:11:46.226751+00:00"
+        "generatedAt": "2026-08-24T21:27:17.081271+00:00"
       }
     },
     {
