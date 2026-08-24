@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:20:32.833080+00:00",
+  "generatedAt": "2026-08-24T01:11:47.227130+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -575,7 +575,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -611,7 +611,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -647,7 +647,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -683,7 +683,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -719,7 +719,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -755,7 +755,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -791,7 +791,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -827,7 +827,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -863,7 +863,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -899,7 +899,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -935,7 +935,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -1132,7 +1132,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "HFC heimstark im Pokal",
+          "Schalke mit Formschwankungen",
+          "Pokalüberraschungen möglich"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-24T01:11:44.605493+00:00"
       }
     },
     {
@@ -1642,7 +1657,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Dortmund",
+        "scoreline": "0:4",
+        "confidence": 0.85,
+        "probs": {
+          "home": 0.05,
+          "draw": 0.1,
+          "away": 0.85
+        },
+        "reasons": [
+          "Großer Qualitätsunterschied zwischen den Teams",
+          "Dortmund mit starker Offensive",
+          "Eimsbüttel als Amateurteam klarer Außenseiter"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-24T01:11:46.226751+00:00"
       }
     },
     {
@@ -1669,10 +1699,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "Sky"
         ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "free": true,
+        "note": null
       },
       "odds": {
         "known": false
