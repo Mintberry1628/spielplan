@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:46:19.927680+00:00",
+  "generatedAt": "2026-08-24T15:38:04.232345+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1190,16 +1190,16 @@
         "confidence": 0.7,
         "probs": {
           "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
+          "draw": 0.15,
+          "away": 0.15
         },
         "reasons": [
-          "FC Bayern München hat eine starke Heimbilanz gegen den VfB Stuttgart.",
-          "Der VfB Stuttgart hat in der Rückrunde der letzten Saison nachgelassen.",
-          "FC Bayern München ist in der Regel gut in die Saison gestartet."
+          "Bayern hat eine starke Heimbilanz gegen Stuttgart.",
+          "Stuttgart hat in der Vorbereitung Schwächen gezeigt.",
+          "Bayern ist qualitativ besser besetzt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T18:27:11.234538+00:00"
+        "generatedAt": "2026-08-24T15:37:50.202892+00:00"
       }
     },
     {
@@ -1238,7 +1238,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg RB Leipzig",
-        "scoreline": "2:0",
+        "scoreline": "3:1",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
@@ -1246,12 +1246,12 @@
           "away": 0.15
         },
         "reasons": [
-          "RB Leipzig hat Heimstärke bewiesen.",
-          "Gladbachs Auswärtsbilanz ist schwach.",
-          "Leipzig hat den Kader für die Breite und Spitze."
+          "RB Leipzig hat eine starke Heimform und ist in der Regel dominant gegen Gladbach.",
+          "Borussia Mönchengladbach hat in der Vorbereitung Schwächen in der Defensive gezeigt.",
+          "RB Leipzig verfügt über den breiteren und qualitativ hochwertigeren Kader."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T18:27:12.868799+00:00"
+        "generatedAt": "2026-08-24T15:37:51.819651+00:00"
       }
     },
     {
@@ -1299,12 +1299,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Mainz 05 hat einen stärkeren Kader für die Bundesliga",
-          "Paderborn hat in der letzten Saison auswärts geschwächelt",
-          "Heimvorteil für Mainz im eigenen Stadion"
+          "Mainz hat einen starken Heimvorteil in der Liga.",
+          "Paderborns Auswärtsbilanz ist schwach.",
+          "Mainz ist in der Regel gut in die Saison gestartet."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T18:27:14.468411+00:00"
+        "generatedAt": "2026-08-24T15:37:53.408731+00:00"
       }
     },
     {
@@ -1352,12 +1352,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Union Berlin zuletzt heimstark",
-          "Frankfurt auswärts oft defensiv solide",
-          "Beide Teams auf Augenhöhe in der Tabelle"
+          "Union Berlin heimstark, aber auswärts anfällig",
+          "Eintracht Frankfurt zuletzt formverbessert",
+          "Beide Teams auf ähnlichem Niveau, ausgeglichenes Spiel erwartet"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T18:27:16.057322+00:00"
+        "generatedAt": "2026-08-24T15:37:55.015905+00:00"
       }
     },
     {
@@ -1398,19 +1398,19 @@
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
         "scoreline": "0:3",
-        "confidence": 0.75,
+        "confidence": 0.7,
         "probs": {
           "home": 0.1,
-          "draw": 0.15,
-          "away": 0.75
+          "draw": 0.2,
+          "away": 0.7
         },
         "reasons": [
-          "Leverkusen ist klarer Meisterschaftsfavorit und hat eine herausragende Saison gespielt.",
-          "Elversberg ist Aufsteiger und hat deutlich weniger Erfahrung auf diesem Niveau.",
-          "Leverkusen hat eine starke Offensive und Defensive, während Elversberg noch seine Form finden muss."
+          "Leverkusen ist klarer Favorit mit Champions League-Erfahrung",
+          "Elversberg hat Heimvorteil, aber geringere individuelle Qualität",
+          "Leverkusen zeigte starke Form in der Vorbereitung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T18:27:17.731073+00:00"
+        "generatedAt": "2026-08-24T15:37:56.694064+00:00"
       }
     },
     {
@@ -1458,12 +1458,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Kölns Heimstärke in der Rückrunde",
-          "Hoffenheims Auswärtsschwäche gegen Top-Teams",
-          "Beide Teams mit ähnlichem Potenzial im Mittelfeld"
+          "Köln hat Heimvorteil, aber Hoffenheim ist auswärtsstark",
+          "Beide Teams sind tabellarisch nah beieinander und starten in die Saison",
+          "Die jüngsten Ergebnisse beider Mannschaften sind ausgeglichen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T18:27:19.413550+00:00"
+        "generatedAt": "2026-08-24T15:37:58.405163+00:00"
       }
     },
     {
@@ -1503,19 +1503,19 @@
         "available": true,
         "outcome": "Sieg Borussia Dortmund",
         "scoreline": "3:1",
-        "confidence": 0.65,
+        "confidence": 0.7,
         "probs": {
-          "home": 0.65,
+          "home": 0.7,
           "draw": 0.2,
-          "away": 0.15
+          "away": 0.1
         },
         "reasons": [
-          "Dortmunds starke Heimform",
-          "HSV mit Auswärtsschwächen in der Vergangenheit",
-          "Dortmunds Offensive ist gut besetzt"
+          "Borussia Dortmund hat eine starke Heimbilanz",
+          "Hamburger SV kämpft auswärts oft mit der Defensive",
+          "Dortmunds Offensivkraft ist überlegen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T18:27:20.952321+00:00"
+        "generatedAt": "2026-08-24T15:38:00.040974+00:00"
       }
     },
     {
@@ -1562,12 +1562,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Freiburg hat eine starke Heimform in der Rückrunde der letzten Saison",
-          "Bremen zeigte auswärts Schwächen in der Defensive",
-          "Freiburgs Kader ist breiter und weniger von Ausfällen betroffen"
+          "Freiburg hat eine starke Heimform",
+          "Bremen hat Probleme in der Defensive",
+          "Freiburg ist offensiv variabler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T18:27:22.533314+00:00"
+        "generatedAt": "2026-08-24T15:38:01.665877+00:00"
       }
     },
     {
@@ -1606,7 +1606,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Augsburg",
-        "scoreline": "2:1",
+        "scoreline": "1:0",
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
@@ -1614,12 +1614,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Augsburg mit starker Heimform in der Rückrunde",
-          "Schalke 04 schwächelte auswärts in der letzten Saison",
-          "Augsburg hat den besseren Kader für die Bundesliga"
+          "Augsburg zuletzt heimstark",
+          "Schalke mit Auswärtsschwächen",
+          "Augsburg hat die bessere Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T18:27:24.145182+00:00"
+        "generatedAt": "2026-08-24T15:38:03.231937+00:00"
       }
     },
     {
