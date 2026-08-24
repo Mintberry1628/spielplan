@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:38:04.232345+00:00",
+  "generatedAt": "2026-08-24T18:37:55.679765+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -951,19 +951,19 @@
       "dateLocal": "2026-08-24",
       "kickoff": "2026-08-24T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SC Verl",
         "short": "Verl",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SC_Verl_Logo.svg/960px-SC_Verl_Logo.svg.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Hamburger SV",
         "short": "HSV",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -977,22 +977,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Hamburger SV",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "Hamburger SV ist favorisiert aufgrund der höheren Spielklasse",
-          "SC Verl hat zuletzt schwankende Leistungen gezeigt",
-          "HSV hat eine gute Auswärtsbilanz in Pokalspielen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T21:20:28.024966+00:00"
+        "available": false
       }
     },
     {
@@ -1038,12 +1023,12 @@
           "away": 0.6
         },
         "reasons": [
-          "VSG Altglienicke spielt in der Regionalliga Nordost, VfL Wolfsburg in der Bundesliga",
-          "Deutlicher Qualitätsunterschied im Kader",
-          "Pokalspiele gegen tiefstehende Gegner sind für Bundesligisten oft zäh, aber die individuelle Klasse sollte sich durchsetzen"
+          "Klassengefälle zwischen Drittligist und Bundesligist",
+          "VSG Altglienicke mit wenig Pokalerfahrung",
+          "VfL Wolfsburg mit breiterem Kader und mehr Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T21:20:29.626870+00:00"
+        "generatedAt": "2026-08-24T18:37:54.679369+00:00"
       }
     },
     {
@@ -1053,19 +1038,19 @@
       "dateLocal": "2026-08-24",
       "kickoff": "2026-08-24T18:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Würzburger Kickers",
         "short": "Würzburg",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/0/0c/W%C3%BCrzburger_Kickers_Logo.svg",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "1. FC Köln",
         "short": "Köln",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -1080,22 +1065,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg 1. FC Köln",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Köln ist höherklassig und qualitativ besser besetzt",
-          "Würzburger Kickers haben in der letzten Saison in der Regionalliga gespielt",
-          "Köln hat eine höhere Dichte an erfahrenen Spielern"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-23T21:20:31.236465+00:00"
+        "available": false
       }
     },
     {
