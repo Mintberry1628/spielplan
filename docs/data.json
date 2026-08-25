@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:37:38.767460+00:00",
+  "generatedAt": "2026-08-25T21:26:38.629954+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1505,20 +1505,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Bayern München",
-        "scoreline": "0:3",
+        "scoreline": "1:4",
         "confidence": 0.8,
         "probs": {
-          "home": 0.05,
-          "draw": 0.15,
+          "home": 0.1,
+          "draw": 0.1,
           "away": 0.8
         },
         "reasons": [
-          "Deutlicher Qualitätsunterschied im Kader",
-          "FC Bayern ist international erfahren und konstant stark",
-          "VfL Osnabrück kämpft in der Regel gegen den Abstieg in der 2. Bundesliga"
+          "FC Bayern ist klarer Favorit aufgrund der Kaderqualität und Erfahrung.",
+          "VfL Osnabrück spielt in einer niedrigeren Liga und ist Außenseiter.",
+          "FC Bayern hat eine starke Offensive, die auch gegen tiefstehende Teams Tore erzielen kann."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-25T01:10:13.160093+00:00"
+        "generatedAt": "2026-08-25T21:26:37.629577+00:00"
       }
     },
     {
