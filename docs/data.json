@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T15:40:59.815698+00:00",
+  "generatedAt": "2026-08-25T18:37:38.767460+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1461,12 +1461,12 @@
           "away": 0.85
         },
         "reasons": [
-          "Großer Qualitätsunterschied zwischen den Ligen",
-          "Dortmund mit starker Vorbereitung und Kader",
-          "Eimsbüttel klarer Außenseiter im DFB-Pokal"
+          "Klassengefälle zwischen Amateur- und Profiverein",
+          "Dortmund mit starkem Saisonstart in der Bundesliga",
+          "Eimsbütteler BC in der Oberliga Hamburg noch ohne Punktgewohne Leistungstrittene Dominanz"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-24T21:27:17.081271+00:00"
+        "generatedAt": "2026-08-25T18:37:37.767000+00:00"
       }
     },
     {
