@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:46:42.164822+00:00",
+  "generatedAt": "2026-08-27T00:28:22.400588+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,402 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "oldb-81841",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T13:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SSV Jeddeloh 2",
-        "short": "SSV Jeddeloh",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_SSV_Jeddeloh.svg",
-        "score": 5
-      },
-      "away": {
-        "name": "1. FC Heidenheim 1846",
-        "short": "Heidenheim",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9d/1._FC_Heidenheim_1846.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81846",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T13:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SpVgg Greuther Fürth",
-        "short": "Fürth",
-        "crest": "https://i.imgur.com/pwuVbKr.png",
-        "score": 1
-      },
-      "away": {
-        "name": "VfL Bochum",
-        "short": "Bochum",
-        "crest": "https://i.imgur.com/5jy3Gfr.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81834",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Eintracht Braunschweig",
-        "short": "Braunschweig",
-        "crest": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "1. FC Union Berlin",
-        "short": "Union Berlin",
-        "crest": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
-        "score": 4
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81837",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "TSV Schott Mainz",
-        "short": "SCHOTT",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_Schott_Mainz.png/120px-TSV_Schott_Mainz.png",
-        "score": 0
-      },
-      "away": {
-        "name": "Borussia Mönchengladbach",
-        "short": "Gladbach",
-        "crest": "https://i.imgur.com/KSIk0Eu.png",
-        "score": 5
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81845",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "VfB 1921 Krieschow ",
-        "short": "VfB Krieschow ",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9a/VfB_Krieschow_Logo_2020.png",
-        "score": 0
-      },
-      "away": {
-        "name": "1. FSV Mainz 05",
-        "short": "Mainz",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg",
-        "score": 9
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81856",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Carl Zeiss Jena",
-        "short": "Jena",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_FC_Carl_Zeiss_Jena.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "SV Darmstadt 98",
-        "short": "Darmstadt",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81857",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Bahlinger SC",
-        "short": "Bahlinger SC",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/b/bf/BSC_Logo_rot_wei%E2%94%9C%C6%92.jpg",
-        "score": 0
-      },
-      "away": {
-        "name": "1. FC Magdeburg",
-        "short": "Magdeburg",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/8/84/1._FC_Magdeburg.svg",
-        "score": 4
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81860",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SV Westfalia Rhynern",
-        "short": "Rhynern",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/0/07/SV_Westfalia_Rhynern_Logo.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Dynamo Dresden",
-        "short": "Dresden",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_SG_Dynamo_Dresden_neu.svg/960px-Logo_SG_Dynamo_Dresden_neu.svg.png",
-        "score": 6
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81838",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Fortuna Düsseldorf",
-        "short": "Düsseldorf",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/960px-Fortuna_D%C3%BCsseldorf.svg.png",
-        "score": 1
-      },
-      "away": {
-        "name": "SC Freiburg",
-        "short": "Freiburg",
-        "crest": "https://i.imgur.com/r3mvi0h.png",
-        "score": 5
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81839",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Rot-Weiss Essen",
-        "short": "Rot-Weiss Essen",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rot-Weiss_Essen.png",
-        "score": 2
-      },
-      "away": {
-        "name": "FC St. Pauli",
-        "short": "St. Pauli",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fc_st_pauli_logo.svg",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81861",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-23",
-      "kickoff": "2026-08-23T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "1. FC Phönix Lübeck",
-        "short": "Phönix Lübeck",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1._FC_Phoenix_Luebeck_Logo.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "SC Paderborn 07",
-        "short": "Paderborn",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
-        "score": 4
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "oldb-81854",
       "competition": "DFB-Pokal",
@@ -1159,7 +763,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Stuttgart mit starker Heimform",
+          "Köln mit schwacher Auswärtsbilanz",
+          "Stuttgarts Offensive ist konstanter"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-27T00:28:21.400205+00:00"
       }
     },
     {
@@ -1186,10 +805,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1222,10 +843,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1258,10 +881,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1294,10 +919,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1330,10 +957,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1366,7 +995,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
         "note": null
