@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:48:48.251937+00:00",
+  "generatedAt": "2026-08-28T00:15:26.986776+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,150 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "oldb-81854",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-24",
-      "kickoff": "2026-08-24T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SC Verl",
-        "short": "Verl",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SC_Verl_Logo.svg/960px-SC_Verl_Logo.svg.png",
-        "score": 0
-      },
-      "away": {
-        "name": "Hamburger SV",
-        "short": "HSV",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81862",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-24",
-      "kickoff": "2026-08-24T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "VSG Altglienicke Berlin",
-        "short": "Altglienicke",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e8/VSG_Altglienicke.svg",
-        "score": 2
-      },
-      "away": {
-        "name": "VfL Wolfsburg",
-        "short": "Wolfsburg",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/VfL_Wolfsburg_logo_2026.svg/960px-VfL_Wolfsburg_logo_2026.svg.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81863",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-24",
-      "kickoff": "2026-08-24T18:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Würzburger Kickers",
-        "short": "Würzburg",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/0/0c/W%C3%BCrzburger_Kickers_Logo.svg",
-        "score": 1
-      },
-      "away": {
-        "name": "1. FC Köln",
-        "short": "Köln",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-81843",
-      "competition": "DFB-Pokal",
-      "competitionStage": "1. Runde",
-      "dateLocal": "2026-08-24",
-      "kickoff": "2026-08-24T20:45:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Hallescher FC",
-        "short": "Halle",
-        "crest": "https://derivates.kicker.de/image/fetch/f_webp/w_120%2Ch_120%2Cc_fit%2Cq_auto:best/https://mediadb.kicker.de/2018/fussball/vereine/xxl/4440_20170721710.png",
-        "score": 2
-      },
-      "away": {
-        "name": "FC Schalke 04",
-        "short": "S04",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565776",
       "competition": "Bundesliga",
@@ -716,20 +572,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Bayern München",
-        "scoreline": "0:3",
-        "confidence": 0.85,
+        "scoreline": "1:3",
+        "confidence": 0.75,
         "probs": {
-          "home": 0.05,
-          "draw": 0.1,
-          "away": 0.85
+          "home": 0.1,
+          "draw": 0.15,
+          "away": 0.75
         },
         "reasons": [
-          "Deutlicher Qualitätsunterschied im Kader",
-          "FC Bayern München ist international erfahren und konstant stark",
-          "VfL Osnabrück spielt in einer niedrigeren Liga und hat weniger Erfahrung auf dem Zettel"
+          "Bayern übertrifft Osnabrück in allen Belangen (Kaderqualität, Erfahrung)",
+          "Osnabrück hat Heimvorteil, aber Bayerns Qualität setzt sich durch",
+          "Pokalspiele sind oft torreich, Bayerns Offensivstärke wird sich zeigen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-26T19:46:41.164436+00:00"
+        "generatedAt": "2026-08-28T00:15:25.986313+00:00"
       }
     },
     {
@@ -776,12 +632,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Stuttgart mit starker Heimform",
-          "Köln mit schwacher Auswärtsbilanz",
-          "Stuttgarts Offensive ist konstanter"
+          "Stuttgart mit starker Heimform in der Vorsaison.",
+          "Köln hat auswärts oft Probleme.",
+          "Stuttgarts Kader ist breiter und qualitativ besser besetzt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-27T00:28:21.400205+00:00"
+        "generatedAt": "2026-08-28T00:15:13.962854+00:00"
       }
     },
     {
@@ -819,7 +675,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.35,
+          "draw": 0.25,
+          "away": 0.4
+        },
+        "reasons": [
+          "Leipzig mit besserer Saisonform und breiterem Kader",
+          "Werder zuhause oft anfällig gegen Top-Teams",
+          "Leipzig hat die individuelle Qualität, um Spiele zu entscheiden"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-28T00:15:15.561554+00:00"
       }
     },
     {
@@ -857,7 +728,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Dortmund",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
+        },
+        "reasons": [
+          "Dortmund mit starker Offensive und guter Form",
+          "Hoffenheim anfällig in der Defensive",
+          "Dortmund hat die bessere Bilanz gegen Hoffenheim"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-28T00:15:17.280438+00:00"
       }
     },
     {
@@ -895,7 +781,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "3:1",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.2,
+          "away": 0.15
+        },
+        "reasons": [
+          "Leverkusen in starker Form und heimstark",
+          "Union Berlin mit Schwierigkeiten in der Fremde",
+          "Qualitativ hochwertigerer Kader bei Leverkusen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-28T00:15:19.043791+00:00"
       }
     },
     {
@@ -933,7 +834,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Mönchengladbach",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Gladbach mit starkem Heimvorteil und höherer individueller Qualität",
+          "Elversberg noch in der Findungsphase in der Bundesliga",
+          "Gladbachs Offensive ist gut in Form"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-28T00:15:20.680500+00:00"
       }
     },
     {
@@ -971,7 +887,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg SC Freiburg",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Freiburg mit stabilerer Saisonleistung",
+          "Paderborns Heimstärke nicht konstant genug",
+          "Freiburgs Offensivstärke gegen Paderborns Defensive"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-28T00:15:22.411741+00:00"
       }
     },
     {
@@ -1008,7 +939,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "1:3",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.1,
+          "draw": 0.2,
+          "away": 0.7
+        },
+        "reasons": [
+          "Schalke 04 mit schwachem Saisonstart und Heimschwäche",
+          "FC Bayern München in bestechender Form und mit starker Offensive",
+          "Historisch klare Überlegenheit des FC Bayern gegen Schalke 04"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-28T00:15:24.124391+00:00"
       }
     },
     {
@@ -1035,7 +981,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1071,7 +1018,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
