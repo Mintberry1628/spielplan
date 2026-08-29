@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T23:52:49.856613+00:00",
+  "generatedAt": "2026-08-29T05:43:57.289168+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -15,49 +15,33 @@
       "dateLocal": "2026-08-28",
       "kickoff": "2026-08-28T20:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": null
+        "score": 5
       },
       "away": {
         "name": "VfB Stuttgart",
         "short": "VFB",
         "crest": "https://crests.football-data.org/10.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
         "channels": [
-          "Sat.1",
           "Sky"
         ],
-        "free": true,
+        "free": false,
         "note": null
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "3:1",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
-        },
-        "reasons": [
-          "Bayern hat Heimvorteil und starke Offensive",
-          "Stuttgart fehlt es an Konstanz auswärts",
-          "Bayern ist in der Regel dominant gegen Stuttgart"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:03.607038+00:00"
+        "available": false
       }
     },
     {
@@ -991,7 +975,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Hamburger SV",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Hamburger SV mit starkem Saisonstart und Heimvorteil",
+          "Mainz 05 noch in der Findungsphase",
+          "HSV hat die bessere Kaderbreite und Form"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-29T05:43:54.770031+00:00"
       }
     },
     {
@@ -1028,7 +1027,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Eintracht Frankfurt",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Frankfurt mit starkem Heimvorteil",
+          "Augsburg in schwacher Verfassung auswärts",
+          "Frankfurt hat die bessere Kaderbreite und Form"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-08-29T05:43:56.288700+00:00"
       }
     },
     {
