@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T05:43:57.289168+00:00",
+  "generatedAt": "2026-08-29T12:20:09.403446+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -89,12 +89,12 @@
           "away": 0.15
         },
         "reasons": [
-          "RB Leipzig hat eine starke Heimform in der Rückrunde gezeigt.",
-          "Borussia Mönchengladbach hat auswärts oft Schwierigkeiten gegen Top-Teams.",
-          "Leipzig verfügt über den breiteren und qualitativ besseren Kader."
+          "RB Leipzig hat einen stärkeren Kader und ist in der Regel heimstark.",
+          "Borussia Mönchengladbach hat in der Vorbereitung und im Saisonverlauf Schwächen gezeigt.",
+          "Leipzig hat die höhere individuelle Qualität und ist offensiv gefährlicher."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:05.246935+00:00"
+        "generatedAt": "2026-08-29T12:19:55.604336+00:00"
       }
     },
     {
@@ -133,7 +133,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Heim",
+        "outcome": "Sieg Mainz 05",
         "scoreline": "2:0",
         "confidence": 0.6,
         "probs": {
@@ -142,12 +142,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Mainz hat Heimvorteil und ist etablierter",
-          "Paderborn kämpft oft auswärts",
-          "Mainz ist in der Liga besser platziert"
+          "Mainz 05 hat Heimvorteil",
+          "SC Paderborn 07 ist Aufsteiger und muss sich erst beweisen",
+          "Mainz 05 ist etablierter in der Bundesliga"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:06.874068+00:00"
+        "generatedAt": "2026-08-29T12:19:57.210537+00:00"
       }
     },
     {
@@ -186,21 +186,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:1",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
+          "home": 0.5,
+          "draw": 0.3,
           "away": 0.2
         },
         "reasons": [
-          "Beide Teams mit ähnlicher Stärke und Form",
-          "Union Berlin heimstark, aber Frankfurt auswärts gefährlich",
-          "Saisonstart oft von Taktik und Vorsicht geprägt"
+          "Union Berlin mit starkem Heimvorteil",
+          "Eintracht Frankfurt mit wechselhafter Form",
+          "Beide Teams mit ähnlicher Qualität, Heimteam leicht im Vorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:08.490848+00:00"
+        "generatedAt": "2026-08-29T12:19:58.778037+00:00"
       }
     },
     {
@@ -248,12 +248,12 @@
           "away": 0.7
         },
         "reasons": [
-          "Elversberg als Aufsteiger mit geringerer Ligapräsenz",
-          "Leverkusen in starker Verfassung und Meisterkandidat",
-          "Qualitativer Unterschied im Kader deutlich"
+          "Leverkusen ist klarer Meisterschaftsfavorit",
+          "Elversberg hat eine schwächere Kaderbreite",
+          "Leverkusen hat eine starke Offensive und Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:10.197558+00:00"
+        "generatedAt": "2026-08-29T12:20:00.374646+00:00"
       }
     },
     {
@@ -292,21 +292,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Köln",
+        "scoreline": "2:1",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
+          "home": 0.5,
+          "draw": 0.3,
           "away": 0.2
         },
         "reasons": [
-          "Köln hat Heimvorteil, aber Hoffenheim ist auswärtsstark.",
-          "Beide Teams sind in der Regel defensiv solide.",
-          "Die bisherige Saisonleistung beider Mannschaften deutet auf ein ausgeglichenes Spiel hin."
+          "Köln mit Heimvorteil",
+          "Hoffenheim in der Rückrunde schwächer",
+          "Kölns Kampfgeist"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:11.905818+00:00"
+        "generatedAt": "2026-08-29T12:20:01.927367+00:00"
       }
     },
     {
@@ -346,19 +346,19 @@
         "available": true,
         "outcome": "Sieg Borussia Dortmund",
         "scoreline": "3:1",
-        "confidence": 0.7,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.7,
+          "home": 0.65,
           "draw": 0.2,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "Dortmunds starke Heimform",
-          "HSV's Auswärtsschwäche",
-          "Qualitativer Kaderunterschied"
+          "Dortmund hat Heimvorteil und starke Offensive",
+          "HSV noch nicht eingespielt nach Aufstieg",
+          "Dortmunds Kaderqualität deutlich höher"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:13.494708+00:00"
+        "generatedAt": "2026-08-29T12:20:03.503082+00:00"
       }
     },
     {
@@ -397,21 +397,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg SC Freiburg",
+        "outcome": "Sieg Heim",
         "scoreline": "2:1",
-        "confidence": 0.55,
+        "confidence": 0.5,
         "probs": {
-          "home": 0.55,
+          "home": 0.5,
           "draw": 0.3,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Starker Heimvorteil für Freiburg",
-          "Bremer Auswärtsschwäche in der Rückrunde",
-          "Freiburgs taktische Disziplin"
+          "Freiburg hat eine starke Heimform in der letzten Saison gezeigt.",
+          "Werder Bremen hat auswärts oft Probleme.",
+          "Beide Teams sind tabellarisch ähnlich, aber der Heimvorteil spricht für Freiburg."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:15.067772+00:00"
+        "generatedAt": "2026-08-29T12:20:05.207960+00:00"
       }
     },
     {
@@ -459,12 +459,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Augsburg mit starker Heimform in der Rückrunde",
-          "Schalke kämpft auswärts um Punkte",
-          "Augsburg hat den besseren Kader für die aktuelle Saison"
+          "Augsburg mit starker Heimform in der Vorsaison",
+          "Schalke 04 kämpft mit Auswärtsschwäche",
+          "Augsburg hat die stabilere Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:16.647121+00:00"
+        "generatedAt": "2026-08-29T12:20:06.772368+00:00"
       }
     },
     {
@@ -512,12 +512,12 @@
           "away": 0.85
         },
         "reasons": [
-          "Großer Qualitätsunterschied zwischen den Teams",
-          "Dortmund hat eine starke Offensive",
-          "Eimsbüttel spielt in einer deutlich niedrigeren Liga"
+          "Klassenunterschied (Regionalliga vs. Bundesliga)",
+          "Dortmunds höhere individuelle Qualität",
+          "Pokal-Erfahrung von Dortmund"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-28T14:55:18.281167+00:00"
+        "generatedAt": "2026-08-29T12:20:08.402995+00:00"
       }
     },
     {
