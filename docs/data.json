@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T12:20:09.403446+00:00",
+  "generatedAt": "2026-08-29T18:11:09.098214+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -51,19 +51,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "RB Leipzig",
         "short": "RBL",
         "crest": "https://crests.football-data.org/721.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Borussia Mönchengladbach",
         "short": "BMG",
         "crest": "https://crests.football-data.org/18.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -79,22 +79,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg RB Leipzig",
-        "scoreline": "3:1",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
-        },
-        "reasons": [
-          "RB Leipzig hat einen stärkeren Kader und ist in der Regel heimstark.",
-          "Borussia Mönchengladbach hat in der Vorbereitung und im Saisonverlauf Schwächen gezeigt.",
-          "Leipzig hat die höhere individuelle Qualität und ist offensiv gefährlicher."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T12:19:55.604336+00:00"
+        "available": false
       }
     },
     {
@@ -104,19 +89,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "SC Paderborn 07",
         "short": "SCP",
         "crest": "https://crests.football-data.org/29.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -132,22 +117,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Mainz 05",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Mainz 05 hat Heimvorteil",
-          "SC Paderborn 07 ist Aufsteiger und muss sich erst beweisen",
-          "Mainz 05 ist etablierter in der Bundesliga"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T12:19:57.210537+00:00"
+        "available": false
       }
     },
     {
@@ -157,19 +127,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Union Berlin",
         "short": "UNB",
         "crest": "https://crests.football-data.org/28.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Eintracht Frankfurt",
         "short": "SGE",
         "crest": "https://crests.football-data.org/19.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -185,22 +155,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:1",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
-        },
-        "reasons": [
-          "Union Berlin mit starkem Heimvorteil",
-          "Eintracht Frankfurt mit wechselhafter Form",
-          "Beide Teams mit ähnlicher Qualität, Heimteam leicht im Vorteil"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T12:19:58.778037+00:00"
+        "available": false
       }
     },
     {
@@ -210,19 +165,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SV 07 Elversberg",
         "short": "ELV",
         "crest": "https://crests.football-data.org/719.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Bayer 04 Leverkusen",
         "short": "B04",
         "crest": "https://crests.football-data.org/3.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -238,22 +193,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "0:3",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
-        },
-        "reasons": [
-          "Leverkusen ist klarer Meisterschaftsfavorit",
-          "Elversberg hat eine schwächere Kaderbreite",
-          "Leverkusen hat eine starke Offensive und Defensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T12:20:00.374646+00:00"
+        "available": false
       }
     },
     {
@@ -263,19 +203,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Köln",
         "short": "KOE",
         "crest": "https://crests.football-data.org/1.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "TSG 1899 Hoffenheim",
         "short": "TSG",
         "crest": "https://crests.football-data.org/2.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -291,22 +231,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Köln",
-        "scoreline": "2:1",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
-        },
-        "reasons": [
-          "Köln mit Heimvorteil",
-          "Hoffenheim in der Rückrunde schwächer",
-          "Kölns Kampfgeist"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T12:20:01.927367+00:00"
+        "available": false
       }
     },
     {
@@ -316,19 +241,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Hamburger SV",
         "short": "HSV",
         "crest": "https://crests.football-data.org/7.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
