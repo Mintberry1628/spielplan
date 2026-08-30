@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T03:45:56.262786+00:00",
+  "generatedAt": "2026-08-30T11:19:42.938175+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -51,19 +51,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "RB Leipzig",
         "short": "RBL",
         "crest": "https://crests.football-data.org/721.png",
-        "score": 3
+        "score": null
       },
       "away": {
         "name": "Borussia Mönchengladbach",
         "short": "BMG",
         "crest": "https://crests.football-data.org/18.png",
-        "score": 0
+        "score": null
       },
       "tv": {
         "known": true,
@@ -87,19 +87,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": 0
+        "score": null
       },
       "away": {
         "name": "SC Paderborn 07",
         "short": "SCP",
         "crest": "https://crests.football-data.org/29.png",
-        "score": 0
+        "score": null
       },
       "tv": {
         "known": true,
@@ -123,19 +123,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "1. FC Union Berlin",
         "short": "UNB",
         "crest": "https://crests.football-data.org/28.png",
-        "score": 3
+        "score": null
       },
       "away": {
         "name": "Eintracht Frankfurt",
         "short": "SGE",
         "crest": "https://crests.football-data.org/19.png",
-        "score": 3
+        "score": null
       },
       "tv": {
         "known": true,
@@ -159,19 +159,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "SV 07 Elversberg",
         "short": "ELV",
         "crest": "https://crests.football-data.org/719.png",
-        "score": 3
+        "score": null
       },
       "away": {
         "name": "Bayer 04 Leverkusen",
         "short": "B04",
         "crest": "https://crests.football-data.org/3.png",
-        "score": 2
+        "score": null
       },
       "tv": {
         "known": true,
@@ -195,19 +195,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "1. FC Köln",
         "short": "KOE",
         "crest": "https://crests.football-data.org/1.png",
-        "score": 3
+        "score": null
       },
       "away": {
         "name": "TSG 1899 Hoffenheim",
         "short": "TSG",
         "crest": "https://crests.football-data.org/2.png",
-        "score": 2
+        "score": null
       },
       "tv": {
         "known": true,
@@ -231,19 +231,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": 2
+        "score": null
       },
       "away": {
         "name": "Hamburger SV",
         "short": "HSV",
         "crest": "https://crests.football-data.org/7.png",
-        "score": 0
+        "score": null
       },
       "tv": {
         "known": true,
@@ -295,22 +295,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:1",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
-        },
-        "reasons": [
-          "Freiburg hat eine starke Heimform in der letzten Saison gezeigt.",
-          "Werder Bremen hat auswärts oft Probleme.",
-          "Beide Teams sind tabellarisch ähnlich, aber der Heimvorteil spricht für Freiburg."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T12:20:05.207960+00:00"
+        "available": false
       }
     },
     {
@@ -348,22 +333,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Augsburg",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Augsburg mit starker Heimform in der Vorsaison",
-          "Schalke 04 kämpft mit Auswärtsschwäche",
-          "Augsburg hat die stabilere Defensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T12:20:06.772368+00:00"
+        "available": false
       }
     },
     {
@@ -391,8 +361,7 @@
         "known": true,
         "channels": [
           "RTL",
-          "Sky",
-          "RTL+"
+          "Sky"
         ],
         "free": true,
         "note": null
@@ -401,22 +370,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Dortmund",
-        "scoreline": "0:4",
-        "confidence": 0.85,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.1,
-          "away": 0.85
-        },
-        "reasons": [
-          "Klassenunterschied (Regionalliga vs. Bundesliga)",
-          "Dortmunds höhere individuelle Qualität",
-          "Pokal-Erfahrung von Dortmund"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T12:20:08.402995+00:00"
+        "available": false
       }
     },
     {
@@ -495,8 +449,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
