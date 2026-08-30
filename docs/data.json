@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T16:06:44.142887+00:00",
+  "generatedAt": "2026-08-30T20:37:45.140034+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -51,19 +51,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "RB Leipzig",
         "short": "RBL",
         "crest": "https://crests.football-data.org/721.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Borussia Mönchengladbach",
         "short": "BMG",
         "crest": "https://crests.football-data.org/18.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -87,19 +87,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "SC Paderborn 07",
         "short": "SCP",
         "crest": "https://crests.football-data.org/29.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -123,19 +123,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Union Berlin",
         "short": "UNB",
         "crest": "https://crests.football-data.org/28.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Eintracht Frankfurt",
         "short": "SGE",
         "crest": "https://crests.football-data.org/19.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -159,19 +159,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SV 07 Elversberg",
         "short": "ELV",
         "crest": "https://crests.football-data.org/719.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Bayer 04 Leverkusen",
         "short": "B04",
         "crest": "https://crests.football-data.org/3.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -195,19 +195,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Köln",
         "short": "KOE",
         "crest": "https://crests.football-data.org/1.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "TSG 1899 Hoffenheim",
         "short": "TSG",
         "crest": "https://crests.football-data.org/2.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -231,19 +231,19 @@
       "dateLocal": "2026-08-29",
       "kickoff": "2026-08-29T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Hamburger SV",
         "short": "HSV",
         "crest": "https://crests.football-data.org/7.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -305,13 +305,13 @@
       "dateLocal": "2026-08-30",
       "kickoff": "2026-08-30T17:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Augsburg",
         "short": "FCA",
         "crest": "https://crests.football-data.org/16.png",
-        "score": 1
+        "score": 3
       },
       "away": {
         "name": "FC Schalke 04",
@@ -407,22 +407,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "1:4",
-        "confidence": 0.85,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.1,
-          "away": 0.85
-        },
-        "reasons": [
-          "Deutlicher Qualitätsunterschied im Kader",
-          "FC Bayern München ist international erfahren und hat eine höhere Spielkultur",
-          "VfL Osnabrück hat Heimvorteil, aber die individuelle Klasse der Bayern wird sich durchsetzen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T23:00:08.540947+00:00"
+        "available": false
       }
     },
     {
@@ -458,22 +443,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg VfB Stuttgart",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Stuttgart mit starker Heimform",
-          "Kölns Auswärtsschwäche",
-          "Stuttgarts Offensive übertrifft Kölns Defensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T22:59:57.474236+00:00"
+        "available": false
       }
     },
     {
@@ -511,22 +481,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg RB Leipzig",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "RB Leipzig überzeugte zuletzt mit starker Offensive",
-          "Werder Bremen zeigt sich anfällig in der Defensive",
-          "RB Leipzig hat die bessere Kaderbreite und Erfahrung"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T22:59:59.123005+00:00"
+        "available": false
       }
     },
     {
@@ -564,22 +519,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Dortmund",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "Dortmund mit stärkerem Kader und höherem Anspruch",
-          "Hoffenheim auswärts anfällig, aber zu Hause oft stark",
-          "Beide Teams mit ähnlicher Form, aber Dortmund oft in der Lage, enge Spiele zu gewinnen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T23:00:00.837171+00:00"
+        "available": false
       }
     },
     {
@@ -617,22 +557,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "3:1",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
-        },
-        "reasons": [
-          "Leverkusen überzeugte zuletzt mit starker Offensive.",
-          "Union Berlin zeigt sich auswärts anfällig.",
-          "Leverkusen hat Heimvorteil und breiteren Kader."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T23:00:02.385586+00:00"
+        "available": false
       }
     },
     {
@@ -670,22 +595,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Mönchengladbach",
-        "scoreline": "3:1",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
-        },
-        "reasons": [
-          "Gladbach hat den Heimvorteil und die höhere individuelle Qualität.",
-          "Elversberg ist Aufsteiger und hat noch Anpassungsschwierigkeiten.",
-          "Gladbachs Offensive ist stärker einzuschätzen."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T23:00:03.924306+00:00"
+        "available": false
       }
     },
     {
@@ -723,22 +633,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg SC Freiburg",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "SC Freiburg zuletzt stabiler in der Liga",
-          "SC Paderborn mit Heimschwäche in der Rückrunde",
-          "Freiburg hat die breitere und erfahrenere Kaderbreite"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T23:00:05.428517+00:00"
+        "available": false
       }
     },
     {
@@ -775,22 +670,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "0:3",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
-        },
-        "reasons": [
-          "FC Bayern München ist deutlich stärker besetzt",
-          "FC Schalke 04 kämpft um den Klassenerhalt und hat eine schwache Form",
-          "FC Bayern München hat eine starke Auswärtsbilanz"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T23:00:06.968583+00:00"
+        "available": false
       }
     },
     {
@@ -895,6 +775,654 @@
         ],
         "model": "gemini-2.5-flash-lite",
         "generatedAt": "2026-08-30T03:45:55.262365+00:00"
+      }
+    },
+    {
+      "id": "fd-575323",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-08",
+      "kickoff": "2026-09-08T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Club Brugge KV",
+        "short": "BRU",
+        "crest": "https://crests.football-data.org/851.png",
+        "score": null
+      },
+      "away": {
+        "name": "Aston Villa FC",
+        "short": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575324",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-08",
+      "kickoff": "2026-09-08T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "PAE AEK",
+        "short": "AEK",
+        "crest": "https://crests.football-data.org/1899.png",
+        "score": null
+      },
+      "away": {
+        "name": "LASK Linz",
+        "short": "LIN",
+        "crest": "https://crests.football-data.org/2016.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575325",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-08",
+      "kickoff": "2026-09-08T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Real Madrid CF",
+        "short": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Internazionale Milano",
+        "short": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575326",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-08",
+      "kickoff": "2026-09-08T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Porto",
+        "short": "FCP",
+        "crest": "https://crests.football-data.org/503.png",
+        "score": null
+      },
+      "away": {
+        "name": "Manchester City FC",
+        "short": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575327",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-08",
+      "kickoff": "2026-09-08T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "away": {
+        "name": "Villarreal CF",
+        "short": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575328",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-08",
+      "kickoff": "2026-09-08T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Lille OSC",
+        "short": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "score": null
+      },
+      "away": {
+        "name": "Real Betis Balompié",
+        "short": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575329",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-09",
+      "kickoff": "2026-09-09T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Barcelona",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "score": null
+      },
+      "away": {
+        "name": "Feyenoord Rotterdam",
+        "short": "FEY",
+        "crest": "https://crests.football-data.org/675.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575330",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-09",
+      "kickoff": "2026-09-09T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "away": {
+        "name": "Viking FK",
+        "short": "VIK",
+        "crest": "https://crests.football-data.org/5720.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575331",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-09",
+      "kickoff": "2026-09-09T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Liverpool FC",
+        "short": "LIV",
+        "crest": "https://crests.football-data.org/64.png",
+        "score": null
+      },
+      "away": {
+        "name": "Club Atlético de Madrid",
+        "short": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575332",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-09",
+      "kickoff": "2026-09-09T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Paris Saint-Germain FC",
+        "short": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "score": null
+      },
+      "away": {
+        "name": "ŠK Slovan Bratislava",
+        "short": "SBA",
+        "crest": "https://crests.football-data.org/7509.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575333",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-09",
+      "kickoff": "2026-09-09T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SSC Napoli",
+        "short": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "score": null
+      },
+      "away": {
+        "name": "Arsenal FC",
+        "short": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575334",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-09",
+      "kickoff": "2026-09-09T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Sporting Clube de Portugal",
+        "short": "SPO",
+        "crest": "https://crests.football-data.org/498.png",
+        "score": null
+      },
+      "away": {
+        "name": "Galatasaray SK",
+        "short": "GAL",
+        "crest": "https://crests.football-data.org/610.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575335",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-10",
+      "kickoff": "2026-09-10T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Fenerbahçe SK",
+        "short": "FEN",
+        "crest": "https://crests.football-data.org/613.png",
+        "score": null
+      },
+      "away": {
+        "name": "AS Roma",
+        "short": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575336",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-10",
+      "kickoff": "2026-09-10T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "PSV",
+        "short": "PSV",
+        "crest": "https://crests.football-data.org/674.png",
+        "score": null
+      },
+      "away": {
+        "name": "FK Shakhtar Donetsk",
+        "short": "SHD",
+        "crest": "https://crests.football-data.org/1887.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575337",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-10",
+      "kickoff": "2026-09-10T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "away": {
+        "name": "FK Bodø/Glimt",
+        "short": "FK",
+        "crest": "https://crests.football-data.org/5721.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575338",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-10",
+      "kickoff": "2026-09-10T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Manchester United FC",
+        "short": "MUN",
+        "crest": "https://crests.football-data.org/66.png",
+        "score": null
+      },
+      "away": {
+        "name": "Sabah FK",
+        "short": "SAB",
+        "crest": "https://crests.football-data.org/10233.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575339",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-10",
+      "kickoff": "2026-09-10T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Como 1907",
+        "short": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "score": null
+      },
+      "away": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575340",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 1. Spieltag",
+      "dateLocal": "2026-09-10",
+      "kickoff": "2026-09-10T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": null
+      },
+      "away": {
+        "name": "Racing Club de Lens",
+        "short": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
       }
     },
     {
@@ -1852,6 +2380,654 @@
       }
     },
     {
+      "id": "fd-575341",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-13",
+      "kickoff": "2026-10-13T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Racing Club de Lens",
+        "short": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "score": null
+      },
+      "away": {
+        "name": "Sporting Clube de Portugal",
+        "short": "SPO",
+        "crest": "https://crests.football-data.org/498.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575342",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-13",
+      "kickoff": "2026-10-13T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Sabah FK",
+        "short": "SAB",
+        "crest": "https://crests.football-data.org/10233.png",
+        "score": null
+      },
+      "away": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575343",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-13",
+      "kickoff": "2026-10-13T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Internazionale Milano",
+        "short": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "score": null
+      },
+      "away": {
+        "name": "Club Brugge KV",
+        "short": "BRU",
+        "crest": "https://crests.football-data.org/851.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575344",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-13",
+      "kickoff": "2026-10-13T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Galatasaray SK",
+        "short": "GAL",
+        "crest": "https://crests.football-data.org/610.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Barcelona",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575345",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-13",
+      "kickoff": "2026-10-13T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Club Atlético de Madrid",
+        "short": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "score": null
+      },
+      "away": {
+        "name": "Manchester United FC",
+        "short": "MUN",
+        "crest": "https://crests.football-data.org/66.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575346",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-13",
+      "kickoff": "2026-10-13T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Arsenal FC",
+        "short": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "score": null
+      },
+      "away": {
+        "name": "Lille OSC",
+        "short": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575347",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-13",
+      "kickoff": "2026-10-13T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Viking FK",
+        "short": "VIK",
+        "crest": "https://crests.football-data.org/5720.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575348",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-13",
+      "kickoff": "2026-10-13T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "away": {
+        "name": "PSV",
+        "short": "PSV",
+        "crest": "https://crests.football-data.org/674.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575349",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-13",
+      "kickoff": "2026-10-13T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Villarreal CF",
+        "short": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "score": null
+      },
+      "away": {
+        "name": "SSC Napoli",
+        "short": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575350",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-14",
+      "kickoff": "2026-10-14T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "LASK Linz",
+        "short": "LIN",
+        "crest": "https://crests.football-data.org/2016.png",
+        "score": null
+      },
+      "away": {
+        "name": "Liverpool FC",
+        "short": "LIV",
+        "crest": "https://crests.football-data.org/64.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575351",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-14",
+      "kickoff": "2026-10-14T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Feyenoord Rotterdam",
+        "short": "FEY",
+        "crest": "https://crests.football-data.org/675.png",
+        "score": null
+      },
+      "away": {
+        "name": "Como 1907",
+        "short": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575352",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-14",
+      "kickoff": "2026-10-14T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "AS Roma",
+        "short": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "score": null
+      },
+      "away": {
+        "name": "Real Madrid CF",
+        "short": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575353",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-14",
+      "kickoff": "2026-10-14T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Manchester City FC",
+        "short": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "score": null
+      },
+      "away": {
+        "name": "Paris Saint-Germain FC",
+        "short": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575354",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-14",
+      "kickoff": "2026-10-14T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FK Bodø/Glimt",
+        "short": "FK",
+        "crest": "https://crests.football-data.org/5721.png",
+        "score": null
+      },
+      "away": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575355",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-14",
+      "kickoff": "2026-10-14T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Aston Villa FC",
+        "short": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "score": null
+      },
+      "away": {
+        "name": "Fenerbahçe SK",
+        "short": "FEN",
+        "crest": "https://crests.football-data.org/613.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575356",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-14",
+      "kickoff": "2026-10-14T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Real Betis Balompié",
+        "short": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Porto",
+        "short": "FCP",
+        "crest": "https://crests.football-data.org/503.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575357",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-14",
+      "kickoff": "2026-10-14T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FK Shakhtar Donetsk",
+        "short": "SHD",
+        "crest": "https://crests.football-data.org/1887.png",
+        "score": null
+      },
+      "away": {
+        "name": "PAE AEK",
+        "short": "AEK",
+        "crest": "https://crests.football-data.org/1899.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575358",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 2. Spieltag",
+      "dateLocal": "2026-10-14",
+      "kickoff": "2026-10-14T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "ŠK Slovan Bratislava",
+        "short": "SBA",
+        "crest": "https://crests.football-data.org/7509.png",
+        "score": null
+      },
+      "away": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
       "id": "fd-565821",
       "competition": "Bundesliga",
       "competitionStage": "6. Spieltag",
@@ -2149,6 +3325,654 @@
         "channels": [],
         "free": false,
         "note": "Sendetermin steht noch nicht fest (i.d.R. Sky/DAZN)"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575359",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-20",
+      "kickoff": "2026-10-20T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Sabah FK",
+        "short": "SAB",
+        "crest": "https://crests.football-data.org/10233.png",
+        "score": null
+      },
+      "away": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575360",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-20",
+      "kickoff": "2026-10-20T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Fenerbahçe SK",
+        "short": "FEN",
+        "crest": "https://crests.football-data.org/613.png",
+        "score": null
+      },
+      "away": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575361",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-20",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Manchester City FC",
+        "short": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "score": null
+      },
+      "away": {
+        "name": "PAE AEK",
+        "short": "AEK",
+        "crest": "https://crests.football-data.org/1899.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575362",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-20",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "away": {
+        "name": "Club Atlético de Madrid",
+        "short": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575363",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-20",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Liverpool FC",
+        "short": "LIV",
+        "crest": "https://crests.football-data.org/64.png",
+        "score": null
+      },
+      "away": {
+        "name": "Villarreal CF",
+        "short": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575364",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-20",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "AS Roma",
+        "short": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "score": null
+      },
+      "away": {
+        "name": "ŠK Slovan Bratislava",
+        "short": "SBA",
+        "crest": "https://crests.football-data.org/7509.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575365",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-20",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Porto",
+        "short": "FCP",
+        "crest": "https://crests.football-data.org/503.png",
+        "score": null
+      },
+      "away": {
+        "name": "PSV",
+        "short": "PSV",
+        "crest": "https://crests.football-data.org/674.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575366",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-20",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SSC Napoli",
+        "short": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "score": null
+      },
+      "away": {
+        "name": "FK Bodø/Glimt",
+        "short": "FK",
+        "crest": "https://crests.football-data.org/5721.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575367",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-20",
+      "kickoff": "2026-10-20T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Paris Saint-Germain FC",
+        "short": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Barcelona",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575368",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-21",
+      "kickoff": "2026-10-21T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Como 1907",
+        "short": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "score": null
+      },
+      "away": {
+        "name": "Manchester United FC",
+        "short": "MUN",
+        "crest": "https://crests.football-data.org/66.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575369",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-21",
+      "kickoff": "2026-10-21T18:45:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Lille OSC",
+        "short": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "score": null
+      },
+      "away": {
+        "name": "Galatasaray SK",
+        "short": "GAL",
+        "crest": "https://crests.football-data.org/610.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575370",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-21",
+      "kickoff": "2026-10-21T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Real Madrid CF",
+        "short": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "score": null
+      },
+      "away": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575371",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-21",
+      "kickoff": "2026-10-21T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Internazionale Milano",
+        "short": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "score": null
+      },
+      "away": {
+        "name": "FK Shakhtar Donetsk",
+        "short": "SHD",
+        "crest": "https://crests.football-data.org/1887.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575372",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-21",
+      "kickoff": "2026-10-21T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "away": {
+        "name": "Arsenal FC",
+        "short": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575373",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-21",
+      "kickoff": "2026-10-21T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Club Brugge KV",
+        "short": "BRU",
+        "crest": "https://crests.football-data.org/851.png",
+        "score": null
+      },
+      "away": {
+        "name": "Racing Club de Lens",
+        "short": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575374",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-21",
+      "kickoff": "2026-10-21T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Aston Villa FC",
+        "short": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "score": null
+      },
+      "away": {
+        "name": "Viking FK",
+        "short": "VIK",
+        "crest": "https://crests.football-data.org/5720.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575375",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-21",
+      "kickoff": "2026-10-21T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Sporting Clube de Portugal",
+        "short": "SPO",
+        "crest": "https://crests.football-data.org/498.png",
+        "score": null
+      },
+      "away": {
+        "name": "LASK Linz",
+        "short": "LIN",
+        "crest": "https://crests.football-data.org/2016.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575376",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 3. Spieltag",
+      "dateLocal": "2026-10-21",
+      "kickoff": "2026-10-21T21:00:00+02:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Real Betis Balompié",
+        "short": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "score": null
+      },
+      "away": {
+        "name": "Feyenoord Rotterdam",
+        "short": "FEY",
+        "crest": "https://crests.football-data.org/675.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -2770,6 +4594,654 @@
       }
     },
     {
+      "id": "fd-575377",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-03",
+      "kickoff": "2026-11-03T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FK Shakhtar Donetsk",
+        "short": "SHD",
+        "crest": "https://crests.football-data.org/1887.png",
+        "score": null
+      },
+      "away": {
+        "name": "Sporting Clube de Portugal",
+        "short": "SPO",
+        "crest": "https://crests.football-data.org/498.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575378",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-03",
+      "kickoff": "2026-11-03T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Galatasaray SK",
+        "short": "GAL",
+        "crest": "https://crests.football-data.org/610.png",
+        "score": null
+      },
+      "away": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575379",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-03",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Feyenoord Rotterdam",
+        "short": "FEY",
+        "crest": "https://crests.football-data.org/675.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Internazionale Milano",
+        "short": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575380",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-03",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Barcelona",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "score": null
+      },
+      "away": {
+        "name": "Aston Villa FC",
+        "short": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575381",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-03",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Club Atlético de Madrid",
+        "short": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575382",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-03",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Villarreal CF",
+        "short": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "score": null
+      },
+      "away": {
+        "name": "Paris Saint-Germain FC",
+        "short": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575383",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-03",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Manchester United FC",
+        "short": "MUN",
+        "crest": "https://crests.football-data.org/66.png",
+        "score": null
+      },
+      "away": {
+        "name": "AS Roma",
+        "short": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575384",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-03",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FK Bodø/Glimt",
+        "short": "FK",
+        "crest": "https://crests.football-data.org/5721.png",
+        "score": null
+      },
+      "away": {
+        "name": "Lille OSC",
+        "short": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575385",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-03",
+      "kickoff": "2026-11-03T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "LASK Linz",
+        "short": "LIN",
+        "crest": "https://crests.football-data.org/2016.png",
+        "score": null
+      },
+      "away": {
+        "name": "ŠK Slovan Bratislava",
+        "short": "SBA",
+        "crest": "https://crests.football-data.org/7509.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575386",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "PAE AEK",
+        "short": "AEK",
+        "crest": "https://crests.football-data.org/1899.png",
+        "score": null
+      },
+      "away": {
+        "name": "Real Madrid CF",
+        "short": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575387",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Fenerbahçe SK",
+        "short": "FEN",
+        "crest": "https://crests.football-data.org/613.png",
+        "score": null
+      },
+      "away": {
+        "name": "Liverpool FC",
+        "short": "LIV",
+        "crest": "https://crests.football-data.org/64.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575388",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "away": {
+        "name": "Manchester City FC",
+        "short": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575389",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": null
+      },
+      "away": {
+        "name": "Arsenal FC",
+        "short": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575390",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "PSV",
+        "short": "PSV",
+        "crest": "https://crests.football-data.org/674.png",
+        "score": null
+      },
+      "away": {
+        "name": "Club Brugge KV",
+        "short": "BRU",
+        "crest": "https://crests.football-data.org/851.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575391",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "away": {
+        "name": "Real Betis Balompié",
+        "short": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575392",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Porto",
+        "short": "FCP",
+        "crest": "https://crests.football-data.org/503.png",
+        "score": null
+      },
+      "away": {
+        "name": "SSC Napoli",
+        "short": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575393",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Racing Club de Lens",
+        "short": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "score": null
+      },
+      "away": {
+        "name": "Como 1907",
+        "short": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575394",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Viking FK",
+        "short": "VIK",
+        "crest": "https://crests.football-data.org/5720.png",
+        "score": null
+      },
+      "away": {
+        "name": "Sabah FK",
+        "short": "SAB",
+        "crest": "https://crests.football-data.org/10233.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
       "id": "fd-565848",
       "competition": "Bundesliga",
       "competitionStage": "9. Spieltag",
@@ -3382,6 +5854,654 @@
       }
     },
     {
+      "id": "fd-575395",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-24",
+      "kickoff": "2026-11-24T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Galatasaray SK",
+        "short": "GAL",
+        "crest": "https://crests.football-data.org/610.png",
+        "score": null
+      },
+      "away": {
+        "name": "Aston Villa FC",
+        "short": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575396",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-24",
+      "kickoff": "2026-11-24T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FK Bodø/Glimt",
+        "short": "FK",
+        "crest": "https://crests.football-data.org/5721.png",
+        "score": null
+      },
+      "away": {
+        "name": "LASK Linz",
+        "short": "LIN",
+        "crest": "https://crests.football-data.org/2016.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575397",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-24",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Real Madrid CF",
+        "short": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "score": null
+      },
+      "away": {
+        "name": "PSV",
+        "short": "PSV",
+        "crest": "https://crests.football-data.org/674.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575398",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-24",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Manchester City FC",
+        "short": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "score": null
+      },
+      "away": {
+        "name": "SSC Napoli",
+        "short": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575399",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-24",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Arsenal FC",
+        "short": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "score": null
+      },
+      "away": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575400",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-24",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Feyenoord Rotterdam",
+        "short": "FEY",
+        "crest": "https://crests.football-data.org/675.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Porto",
+        "short": "FCP",
+        "crest": "https://crests.football-data.org/503.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575401",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-24",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "ŠK Slovan Bratislava",
+        "short": "SBA",
+        "crest": "https://crests.football-data.org/7509.png",
+        "score": null
+      },
+      "away": {
+        "name": "Real Betis Balompié",
+        "short": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575402",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-24",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "away": {
+        "name": "Racing Club de Lens",
+        "short": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575403",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-24",
+      "kickoff": "2026-11-24T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Como 1907",
+        "short": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "score": null
+      },
+      "away": {
+        "name": "PAE AEK",
+        "short": "AEK",
+        "crest": "https://crests.football-data.org/1899.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575404",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Sabah FK",
+        "short": "SAB",
+        "crest": "https://crests.football-data.org/10233.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Barcelona",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575405",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": null
+      },
+      "away": {
+        "name": "Villarreal CF",
+        "short": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575406",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Internazionale Milano",
+        "short": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "score": null
+      },
+      "away": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575407",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Club Atlético de Madrid",
+        "short": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "score": null
+      },
+      "away": {
+        "name": "Viking FK",
+        "short": "VIK",
+        "crest": "https://crests.football-data.org/5720.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575408",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Paris Saint-Germain FC",
+        "short": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "score": null
+      },
+      "away": {
+        "name": "AS Roma",
+        "short": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575409",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Club Brugge KV",
+        "short": "BRU",
+        "crest": "https://crests.football-data.org/851.png",
+        "score": null
+      },
+      "away": {
+        "name": "Liverpool FC",
+        "short": "LIV",
+        "crest": "https://crests.football-data.org/64.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575410",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Lille OSC",
+        "short": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575411",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Sporting Clube de Portugal",
+        "short": "SPO",
+        "crest": "https://crests.football-data.org/498.png",
+        "score": null
+      },
+      "away": {
+        "name": "Manchester United FC",
+        "short": "MUN",
+        "crest": "https://crests.football-data.org/66.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575412",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FK Shakhtar Donetsk",
+        "short": "SHD",
+        "crest": "https://crests.football-data.org/1887.png",
+        "score": null
+      },
+      "away": {
+        "name": "Fenerbahçe SK",
+        "short": "FEN",
+        "crest": "https://crests.football-data.org/613.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
       "id": "fd-565866",
       "competition": "Bundesliga",
       "competitionStage": "11. Spieltag",
@@ -3985,6 +7105,654 @@
         "channels": [],
         "free": false,
         "note": "Sendetermin steht noch nicht fest (i.d.R. Sky/DAZN)"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575413",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-08",
+      "kickoff": "2026-12-08T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Villarreal CF",
+        "short": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "score": null
+      },
+      "away": {
+        "name": "Sabah FK",
+        "short": "SAB",
+        "crest": "https://crests.football-data.org/10233.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575414",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-08",
+      "kickoff": "2026-12-08T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Viking FK",
+        "short": "VIK",
+        "crest": "https://crests.football-data.org/5720.png",
+        "score": null
+      },
+      "away": {
+        "name": "Feyenoord Rotterdam",
+        "short": "FEY",
+        "crest": "https://crests.football-data.org/675.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575415",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-08",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Barcelona",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "score": null
+      },
+      "away": {
+        "name": "Manchester City FC",
+        "short": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575416",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-08",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Aston Villa FC",
+        "short": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "score": null
+      },
+      "away": {
+        "name": "Paris Saint-Germain FC",
+        "short": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575417",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-08",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "away": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575418",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-08",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SSC Napoli",
+        "short": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "score": null
+      },
+      "away": {
+        "name": "Club Brugge KV",
+        "short": "BRU",
+        "crest": "https://crests.football-data.org/851.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575419",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-08",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "AS Roma",
+        "short": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "score": null
+      },
+      "away": {
+        "name": "Sporting Clube de Portugal",
+        "short": "SPO",
+        "crest": "https://crests.football-data.org/498.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575420",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-08",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Manchester United FC",
+        "short": "MUN",
+        "crest": "https://crests.football-data.org/66.png",
+        "score": null
+      },
+      "away": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575421",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-08",
+      "kickoff": "2026-12-08T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "PAE AEK",
+        "short": "AEK",
+        "crest": "https://crests.football-data.org/1899.png",
+        "score": null
+      },
+      "away": {
+        "name": "Galatasaray SK",
+        "short": "GAL",
+        "crest": "https://crests.football-data.org/610.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575422",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-09",
+      "kickoff": "2026-12-09T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Real Betis Balompié",
+        "short": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "score": null
+      },
+      "away": {
+        "name": "Como 1907",
+        "short": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575423",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-09",
+      "kickoff": "2026-12-09T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "ŠK Slovan Bratislava",
+        "short": "SBA",
+        "crest": "https://crests.football-data.org/7509.png",
+        "score": null
+      },
+      "away": {
+        "name": "FK Shakhtar Donetsk",
+        "short": "SHD",
+        "crest": "https://crests.football-data.org/1887.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575280",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-09",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Arsenal FC",
+        "short": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "score": null
+      },
+      "away": {
+        "name": "Real Madrid CF",
+        "short": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575286",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-09",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Internazionale Milano",
+        "short": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575290",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-09",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "PSV",
+        "short": "PSV",
+        "crest": "https://crests.football-data.org/674.png",
+        "score": null
+      },
+      "away": {
+        "name": "Club Atlético de Madrid",
+        "short": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575295",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-09",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Liverpool FC",
+        "short": "LIV",
+        "crest": "https://crests.football-data.org/64.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Porto",
+        "short": "FCP",
+        "crest": "https://crests.football-data.org/503.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575315",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-09",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Racing Club de Lens",
+        "short": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "score": null
+      },
+      "away": {
+        "name": "FK Bodø/Glimt",
+        "short": "FK",
+        "crest": "https://crests.football-data.org/5721.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575317",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-09",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "LASK Linz",
+        "short": "LIN",
+        "crest": "https://crests.football-data.org/2016.png",
+        "score": null
+      },
+      "away": {
+        "name": "Fenerbahçe SK",
+        "short": "FEN",
+        "crest": "https://crests.football-data.org/613.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575322",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 6. Spieltag",
+      "dateLocal": "2026-12-09",
+      "kickoff": "2026-12-09T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "away": {
+        "name": "Lille OSC",
+        "short": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -5524,6 +9292,654 @@
       }
     },
     {
+      "id": "fd-575292",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-19",
+      "kickoff": "2027-01-19T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FK Bodø/Glimt",
+        "short": "FK",
+        "crest": "https://crests.football-data.org/5721.png",
+        "score": null
+      },
+      "away": {
+        "name": "Club Atlético de Madrid",
+        "short": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575318",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-19",
+      "kickoff": "2027-01-19T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Galatasaray SK",
+        "short": "GAL",
+        "crest": "https://crests.football-data.org/610.png",
+        "score": null
+      },
+      "away": {
+        "name": "Feyenoord Rotterdam",
+        "short": "FEY",
+        "crest": "https://crests.football-data.org/675.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575282",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-19",
+      "kickoff": "2027-01-19T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Real Madrid CF",
+        "short": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "score": null
+      },
+      "away": {
+        "name": "LASK Linz",
+        "short": "LIN",
+        "crest": "https://crests.football-data.org/2016.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575285",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-19",
+      "kickoff": "2027-01-19T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Internazionale Milano",
+        "short": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "score": null
+      },
+      "away": {
+        "name": "Liverpool FC",
+        "short": "LIV",
+        "crest": "https://crests.football-data.org/64.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575302",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-19",
+      "kickoff": "2027-01-19T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "away": {
+        "name": "Club Brugge KV",
+        "short": "BRU",
+        "crest": "https://crests.football-data.org/851.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575303",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-19",
+      "kickoff": "2027-01-19T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Aston Villa FC",
+        "short": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "score": null
+      },
+      "away": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575307",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-19",
+      "kickoff": "2027-01-19T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "PAE AEK",
+        "short": "AEK",
+        "crest": "https://crests.football-data.org/1899.png",
+        "score": null
+      },
+      "away": {
+        "name": "AS Roma",
+        "short": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575308",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-19",
+      "kickoff": "2027-01-19T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Porto",
+        "short": "FCP",
+        "crest": "https://crests.football-data.org/503.png",
+        "score": null
+      },
+      "away": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575321",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-19",
+      "kickoff": "2027-01-19T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Lille OSC",
+        "short": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "score": null
+      },
+      "away": {
+        "name": "ŠK Slovan Bratislava",
+        "short": "SBA",
+        "crest": "https://crests.football-data.org/7509.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575314",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-20",
+      "kickoff": "2027-01-20T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Fenerbahçe SK",
+        "short": "FEN",
+        "crest": "https://crests.football-data.org/613.png",
+        "score": null
+      },
+      "away": {
+        "name": "Villarreal CF",
+        "short": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575320",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-20",
+      "kickoff": "2027-01-20T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Sabah FK",
+        "short": "SAB",
+        "crest": "https://crests.football-data.org/10233.png",
+        "score": null
+      },
+      "away": {
+        "name": "SSC Napoli",
+        "short": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575284",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-20",
+      "kickoff": "2027-01-20T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Racing Club de Lens",
+        "short": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "score": null
+      },
+      "away": {
+        "name": "Manchester City FC",
+        "short": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575288",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-20",
+      "kickoff": "2027-01-20T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Sporting Clube de Portugal",
+        "short": "SPO",
+        "crest": "https://crests.football-data.org/498.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Barcelona",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575294",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-20",
+      "kickoff": "2027-01-20T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Como 1907",
+        "short": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "score": null
+      },
+      "away": {
+        "name": "Paris Saint-Germain FC",
+        "short": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575297",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-20",
+      "kickoff": "2027-01-20T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Real Betis Balompié",
+        "short": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "score": null
+      },
+      "away": {
+        "name": "Arsenal FC",
+        "short": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575300",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-20",
+      "kickoff": "2027-01-20T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Manchester United FC",
+        "short": "MUN",
+        "crest": "https://crests.football-data.org/66.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575312",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-20",
+      "kickoff": "2027-01-20T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Viking FK",
+        "short": "VIK",
+        "crest": "https://crests.football-data.org/5720.png",
+        "score": null
+      },
+      "away": {
+        "name": "PSV",
+        "short": "PSV",
+        "crest": "https://crests.football-data.org/674.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575313",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 7. Spieltag",
+      "dateLocal": "2027-01-20",
+      "kickoff": "2027-01-20T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "away": {
+        "name": "FK Shakhtar Donetsk",
+        "short": "SHD",
+        "crest": "https://crests.football-data.org/1887.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
       "id": "fd-565929",
       "competition": "Bundesliga",
       "competitionStage": "18. Spieltag",
@@ -5821,6 +10237,654 @@
         "channels": [],
         "free": false,
         "note": "Sendetermin steht noch nicht fest (i.d.R. Sky/DAZN)"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575281",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FK Shakhtar Donetsk",
+        "short": "SHD",
+        "crest": "https://crests.football-data.org/1887.png",
+        "score": null
+      },
+      "away": {
+        "name": "Real Madrid CF",
+        "short": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575283",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Manchester City FC",
+        "short": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "score": null
+      },
+      "away": {
+        "name": "Sporting Clube de Portugal",
+        "short": "SPO",
+        "crest": "https://crests.football-data.org/498.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575287",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "ŠK Slovan Bratislava",
+        "short": "SBA",
+        "crest": "https://crests.football-data.org/7509.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Internazionale Milano",
+        "short": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575289",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Barcelona",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "score": null
+      },
+      "away": {
+        "name": "Como 1907",
+        "short": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575291",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Club Atlético de Madrid",
+        "short": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "score": null
+      },
+      "away": {
+        "name": "Fenerbahçe SK",
+        "short": "FEN",
+        "crest": "https://crests.football-data.org/613.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575293",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Paris Saint-Germain FC",
+        "short": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "score": null
+      },
+      "away": {
+        "name": "Galatasaray SK",
+        "short": "GAL",
+        "crest": "https://crests.football-data.org/610.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575296",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Liverpool FC",
+        "short": "LIV",
+        "crest": "https://crests.football-data.org/64.png",
+        "score": null
+      },
+      "away": {
+        "name": "Racing Club de Lens",
+        "short": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575298",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Arsenal FC",
+        "short": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "score": null
+      },
+      "away": {
+        "name": "Sabah FK",
+        "short": "SAB",
+        "crest": "https://crests.football-data.org/10233.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575299",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "FC Bayern München",
+        "short": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "score": null
+      },
+      "away": {
+        "name": "Real Betis Balompié",
+        "short": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575301",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Club Brugge KV",
+        "short": "BRU",
+        "crest": "https://crests.football-data.org/851.png",
+        "score": null
+      },
+      "away": {
+        "name": "FK Bodø/Glimt",
+        "short": "FK",
+        "crest": "https://crests.football-data.org/5721.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575304",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Borussia Dortmund",
+        "short": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "score": null
+      },
+      "away": {
+        "name": "PAE AEK",
+        "short": "AEK",
+        "crest": "https://crests.football-data.org/1899.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575305",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": null
+      },
+      "away": {
+        "name": "Aston Villa FC",
+        "short": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575306",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "AS Roma",
+        "short": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "score": null
+      },
+      "away": {
+        "name": "Lille OSC",
+        "short": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575309",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "LASK Linz",
+        "short": "LIN",
+        "crest": "https://crests.football-data.org/2016.png",
+        "score": null
+      },
+      "away": {
+        "name": "FC Porto",
+        "short": "FCP",
+        "crest": "https://crests.football-data.org/503.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575310",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Villarreal CF",
+        "short": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "score": null
+      },
+      "away": {
+        "name": "Manchester United FC",
+        "short": "MUN",
+        "crest": "https://crests.football-data.org/66.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575311",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "PSV",
+        "short": "PSV",
+        "crest": "https://crests.football-data.org/674.png",
+        "score": null
+      },
+      "away": {
+        "name": "VfB Stuttgart",
+        "short": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575316",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Feyenoord Rotterdam",
+        "short": "FEY",
+        "crest": "https://crests.football-data.org/675.png",
+        "score": null
+      },
+      "away": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575319",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 8. Spieltag",
+      "dateLocal": "2027-01-27",
+      "kickoff": "2027-01-27T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "SSC Napoli",
+        "short": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "score": null
+      },
+      "away": {
+        "name": "Viking FK",
+        "short": "VIK",
+        "crest": "https://crests.football-data.org/5720.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
