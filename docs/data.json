@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T23:00:09.541335+00:00",
+  "generatedAt": "2026-08-30T03:45:56.262786+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -68,12 +68,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "RTL",
-          "DAZN 1",
           "Sky"
         ],
-        "free": true,
-        "note": null
+        "free": false,
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -106,12 +104,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -144,12 +140,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -182,12 +176,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -220,12 +212,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -258,8 +248,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -895,12 +884,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Hamburger SV mit starkem Saisonstart und Heimvorteil",
-          "Mainz 05 noch in der Findungsphase",
-          "HSV hat die bessere Kaderbreite und Form"
+          "Hamburger SV mit starkem Heimvorteil und positiver Formkurve",
+          "Mainz 05 hat Auswärtsschwächen und Verletzungssorgen",
+          "Beide Teams sind tabellarisch nah beieinander, HSV hat leichte Vorteile durch Heimspiel"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T05:43:54.770031+00:00"
+        "generatedAt": "2026-08-30T03:45:53.561746+00:00"
       }
     },
     {
@@ -939,7 +928,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "2:0",
+        "scoreline": "2:1",
         "confidence": 0.6,
         "probs": {
           "home": 0.6,
@@ -947,12 +936,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Frankfurt mit starkem Heimvorteil",
-          "Augsburg in schwacher Verfassung auswärts",
-          "Frankfurt hat die bessere Kaderbreite und Form"
+          "Frankfurt mit starkem Heimvorteil und positiver Bilanz gegen Augsburg.",
+          "Augsburgs Auswärtsform ist oft schwankend.",
+          "Frankfurt hat tendenziell die individuell stärkere Mannschaft."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-29T05:43:56.288700+00:00"
+        "generatedAt": "2026-08-30T03:45:55.262365+00:00"
       }
     },
     {
