@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T23:13:23.810837+00:00",
+  "generatedAt": "2026-08-31T03:49:56.736933+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -284,9 +284,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -322,9 +320,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -707,22 +703,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Hamburger SV",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Hamburger SV mit starkem Heimvorteil und positiver Formkurve",
-          "Mainz 05 hat Auswärtsschwächen und Verletzungssorgen",
-          "Beide Teams sind tabellarisch nah beieinander, HSV hat leichte Vorteile durch Heimspiel"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-30T03:45:53.561746+00:00"
+        "available": false
       }
     },
     {
@@ -759,22 +740,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "2:1",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Frankfurt mit starkem Heimvorteil und positiver Bilanz gegen Augsburg.",
-          "Augsburgs Auswärtsform ist oft schwankend.",
-          "Frankfurt hat tendenziell die individuell stärkere Mannschaft."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-08-30T03:45:55.262365+00:00"
+        "available": false
       }
     },
     {
@@ -1020,7 +986,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1056,7 +1022,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1128,7 +1094,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1200,7 +1166,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
