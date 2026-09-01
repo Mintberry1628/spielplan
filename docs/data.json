@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:40:07.382142+00:00",
+  "generatedAt": "2026-09-01T00:24:14.527848+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,42 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565776",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-28",
-      "kickoff": "2026-08-28T20:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Bayern München",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "score": 5
-      },
-      "away": {
-        "name": "VfB Stuttgart",
-        "short": "VFB",
-        "crest": "https://crests.football-data.org/10.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565777",
       "competition": "Bundesliga",
@@ -1247,7 +1211,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Barcelona",
+        "scoreline": "3:1",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.2,
+          "away": 0.15
+        },
+        "reasons": [
+          "FC Barcelona ist in besserer Form und hat eine stärkere Offensive.",
+          "Feyenoord hat auswärts oft Schwierigkeiten gegen Top-Teams.",
+          "Der Heimvorteil im Camp Nou ist signifikant."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-01T00:24:05.352057+00:00"
       }
     },
     {
@@ -1283,7 +1262,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Stuttgart mit starker Heimbilanz",
+          "Viking FK schwächelt auswärts",
+          "Stuttgart ist in besserer Verfassung"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-01T00:24:06.966625+00:00"
       }
     },
     {
@@ -1319,7 +1313,23 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Liverpool FC",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Liverpool ist zu Hause stark und hat eine gute Champions League Historie.",
+          "Atlético Madrid ist defensiv solide, aber offensiv oft ausrechenbar.",
+          "Beide Teams haben eine gute Form, aber Liverpool hat den Heimvorteil.",
+          "Verletzungssorgen bei Atlético könnten eine Rolle spielen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-01T00:24:08.692663+00:00"
       }
     },
     {
@@ -1355,7 +1365,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Paris Saint-Germain FC",
+        "scoreline": "3:0",
+        "confidence": 0.8,
+        "probs": {
+          "home": 0.8,
+          "draw": 0.15,
+          "away": 0.05
+        },
+        "reasons": [
+          "PSG hat deutlich höhere individuelle Qualität",
+          "Slovan Bratislava ist international unerfahren",
+          "PSG hat Heimvorteil und ist Favorit in der Gruppe"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-01T00:24:10.285721+00:00"
       }
     },
     {
@@ -1391,7 +1416,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Arsenal FC",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.35,
+          "draw": 0.25,
+          "away": 0.4
+        },
+        "reasons": [
+          "Arsenal zeigt aktuell bessere Form",
+          "Napoli hat Heimvorteil, aber Arsenal ist auswärtsstark",
+          "Beide Teams sind offensiv ausgerichtet, was zu Toren führen kann"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-01T00:24:11.905601+00:00"
       }
     },
     {
@@ -1427,7 +1467,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Sporting CP",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Sporting CP mit starker Heimbilanz in europäischen Wettbewerben",
+          "Galatasaray kämpft auswärts oft mit der Defensive",
+          "Beide Teams sind offensiv ausgerichtet, was zu Toren führen kann"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-01T00:24:13.527340+00:00"
       }
     },
     {
@@ -1457,7 +1512,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1493,7 +1548,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1529,7 +1584,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1565,7 +1620,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1601,7 +1656,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
