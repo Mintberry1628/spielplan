@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:10:01.209468+00:00",
+  "generatedAt": "2026-09-01T23:02:13.866772+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -303,19 +303,19 @@
       "dateLocal": "2026-09-01",
       "kickoff": "2026-09-01T20:45:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Hamburg Eimsbütteler BC",
         "short": "Hamburg Eimsbütteler BC",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/9/98/HEBC_Logo.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Borussia Dortmund",
         "short": "Dortmund",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
-        "score": null
+        "score": 5
       },
       "tv": {
         "known": true,
@@ -330,22 +330,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Dortmund",
-        "scoreline": "0:4",
-        "confidence": 0.85,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.1,
-          "away": 0.85
-        },
-        "reasons": [
-          "Großer Qualitätsunterschied zwischen den Teams",
-          "Dortmund ist im DFB-Pokal traditionell stark",
-          "Eimsbütteler BC ist Amateurverein, Dortmund Profi"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T13:56:57.833716+00:00"
+        "available": false
       }
     },
     {
@@ -1213,20 +1198,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Barcelona",
-        "scoreline": "3:1",
+        "scoreline": "2:0",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
+          "draw": 0.25,
+          "away": 0.1
         },
         "reasons": [
-          "FC Barcelona ist in besserer Form und hat eine stärkere Offensive.",
-          "Feyenoord hat auswärts oft Schwierigkeiten gegen Top-Teams.",
-          "Der Heimvorteil im Camp Nou ist signifikant."
+          "FC Barcelona hat Heimvorteil und eine starke Offensive.",
+          "Feyenoord Rotterdam fehlt es an internationaler Erfahrung.",
+          "Barcelona ist in besserer Verfassung und hat die qualitativ stärkere Mannschaft."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T00:24:05.352057+00:00"
+        "generatedAt": "2026-09-01T23:02:04.813802+00:00"
       }
     },
     {
@@ -1265,19 +1250,19 @@
         "available": true,
         "outcome": "Sieg VfB Stuttgart",
         "scoreline": "2:0",
-        "confidence": 0.6,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.6,
+          "home": 0.65,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.1
         },
         "reasons": [
-          "Stuttgart mit starker Heimbilanz",
-          "Viking FK schwächelt auswärts",
-          "Stuttgart ist in besserer Verfassung"
+          "Stuttgart mit starker Heimbilanz in der Liga",
+          "Viking FK mit Problemen in der Fremde",
+          "VfB Stuttgart in besserer Verfassung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T00:24:06.966625+00:00"
+        "generatedAt": "2026-09-01T23:02:06.412487+00:00"
       }
     },
     {
@@ -1323,13 +1308,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Liverpool ist zu Hause stark und hat eine gute Champions League Historie.",
-          "Atlético Madrid ist defensiv solide, aber offensiv oft ausrechenbar.",
-          "Beide Teams haben eine gute Form, aber Liverpool hat den Heimvorteil.",
-          "Verletzungssorgen bei Atlético könnten eine Rolle spielen."
+          "Liverpool FC hat Heimvorteil",
+          "Club Atlético de Madrid zuletzt inkonsistent",
+          "Liverpool FC hat eine stärkere Offensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T00:24:08.692663+00:00"
+        "generatedAt": "2026-09-01T23:02:07.911318+00:00"
       }
     },
     {
@@ -1375,12 +1359,12 @@
           "away": 0.05
         },
         "reasons": [
-          "PSG hat deutlich höhere individuelle Qualität",
-          "Slovan Bratislava ist international unerfahren",
-          "PSG hat Heimvorteil und ist Favorit in der Gruppe"
+          "PSG mit deutlich stärkerem Kader",
+          "Slovan Bratislava hat Heimstärke nicht",
+          "PSG hat Heimvorteil in Paris"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T00:24:10.285721+00:00"
+        "generatedAt": "2026-09-01T23:02:09.507554+00:00"
       }
     },
     {
@@ -1421,17 +1405,17 @@
         "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.35,
-          "draw": 0.25,
+          "home": 0.3,
+          "draw": 0.3,
           "away": 0.4
         },
         "reasons": [
-          "Arsenal zeigt aktuell bessere Form",
-          "Napoli hat Heimvorteil, aber Arsenal ist auswärtsstark",
-          "Beide Teams sind offensiv ausgerichtet, was zu Toren führen kann"
+          "Arsenal FC in besserer Verfassung",
+          "SSC Napoli mit wichtigeren Ausfällen",
+          "Arsenal FC hat die bessere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T00:24:11.905601+00:00"
+        "generatedAt": "2026-09-01T23:02:11.206940+00:00"
       }
     },
     {
@@ -1469,20 +1453,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Sporting CP",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Sporting CP mit starker Heimbilanz in europäischen Wettbewerben",
-          "Galatasaray kämpft auswärts oft mit der Defensive",
-          "Beide Teams sind offensiv ausgerichtet, was zu Toren führen kann"
+          "Sporting CP mit starker Heimform in der Liga",
+          "Galatasaray hatte zuletzt Auswärtsschwächen",
+          "Sporting CP hat die breitere Kaderbreite für die Doppelbelastung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T00:24:13.527340+00:00"
+        "generatedAt": "2026-09-01T23:02:12.866190+00:00"
       }
     },
     {
