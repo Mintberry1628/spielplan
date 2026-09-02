@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T23:02:13.866772+00:00",
+  "generatedAt": "2026-09-02T02:59:41.803021+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,222 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565777",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-29",
-      "kickoff": "2026-08-29T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "RB Leipzig",
-        "short": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "score": 3
-      },
-      "away": {
-        "name": "Borussia Mönchengladbach",
-        "short": "BMG",
-        "crest": "https://crests.football-data.org/18.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565778",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-29",
-      "kickoff": "2026-08-29T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "1. FSV Mainz 05",
-        "short": "M05",
-        "crest": "https://crests.football-data.org/15.png",
-        "score": 0
-      },
-      "away": {
-        "name": "SC Paderborn 07",
-        "short": "SCP",
-        "crest": "https://crests.football-data.org/29.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565779",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-29",
-      "kickoff": "2026-08-29T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "1. FC Union Berlin",
-        "short": "UNB",
-        "crest": "https://crests.football-data.org/28.png",
-        "score": 3
-      },
-      "away": {
-        "name": "Eintracht Frankfurt",
-        "short": "SGE",
-        "crest": "https://crests.football-data.org/19.png",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565780",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-29",
-      "kickoff": "2026-08-29T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SV 07 Elversberg",
-        "short": "ELV",
-        "crest": "https://crests.football-data.org/719.png",
-        "score": 3
-      },
-      "away": {
-        "name": "Bayer 04 Leverkusen",
-        "short": "B04",
-        "crest": "https://crests.football-data.org/3.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565783",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-29",
-      "kickoff": "2026-08-29T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "1. FC Köln",
-        "short": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "score": 3
-      },
-      "away": {
-        "name": "TSG 1899 Hoffenheim",
-        "short": "TSG",
-        "crest": "https://crests.football-data.org/2.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565781",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-29",
-      "kickoff": "2026-08-29T18:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Borussia Dortmund",
-        "short": "BVB",
-        "crest": "https://crests.football-data.org/4.png",
-        "score": 2
-      },
-      "away": {
-        "name": "Hamburger SV",
-        "short": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565784",
       "competition": "Bundesliga",
@@ -320,11 +104,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "RTL",
           "Sky"
         ],
-        "free": true,
-        "note": null
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -1502,7 +1285,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Fenerbahçe SK",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Fenerbahçe SK hat eine starke Heimform in der heimischen Liga.",
+          "AS Roma zeigt Schwächen in der Defensive bei Auswärtsspielen.",
+          "Beide Teams sind offensivstark, aber Fenerbahçe SK hat den Heimvorteil auf seiner Seite."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-02T02:59:34.461890+00:00"
       }
     },
     {
@@ -1538,7 +1336,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg PSV",
+        "scoreline": "2:0",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
+        },
+        "reasons": [
+          "PSV hat Heimvorteil in der Champions League",
+          "PSV ist in guter Form und hat eine offensivstarke Mannschaft",
+          "Shakhtar Donetsk hat zuletzt schwankende Leistungen gezeigt und ist auswärts oft anfällig"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-02T02:59:36.058243+00:00"
       }
     },
     {
@@ -1610,7 +1423,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Manchester United FC",
+        "scoreline": "3:0",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Manchester United ist klarer Favorit gegen den Underdog Sabah FK",
+          "Heimvorteil im Old Trafford",
+          "Sabah FK hat geringere internationale Erfahrung"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-02T02:59:37.587224+00:00"
       }
     },
     {
@@ -1646,7 +1474,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
+        },
+        "reasons": [
+          "RB Leipzig mit stärkerer Kaderbreite und internationaler Erfahrung",
+          "Como 1907 hat Heimvorteil, aber Leipzig ist auswärtsstark",
+          "Leipzig ist in besserer Verfassung und hat mehr individuelle Klasse"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-02T02:59:39.202133+00:00"
       }
     },
     {
@@ -1682,7 +1525,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Slavia Praha",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Slavia Prag mit starker Heimform in der Liga",
+          "Lens hat Auswärtsprobleme in Europa",
+          "Slavia Prag hat sich in den letzten Jahren in Europa etabliert"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-02T02:59:40.802391+00:00"
       }
     },
     {
@@ -1709,7 +1567,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
         "note": null
