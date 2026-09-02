@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T18:26:31.877888+00:00",
+  "generatedAt": "2026-09-02T22:59:27.593077+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -123,19 +123,19 @@
       "dateLocal": "2026-09-02",
       "kickoff": "2026-09-02T20:45:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "VfL Osnabrück",
         "short": "Osnabrück",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VfL_Osnabrueck_Logo_2021%E2%80%93.svg/960px-VfL_Osnabrueck_Logo_2021%E2%80%93.svg.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "FC Bayern München",
         "short": "Bayern",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -150,22 +150,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "1:3",
-        "confidence": 0.75,
-        "probs": {
-          "home": 0.1,
-          "draw": 0.15,
-          "away": 0.75
-        },
-        "reasons": [
-          "FC Bayern ist klarer Favorit mit deutlich höherer individueller Qualität",
-          "VfL Osnabrück kämpft in der 2. Bundesliga um den Klassenerhalt und ist Außenseiter",
-          "FC Bayern hat eine starke Saisonbilanz und ist im Pokal traditionell erfolgreich"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T13:15:29.773784+00:00"
+        "available": false
       }
     },
     {
@@ -986,20 +971,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Barcelona",
-        "scoreline": "2:0",
+        "scoreline": "3:1",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
+          "draw": 0.2,
+          "away": 0.15
         },
         "reasons": [
-          "FC Barcelona hat Heimvorteil und eine starke Offensive.",
-          "Feyenoord Rotterdam fehlt es an internationaler Erfahrung.",
-          "Barcelona ist in besserer Verfassung und hat die qualitativ stärkere Mannschaft."
+          "FC Barcelona mit starker Heimbilanz in der Champions League",
+          "Feyenoord Rotterdam hat auswärts oft Schwierigkeiten",
+          "Barcelona hat den Kader, um auch bei Ausfällen zu bestehen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T23:02:04.813802+00:00"
+        "generatedAt": "2026-09-02T22:59:18.196953+00:00"
       }
     },
     {
@@ -1045,12 +1030,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Stuttgart mit starker Heimbilanz in der Liga",
-          "Viking FK mit Problemen in der Fremde",
-          "VfB Stuttgart in besserer Verfassung"
+          "Stuttgart mit starker Heimform in der Liga",
+          "Viking FK mit Auswärtsschwächen in Europa",
+          "Stuttgarts Kader tiefer und erfahrener"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T23:02:06.412487+00:00"
+        "generatedAt": "2026-09-02T22:59:19.829204+00:00"
       }
     },
     {
@@ -1096,12 +1081,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Liverpool FC hat Heimvorteil",
-          "Club Atlético de Madrid zuletzt inkonsistent",
-          "Liverpool FC hat eine stärkere Offensive"
+          "Liverpool hat eine starke Heimform in europäischen Wettbewerben.",
+          "Atlético Madrid hat zuletzt auswärts Schwierigkeiten gehabt.",
+          "Beide Teams sind defensiv stabil, aber Liverpools Offensive ist zu Hause oft entscheidend."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T23:02:07.911318+00:00"
+        "generatedAt": "2026-09-02T22:59:21.606299+00:00"
       }
     },
     {
@@ -1147,12 +1132,12 @@
           "away": 0.05
         },
         "reasons": [
-          "PSG mit deutlich stärkerem Kader",
-          "Slovan Bratislava hat Heimstärke nicht",
-          "PSG hat Heimvorteil in Paris"
+          "PSG hat deutlich höhere individuelle Qualität",
+          "Slovan Bratislava hat eine schwache Auswärtsbilanz in der Champions League",
+          "PSG ist zuhause eine Macht und wird das Spiel dominieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T23:02:09.507554+00:00"
+        "generatedAt": "2026-09-02T22:59:23.306679+00:00"
       }
     },
     {
@@ -1189,21 +1174,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Arsenal FC",
-        "scoreline": "1:2",
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.4,
+          "draw": 0.35,
+          "away": 0.25
         },
         "reasons": [
-          "Arsenal FC in besserer Verfassung",
-          "SSC Napoli mit wichtigeren Ausfällen",
-          "Arsenal FC hat die bessere Kaderbreite"
+          "Neapel hat Heimvorteil, aber Arsenal ist stark auswärts.",
+          "Beide Teams sind in guter Form und haben ähnliche Stärken.",
+          "Enges Spiel erwartet, das durch Kleinigkeiten entschieden wird."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T23:02:11.206940+00:00"
+        "generatedAt": "2026-09-02T22:59:24.995302+00:00"
       }
     },
     {
@@ -1251,10 +1236,10 @@
         "reasons": [
           "Sporting CP mit starker Heimform in der Liga",
           "Galatasaray hatte zuletzt Auswärtsschwächen",
-          "Sporting CP hat die breitere Kaderbreite für die Doppelbelastung"
+          "Sporting CP hat die höhere individuelle Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-01T23:02:12.866190+00:00"
+        "generatedAt": "2026-09-02T22:59:26.592478+00:00"
       }
     },
     {
