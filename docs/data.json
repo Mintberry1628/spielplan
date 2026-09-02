@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:15:30.774188+00:00",
+  "generatedAt": "2026-09-02T18:26:31.877888+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -664,6 +664,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
@@ -766,6 +767,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
@@ -817,6 +819,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
@@ -868,6 +871,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "Amazon Prime Video"
         ],
         "free": false,
@@ -919,6 +923,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
@@ -970,7 +975,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1021,7 +1026,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1123,7 +1128,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1225,7 +1230,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1276,6 +1281,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
@@ -1327,6 +1333,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
@@ -1378,6 +1385,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
@@ -1414,6 +1422,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
@@ -1465,6 +1474,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
