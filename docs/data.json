@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T15:49:36.970743+00:00",
+  "generatedAt": "2026-09-03T20:32:30.577161+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -893,20 +893,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Barcelona",
-        "scoreline": "3:1",
+        "scoreline": "2:0",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
+          "draw": 0.25,
+          "away": 0.1
         },
         "reasons": [
-          "FC Barcelona mit starker Heimbilanz in der Champions League",
-          "Feyenoord Rotterdam hat auswärts oft Schwierigkeiten",
-          "Barcelona hat den Kader, um auch bei Ausfällen zu bestehen"
+          "FC Barcelona mit starker Heimbilanz in der Champions League.",
+          "Feyenoord Rotterdam hat auswärts in K.o.-Runden oft Schwierigkeiten.",
+          "Barcelona verfügt über die individuell stärkere Mannschaft."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T22:59:18.196953+00:00"
+        "generatedAt": "2026-09-03T20:32:21.460639+00:00"
       }
     },
     {
@@ -952,12 +952,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Stuttgart mit starker Heimform in der Liga",
-          "Viking FK mit Auswärtsschwächen in Europa",
-          "Stuttgarts Kader tiefer und erfahrener"
+          "Stuttgart hat Heimvorteil und ist in besserer Verfassung",
+          "Viking FK hat eine schwächere Auswärtsbilanz",
+          "Stuttgart verfügt über mehr individuelle Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T22:59:19.829204+00:00"
+        "generatedAt": "2026-09-03T20:32:23.178505+00:00"
       }
     },
     {
@@ -995,20 +995,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Liverpool FC",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Liverpool hat eine starke Heimform in europäischen Wettbewerben.",
-          "Atlético Madrid hat zuletzt auswärts Schwierigkeiten gehabt.",
-          "Beide Teams sind defensiv stabil, aber Liverpools Offensive ist zu Hause oft entscheidend."
+          "Liverpool ist zu Hause stark und hat eine gute Bilanz gegen Atlético.",
+          "Atlético Madrid hat Probleme, auswärts konstant zu punkten.",
+          "Die aktuelle Form von Liverpool ist überzeugend."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T22:59:21.606299+00:00"
+        "generatedAt": "2026-09-03T20:32:24.795420+00:00"
       }
     },
     {
@@ -1054,12 +1054,12 @@
           "away": 0.05
         },
         "reasons": [
-          "PSG hat deutlich höhere individuelle Qualität",
+          "PSG hat eine deutlich stärkere Mannschaft",
           "Slovan Bratislava hat eine schwache Auswärtsbilanz in der Champions League",
-          "PSG ist zuhause eine Macht und wird das Spiel dominieren"
+          "PSG spielt zu Hause und ist in Topform"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T22:59:23.306679+00:00"
+        "generatedAt": "2026-09-03T20:32:26.404771+00:00"
       }
     },
     {
@@ -1096,21 +1096,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
+        "outcome": "Sieg Arsenal FC",
+        "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.4,
-          "draw": 0.35,
-          "away": 0.25
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Neapel hat Heimvorteil, aber Arsenal ist stark auswärts.",
-          "Beide Teams sind in guter Form und haben ähnliche Stärken.",
-          "Enges Spiel erwartet, das durch Kleinigkeiten entschieden wird."
+          "Arsenal FC hat eine stärkere aktuelle Form.",
+          "SSC Napoli hat Heimvorteil, aber Arsenal FC ist auswärtsstark.",
+          "Beide Teams sind offensiv ausgerichtet, was zu einem knappen Spiel führt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T22:59:24.995302+00:00"
+        "generatedAt": "2026-09-03T20:32:28.082386+00:00"
       }
     },
     {
@@ -1148,20 +1148,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Sporting CP",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
           "Sporting CP mit starker Heimform in der Liga",
-          "Galatasaray hatte zuletzt Auswärtsschwächen",
-          "Sporting CP hat die höhere individuelle Qualität im Kader"
+          "Galatasaray zuletzt auswärts anfällig",
+          "Sporting CP hat die breitere und erfahrenere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T22:59:26.592478+00:00"
+        "generatedAt": "2026-09-03T20:32:29.576601+00:00"
       }
     },
     {
