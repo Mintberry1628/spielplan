@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:59:27.593077+00:00",
+  "generatedAt": "2026-09-03T03:01:57.810436+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,78 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565784",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-30",
-      "kickoff": "2026-08-30T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SC Freiburg",
-        "short": "SCF",
-        "crest": "https://crests.football-data.org/17.png",
-        "score": 4
-      },
-      "away": {
-        "name": "SV Werder Bremen",
-        "short": "SVW",
-        "crest": "https://crests.football-data.org/12.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565782",
-      "competition": "Bundesliga",
-      "competitionStage": "1. Spieltag",
-      "dateLocal": "2026-08-30",
-      "kickoff": "2026-08-30T17:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Augsburg",
-        "short": "FCA",
-        "crest": "https://crests.football-data.org/16.png",
-        "score": 3
-      },
-      "away": {
-        "name": "FC Schalke 04",
-        "short": "S04",
-        "crest": "https://crests.football-data.org/6.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "oldb-81836",
       "competition": "DFB-Pokal",
@@ -140,11 +68,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
           "Sky"
         ],
-        "free": true,
-        "note": null
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -1278,20 +1205,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Fenerbahçe SK",
-        "scoreline": "2:1",
-        "confidence": 0.5,
+        "scoreline": "1:0",
+        "confidence": 0.45,
         "probs": {
-          "home": 0.5,
+          "home": 0.45,
           "draw": 0.3,
-          "away": 0.2
+          "away": 0.25
         },
         "reasons": [
-          "Fenerbahçe SK hat eine starke Heimform in der heimischen Liga.",
-          "AS Roma zeigt Schwächen in der Defensive bei Auswärtsspielen.",
-          "Beide Teams sind offensivstark, aber Fenerbahçe SK hat den Heimvorteil auf seiner Seite."
+          "Fenerbahçe hat Heimvorteil",
+          "Roma mit leichter Formschwäche",
+          "Beide Teams defensivstark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T02:59:34.461890+00:00"
+        "generatedAt": "2026-09-03T03:01:48.491732+00:00"
       }
     },
     {
@@ -1331,19 +1258,19 @@
         "available": true,
         "outcome": "Sieg PSV",
         "scoreline": "2:0",
-        "confidence": 0.65,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.65,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "PSV hat Heimvorteil in der Champions League",
-          "PSV ist in guter Form und hat eine offensivstarke Mannschaft",
-          "Shakhtar Donetsk hat zuletzt schwankende Leistungen gezeigt und ist auswärts oft anfällig"
+          "PSV mit starker Heimform in der Liga",
+          "Shakhtar Donetsk hat zuletzt Auswärts schwäche gezeigt",
+          "PSV hat die qualitativ bessere Mannschaft"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T02:59:36.058243+00:00"
+        "generatedAt": "2026-09-03T03:01:50.083240+00:00"
       }
     },
     {
@@ -1420,19 +1347,19 @@
         "available": true,
         "outcome": "Sieg Manchester United FC",
         "scoreline": "3:0",
-        "confidence": 0.7,
+        "confidence": 0.75,
         "probs": {
-          "home": 0.7,
-          "draw": 0.2,
+          "home": 0.75,
+          "draw": 0.15,
           "away": 0.1
         },
         "reasons": [
-          "Manchester United ist klarer Favorit gegen den Underdog Sabah FK",
-          "Heimvorteil im Old Trafford",
-          "Sabah FK hat geringere internationale Erfahrung"
+          "Manchester United ist klarer Favorit mit deutlich höherem Kaderwert und individueller Klasse.",
+          "Sabah FK hat in der Qualifikation zwar überzeugt, aber die internationale Erfahrung fehlt.",
+          "Heimvorteil im Old Trafford spricht deutlich für Manchester United."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T02:59:37.587224+00:00"
+        "generatedAt": "2026-09-03T03:01:51.824863+00:00"
       }
     },
     {
@@ -1472,19 +1399,19 @@
         "available": true,
         "outcome": "Sieg RB Leipzig",
         "scoreline": "1:2",
-        "confidence": 0.5,
+        "confidence": 0.4,
         "probs": {
           "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "RB Leipzig mit stärkerer Kaderbreite und internationaler Erfahrung",
-          "Como 1907 hat Heimvorteil, aber Leipzig ist auswärtsstark",
-          "Leipzig ist in besserer Verfassung und hat mehr individuelle Klasse"
+          "Leipzig mit stärkerem Kader und internationaler Erfahrung",
+          "Como ist Aufsteiger und hat Heimvorteil, aber die Auswärtsstärke von Leipzig ist zu beachten",
+          "Leipzig hat zuletzt eine bessere Form gezeigt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T02:59:39.202133+00:00"
+        "generatedAt": "2026-09-03T03:01:53.466203+00:00"
       }
     },
     {
@@ -1521,7 +1448,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Slavia Praha",
+        "outcome": "Sieg SK Slavia Praha",
         "scoreline": "1:0",
         "confidence": 0.55,
         "probs": {
@@ -1531,11 +1458,11 @@
         },
         "reasons": [
           "Slavia Prag mit starker Heimform in der Liga",
-          "Lens hat Auswärtsprobleme in Europa",
-          "Slavia Prag hat sich in den letzten Jahren in Europa etabliert"
+          "Lens hat zuletzt auswärts geschwächelt",
+          "Beide Teams defensivstark, daher wenige Tore erwartet"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-02T02:59:40.802391+00:00"
+        "generatedAt": "2026-09-03T03:01:55.156045+00:00"
       }
     },
     {
@@ -1572,7 +1499,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg 1. FC Union Berlin",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Union Berlin mit starker Heimform in der Rückrunde",
+          "Schalke 04 kämpft mit Auswärtsschwäche",
+          "Union Berlin hat die stabilere Defensive"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-03T03:01:56.809884+00:00"
       }
     },
     {
@@ -1599,10 +1541,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1635,10 +1579,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1671,10 +1617,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1707,10 +1655,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1743,10 +1693,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1779,7 +1731,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
         "note": null
