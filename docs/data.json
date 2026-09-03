@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:43:39.500186+00:00",
+  "generatedAt": "2026-09-03T15:49:36.970743+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -113,7 +113,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Stuttgart mit starker Heimform und breiterem Kader.",
+          "Köln kämpft auswärts und hat Probleme in der Offensive.",
+          "Stuttgarts taktische Disziplin spricht für einen Heimsieg."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-03T15:49:35.970248+00:00"
       }
     },
     {
@@ -561,8 +576,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -664,8 +678,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -716,8 +729,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -768,8 +780,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "Amazon Prime Video"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -820,8 +831,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1178,8 +1188,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1230,8 +1239,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1282,8 +1290,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1319,8 +1326,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1371,8 +1377,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
         "note": null
