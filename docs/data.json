@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:59:34.722445+00:00",
+  "generatedAt": "2026-09-04T03:01:21.167122+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1199,20 +1199,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Fenerbahçe SK",
-        "scoreline": "1:0",
-        "confidence": 0.45,
+        "scoreline": "2:1",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.45,
+          "home": 0.5,
           "draw": 0.3,
-          "away": 0.25
+          "away": 0.2
         },
         "reasons": [
-          "Fenerbahçe hat Heimvorteil",
-          "Roma mit leichter Formschwäche",
-          "Beide Teams defensivstark"
+          "Fenerbahçe SK hat Heimvorteil",
+          "AS Roma mit Auswärtsschwäche in Europa",
+          "Beide Teams in guter Form, aber Fenerbahçe heimstärker"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-03T03:01:48.491732+00:00"
+        "generatedAt": "2026-09-04T03:01:02.682471+00:00"
       }
     },
     {
@@ -1251,19 +1251,19 @@
         "available": true,
         "outcome": "Sieg PSV",
         "scoreline": "2:0",
-        "confidence": 0.6,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.6,
+          "home": 0.65,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.1
         },
         "reasons": [
-          "PSV mit starker Heimform in der Liga",
-          "Shakhtar Donetsk hat zuletzt Auswärts schwäche gezeigt",
-          "PSV hat die qualitativ bessere Mannschaft"
+          "PSV mit starker Heimbilanz",
+          "Shakhtar Donetsk mit Formschwankungen in der Liga",
+          "PSV hat sich in den letzten Jahren in der Champions League etabliert"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-03T03:01:50.083240+00:00"
+        "generatedAt": "2026-09-04T03:01:04.271017+00:00"
       }
     },
     {
@@ -1338,19 +1338,19 @@
         "available": true,
         "outcome": "Sieg Manchester United FC",
         "scoreline": "3:0",
-        "confidence": 0.75,
+        "confidence": 0.7,
         "probs": {
-          "home": 0.75,
-          "draw": 0.15,
+          "home": 0.7,
+          "draw": 0.2,
           "away": 0.1
         },
         "reasons": [
-          "Manchester United ist klarer Favorit mit deutlich höherem Kaderwert und individueller Klasse.",
-          "Sabah FK hat in der Qualifikation zwar überzeugt, aber die internationale Erfahrung fehlt.",
-          "Heimvorteil im Old Trafford spricht deutlich für Manchester United."
+          "Manchester United FC hat einen deutlich stärkeren Kader",
+          "Sabah FK ist international unerfahren",
+          "Manchester United FC hat Heimvorteil in Old Trafford"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-03T03:01:51.824863+00:00"
+        "generatedAt": "2026-09-04T03:01:05.846688+00:00"
       }
     },
     {
@@ -1397,11 +1397,11 @@
         },
         "reasons": [
           "Leipzig mit stärkerem Kader und internationaler Erfahrung",
-          "Como ist Aufsteiger und hat Heimvorteil, aber die Auswärtsstärke von Leipzig ist zu beachten",
-          "Leipzig hat zuletzt eine bessere Form gezeigt"
+          "Como als Aufsteiger noch in der Findungsphase",
+          "Auswärtsstärke von Leipzig in der Champions League"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-03T03:01:53.466203+00:00"
+        "generatedAt": "2026-09-04T03:01:07.368288+00:00"
       }
     },
     {
@@ -1438,7 +1438,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg SK Slavia Praha",
+        "outcome": "Sieg Slavia Praha",
         "scoreline": "1:0",
         "confidence": 0.55,
         "probs": {
@@ -1448,11 +1448,11 @@
         },
         "reasons": [
           "Slavia Prag mit starker Heimform in der Liga",
-          "Lens hat zuletzt auswärts geschwächelt",
-          "Beide Teams defensivstark, daher wenige Tore erwartet"
+          "Lens hat Auswärtsschwächen in europäischen Wettbewerben",
+          "Beide Teams defensivstark, erwartet torarmes Spiel"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-03T03:01:55.156045+00:00"
+        "generatedAt": "2026-09-04T03:01:08.945755+00:00"
       }
     },
     {
@@ -1490,7 +1490,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg 1. FC Union Berlin",
+        "outcome": "Sieg Union Berlin",
         "scoreline": "2:0",
         "confidence": 0.6,
         "probs": {
@@ -1499,12 +1499,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Union Berlin mit starker Heimform in der Rückrunde",
-          "Schalke 04 kämpft mit Auswärtsschwäche",
-          "Union Berlin hat die stabilere Defensive"
+          "Union Berlin mit starker Heimform und etabliertem Spielsystem",
+          "Schalke 04 kämpft mit Konstanz und Auswärtsschwäche",
+          "Verletzungssorgen bei Schalke beeinträchtigen die Offensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-03T03:01:56.809884+00:00"
+        "generatedAt": "2026-09-04T03:01:10.666442+00:00"
       }
     },
     {
@@ -1542,7 +1542,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.35,
+          "draw": 0.25,
+          "away": 0.4
+        },
+        "reasons": [
+          "Stuttgart in starker Verfassung und mit besserer Offensive",
+          "Hoffenheim mit Ausfällen in der Defensive",
+          "Auswärtsstärke des VfB in dieser Saison"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-04T03:01:12.269757+00:00"
       }
     },
     {
@@ -1580,7 +1595,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Dortmund",
+        "scoreline": "3:1",
+        "confidence": 0.75,
+        "probs": {
+          "home": 0.75,
+          "draw": 0.15,
+          "away": 0.1
+        },
+        "reasons": [
+          "Dortmund mit starker Heimbilanz",
+          "Paderborn defensiv anfällig",
+          "Qualitätsunterschied im Kader"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-04T03:01:13.844353+00:00"
       }
     },
     {
@@ -1618,7 +1648,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "1:3",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.2,
+          "draw": 0.2,
+          "away": 0.6
+        },
+        "reasons": [
+          "Leverkusen mit starker Saisonform und breiterem Kader",
+          "Augsburg kämpft mit Konstanz und Heimschwäche",
+          "Leverkusen hat die viimele direkten Duelle dominiert"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-04T03:01:15.455723+00:00"
       }
     },
     {
@@ -1656,7 +1701,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Mainz mit starkem Heimvorteil in der Vergangenheit",
+          "Frankfurt zuletzt auswärts anfällig",
+          "Beide Teams mit ähnlicher Tabellensituation, Heimstärke gibt Ausschlag"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-04T03:01:17.057231+00:00"
       }
     },
     {
@@ -1694,7 +1754,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg SC Freiburg",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Freiburg zu Hause stark",
+          "Gladbach auswärts schwach",
+          "Freiburgs Konstanz"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-04T03:01:18.557456+00:00"
       }
     },
     {
@@ -1731,7 +1806,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Köln mit Heimvorteil und zuletzt stabileren Leistungen",
+          "Bremen noch nicht in Topform und auswärts anfällig",
+          "Direkter Vergleich spricht leicht für Köln"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-04T03:01:20.166673+00:00"
       }
     },
     {
@@ -1758,7 +1848,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1794,7 +1885,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
