@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:09:44.091803+00:00",
+  "generatedAt": "2026-09-05T19:58:11.583899+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -277,7 +277,7 @@
       "dateLocal": "2026-09-05",
       "kickoff": "2026-09-05T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Schalke 04",
@@ -304,22 +304,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "0:3",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.1,
-          "draw": 0.2,
-          "away": 0.7
-        },
-        "reasons": [
-          "Schalke 04 in schlechter Verfassung",
-          "FC Bayern München mit starker Offensive",
-          "FC Schalke 04 mit vielen Ausfällen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T10:00:04.409213+00:00"
+        "available": false
       }
     },
     {
@@ -782,12 +767,12 @@
           "away": 0.15
         },
         "reasons": [
-          "FC Barcelona hat Heimvorteil und ist in besserer Form",
-          "Feyenoord hat Auswärtsschwächen in der Champions League",
-          "Barcelona hat eine stärkere Offensive und mehr individuelle Klasse"
+          "FC Barcelona mit starker Heimbilanz in der Champions League",
+          "Feyenoord Rotterdam hat auswärts oft Schwierigkeiten",
+          "Barcelona hat die individuell stärkeren Spieler im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-04T22:47:27.976616+00:00"
+        "generatedAt": "2026-09-05T19:58:02.021814+00:00"
       }
     },
     {
@@ -835,12 +820,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Stuttgart mit starker Saisonform und Heimstärke",
-          "Viking FK mit Auswärtsschwächen in der Liga",
-          "Stuttgarts Kader tiefer und erfahrener im europäischen Wettbewerb"
+          "VfB Stuttgart mit starker Heimform",
+          "Viking FK mit Auswärtsschwächen",
+          "Stuttgarts Kaderqualität höher"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-04T22:47:29.557349+00:00"
+        "generatedAt": "2026-09-05T19:58:03.750456+00:00"
       }
     },
     {
@@ -878,20 +863,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Liverpool FC",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Liverpool hat eine starke Heimform in europäischen Wettbewerben.",
-          "Atlético Madrid hat auswärts oft Schwierigkeiten gegen Top-Teams.",
-          "Beide Teams sind gut in die Saison gestartet, Liverpool hat aber leichte Vorteile durch den Heimvorteil."
+          "Liverpool hat eine starke Heimbilanz gegen Atlético.",
+          "Atlético Madrid zeigt auswärts oft defensive Schwächen.",
+          "Liverpool ist in besserer Verfassung und hat weniger Verletzungssorgen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-04T22:47:31.180795+00:00"
+        "generatedAt": "2026-09-05T19:58:05.481187+00:00"
       }
     },
     {
@@ -938,12 +923,12 @@
           "away": 0.05
         },
         "reasons": [
-          "PSG hat eine deutlich stärkere Mannschaft und spielt zu Hause.",
-          "Slovan Bratislava hat in der Champions League oft Schwierigkeiten.",
-          "PSG ist in der heimischen Liga dominant und wird dies auf die internationale Bühne übertragen wollen."
+          "PSG deutlich stärker besetzt",
+          "Slovan Bratislava hat Heimstärke nicht",
+          "PSG mit Heimvorteil und Favoritenrolle"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-04T22:47:32.812445+00:00"
+        "generatedAt": "2026-09-05T19:58:07.160440+00:00"
       }
     },
     {
@@ -984,17 +969,17 @@
         "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
+          "home": 0.35,
+          "draw": 0.25,
           "away": 0.4
         },
         "reasons": [
-          "Arsenal FC zeigt konstant starke Leistungen in der heimischen Liga.",
-          "SSC Napoli hat zuletzt einige Schwächen in der Defensive offenbart.",
-          "Arsenal FC hat die bessere Kaderbreite und individuelle Qualität."
+          "Arsenal zeigt aktuell stärkere Form",
+          "Napoli hat Heimvorteil, aber Arsenal ist auswärtsstark",
+          "Beide Teams offensiv ausgerichtet, aber Arsenal mit mehr Durchschlagskraft"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-04T22:47:34.376018+00:00"
+        "generatedAt": "2026-09-05T19:58:08.937994+00:00"
       }
     },
     {
@@ -1041,12 +1026,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Sporting CP ist in starker Form und hat Heimvorteil.",
-          "Galatasaray hat auswärts oft Schwierigkeiten.",
-          "Sporting CP hat eine höhere individuelle Qualität."
+          "Sporting CP hat Heimvorteil",
+          "Galatasaray SK in schwacher Verfassung",
+          "Sporting CP mit stärkerem Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-04T22:47:35.910993+00:00"
+        "generatedAt": "2026-09-05T19:58:10.583284+00:00"
       }
     },
     {
