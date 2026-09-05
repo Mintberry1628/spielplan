@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:00:08.973136+00:00",
+  "generatedAt": "2026-09-05T14:38:12.712233+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -87,19 +87,19 @@
       "dateLocal": "2026-09-05",
       "kickoff": "2026-09-05T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "SV Werder Bremen",
         "short": "SVW",
         "crest": "https://crests.football-data.org/12.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "RB Leipzig",
         "short": "RBL",
         "crest": "https://crests.football-data.org/721.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -140,19 +140,19 @@
       "dateLocal": "2026-09-05",
       "kickoff": "2026-09-05T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "TSG 1899 Hoffenheim",
         "short": "TSG",
         "crest": "https://crests.football-data.org/2.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -193,19 +193,19 @@
       "dateLocal": "2026-09-05",
       "kickoff": "2026-09-05T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Bayer 04 Leverkusen",
         "short": "B04",
         "crest": "https://crests.football-data.org/3.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "1. FC Union Berlin",
         "short": "UNB",
         "crest": "https://crests.football-data.org/28.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -246,19 +246,19 @@
       "dateLocal": "2026-09-05",
       "kickoff": "2026-09-05T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Borussia Mönchengladbach",
         "short": "BMG",
         "crest": "https://crests.football-data.org/18.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "SV 07 Elversberg",
         "short": "ELV",
         "crest": "https://crests.football-data.org/719.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -299,19 +299,19 @@
       "dateLocal": "2026-09-05",
       "kickoff": "2026-09-05T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "SC Paderborn 07",
         "short": "SCP",
         "crest": "https://crests.football-data.org/29.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "SC Freiburg",
         "short": "SCF",
         "crest": "https://crests.football-data.org/17.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -525,6 +525,8 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -627,6 +629,8 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -678,6 +682,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -780,6 +785,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -831,6 +837,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -882,6 +889,8 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -984,6 +993,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -1086,6 +1096,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -1137,6 +1148,8 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -1188,6 +1201,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -1239,6 +1253,8 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -1275,6 +1291,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -1326,6 +1343,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
