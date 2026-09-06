@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:57:47.937168+00:00",
+  "generatedAt": "2026-09-06T17:33:59.295686+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -267,7 +267,7 @@
       "dateLocal": "2026-09-06",
       "kickoff": "2026-09-06T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Hamburger SV",
@@ -279,11 +279,12 @@
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": 3
+        "score": 5
       },
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "DAZN",
           "Sky"
         ],
@@ -294,22 +295,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Hamburger SV",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Hamburger SV mit starkem Saisonstart und Heimvorteil",
-          "Mainz 05 noch ohne Auswärtspunkt",
-          "HSV hat die stabilere Defensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-06T10:18:29.616682+00:00"
+        "available": false
       }
     },
     {
@@ -319,23 +305,24 @@
       "dateLocal": "2026-09-06",
       "kickoff": "2026-09-06T17:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Eintracht Frankfurt",
         "short": "SGE",
         "crest": "https://crests.football-data.org/19.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "FC Augsburg",
         "short": "FCA",
         "crest": "https://crests.football-data.org/16.png",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "DAZN",
           "Sky"
         ],
@@ -346,22 +333,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Frankfurt mit Heimvorteil und stärkerer Kaderbreite",
-          "Augsburg zuletzt auswärts schwächer",
-          "Frankfurts offensive Stärke gegen Augsburger Defensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-06T10:18:31.167116+00:00"
+        "available": false
       }
     },
     {
@@ -712,20 +684,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Barcelona",
-        "scoreline": "3:1",
+        "scoreline": "2:0",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
+          "draw": 0.25,
+          "away": 0.1
         },
         "reasons": [
-          "FC Barcelona mit starker Heimbilanz in der Champions League",
-          "Feyenoord Rotterdam hat auswärts oft Schwierigkeiten",
-          "Barcelona hat die individuell stärkeren Spieler im Kader"
+          "Starke Heimbilanz des FC Barcelona",
+          "Feyenoord mit Auswärtsschwächen in der Champions League",
+          "Barcelona hat den Kader, um auch bei Ausfällen zu bestehen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T19:58:02.021814+00:00"
+        "generatedAt": "2026-09-06T17:33:50.468522+00:00"
       }
     },
     {
@@ -773,12 +745,12 @@
           "away": 0.1
         },
         "reasons": [
-          "VfB Stuttgart mit starker Heimform",
-          "Viking FK mit Auswärtsschwächen",
+          "Stuttgart mit starker Heimform",
+          "Viking FK schwächelt auswärts",
           "Stuttgarts Kaderqualität höher"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T19:58:03.750456+00:00"
+        "generatedAt": "2026-09-06T17:33:52.136120+00:00"
       }
     },
     {
@@ -824,12 +796,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Liverpool hat eine starke Heimbilanz gegen Atlético.",
-          "Atlético Madrid zeigt auswärts oft defensive Schwächen.",
-          "Liverpool ist in besserer Verfassung und hat weniger Verletzungssorgen."
+          "Liverpool hat einen starken Heimvorteil in der Champions League.",
+          "Atlético Madrid zeigt sich auswärts oft defensiver und abwartender.",
+          "Liverpools Offensive ist aktuell gut in Form."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T19:58:05.481187+00:00"
+        "generatedAt": "2026-09-06T17:33:53.653354+00:00"
       }
     },
     {
@@ -876,12 +848,12 @@
           "away": 0.05
         },
         "reasons": [
-          "PSG deutlich stärker besetzt",
-          "Slovan Bratislava hat Heimstärke nicht",
-          "PSG mit Heimvorteil und Favoritenrolle"
+          "PSG hat eine deutlich stärkere Mannschaft",
+          "Bratislava hat in der Champions League oft Schwierigkeiten",
+          "PSG spielt zu Hause und ist in guter Form"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T19:58:07.160440+00:00"
+        "generatedAt": "2026-09-06T17:33:55.154052+00:00"
       }
     },
     {
@@ -927,12 +899,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Arsenal zeigt aktuell stärkere Form",
-          "Napoli hat Heimvorteil, aber Arsenal ist auswärtsstark",
-          "Beide Teams offensiv ausgerichtet, aber Arsenal mit mehr Durchschlagskraft"
+          "Arsenal FC in besserer Verfassung",
+          "Napoli mit Ausfällen in der Defensive",
+          "Arsenal FC mit stärkerer Offensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T19:58:08.937994+00:00"
+        "generatedAt": "2026-09-06T17:33:56.603217+00:00"
       }
     },
     {
@@ -970,21 +942,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Sporting CP",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "outcome": "Sieg Sporting Clube de Portugal",
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Sporting CP hat Heimvorteil",
-          "Galatasaray SK in schwacher Verfassung",
-          "Sporting CP mit stärkerem Kader"
+          "Sporting CP mit starker Heimform in der Liga.",
+          "Galatasaray hat auswärts oft Schwierigkeiten.",
+          "Sporting CP hat den besseren Kader auf dem Papier."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T19:58:10.583284+00:00"
+        "generatedAt": "2026-09-06T17:33:58.295049+00:00"
       }
     },
     {
