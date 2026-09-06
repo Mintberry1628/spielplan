@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T03:02:43.781555+00:00",
+  "generatedAt": "2026-09-06T10:18:32.167540+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -304,12 +304,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Hamburger SV mit Heimvorteil und starker Saisonstart.",
-          "Mainz 05 noch nicht in Topform, Auswärtsschwäche.",
-          "HSV hat die breitere und tiefere Kaderbreite."
+          "Hamburger SV mit starkem Saisonstart und Heimvorteil",
+          "Mainz 05 noch ohne Auswärtspunkt",
+          "HSV hat die stabilere Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T10:00:06.145324+00:00"
+        "generatedAt": "2026-09-06T10:18:29.616682+00:00"
       }
     },
     {
@@ -356,12 +356,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Frankfurt mit starkem Heimvorteil und positiver Bilanz gegen Augsburg.",
-          "Augsburgs Auswärtsform ist oft schwankend.",
-          "Frankfurt hat sich im Saisonverlauf stabilisiert und verfügt über mehr individuelle Klasse."
+          "Frankfurt mit Heimvorteil und stärkerer Kaderbreite",
+          "Augsburg zuletzt auswärts schwächer",
+          "Frankfurts offensive Stärke gegen Augsburger Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T10:00:07.972494+00:00"
+        "generatedAt": "2026-09-06T10:18:31.167116+00:00"
       }
     },
     {
@@ -409,12 +409,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Aston Villa mit stärkerer Saisonleistung",
-          "Club Brugge Heimstärke nicht überzeugend",
-          "Aston Villa offensiv stärker"
+          "Aston Villa in besserer Verfassung in der heimischen Liga.",
+          "Club Brugge hat Heimstärke, aber Aston Villa ist international erfahren.",
+          "Aston Villa hat einen breiteren und tieferen Kader."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T09:59:46.538179+00:00"
+        "generatedAt": "2026-09-06T10:18:20.446285+00:00"
       }
     },
     {
@@ -460,12 +460,12 @@
           "away": 0.2
         },
         "reasons": [
-          "AEK mit Heimvorteil, aber LASK in guter Form",
-          "Beide Teams defensiv stabil",
-          "Ausgeglichene Kaderstärke"
+          "AEK mit starkem Heimvorteil in Europa",
+          "LASK zuletzt in guter Verfassung",
+          "Beide Teams defensiv stabil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T09:59:48.196042+00:00"
+        "generatedAt": "2026-09-06T10:18:21.945025+00:00"
       }
     },
     {
@@ -514,11 +514,11 @@
         },
         "reasons": [
           "Real Madrid hat Heimvorteil",
-          "Inter Mailand mit Formschwankungen",
-          "Beide Teams mit ähnlicher Qualität, aber Madrid zu Hause stärker"
+          "Inter Mailand mit Formschwankungen auswärts",
+          "Beide Teams mit ähnlicher Qualität, aber Real Madrid oft in Topspielen stärker"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T09:59:49.753120+00:00"
+        "generatedAt": "2026-09-06T10:18:23.533266+00:00"
       }
     },
     {
@@ -557,20 +557,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Manchester City FC",
-        "scoreline": "1:2",
+        "scoreline": "0:2",
         "confidence": 0.5,
         "probs": {
-          "home": 0.25,
-          "draw": 0.25,
+          "home": 0.2,
+          "draw": 0.3,
           "away": 0.5
         },
         "reasons": [
-          "Porto mit durchwachsener Saisonvorbereitung",
-          "Manchester City mit starker Offensive und hoher individueller Qualität",
-          "Heimvorteil Porto wird durch die Favoritenrolle von ManCity relativiert"
+          "Porto mit schwankender Form in der heimischen Liga",
+          "Manchester City mit starker Saison und offensiver Durchschlagskraft",
+          "Historisch gesehen hat Manchester City oft die Oberhand gegen Porto"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T09:59:51.404031+00:00"
+        "generatedAt": "2026-09-06T10:18:25.070847+00:00"
       }
     },
     {
@@ -616,12 +616,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Dortmund mit starkem Heimvorteil in der Champions League",
-          "Villarreal zuletzt formschwach in der Liga",
-          "Dortmunds Offensive ist gut eingespielt"
+          "Dortmund hat Heimvorteil in der Champions League",
+          "Villarreal ist in der spanischen Liga noch nicht in Topform",
+          "Dortmunds Offensive ist stark und konstant"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T09:59:53.070305+00:00"
+        "generatedAt": "2026-09-06T10:18:26.602493+00:00"
       }
     },
     {
@@ -661,19 +661,19 @@
         "available": true,
         "outcome": "Sieg Lille OSC",
         "scoreline": "1:0",
-        "confidence": 0.55,
+        "confidence": 0.45,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
+          "home": 0.45,
+          "draw": 0.3,
+          "away": 0.25
         },
         "reasons": [
           "Lille hat Heimvorteil",
-          "Real Betis in schwacher Verfassung",
-          "Lille mit stabiler Defensive"
+          "Real Betis in schwacher Form",
+          "Beide Teams defensivstark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-05T09:59:54.612175+00:00"
+        "generatedAt": "2026-09-06T10:18:28.109035+00:00"
       }
     },
     {
