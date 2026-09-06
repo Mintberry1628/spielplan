@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:18:32.167540+00:00",
+  "generatedAt": "2026-09-06T14:57:47.937168+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -267,19 +267,19 @@
       "dateLocal": "2026-09-06",
       "kickoff": "2026-09-06T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Hamburger SV",
         "short": "HSV",
         "crest": "https://crests.football-data.org/7.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
