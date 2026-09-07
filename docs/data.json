@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T08:11:49.544495+00:00",
+  "generatedAt": "2026-09-07T14:48:57.126493+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -688,12 +688,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Starke Heimbilanz des FC Barcelona",
-          "Feyenoord mit Auswärtsschwächen in der Champions League",
-          "Barcelona hat den Kader, um auch bei Ausfällen zu bestehen"
+          "FC Barcelona mit starker Heimbilanz in der Champions League.",
+          "Feyenoord Rotterdam hat auswärts gegen Top-Teams oft Schwierigkeiten.",
+          "Barcelona hat den Kader, um auch bei möglicher Rotation eine starke Elf aufzustellen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-06T17:33:50.468522+00:00"
+        "generatedAt": "2026-09-07T14:48:47.956651+00:00"
       }
     },
     {
@@ -741,12 +741,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Stuttgart mit starker Heimform",
-          "Viking FK schwächelt auswärts",
-          "Stuttgarts Kaderqualität höher"
+          "Stuttgart ist heimstark und in guter Form.",
+          "Viking FK hat auswärts Schwächen gezeigt.",
+          "Stuttgarts Kader ist qualitativ besser besetzt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-06T17:33:52.136120+00:00"
+        "generatedAt": "2026-09-07T14:48:49.575573+00:00"
       }
     },
     {
@@ -784,20 +784,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Liverpool FC",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Liverpool hat einen starken Heimvorteil in der Champions League.",
-          "Atlético Madrid zeigt sich auswärts oft defensiver und abwartender.",
-          "Liverpools Offensive ist aktuell gut in Form."
+          "Liverpool ist zu Hause stark und hat eine positive Heimbilanz gegen Atlético.",
+          "Atlético Madrid hat zuletzt auswärts Schwächen gezeigt.",
+          "Liverpools Offensive ist gut in Form und erzielt konstant Tore."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-06T17:33:53.653354+00:00"
+        "generatedAt": "2026-09-07T14:48:51.329097+00:00"
       }
     },
     {
@@ -845,11 +845,11 @@
         },
         "reasons": [
           "PSG hat eine deutlich stärkere Mannschaft",
-          "Bratislava hat in der Champions League oft Schwierigkeiten",
-          "PSG spielt zu Hause und ist in guter Form"
+          "Slovan Bratislava hat in der Champions League oft Schwierigkeiten",
+          "PSG spielt zu Hause und ist Favorit"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-06T17:33:55.154052+00:00"
+        "generatedAt": "2026-09-07T14:48:52.925174+00:00"
       }
     },
     {
@@ -890,17 +890,17 @@
         "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.35,
-          "draw": 0.25,
+          "home": 0.3,
+          "draw": 0.3,
           "away": 0.4
         },
         "reasons": [
           "Arsenal FC in besserer Verfassung",
           "Napoli mit Ausfällen in der Defensive",
-          "Arsenal FC mit stärkerer Offensive"
+          "Arsenal FC hat eine starke Auswärtsbilanz in Europa"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-06T17:33:56.603217+00:00"
+        "generatedAt": "2026-09-07T14:48:54.535379+00:00"
       }
     },
     {
@@ -938,21 +938,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Sporting Clube de Portugal",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "outcome": "Sieg Sporting CP",
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Sporting CP mit starker Heimform in der Liga.",
-          "Galatasaray hat auswärts oft Schwierigkeiten.",
-          "Sporting CP hat den besseren Kader auf dem Papier."
+          "Sporting CP mit starker Heimform in der Liga",
+          "Galatasaray zuletzt auswärts anfällig",
+          "Sporting CP hat die Qualität, um zu dominieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-06T17:33:58.295049+00:00"
+        "generatedAt": "2026-09-07T14:48:56.125795+00:00"
       }
     },
     {
