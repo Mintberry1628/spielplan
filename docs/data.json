@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T03:10:09.618415+00:00",
+  "generatedAt": "2026-09-08T10:37:58.454074+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -332,21 +332,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Aston Villa FC",
-        "scoreline": "1:2",
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Aston Villa hat eine stärkere aktuelle Form",
-          "Club Brugge hat Heimvorteil, aber Aston Villa die höhere individuelle Qualität",
-          "Beide Teams sind in ihren Ligen gut platziert, Aston Villa hat aber international mehr Erfahrung."
+          "Club Brugge ist zu Hause stark und hat eine gute Saison gespielt.",
+          "Aston Villa hat eine starke Offensive, aber Auswärtsspiele in der Champions League sind oft schwierig.",
+          "Beide Teams sind defensiv solide und könnten sich neutralisieren."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T08:11:40.468876+00:00"
+        "generatedAt": "2026-09-08T10:37:50.528448+00:00"
       }
     },
     {
@@ -392,12 +392,12 @@
           "away": 0.2
         },
         "reasons": [
-          "AEK mit starkem Heimvorteil",
-          "LASK zuletzt in guter Verfassung",
-          "Beide Teams defensivstark"
+          "AEK mit starker Heimform in der Liga",
+          "LASK defensiv stabil, aber auswärts oft unentschieden",
+          "Beide Teams wollen den Fehlstart vermeiden"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T08:11:42.361138+00:00"
+        "generatedAt": "2026-09-08T10:37:52.134382+00:00"
       }
     },
     {
@@ -445,12 +445,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Starke Heimbilanz von Real Madrid",
-          "Inter zuletzt mit schwankenden Leistungen",
+          "Real Madrid mit starker Heimbilanz",
+          "Inter zuletzt mit wechselhaften Ergebnissen",
           "Real Madrid hat mehr individuelle Klasse"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T08:11:43.872509+00:00"
+        "generatedAt": "2026-09-08T10:37:53.708756+00:00"
       }
     },
     {
@@ -487,22 +487,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Manchester City FC",
-        "scoreline": "1:2",
-        "confidence": 0.45,
-        "probs": {
-          "home": 0.25,
-          "draw": 0.3,
-          "away": 0.45
-        },
-        "reasons": [
-          "Porto mit schwankender Form in den letzten Spielen",
-          "Manchester City mit starker Offensive und guter Auswärtsbilanz",
-          "Heimvorteil Porto nicht ausreichend, um die individuelle Klasse von ManCity zu kompensieren"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T08:11:45.488644+00:00"
+        "available": false
       }
     },
     {
@@ -540,20 +525,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Dortmund",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Dortmund hat Heimvorteil in der Champions League",
-          "Villarreal ist in der spanischen Liga noch nicht in Topform",
-          "Dortmunds Offensive ist stark genug für den Heimauftritt"
+          "Dortmund mit starker Heimform in der Liga",
+          "Villarreal zuletzt auswärts anfällig",
+          "Dortmunds offensive Stärke"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T08:11:47.069103+00:00"
+        "generatedAt": "2026-09-08T10:37:55.887753+00:00"
       }
     },
     {
@@ -596,16 +581,16 @@
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
+          "draw": 0.25,
+          "away": 0.2
         },
         "reasons": [
           "Lille hat Heimvorteil",
           "Real Betis in schwacher Form",
-          "Lille mit guter Ligabilanz"
+          "Lille mit besserer Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T08:11:48.543860+00:00"
+        "generatedAt": "2026-09-08T10:37:57.453283+00:00"
       }
     },
     {
