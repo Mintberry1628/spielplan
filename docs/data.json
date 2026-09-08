@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:37:58.454074+00:00",
+  "generatedAt": "2026-09-08T16:01:56.914777+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -487,7 +487,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Manchester City FC",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.2,
+          "draw": 0.3,
+          "away": 0.5
+        },
+        "reasons": [
+          "Porto mit schwankender Form in der Liga",
+          "Man City mit starker Saisonleistung und breiterem Kader",
+          "Man City hat die letzten Duelle gegen Porto dominiert"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-08T16:01:45.311429+00:00"
       }
     },
     {
@@ -637,12 +652,12 @@
           "away": 0.1
         },
         "reasons": [
-          "FC Barcelona mit starker Heimbilanz in der Champions League.",
-          "Feyenoord Rotterdam hat auswärts gegen Top-Teams oft Schwierigkeiten.",
-          "Barcelona hat den Kader, um auch bei möglicher Rotation eine starke Elf aufzustellen."
+          "FC Barcelona hat Heimvorteil und eine starke Offensive.",
+          "Feyenoord Rotterdam hat zuletzt auswärts Schwächen gezeigt.",
+          "Barcelonas Form ist konstant gut, Feyenoords Form schwankend."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T14:48:47.956651+00:00"
+        "generatedAt": "2026-09-08T16:01:47.170756+00:00"
       }
     },
     {
@@ -690,12 +705,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Stuttgart ist heimstark und in guter Form.",
-          "Viking FK hat auswärts Schwächen gezeigt.",
-          "Stuttgarts Kader ist qualitativ besser besetzt."
+          "Stuttgart mit starker Heimform in der Liga",
+          "Viking FK mit Auswärtsschwächen in Europa",
+          "Stuttgarts Kader breiter und erfahrener"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T14:48:49.575573+00:00"
+        "generatedAt": "2026-09-08T16:01:48.904955+00:00"
       }
     },
     {
@@ -733,20 +748,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Liverpool FC",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Liverpool ist zu Hause stark und hat eine positive Heimbilanz gegen Atlético.",
-          "Atlético Madrid hat zuletzt auswärts Schwächen gezeigt.",
-          "Liverpools Offensive ist gut in Form und erzielt konstant Tore."
+          "Liverpool FC mit starker Heimform in der Liga",
+          "Atlético Madrid mit defensiven Schwächen auswärts",
+          "Liverpool FC hat die breitere und tiefere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T14:48:51.329097+00:00"
+        "generatedAt": "2026-09-08T16:01:50.680503+00:00"
       }
     },
     {
@@ -793,12 +808,12 @@
           "away": 0.05
         },
         "reasons": [
-          "PSG hat eine deutlich stärkere Mannschaft",
-          "Slovan Bratislava hat in der Champions League oft Schwierigkeiten",
-          "PSG spielt zu Hause und ist Favorit"
+          "PSG hat deutlich mehr individuelle Klasse",
+          "Slovan Bratislava spielt auswärts und ist Außenseiter",
+          "PSG hat Heimvorteil und ist Favorit"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T14:48:52.925174+00:00"
+        "generatedAt": "2026-09-08T16:01:52.409545+00:00"
       }
     },
     {
@@ -844,12 +859,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Arsenal FC in besserer Verfassung",
-          "Napoli mit Ausfällen in der Defensive",
-          "Arsenal FC hat eine starke Auswärtsbilanz in Europa"
+          "Arsenal zeigt aktuell eine stärkere Form in der heimischen Liga.",
+          "Napoli hat einige wichtige Spieler mit längeren Ausfällen zu beklagen.",
+          "Arsenal hat die größere Erfahrung in europäischen Top-Wettbewerben."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T14:48:54.535379+00:00"
+        "generatedAt": "2026-09-08T16:01:54.173162+00:00"
       }
     },
     {
@@ -896,12 +911,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Sporting CP mit starker Heimform in der Liga",
+          "Sporting CP mit starker Heimbilanz in Europa",
           "Galatasaray zuletzt auswärts anfällig",
-          "Sporting CP hat die Qualität, um zu dominieren"
+          "Sporting CP hat den größeren Kader und mehr Erfahrung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-07T14:48:56.125795+00:00"
+        "generatedAt": "2026-09-08T16:01:55.914099+00:00"
       }
     },
     {
