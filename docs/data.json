@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:18:02.037648+00:00",
+  "generatedAt": "2026-09-08T03:10:09.618415+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,42 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565791",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-04",
-      "kickoff": "2026-09-04T20:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "VfB Stuttgart",
-        "short": "VFB",
-        "crest": "https://crests.football-data.org/10.png",
-        "score": 4
-      },
-      "away": {
-        "name": "1. FC Köln",
-        "short": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565785",
       "competition": "Bundesliga",
