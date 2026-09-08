@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:45:39.074646+00:00",
+  "generatedAt": "2026-09-08T23:12:20.458928+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -347,7 +347,7 @@
         "name": "PAE AEK",
         "short": "AEK",
         "crest": "https://crests.football-data.org/1899.png",
-        "score": 2
+        "score": 1
       },
       "away": {
         "name": "LASK Linz",
@@ -377,7 +377,7 @@
       "dateLocal": "2026-09-08",
       "kickoff": "2026-09-08T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Real Madrid CF",
@@ -405,22 +405,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Real Madrid CF",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Real Madrid mit starker Heimbilanz",
-          "Inter zuletzt mit wechselhaften Ergebnissen",
-          "Real Madrid hat mehr individuelle Klasse"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-08T10:37:53.708756+00:00"
+        "available": false
       }
     },
     {
@@ -430,7 +415,7 @@
       "dateLocal": "2026-09-08",
       "kickoff": "2026-09-08T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Porto",
@@ -442,7 +427,7 @@
         "name": "Manchester City FC",
         "short": "MCI",
         "crest": "https://crests.football-data.org/65.png",
-        "score": 1
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -457,22 +442,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Manchester City FC",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.3,
-          "away": 0.5
-        },
-        "reasons": [
-          "Porto mit schwankender Form in der Liga",
-          "Man City mit starker Saisonleistung und breiterem Kader",
-          "Man City hat die letzten Duelle gegen Porto dominiert"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-08T16:01:45.311429+00:00"
+        "available": false
       }
     },
     {
@@ -482,19 +452,19 @@
       "dateLocal": "2026-09-08",
       "kickoff": "2026-09-08T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": 1
+        "score": 3
       },
       "away": {
         "name": "Villarreal CF",
         "short": "VIL",
         "crest": "https://crests.football-data.org/94.png",
-        "score": 1
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -508,22 +478,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Dortmund",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Dortmund mit starker Heimform in der Liga",
-          "Villarreal zuletzt auswärts anfällig",
-          "Dortmunds offensive Stärke"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-08T10:37:55.887753+00:00"
+        "available": false
       }
     },
     {
@@ -533,7 +488,7 @@
       "dateLocal": "2026-09-08",
       "kickoff": "2026-09-08T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Lille OSC",
@@ -560,22 +515,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Lille OSC",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Lille hat Heimvorteil",
-          "Real Betis in schwacher Form",
-          "Lille mit besserer Kaderbreite"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-08T10:37:57.453283+00:00"
+        "available": false
       }
     },
     {
