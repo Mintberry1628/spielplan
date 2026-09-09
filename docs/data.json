@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:12:20.458928+00:00",
+  "generatedAt": "2026-09-09T03:12:21.183430+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,222 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565785",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SV Werder Bremen",
-        "short": "SVW",
-        "crest": "https://crests.football-data.org/12.png",
-        "score": 3
-      },
-      "away": {
-        "name": "RB Leipzig",
-        "short": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565787",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "TSG 1899 Hoffenheim",
-        "short": "TSG",
-        "crest": "https://crests.football-data.org/2.png",
-        "score": 2
-      },
-      "away": {
-        "name": "Borussia Dortmund",
-        "short": "BVB",
-        "crest": "https://crests.football-data.org/4.png",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565790",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Bayer 04 Leverkusen",
-        "short": "B04",
-        "crest": "https://crests.football-data.org/3.png",
-        "score": 4
-      },
-      "away": {
-        "name": "1. FC Union Berlin",
-        "short": "UNB",
-        "crest": "https://crests.football-data.org/28.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565792",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Borussia Mönchengladbach",
-        "short": "BMG",
-        "crest": "https://crests.football-data.org/18.png",
-        "score": 3
-      },
-      "away": {
-        "name": "SV 07 Elversberg",
-        "short": "ELV",
-        "crest": "https://crests.football-data.org/719.png",
-        "score": 4
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565793",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SC Paderborn 07",
-        "short": "SCP",
-        "crest": "https://crests.football-data.org/29.png",
-        "score": 0
-      },
-      "away": {
-        "name": "SC Freiburg",
-        "short": "SCF",
-        "crest": "https://crests.football-data.org/17.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565789",
-      "competition": "Bundesliga",
-      "competitionStage": "2. Spieltag",
-      "dateLocal": "2026-09-05",
-      "kickoff": "2026-09-05T18:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Schalke 04",
-        "short": "S04",
-        "crest": "https://crests.football-data.org/6.png",
-        "score": 0
-      },
-      "away": {
-        "name": "FC Bayern München",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565788",
       "competition": "Bundesliga",
@@ -320,12 +104,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -394,12 +176,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -432,11 +212,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -469,10 +248,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -505,11 +284,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
