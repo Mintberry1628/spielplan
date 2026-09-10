@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:27:33.220466+00:00",
+  "generatedAt": "2026-09-10T22:56:59.614790+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -522,13 +522,13 @@
       "dateLocal": "2026-09-10",
       "kickoff": "2026-09-10T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": 1
+        "score": 5
       },
       "away": {
         "name": "FK Bodø/Glimt",
@@ -560,13 +560,13 @@
       "dateLocal": "2026-09-10",
       "kickoff": "2026-09-10T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Manchester United FC",
         "short": "MUN",
         "crest": "https://crests.football-data.org/66.png",
-        "score": 3
+        "score": 4
       },
       "away": {
         "name": "Sabah FK",
@@ -587,22 +587,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Manchester United FC",
-        "scoreline": "3:0",
-        "confidence": 0.75,
-        "probs": {
-          "home": 0.75,
-          "draw": 0.15,
-          "away": 0.1
-        },
-        "reasons": [
-          "Manchester United ist klarer Favorit gegen den Außenseiter Sabah FK",
-          "Heimvorteil im Old Trafford",
-          "Sabah FK hat in der Vergangenheit wenig Erfahrung auf diesem Niveau"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:14.734121+00:00"
+        "available": false
       }
     },
     {
@@ -612,13 +597,13 @@
       "dateLocal": "2026-09-10",
       "kickoff": "2026-09-10T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Como 1907",
         "short": "COM",
         "crest": "https://crests.football-data.org/7397.png",
-        "score": 3
+        "score": 4
       },
       "away": {
         "name": "RB Leipzig",
@@ -639,22 +624,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg RB Leipzig",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "RB Leipzig in besserer Form",
-          "Como 1907 mit Heimvorteil, aber schwächerer Kader",
-          "Leipzig hat mehr Erfahrung auf internationaler Bühne"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:16.386389+00:00"
+        "available": false
       }
     },
     {
@@ -664,19 +634,19 @@
       "dateLocal": "2026-09-10",
       "kickoff": "2026-09-10T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SK Slavia Praha",
         "short": "SLP",
         "crest": "https://crests.football-data.org/930.png",
-        "score": 1
+        "score": 2
       },
       "away": {
         "name": "Racing Club de Lens",
         "short": "RCL",
         "crest": "https://crests.football-data.org/546.png",
-        "score": 0
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -690,22 +660,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg SK Slavia Praha",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
-        },
-        "reasons": [
-          "Slavia Prag hat eine starke Heimform in europäischen Wettbewerben.",
-          "Lens hat zuletzt auswärts Schwierigkeiten gezeigt.",
-          "Beide Teams sind defensivstark, was ein knappes Ergebnis wahrscheinlich macht."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:18.122738+00:00"
+        "available": false
       }
     },
     {
@@ -899,7 +854,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "1:3",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.2,
+          "draw": 0.2,
+          "away": 0.6
+        },
+        "reasons": [
+          "Leverkusen zeigt konstante Topform und ist offensivstark.",
+          "Augsburg hat zuletzt Schwächen in der Defensive gezeigt.",
+          "Leverkusen hat die bessere Qualität im Kader und die breitere Bank."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-10T22:56:58.614369+00:00"
       }
     },
     {
