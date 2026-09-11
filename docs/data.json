@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T20:29:26.137980+00:00",
+  "generatedAt": "2026-09-11T22:59:05.746130+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -663,19 +663,19 @@
       "dateLocal": "2026-09-11",
       "kickoff": "2026-09-11T20:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Union Berlin",
         "short": "UNB",
         "crest": "https://crests.football-data.org/28.png",
-        "score": 0
+        "score": 1
       },
       "away": {
         "name": "FC Schalke 04",
         "short": "S04",
         "crest": "https://crests.football-data.org/6.png",
-        "score": 2
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -689,22 +689,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Union Berlin mit starker Heimform",
-          "Schalke 04 schwächelt auswärts",
-          "Union Berlin hat die stabilere Defensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-11T20:29:11.793162+00:00"
+        "available": false
       }
     },
     {
