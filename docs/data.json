@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T03:07:37.023126+00:00",
+  "generatedAt": "2026-09-11T10:39:33.300159+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1046,6 +1046,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "DAZN",
           "Sky"
         ],
@@ -1098,6 +1099,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "DAZN",
           "Sky"
         ],
@@ -4115,7 +4117,7 @@
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "SSV Jeddeloh",
+        "name": "SSV Jeddeloh II",
         "short": "SSV Jeddeloh",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_SSV_Jeddeloh.svg",
         "score": null
