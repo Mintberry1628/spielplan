@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T15:54:33.705658+00:00",
+  "generatedAt": "2026-09-11T20:29:26.137980+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -663,19 +663,19 @@
       "dateLocal": "2026-09-11",
       "kickoff": "2026-09-11T20:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "1. FC Union Berlin",
         "short": "UNB",
         "crest": "https://crests.football-data.org/28.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "FC Schalke 04",
         "short": "S04",
         "crest": "https://crests.football-data.org/6.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -690,7 +690,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Union Berlin",
+        "outcome": "Sieg Heim",
         "scoreline": "2:0",
         "confidence": 0.6,
         "probs": {
@@ -699,12 +699,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Union Berlin mit starker Heimform in der Rückrunde",
-          "Schalke 04 kämpft auswärts mit der Defensive",
-          "Union Berlin hat den besseren Kader und die aktuelle Form"
+          "Union Berlin mit starker Heimform",
+          "Schalke 04 schwächelt auswärts",
+          "Union Berlin hat die stabilere Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:19.865219+00:00"
+        "generatedAt": "2026-09-11T20:29:11.793162+00:00"
       }
     },
     {
@@ -748,16 +748,16 @@
         "confidence": 0.4,
         "probs": {
           "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "draw": 0.35,
+          "away": 0.25
         },
         "reasons": [
-          "Hoffenheim zu Hause stark, aber Stuttgart in guter Form",
-          "Beide Teams haben ähnliche Tabellenpositionen",
-          "Stuttgart zuletzt auswärts stabil"
+          "Hoffenheim zu Hause stark, aber anfällig",
+          "Stuttgart in guter Form, aber auswärts schwächer",
+          "Ausgeglichene Kaderstärke beider Teams"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:21.545724+00:00"
+        "generatedAt": "2026-09-11T20:29:13.498505+00:00"
       }
     },
     {
@@ -797,19 +797,19 @@
         "available": true,
         "outcome": "Sieg Borussia Dortmund",
         "scoreline": "3:1",
-        "confidence": 0.75,
+        "confidence": 0.7,
         "probs": {
-          "home": 0.75,
-          "draw": 0.15,
+          "home": 0.7,
+          "draw": 0.2,
           "away": 0.1
         },
         "reasons": [
           "Dortmund mit starker Heimbilanz und offensiver Durchschlagskraft",
           "Paderborn defensiv anfällig und auswärts schwächer",
-          "Qualitativer Unterschied im Kader spricht für den BVB"
+          "Dortmund hat den klar besseren Kader und die höhere individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:23.178288+00:00"
+        "generatedAt": "2026-09-11T20:29:15.207856+00:00"
       }
     },
     {
@@ -857,12 +857,12 @@
           "away": 0.6
         },
         "reasons": [
-          "Leverkusen zeigt konstante Topform und ist offensivstark.",
-          "Augsburg hat zuletzt Schwächen in der Defensive gezeigt.",
-          "Leverkusen hat die bessere Qualität im Kader und die breitere Bank."
+          "Leverkusen überzeugte in den ersten Saisonspielen mit starker Offensive.",
+          "Augsburg hat Probleme in der Defensive und kassierte viele Gegentore.",
+          "Leverkusen hat eine positive Bilanz gegen Augsburg in den letzten Jahren."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T22:56:58.614369+00:00"
+        "generatedAt": "2026-09-11T20:29:16.898619+00:00"
       }
     },
     {
@@ -910,12 +910,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Mainz mit starkem Heimauftritt in dieser Saison",
-          "Frankfurt zuletzt defensiv stabil",
-          "Beide Teams auf ähnlichem Niveau mit Potenzial für ein ausgeglichenes Spiel"
+          "Mainz mit starkem Heimauftritt gegen durchschnittliche Frankfurter Auswärtsform",
+          "Beide Teams defensiv solide, was zu knappen Ergebnissen führt",
+          "Frankfurt fehlt die Durchschlagskraft in der Offensive gegen tiefstehende Teams"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:25.529337+00:00"
+        "generatedAt": "2026-09-11T20:29:18.608649+00:00"
       }
     },
     {
@@ -954,7 +954,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg SC Freiburg",
+        "outcome": "Sieg Freiburg",
         "scoreline": "2:1",
         "confidence": 0.55,
         "probs": {
@@ -963,12 +963,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Freiburg zu Hause stark",
-          "Gladbach auswärts schwach",
-          "Freiburgs gute Form über die letzten Spiele"
+          "Freiburg mit starkem Heimvorteil und stabiler Form.",
+          "Gladbachs Auswärtsbilanz ist ausbaufähig.",
+          "Beide Teams haben ähnliche Tabellenpositionen, aber Freiburgs Konstanz spricht für sie."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:27.051919+00:00"
+        "generatedAt": "2026-09-11T20:29:20.336550+00:00"
       }
     },
     {
@@ -1014,12 +1014,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Köln hat Heimvorteil genutzt",
-          "Bremen in schwacher Verfassung",
-          "Kölns Offensive ist stärker"
+          "Köln zuletzt heimstark",
+          "Bremen auswärts anfällig",
+          "Kölns Offensive ist besser bestückt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:28.615418+00:00"
+        "generatedAt": "2026-09-11T20:29:21.942713+00:00"
       }
     },
     {
@@ -1060,19 +1060,19 @@
         "available": true,
         "outcome": "Sieg RB Leipzig",
         "scoreline": "3:1",
-        "confidence": 0.65,
+        "confidence": 0.7,
         "probs": {
-          "home": 0.65,
+          "home": 0.7,
           "draw": 0.2,
-          "away": 0.15
+          "away": 0.1
         },
         "reasons": [
-          "RB Leipzig mit starker Form und Heimstärke",
-          "Hamburger SV mit Auswärtsschwächen in dieser Saison",
-          "RB Leipzig hat den Kader für einen offensiven Schlagabtausch"
+          "RB Leipzig mit starker Saisonform und offensiver Durchschlagskraft",
+          "Hamburger SV auswärts anfällig und mit Problemen in der Defensive",
+          "RB Leipzig hat Heimvorteil und höhere individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:30.465457+00:00"
+        "generatedAt": "2026-09-11T20:29:23.486139+00:00"
       }
     },
     {
@@ -1113,19 +1113,19 @@
         "available": true,
         "outcome": "Sieg FC Bayern München",
         "scoreline": "0:3",
-        "confidence": 0.8,
+        "confidence": 0.85,
         "probs": {
           "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
+          "draw": 0.1,
+          "away": 0.85
         },
         "reasons": [
-          "FC Bayern München ist klarer Favorit aufgrund der überlegenen Kaderqualität und individuellen Klasse.",
-          "SV Elversberg hat einen schwierigen Saisonstart und muss sich erst noch finden.",
-          "FC Bayern München hat eine starke Auswärtsbilanz und wird auf Sieg drängen."
+          "FC Bayern München ist klarer Favorit",
+          "SV 07 Elversberg hat Heimvorteil, aber Qualitätsunterschied ist zu groß",
+          "FC Bayern München ist in bestechender Frühform"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T20:27:32.220054+00:00"
+        "generatedAt": "2026-09-11T20:29:25.137377+00:00"
       }
     },
     {
