@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T22:56:59.614790+00:00",
+  "generatedAt": "2026-09-11T03:07:37.023126+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -464,12 +464,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -502,11 +500,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -539,12 +536,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -577,11 +572,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -614,11 +608,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -1172,8 +1165,8 @@
         "confidence": 0.7,
         "probs": {
           "home": 0.7,
-          "draw": 0.15,
-          "away": 0.15
+          "draw": 0.2,
+          "away": 0.1
         },
         "reasons": [
           "Bayern mit starker Heimbilanz gegen Union",
@@ -1181,7 +1174,7 @@
           "Bayern hat den breiteren und qualitativ hochwertigeren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-10T03:11:50.811043+00:00"
+        "generatedAt": "2026-09-11T03:07:27.911589+00:00"
       }
     },
     {
@@ -1217,7 +1210,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Hamburger SV",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Hamburger SV mit Heimvorteil und stärkerer Form",
+          "1. FC Köln kämpft auswärts mit Konstanz",
+          "Tabellarische Nähe deutet auf ausgeglichenes Spiel hin"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-11T03:07:29.546207+00:00"
       }
     },
     {
@@ -1255,7 +1263,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Mönchengladbach",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Gladbach heimstark, Mainz auswärtsschwach",
+          "Gladbachs Formkurve zeigt nach oben",
+          "Mainz hat Probleme in der Defensive"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-11T03:07:31.216844+00:00"
       }
     },
     {
@@ -1293,7 +1316,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Werder Bremen",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Werder Bremen hat einen leichten Aufwärtstrend gezeigt.",
+          "Augsburgs Auswärtsbilanz ist oft schwach.",
+          "Heimvorteil für Bremen im Weserstadion."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-11T03:07:32.862248+00:00"
       }
     },
     {
@@ -1331,7 +1369,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Eintracht Frankfurt",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Frankfurt mit starker Heimform",
+          "Freiburg zuletzt auswärts anfällig",
+          "Frankfurt hat den besseren direkten Vergleich"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-11T03:07:34.481700+00:00"
       }
     },
     {
@@ -1367,7 +1420,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Stuttgart mit starker Heimbilanz",
+          "Dortmunds Auswärtsschwäche in dieser Saison",
+          "Aktuelle Form spricht für Stuttgart"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-11T03:07:36.022753+00:00"
       }
     },
     {
@@ -1394,7 +1462,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1430,7 +1499,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1466,7 +1536,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
