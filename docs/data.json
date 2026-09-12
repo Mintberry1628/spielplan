@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:13:12.733647+00:00",
+  "generatedAt": "2026-09-12T22:51:29.142387+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -483,7 +483,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "TSG 1899 Hoffenheim",
@@ -511,7 +511,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Beide Teams mit ähnlicher Formkurve",
+          "VfB Stuttgart auswärts oft defensiv stabil",
+          "TSG Hoffenheim heimstark, aber nicht konstant"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-12T22:51:20.062714+00:00"
       }
     },
     {
@@ -521,7 +536,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
@@ -548,7 +563,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Dortmund",
+        "scoreline": "3:0",
+        "confidence": 0.8,
+        "probs": {
+          "home": 0.8,
+          "draw": 0.15,
+          "away": 0.05
+        },
+        "reasons": [
+          "Dortmund mit starker Heimbilanz und offensiver Durchschlagskraft",
+          "Paderborn kämpft um Konstanz und hat auswärts Schwächen",
+          "Kaderqualität und aktuelle Form sprechen klar für den BVB"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-12T22:51:21.739351+00:00"
       }
     },
     {
@@ -558,7 +588,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "FC Augsburg",
@@ -586,7 +616,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "1:3",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.2,
+          "draw": 0.2,
+          "away": 0.6
+        },
+        "reasons": [
+          "Leverkusen in starker Form und mit breiterem Kader",
+          "Augsburgs Heimschwäche in der Rückrunde",
+          "Leverkusen hat die bessere Spielanlage und Offensive."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-12T22:51:23.329993+00:00"
       }
     },
     {
@@ -596,7 +641,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "1. FSV Mainz 05",
@@ -624,7 +669,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Mainz mit starkem Heimauftritt in dieser Saison",
+          "Frankfurt auswärts noch nicht konstant",
+          "Beide Teams mit ähnlicher Tabellensituation und Punktedifferenz"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-12T22:51:24.883873+00:00"
       }
     },
     {
@@ -634,7 +694,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "SC Freiburg",
@@ -662,7 +722,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Freiburg",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Freiburg mit starkem Heimvorteil und guter Saisonform",
+          "Mönchengladbach zeigt Auswärtsschwächen",
+          "Beide Teams mit ähnlicher Tabellensituation, aber Freiburgs Konstanz spricht für sie"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-12T22:51:26.544371+00:00"
       }
     },
     {
@@ -672,7 +747,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "1. FC Köln",
@@ -698,7 +773,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Köln zu Hause oft stabil",
+          "Bremen auswärts schwer zu schlagen",
+          "Beide Teams mit ähnlichem Formstand"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-12T22:51:28.141946+00:00"
       }
     },
     {
