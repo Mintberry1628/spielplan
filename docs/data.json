@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T03:13:57.560491+00:00",
+  "generatedAt": "2026-09-12T10:08:37.247184+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1347,7 +1347,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Hoffenheim",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Paderborn schwächelt zu Hause",
+          "Hoffenheim zeigt stabile Auswärtsform",
+          "Kampf um Europa motiviert Hoffenheim"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-09-12T10:08:36.246759+00:00"
       }
     },
     {
