@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T15:01:20.571959+00:00",
+  "generatedAt": "2026-09-12T20:13:12.733647+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -483,13 +483,13 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "TSG 1899 Hoffenheim",
         "short": "TSG",
         "crest": "https://crests.football-data.org/2.png",
-        "score": 1
+        "score": 2
       },
       "away": {
         "name": "VfB Stuttgart",
@@ -511,22 +511,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.35,
-          "away": 0.25
-        },
-        "reasons": [
-          "Hoffenheim zu Hause stark, aber anfällig",
-          "Stuttgart in guter Form, aber auswärts schwächer",
-          "Ausgeglichene Kaderstärke beider Teams"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-11T20:29:13.498505+00:00"
+        "available": false
       }
     },
     {
@@ -536,13 +521,13 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": 1
+        "score": 3
       },
       "away": {
         "name": "SC Paderborn 07",
@@ -563,22 +548,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Dortmund",
-        "scoreline": "3:1",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
-        },
-        "reasons": [
-          "Dortmund mit starker Heimbilanz und offensiver Durchschlagskraft",
-          "Paderborn defensiv anfällig und auswärts schwächer",
-          "Dortmund hat den klar besseren Kader und die höhere individuelle Qualität"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-11T20:29:15.207856+00:00"
+        "available": false
       }
     },
     {
@@ -588,7 +558,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Augsburg",
@@ -616,22 +586,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "1:3",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.2,
-          "away": 0.6
-        },
-        "reasons": [
-          "Leverkusen überzeugte in den ersten Saisonspielen mit starker Offensive.",
-          "Augsburg hat Probleme in der Defensive und kassierte viele Gegentore.",
-          "Leverkusen hat eine positive Bilanz gegen Augsburg in den letzten Jahren."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-11T20:29:16.898619+00:00"
+        "available": false
       }
     },
     {
@@ -641,13 +596,13 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": 0
+        "score": 1
       },
       "away": {
         "name": "Eintracht Frankfurt",
@@ -669,22 +624,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Mainz mit starkem Heimauftritt gegen durchschnittliche Frankfurter Auswärtsform",
-          "Beide Teams defensiv solide, was zu knappen Ergebnissen führt",
-          "Frankfurt fehlt die Durchschlagskraft in der Offensive gegen tiefstehende Teams"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-11T20:29:18.608649+00:00"
+        "available": false
       }
     },
     {
@@ -694,13 +634,13 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SC Freiburg",
         "short": "SCF",
         "crest": "https://crests.football-data.org/17.png",
-        "score": 2
+        "score": 5
       },
       "away": {
         "name": "Borussia Mönchengladbach",
@@ -722,22 +662,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Freiburg",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Freiburg mit starkem Heimvorteil und stabiler Form.",
-          "Gladbachs Auswärtsbilanz ist ausbaufähig.",
-          "Beide Teams haben ähnliche Tabellenpositionen, aber Freiburgs Konstanz spricht für sie."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-11T20:29:20.336550+00:00"
+        "available": false
       }
     },
     {
@@ -747,19 +672,19 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Köln",
         "short": "KOE",
         "crest": "https://crests.football-data.org/1.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "SV Werder Bremen",
         "short": "SVW",
         "crest": "https://crests.football-data.org/12.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -773,22 +698,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Köln zuletzt heimstark",
-          "Bremen auswärts anfällig",
-          "Kölns Offensive ist besser bestückt"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-11T20:29:21.942713+00:00"
+        "available": false
       }
     },
     {
@@ -837,11 +747,11 @@
         },
         "reasons": [
           "RB Leipzig mit starker Saisonform und offensiver Durchschlagskraft",
-          "Hamburger SV auswärts anfällig und mit Problemen in der Defensive",
-          "RB Leipzig hat Heimvorteil und höhere individuelle Qualität"
+          "Hamburger SV kämpft mit Konstanz und Auswärtsschwäche",
+          "RB Leipzig hat Heimvorteil und eine positive Bilanz gegen den HSV"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-11T20:29:23.486139+00:00"
+        "generatedAt": "2026-09-12T20:13:10.131884+00:00"
       }
     },
     {
@@ -882,19 +792,19 @@
         "available": true,
         "outcome": "Sieg FC Bayern München",
         "scoreline": "0:3",
-        "confidence": 0.85,
+        "confidence": 0.8,
         "probs": {
           "home": 0.05,
-          "draw": 0.1,
-          "away": 0.85
+          "draw": 0.15,
+          "away": 0.8
         },
         "reasons": [
-          "FC Bayern München ist klarer Favorit",
-          "SV 07 Elversberg hat Heimvorteil, aber Qualitätsunterschied ist zu groß",
-          "FC Bayern München ist in bestechender Frühform"
+          "Elversberg mit schwachem Saisonstart",
+          "Bayern mit starker Offensive und breitem Kader",
+          "Elversberg Heimstärke noch nicht bewiesen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-11T20:29:25.137377+00:00"
+        "generatedAt": "2026-09-12T20:13:11.733148+00:00"
       }
     },
     {
