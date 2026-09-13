@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T22:51:29.142387+00:00",
+  "generatedAt": "2026-09-13T03:17:27.083185+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,222 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-575329",
-      "competition": "Champions League",
-      "competitionStage": "Ligaphase · 1. Spieltag",
-      "dateLocal": "2026-09-09",
-      "kickoff": "2026-09-09T18:45:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Barcelona",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/81.png",
-        "score": 5
-      },
-      "away": {
-        "name": "Feyenoord Rotterdam",
-        "short": "FEY",
-        "crest": "https://crests.football-data.org/675.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-575330",
-      "competition": "Champions League",
-      "competitionStage": "Ligaphase · 1. Spieltag",
-      "dateLocal": "2026-09-09",
-      "kickoff": "2026-09-09T18:45:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "VfB Stuttgart",
-        "short": "VFB",
-        "crest": "https://crests.football-data.org/10.png",
-        "score": 3
-      },
-      "away": {
-        "name": "Viking FK",
-        "short": "VIK",
-        "crest": "https://crests.football-data.org/5720.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-575331",
-      "competition": "Champions League",
-      "competitionStage": "Ligaphase · 1. Spieltag",
-      "dateLocal": "2026-09-09",
-      "kickoff": "2026-09-09T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Liverpool FC",
-        "short": "LIV",
-        "crest": "https://crests.football-data.org/64.png",
-        "score": 2
-      },
-      "away": {
-        "name": "Club Atlético de Madrid",
-        "short": "ATL",
-        "crest": "https://crests.football-data.org/78.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-575332",
-      "competition": "Champions League",
-      "competitionStage": "Ligaphase · 1. Spieltag",
-      "dateLocal": "2026-09-09",
-      "kickoff": "2026-09-09T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Paris Saint-Germain FC",
-        "short": "PSG",
-        "crest": "https://crests.football-data.org/524.png",
-        "score": 6
-      },
-      "away": {
-        "name": "ŠK Slovan Bratislava",
-        "short": "SBA",
-        "crest": "https://crests.football-data.org/7509.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-575333",
-      "competition": "Champions League",
-      "competitionStage": "Ligaphase · 1. Spieltag",
-      "dateLocal": "2026-09-09",
-      "kickoff": "2026-09-09T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SSC Napoli",
-        "short": "NAP",
-        "crest": "https://crests.football-data.org/113.png",
-        "score": 0
-      },
-      "away": {
-        "name": "Arsenal FC",
-        "short": "ARS",
-        "crest": "https://crests.football-data.org/57.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-575334",
-      "competition": "Champions League",
-      "competitionStage": "Ligaphase · 1. Spieltag",
-      "dateLocal": "2026-09-09",
-      "kickoff": "2026-09-09T21:00:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Sporting Clube de Portugal",
-        "short": "SPO",
-        "crest": "https://crests.football-data.org/498.png",
-        "score": 3
-      },
-      "away": {
-        "name": "Galatasaray SK",
-        "short": "GAL",
-        "crest": "https://crests.football-data.org/610.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-575335",
       "competition": "Champions League",
@@ -483,7 +267,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "TSG 1899 Hoffenheim",
@@ -500,33 +284,16 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Beide Teams mit ähnlicher Formkurve",
-          "VfB Stuttgart auswärts oft defensiv stabil",
-          "TSG Hoffenheim heimstark, aber nicht konstant"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T22:51:20.062714+00:00"
+        "available": false
       }
     },
     {
@@ -536,7 +303,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
@@ -553,32 +320,16 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Dortmund",
-        "scoreline": "3:0",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.8,
-          "draw": 0.15,
-          "away": 0.05
-        },
-        "reasons": [
-          "Dortmund mit starker Heimbilanz und offensiver Durchschlagskraft",
-          "Paderborn kämpft um Konstanz und hat auswärts Schwächen",
-          "Kaderqualität und aktuelle Form sprechen klar für den BVB"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T22:51:21.739351+00:00"
+        "available": false
       }
     },
     {
@@ -588,7 +339,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Augsburg",
@@ -605,33 +356,16 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "1:3",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.2,
-          "away": 0.6
-        },
-        "reasons": [
-          "Leverkusen in starker Form und mit breiterem Kader",
-          "Augsburgs Heimschwäche in der Rückrunde",
-          "Leverkusen hat die bessere Spielanlage und Offensive."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T22:51:23.329993+00:00"
+        "available": false
       }
     },
     {
@@ -641,7 +375,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FSV Mainz 05",
@@ -658,33 +392,16 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Mainz mit starkem Heimauftritt in dieser Saison",
-          "Frankfurt auswärts noch nicht konstant",
-          "Beide Teams mit ähnlicher Tabellensituation und Punktedifferenz"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T22:51:24.883873+00:00"
+        "available": false
       }
     },
     {
@@ -694,7 +411,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SC Freiburg",
@@ -711,33 +428,16 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Freiburg",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Freiburg mit starkem Heimvorteil und guter Saisonform",
-          "Mönchengladbach zeigt Auswärtsschwächen",
-          "Beide Teams mit ähnlicher Tabellensituation, aber Freiburgs Konstanz spricht für sie"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T22:51:26.544371+00:00"
+        "available": false
       }
     },
     {
@@ -747,7 +447,7 @@
       "dateLocal": "2026-09-12",
       "kickoff": "2026-09-12T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Köln",
@@ -773,22 +473,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Köln zu Hause oft stabil",
-          "Bremen auswärts schwer zu schlagen",
-          "Beide Teams mit ähnlichem Formstand"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T22:51:28.141946+00:00"
+        "available": false
       }
     },
     {
@@ -940,12 +625,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Bayern mit starker Heimbilanz",
-          "Union mit Formschwankungen auswärts",
-          "Bayern hat den breiteren Kader und weniger Verletzungssorgen"
+          "Bayern mit starker Heimbilanz gegen Union",
+          "Union Berlin mit Formschwankungen in der Fremde",
+          "Bayern hat den breiteren und qualitativ besseren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T03:13:44.826299+00:00"
+        "generatedAt": "2026-09-13T03:17:13.159425+00:00"
       }
     },
     {
@@ -991,12 +676,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Hamburger SV mit starkem Heimvorteil",
-          "1. FC Köln in schwacher Verfassung auswärts",
-          "Beide Teams mit ähnlicher Tabellensituation, aber HSV mit mehr Offensivkraft."
+          "Hamburger SV mit Heimvorteil und starker Saisonform",
+          "1. FC Köln kämpft auswärts mit Konstanz",
+          "Tabellarisch eng, aber HSV leicht im Vorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T03:13:46.372791+00:00"
+        "generatedAt": "2026-09-13T03:17:14.767338+00:00"
       }
     },
     {
@@ -1035,7 +720,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Borussia Mönchengladbach",
+        "outcome": "Sieg Mönchengladbach",
         "scoreline": "2:1",
         "confidence": 0.55,
         "probs": {
@@ -1044,12 +729,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Gladbach zuletzt stabiler",
-          "Mainz auswärts schwächer",
-          "Gladbach hat Heimvorteil"
+          "Gladbach heimstark gegen Mainz",
+          "Mainz mit schwacher Auswärtsbilanz",
+          "Gladbachs Formkurve zeigt nach oben"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T03:13:47.851222+00:00"
+        "generatedAt": "2026-09-13T03:17:16.320612+00:00"
       }
     },
     {
@@ -1097,12 +782,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Werder Bremen mit starker Heimform",
-          "Augsburg kämpft auswärts oft mit der Defensive",
-          "Aktuelle Tabellensituation spricht für Werder"
+          "Werder Bremen mit Heimvorteil und stabilerer Saisonform.",
+          "Augsburgs Auswärtsbilanz ist schwach.",
+          "Direkter Vergleich spricht leicht für Bremen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T03:13:49.495185+00:00"
+        "generatedAt": "2026-09-13T03:17:18.054801+00:00"
       }
     },
     {
@@ -1146,16 +831,16 @@
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
+          "draw": 0.25,
+          "away": 0.2
         },
         "reasons": [
-          "Frankfurt mit starker Heimform und breiterem Kader",
-          "Freiburgs Auswärtsbilanz zuletzt schwächer",
-          "Beide Teams mit ähnlichem Tabellenstand, aber Frankfurt mit mehr Offensivdrang"
+          "Frankfurt mit starker Heimbilanz gegen Freiburg",
+          "Freiburg zuletzt auswärts anfällig",
+          "Frankfurt hat mehr Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T03:13:51.128067+00:00"
+        "generatedAt": "2026-09-13T03:17:19.658358+00:00"
       }
     },
     {
@@ -1202,11 +887,11 @@
         },
         "reasons": [
           "Stuttgart mit starker Heimform",
-          "Dortmunds Auswärtsbilanz ausbaufähig",
-          "Aktuelle Tabellensituation spricht für Stuttgart"
+          "Dortmunds Auswärtsbilanz zuletzt schwächer",
+          "Beide Teams mit ähnlichen Verletzungsproblemen, aber Stuttgart kann auf heimischem Boden mehr Druck aufbauen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T03:13:52.690974+00:00"
+        "generatedAt": "2026-09-13T03:17:21.303833+00:00"
       }
     },
     {
@@ -1253,12 +938,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Leverkusen ist in starker Form und ungeschlagen",
-          "Leipzig hat zuletzt einige Auswärtsspiele verloren",
-          "Leverkusen hat einen starken Heimvorteil in dieser Saison"
+          "Leverkusen ist in starker Form und ungeschlagen.",
+          "Leipzig hat Auswärts eine durchwachsene Bilanz.",
+          "Leverkusen hat Heimvorteil und eine gute Offensive."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T03:13:54.248622+00:00"
+        "generatedAt": "2026-09-13T03:17:24.517418+00:00"
       }
     },
     {
@@ -1305,12 +990,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Schalke mit starkem Heimvorteil und Aufwärtstrend",
-          "Elversberg schwächelt auswärts und hat Probleme in der Defensive",
-          "Schalke hat mehr individuelle Qualität im Kader"
+          "Schalke mit starkem Heimvorteil und Aufwind nach letzten Spielen",
+          "Elversberg kämpft auswärts um Punkte",
+          "Schalke hat den Kader, um die Defensive von Elversberg zu knacken"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T03:13:55.884008+00:00"
+        "generatedAt": "2026-09-13T03:17:26.082712+00:00"
       }
     },
     {
