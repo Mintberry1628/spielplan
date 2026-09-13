@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T15:39:27.193598+00:00",
+  "generatedAt": "2026-09-13T20:21:43.247664+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -521,19 +521,19 @@
       "dateLocal": "2026-09-13",
       "kickoff": "2026-09-13T17:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SV 07 Elversberg",
         "short": "ELV",
         "crest": "https://crests.football-data.org/719.png",
-        "score": 0
+        "score": 1
       },
       "away": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": 0
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -549,22 +549,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "0:3",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.05,
-          "draw": 0.15,
-          "away": 0.8
-        },
-        "reasons": [
-          "Elversberg mit schwachem Saisonstart",
-          "Bayern mit starker Offensive und breitem Kader",
-          "Elversberg Heimstärke noch nicht bewiesen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-12T20:13:11.733148+00:00"
+        "available": false
       }
     },
     {
