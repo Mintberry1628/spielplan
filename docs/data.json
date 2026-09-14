@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:30:02.285764+00:00",
+  "generatedAt": "2026-09-14T11:52:28.571251+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -787,17 +787,17 @@
         "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.35,
-          "draw": 0.25,
+          "home": 0.3,
+          "draw": 0.3,
           "away": 0.4
         },
         "reasons": [
-          "Paderborn zuletzt schwankend",
-          "Hoffenheim offensivstark",
-          "Auswärtsstärke von Hoffenheim"
+          "Paderborn mit schwacher Heimbilanz",
+          "Hoffenheim in besserer Verfassung",
+          "Paderborns Abwehr anfällig"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-13T11:08:17.414918+00:00"
+        "generatedAt": "2026-09-14T11:52:27.570811+00:00"
       }
     },
     {
