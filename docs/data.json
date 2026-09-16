@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T20:54:08.261489+00:00",
+  "generatedAt": "2026-09-16T23:33:18.864695+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -123,12 +123,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Bayern München hat eine starke Heimbilanz.",
-          "Union Berlin zeigt auswärts Schwächen.",
-          "Bayern München ist offensiv stärker besetzt."
+          "Bayern mit starker Heimbilanz",
+          "Union Berlin auswärts anfällig",
+          "Bayern überlegener Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-16T03:26:26.087669+00:00"
+        "generatedAt": "2026-09-16T23:33:06.098371+00:00"
       }
     },
     {
@@ -175,12 +175,12 @@
           "away": 0.2
         },
         "reasons": [
-          "HSV mit Heimvorteil und starker Saisonstart",
-          "Köln zeigt sich auswärts anfällig",
-          "Beide Teams mit ähnlicher Qualität, aber HSV in besserer Verfassung"
+          "HSV mit Heimvorteil und starker Saison bisher",
+          "Köln kämpft mit Konstanz und Auswärtsschwäche",
+          "Beide Teams mit ähnlicher Spielanlage, HSV zu Hause effektiver"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-16T03:26:27.724523+00:00"
+        "generatedAt": "2026-09-16T23:33:07.719265+00:00"
       }
     },
     {
@@ -228,12 +228,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Gladbach mit starkem Heimvorteil und positiver Heimbilanz",
-          "Mainz in schwacher Verfassung auswärts",
+          "Gladbach heimstark gegen Mainz",
+          "Mainz mit schwacher Auswärtsbilanz",
           "Gladbachs Form zuletzt stabiler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-16T03:26:29.306526+00:00"
+        "generatedAt": "2026-09-16T23:33:09.370722+00:00"
       }
     },
     {
@@ -281,12 +281,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Werder Bremen mit Heimvorteil und stärkerer Form zuletzt.",
-          "Augsburg kämpft auswärts oft mit der Effizienz.",
-          "Beide Teams defensiv anfällig, was zu Gegentoren führt."
+          "Werder Bremen mit Heimvorteil und stärkerer Form zuletzt",
+          "FC Augsburg kämpft auswärts oft mit der Leistung",
+          "Beide Teams sind tabellarisch nah beieinander, aber Bremen hat den Schwung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-16T03:26:31.107350+00:00"
+        "generatedAt": "2026-09-16T23:33:11.091950+00:00"
       }
     },
     {
@@ -334,12 +334,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Frankfurt mit starker Heimbilanz gegen Freiburg",
-          "Freiburg zuletzt auswärts anfällig",
-          "Frankfurt hat mehr individuelle Qualität im Kader"
+          "Frankfurt mit starker Heimbilanz",
+          "Freiburg zuletzt auswärts schwächer",
+          "Frankfurt hat den größeren Kader und tieferen Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-16T03:26:32.626742+00:00"
+        "generatedAt": "2026-09-16T23:33:12.746116+00:00"
       }
     },
     {
@@ -376,21 +376,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg VfB Stuttgart",
-        "scoreline": "2:1",
-        "confidence": 0.5,
+        "outcome": "Unentschieden",
+        "scoreline": "2:2",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
+          "home": 0.4,
+          "draw": 0.35,
+          "away": 0.25
         },
         "reasons": [
-          "Stuttgart mit starker Heimform",
-          "Dortmunds Auswärtsbilanz schwächer",
-          "Verletzungssorgen bei Dortmund"
+          "Stuttgart zu Hause stark, aber Dortmund offensiv gefährlich.",
+          "Beide Teams mit guter Form, aber auch anfällig in der Defensive.",
+          "Ausgeglichene Bilanz der letzten Duelle."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-16T03:26:34.174190+00:00"
+        "generatedAt": "2026-09-16T23:33:14.506607+00:00"
       }
     },
     {
@@ -438,11 +438,11 @@
         },
         "reasons": [
           "Leverkusen ist in starker Form und ungeschlagen.",
-          "Leipzig hat zuletzt auswärts Schwächen gezeigt.",
-          "Leverkusen hat einen Heimvorteil und eine gute Bilanz gegen Leipzig."
+          "Leipzig hat Auswärtsschwächen gezeigt.",
+          "Leverkusen hat Heimvorteil und eine gute Bilanz gegen Leipzig."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-16T03:26:35.739991+00:00"
+        "generatedAt": "2026-09-16T23:33:16.189760+00:00"
       }
     },
     {
@@ -489,12 +489,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Schalke mit starkem Heimvorteil und Aufwind",
-          "Elversberg noch nicht konstant in der Fremde",
-          "Schalke hat die individuell besseren Spieler"
+          "Schalke mit starkem Heimvorteil und Aufwärtstrend",
+          "Elversberg noch in der Findungsphase in der Fremde",
+          "Schalke hat die individuell stärkere Mannschaft"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-16T03:26:37.218126+00:00"
+        "generatedAt": "2026-09-16T23:33:17.864176+00:00"
       }
     },
     {
