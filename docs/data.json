@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T23:24:41.329998+00:00",
+  "generatedAt": "2026-09-16T03:26:38.218598+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,222 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565794",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "TSG 1899 Hoffenheim",
-        "short": "TSG",
-        "crest": "https://crests.football-data.org/2.png",
-        "score": 2
-      },
-      "away": {
-        "name": "VfB Stuttgart",
-        "short": "VFB",
-        "crest": "https://crests.football-data.org/10.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565795",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Borussia Dortmund",
-        "short": "BVB",
-        "crest": "https://crests.football-data.org/4.png",
-        "score": 3
-      },
-      "away": {
-        "name": "SC Paderborn 07",
-        "short": "SCP",
-        "crest": "https://crests.football-data.org/29.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565796",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Augsburg",
-        "short": "FCA",
-        "crest": "https://crests.football-data.org/16.png",
-        "score": 2
-      },
-      "away": {
-        "name": "Bayer 04 Leverkusen",
-        "short": "B04",
-        "crest": "https://crests.football-data.org/3.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565801",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "1. FSV Mainz 05",
-        "short": "M05",
-        "crest": "https://crests.football-data.org/15.png",
-        "score": 1
-      },
-      "away": {
-        "name": "Eintracht Frankfurt",
-        "short": "SGE",
-        "crest": "https://crests.football-data.org/19.png",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565802",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SC Freiburg",
-        "short": "SCF",
-        "crest": "https://crests.football-data.org/17.png",
-        "score": 5
-      },
-      "away": {
-        "name": "Borussia Mönchengladbach",
-        "short": "BMG",
-        "crest": "https://crests.football-data.org/18.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565798",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-12",
-      "kickoff": "2026-09-12T18:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "1. FC Köln",
-        "short": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "score": 1
-      },
-      "away": {
-        "name": "SV Werder Bremen",
-        "short": "SVW",
-        "crest": "https://crests.football-data.org/12.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565799",
       "competition": "Bundesliga",
@@ -339,12 +123,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Bayern mit starker Heimbilanz gegen Union",
-          "Union Berlin mit Formschwankungen auswärts",
-          "Bayern überlegen in der Kaderbreite und Qualität"
+          "Bayern München hat eine starke Heimbilanz.",
+          "Union Berlin zeigt auswärts Schwächen.",
+          "Bayern München ist offensiv stärker besetzt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-15T03:30:29.085120+00:00"
+        "generatedAt": "2026-09-16T03:26:26.087669+00:00"
       }
     },
     {
@@ -391,12 +175,12 @@
           "away": 0.2
         },
         "reasons": [
-          "HSV mit starkem Heimvorteil in der Liga",
-          "Köln kämpft auswärts oft mit der Defensive",
-          "Beide Teams in ähnlicher Verfassung, HSV leicht im Vorteil"
+          "HSV mit Heimvorteil und starker Saisonstart",
+          "Köln zeigt sich auswärts anfällig",
+          "Beide Teams mit ähnlicher Qualität, aber HSV in besserer Verfassung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-15T03:30:30.710211+00:00"
+        "generatedAt": "2026-09-16T03:26:27.724523+00:00"
       }
     },
     {
@@ -444,12 +228,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Gladbach zuletzt heimstark",
-          "Mainz auswärts anfällig",
-          "Gladbachs Offensive besser"
+          "Gladbach mit starkem Heimvorteil und positiver Heimbilanz",
+          "Mainz in schwacher Verfassung auswärts",
+          "Gladbachs Form zuletzt stabiler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-15T03:30:32.209570+00:00"
+        "generatedAt": "2026-09-16T03:26:29.306526+00:00"
       }
     },
     {
@@ -497,12 +281,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Werder Bremen mit starkem Heimvorteil in der Vergangenheit.",
-          "Augsburg zuletzt auswärts anfällig.",
-          "Beide Teams mit ähnlicher Tabellensituation, aber Bremen zuletzt etwas stabiler."
+          "Werder Bremen mit Heimvorteil und stärkerer Form zuletzt.",
+          "Augsburg kämpft auswärts oft mit der Effizienz.",
+          "Beide Teams defensiv anfällig, was zu Gegentoren führt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-15T03:30:34.024715+00:00"
+        "generatedAt": "2026-09-16T03:26:31.107350+00:00"
       }
     },
     {
@@ -550,12 +334,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Frankfurt mit starker Heimform in dieser Saison.",
-          "Freiburgs Auswärtsbilanz ist ausbaufähig.",
-          "Beide Teams sind tabellarisch nah beieinander, Heimvorteil spricht für Frankfurt."
+          "Frankfurt mit starker Heimbilanz gegen Freiburg",
+          "Freiburg zuletzt auswärts anfällig",
+          "Frankfurt hat mehr individuelle Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-15T03:30:35.761004+00:00"
+        "generatedAt": "2026-09-16T03:26:32.626742+00:00"
       }
     },
     {
@@ -592,21 +376,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "2:2",
-        "confidence": 0.4,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "2:1",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.4,
-          "draw": 0.35,
-          "away": 0.25
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
         },
         "reasons": [
-          "Stuttgart heimstark, aber Dortmund offensiv gefährlich",
-          "Beide Teams zuletzt mit wechselhaften Ergebnissen",
-          "Fehlende Schlüsselspieler auf beiden Seiten könnten die Ausgeglichenheit erhöhen"
+          "Stuttgart mit starker Heimform",
+          "Dortmunds Auswärtsbilanz schwächer",
+          "Verletzungssorgen bei Dortmund"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-15T03:30:38.100978+00:00"
+        "generatedAt": "2026-09-16T03:26:34.174190+00:00"
       }
     },
     {
@@ -654,11 +438,11 @@
         },
         "reasons": [
           "Leverkusen ist in starker Form und ungeschlagen.",
-          "Leipzig hat zuletzt einige Punkte liegen gelassen.",
-          "Leverkusen hat Heimvorteil und eine gute Bilanz gegen Leipzig."
+          "Leipzig hat zuletzt auswärts Schwächen gezeigt.",
+          "Leverkusen hat einen Heimvorteil und eine gute Bilanz gegen Leipzig."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-15T03:30:39.817202+00:00"
+        "generatedAt": "2026-09-16T03:26:35.739991+00:00"
       }
     },
     {
@@ -705,12 +489,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Schalke mit Heimvorteil und breiterem Kader",
-          "Elversberg noch in der Findungsphase",
-          "Schalke zuletzt in besserer Verfassung"
+          "Schalke mit starkem Heimvorteil und Aufwind",
+          "Elversberg noch nicht konstant in der Fremde",
+          "Schalke hat die individuell besseren Spieler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-15T03:30:41.400013+00:00"
+        "generatedAt": "2026-09-16T03:26:37.218126+00:00"
       }
     },
     {
