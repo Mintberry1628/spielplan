@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:33:18.864695+00:00",
+  "generatedAt": "2026-09-17T03:32:12.054844+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,78 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565799",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-13",
-      "kickoff": "2026-09-13T15:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "RB Leipzig",
-        "short": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "score": 5
-      },
-      "away": {
-        "name": "Hamburger SV",
-        "short": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565800",
-      "competition": "Bundesliga",
-      "competitionStage": "3. Spieltag",
-      "dateLocal": "2026-09-13",
-      "kickoff": "2026-09-13T17:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SV 07 Elversberg",
-        "short": "ELV",
-        "crest": "https://crests.football-data.org/719.png",
-        "score": 1
-      },
-      "away": {
-        "name": "FC Bayern München",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565804",
       "competition": "Bundesliga",
