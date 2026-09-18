@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T03:18:07.720191+00:00",
+  "generatedAt": "2026-09-18T10:37:20.105266+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -470,11 +470,11 @@
         },
         "reasons": [
           "Paderborn mit schwacher Heimbilanz",
-          "Hoffenheim in besserer Verfassung",
-          "Paderborns Defensive anfällig"
+          "Hoffenheim in guter Verfassung",
+          "Beide Teams offensivstark, aber defensiv anfällig"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-17T11:00:41.535827+00:00"
+        "generatedAt": "2026-09-18T10:37:19.104822+00:00"
       }
     },
     {
