@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T15:24:33.064870+00:00",
+  "generatedAt": "2026-09-19T20:05:23.682046+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -51,7 +51,7 @@
       "dateLocal": "2026-09-19",
       "kickoff": "2026-09-19T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Hamburger SV",
@@ -63,7 +63,7 @@
         "name": "1. FC Köln",
         "short": "KOE",
         "crest": "https://crests.football-data.org/1.png",
-        "score": 0
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -78,22 +78,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Hamburger SV",
-        "scoreline": "2:1",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
-        },
-        "reasons": [
-          "Hamburger SV mit starkem Heimvorteil",
-          "1. FC Köln in schwacher Verfassung auswärts",
-          "HSV kämpft um Anschluss nach oben"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-18T20:26:11.596353+00:00"
+        "available": false
       }
     },
     {
@@ -103,19 +88,19 @@
       "dateLocal": "2026-09-19",
       "kickoff": "2026-09-19T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Borussia Mönchengladbach",
         "short": "BMG",
         "crest": "https://crests.football-data.org/18.png",
-        "score": 2
+        "score": 3
       },
       "away": {
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": 3
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -131,22 +116,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Mönchengladbach",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Gladbach zuletzt heimstark",
-          "Mainz auswärts anfällig",
-          "Gladbach hat den besseren Kader"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-18T20:26:13.114367+00:00"
+        "available": false
       }
     },
     {
@@ -156,13 +126,13 @@
       "dateLocal": "2026-09-19",
       "kickoff": "2026-09-19T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SV Werder Bremen",
         "short": "SVW",
         "crest": "https://crests.football-data.org/12.png",
-        "score": 2
+        "score": 3
       },
       "away": {
         "name": "FC Augsburg",
@@ -184,22 +154,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Werder Bremen",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Werder Bremen mit Heimvorteil und stärkerer Form zuletzt.",
-          "Augsburg kämpft auswärts oft mit der Effizienz.",
-          "Beide Teams sind tabellarisch eng beieinander, aber Bremen hat den Schwung."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-18T20:26:14.892996+00:00"
+        "available": false
       }
     },
     {
@@ -209,7 +164,7 @@
       "dateLocal": "2026-09-19",
       "kickoff": "2026-09-19T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Eintracht Frankfurt",
@@ -237,22 +192,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Frankfurt mit starker Heimbilanz in dieser Saison.",
-          "Freiburg zuletzt auswärts anfällig.",
-          "Frankfurt hat die breitere Kaderbreite für Rotation."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-18T20:26:16.546862+00:00"
+        "available": false
       }
     },
     {
@@ -262,19 +202,19 @@
       "dateLocal": "2026-09-19",
       "kickoff": "2026-09-19T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "VfB Stuttgart",
         "short": "VFB",
         "crest": "https://crests.football-data.org/10.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -288,22 +228,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg VfB Stuttgart",
-        "scoreline": "2:1",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
-        },
-        "reasons": [
-          "Stuttgart mit starker Heimform",
-          "Dortmunds Auswärtsschwäche in dieser Saison",
-          "Beide Teams mit ähnlicher Tabellensituation, Heimvorteil entscheidend"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-18T20:26:18.100271+00:00"
+        "available": false
       }
     },
     {
@@ -350,12 +275,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Leverkusen ist in starker Form und ungeschlagen.",
-          "Leipzig hat Auswärtsspiele oft schwer.",
-          "Leverkusen hat den Heimvorteil und eine gute Bilanz gegen Leipzig."
+          "Leverkusen ist in starker Form und ungeschlagen",
+          "Leipzig hat Auswärtsprobleme gegen Top-Teams",
+          "Leverkusen hat Heimvorteil und eine gute Bilanz gegen Leipzig"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-18T20:26:19.803558+00:00"
+        "generatedAt": "2026-09-19T20:05:20.940919+00:00"
       }
     },
     {
@@ -402,12 +327,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Schalke mit starker Heimbilanz",
-          "Elversberg noch nicht stabil in der Fremde",
-          "Schalke hat den größeren Kader und mehr Erfahrung"
+          "Schalke mit starkem Heimvorteil und breiterem Kader",
+          "Elversberg kämpft auswärts oft mit der Durchschlagskraft",
+          "Schalke zuletzt mit stabilerer Defensive und Offensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-18T20:26:21.382337+00:00"
+        "generatedAt": "2026-09-19T20:05:22.681606+00:00"
       }
     },
     {
