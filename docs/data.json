@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T15:29:49.780850+00:00",
+  "generatedAt": "2026-09-20T20:22:03.617645+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -231,7 +231,7 @@
       "dateLocal": "2026-09-20",
       "kickoff": "2026-09-20T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Bayer 04 Leverkusen",
@@ -248,6 +248,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "DAZN",
           "Sky"
         ],
@@ -258,22 +259,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Leverkusen ist in starker Form und ungeschlagen",
-          "Leipzig hat Auswärtsprobleme gegen Top-Teams",
-          "Leverkusen hat Heimvorteil und eine gute Bilanz gegen Leipzig"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-19T20:05:20.940919+00:00"
+        "available": false
       }
     },
     {
@@ -283,23 +269,24 @@
       "dateLocal": "2026-09-20",
       "kickoff": "2026-09-20T17:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Schalke 04",
         "short": "S04",
         "crest": "https://crests.football-data.org/6.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "SV 07 Elversberg",
         "short": "ELV",
         "crest": "https://crests.football-data.org/719.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "DAZN",
           "Sky"
         ],
@@ -310,22 +297,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Schalke 04",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Schalke mit starkem Heimvorteil und breiterem Kader",
-          "Elversberg kämpft auswärts oft mit der Durchschlagskraft",
-          "Schalke zuletzt mit stabilerer Defensive und Offensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-19T20:05:22.681606+00:00"
+        "available": false
       }
     },
     {
@@ -335,23 +307,24 @@
       "dateLocal": "2026-09-20",
       "kickoff": "2026-09-20T19:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SC Paderborn 07",
         "short": "SCP",
         "crest": "https://crests.football-data.org/29.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "TSG 1899 Hoffenheim",
         "short": "TSG",
         "crest": "https://crests.football-data.org/2.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "DAZN",
           "Sky"
         ],
@@ -362,22 +335,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Hoffenheim",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Paderborn schwächelt zu Hause",
-          "Hoffenheim zeigt sichere Auswärtsform",
-          "Beide Teams im Mittelfeld der Tabelle mit ähnlichen Zielen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-09-20T10:40:37.520852+00:00"
+        "available": false
       }
     },
     {
