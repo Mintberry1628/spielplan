@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:40:38.521327+00:00",
+  "generatedAt": "2026-09-20T15:29:49.780850+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -231,19 +231,19 @@
       "dateLocal": "2026-09-20",
       "kickoff": "2026-09-20T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Bayer 04 Leverkusen",
         "short": "B04",
         "crest": "https://crests.football-data.org/3.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "RB Leipzig",
         "short": "RBL",
         "crest": "https://crests.football-data.org/721.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
