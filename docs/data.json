@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:41:06.801708+00:00",
+  "generatedAt": "2026-09-20T03:31:36.429433+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -68,11 +68,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "RTL",
           "Sky"
         ],
-        "free": true,
-        "note": null
+        "free": false,
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -105,12 +104,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -143,12 +140,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -181,12 +176,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
