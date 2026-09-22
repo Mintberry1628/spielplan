@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:50:04.443916+00:00",
+  "generatedAt": "2026-09-22T03:25:18.380051+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,42 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565804",
-      "competition": "Bundesliga",
-      "competitionStage": "4. Spieltag",
-      "dateLocal": "2026-09-18",
-      "kickoff": "2026-09-18T20:30:00+02:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Bayern München",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "score": 7
-      },
-      "away": {
-        "name": "1. FC Union Berlin",
-        "short": "UNB",
-        "crest": "https://crests.football-data.org/28.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565808",
       "competition": "Bundesliga",
