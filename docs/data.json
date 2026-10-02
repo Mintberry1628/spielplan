@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T17:30:34.923417+00:00",
+  "generatedAt": "2026-10-02T21:51:20.349692+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -51,12 +51,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Dortmund hat eine starke Heimbilanz",
-          "Bremen zeigt Auswärtsschwächen",
-          "Dortmunds Offensive ist aktuell sehr stark"
+          "Dortmund mit starker Heimform und offensiver Durchschlagskraft",
+          "Bremen defensiv anfällig und auswärts schwach",
+          "Dortmund hat die klar bessere Tabellensituation und Kaderqualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-02T00:31:58.162964+00:00"
+        "generatedAt": "2026-10-02T21:51:11.208702+00:00"
       }
     },
     {
@@ -96,20 +96,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "1:3",
-        "confidence": 0.6,
+        "scoreline": "1:2",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.2,
+          "home": 0.3,
           "draw": 0.2,
-          "away": 0.6
+          "away": 0.5
         },
         "reasons": [
-          "Leverkusen in überragender Verfassung",
-          "Mainz mit Schwächen in der Defensive",
-          "Leverkusen hat die bessere Offensive"
+          "Leverkusen in starker Verfassung",
+          "Mainz mit Auswärtsschwächen",
+          "Leverkusen hat die höhere individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-02T00:31:59.717951+00:00"
+        "generatedAt": "2026-10-02T21:51:12.777495+00:00"
       }
     },
     {
@@ -210,12 +210,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Union Berlin mit starker Heimbilanz und etabliertem Team",
-          "Elversberg noch in der Findungsphase in der Bundesliga",
-          "Union Berlin hat die klar bessere individuelle Qualität"
+          "Union Berlin ist heimstark und hat eine etablierte Mannschaft.",
+          "Elversberg zeigt zwar kämpferische Ansätze, aber die individuelle Klasse fehlt.",
+          "Die Tabellensituation spricht klar für Union Berlin, das sich im oberen Drittel festsetzen will."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-02T00:32:01.905624+00:00"
+        "generatedAt": "2026-10-02T21:51:14.596862+00:00"
       }
     },
     {
@@ -254,21 +254,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg TSG 1899 Hoffenheim",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Hoffenheim mit starker Heimform",
-          "HSV kämpft auswärts mit der Defensive",
-          "Tabellarisch eng, Heimvorteil entscheidend"
+          "Hoffenheim mit starker Heimbilanz",
+          "HSV kämpft auswärts mit offensiver Durchschlagskraft",
+          "Hoffenheim hat die stabilere Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-02T00:32:03.508767+00:00"
+        "generatedAt": "2026-10-02T21:51:16.197739+00:00"
       }
     },
     {
@@ -316,12 +316,12 @@
           "away": 0.6
         },
         "reasons": [
-          "FC Bayern München ist deutlich stärker besetzt",
-          "FC Augsburg hat zuletzt schwankende Leistungen gezeigt",
-          "FC Bayern München hat eine gute Auswärtsbilanz gegen Augsburg"
+          "Augsburg in schwacher Form",
+          "Bayern mit starker Offensive",
+          "Augsburg hat Heimnachteile gegen Bayern"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-02T00:32:05.054229+00:00"
+        "generatedAt": "2026-10-02T21:51:17.719546+00:00"
       }
     },
     {
@@ -360,19 +360,19 @@
         "available": true,
         "outcome": "Sieg RB Leipzig",
         "scoreline": "2:1",
-        "confidence": 0.6,
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "RB Leipzig mit starker Heimform",
-          "Eintracht Frankfurt zuletzt auswärts schwankend",
-          "Leipzig hat den direkteren Kadervergleich"
+          "RB Leipzig mit starker Heimform in dieser Saison.",
+          "Frankfurt kämpft auswärts oft mit der Defensive.",
+          "Leipzigs Offensive ist konstanter als die von Frankfurt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-02T00:32:06.613385+00:00"
+        "generatedAt": "2026-10-02T21:51:19.349245+00:00"
       }
     },
     {
