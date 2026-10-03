@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:08:51.503238+00:00",
+  "generatedAt": "2026-10-03T15:45:22.113159+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -147,7 +147,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Paderborn zuletzt schwankend",
+          "Stuttgart in guter Verfassung",
+          "Auswärtsstärke Stuttgarts"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-03T15:45:21.112654+00:00"
       }
     },
     {
