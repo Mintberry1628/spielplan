@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T21:51:20.349692+00:00",
+  "generatedAt": "2026-10-03T03:53:23.880216+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -409,7 +409,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.35,
+          "away": 0.25
+        },
+        "reasons": [
+          "Kölns Heimstärke in dieser Saison",
+          "Gladbachs solide Auswärtsform",
+          "Beide Teams haben ähnliche Offensiv- und Defensivstatistiken"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-03T03:53:21.339223+00:00"
       }
     },
     {
@@ -446,7 +461,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg SC Freiburg",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Freiburg ist zu Hause stark",
+          "Schalke zeigt auswärts wenig Durchschlagskraft",
+          "Freiburgs Konstanz spricht für sie"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-03T03:53:22.879770+00:00"
       }
     },
     {
