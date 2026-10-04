@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:31:28.019272+00:00",
+  "generatedAt": "2026-10-04T04:25:02.144096+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -415,16 +415,16 @@
         "confidence": 0.4,
         "probs": {
           "home": 0.4,
-          "draw": 0.35,
-          "away": 0.25
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Kölns Heimstärke in dieser Saison",
-          "Gladbachs solide Auswärtsform",
-          "Beide Teams haben ähnliche Offensiv- und Defensivstatistiken"
+          "Köln zuletzt heimstark",
+          "Gladbach auswärts anfällig",
+          "Beide Teams im Abstiegskampf unter Druck"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-03T03:53:21.339223+00:00"
+        "generatedAt": "2026-10-04T04:24:59.573386+00:00"
       }
     },
     {
@@ -462,7 +462,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg SC Freiburg",
+        "outcome": "Sieg Freiburg",
         "scoreline": "2:0",
         "confidence": 0.6,
         "probs": {
@@ -471,12 +471,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Freiburg ist zu Hause stark",
-          "Schalke zeigt auswärts wenig Durchschlagskraft",
-          "Freiburgs Konstanz spricht für sie"
+          "Freiburg mit starker Heimform",
+          "Schalke kämpft auswärts",
+          "Freiburgs höhere Tabellenposition"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-03T03:53:22.879770+00:00"
+        "generatedAt": "2026-10-04T04:25:01.143663+00:00"
       }
     },
     {
@@ -503,10 +503,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -539,10 +539,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -575,10 +575,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -611,10 +611,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -647,10 +647,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -719,10 +719,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -755,10 +755,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
