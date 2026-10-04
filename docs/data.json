@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T04:25:02.144096+00:00",
+  "generatedAt": "2026-10-04T11:49:18.855490+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -157,12 +157,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Paderborn zuletzt schwankend",
-          "Stuttgart in guter Verfassung",
-          "Auswärtsstärke Stuttgarts"
+          "Stuttgart in besserer Form",
+          "Paderborn mit Heimschwäche",
+          "Stuttgart mit mehr Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-03T15:45:21.112654+00:00"
+        "generatedAt": "2026-10-04T11:49:17.855027+00:00"
       }
     },
     {
