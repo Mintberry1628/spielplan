@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:54:04.217621+00:00",
+  "generatedAt": "2026-10-04T23:50:18.983854+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -41,7 +41,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Dortmund",
+        "scoreline": "3:1",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.2,
+          "away": 0.15
+        },
+        "reasons": [
+          "Dortmund hat eine starke Heimbilanz gegen Bremen",
+          "Bremen zeigt Auswärtsschwächen",
+          "Dortmunds Offensive ist gut in Form"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-04T23:50:17.983137+00:00"
       }
     },
     {
