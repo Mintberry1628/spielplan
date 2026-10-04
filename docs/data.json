@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T16:28:46.144021+00:00",
+  "generatedAt": "2026-10-04T20:54:04.217621+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -41,22 +41,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Dortmund",
-        "scoreline": "3:1",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
-        },
-        "reasons": [
-          "Dortmund mit starker Heimbilanz",
-          "Bremen kämpft auswärts um Punkte",
-          "Dortmunds Offensive ist besser besetzt"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-03T20:37:16.219539+00:00"
+        "available": false
       }
     },
     {
@@ -83,11 +68,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "RTL",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
@@ -96,20 +81,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "1:3",
-        "confidence": 0.55,
+        "scoreline": "1:2",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.25,
+          "home": 0.3,
           "draw": 0.2,
-          "away": 0.55
+          "away": 0.5
         },
         "reasons": [
-          "Leverkusen konstant stark in der aktuellen Saison",
-          "Mainz hat Heimschwäche gezeigt",
-          "Leverkusen überlegen im direkten Vergleich"
+          "Leverkusen in starker Verfassung",
+          "Mainz mit Schwächen in der Defensive",
+          "Auswärtsstärke von Leverkusen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-03T20:37:17.828258+00:00"
+        "generatedAt": "2026-10-04T20:53:56.808209+00:00"
       }
     },
     {
@@ -210,12 +195,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Union Berlin mit starker Heimform",
-          "Elversberg auswärts anfällig",
-          "Kaderqualität spricht für Union"
+          "Union Berlin mit starker Form und Heimstärke",
+          "Elversberg noch in der Findungsphase",
+          "Qualitätsunterschied im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-03T20:37:19.384064+00:00"
+        "generatedAt": "2026-10-04T20:53:58.312409+00:00"
       }
     },
     {
@@ -254,7 +239,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Hoffenheim",
+        "outcome": "Sieg TSG 1899 Hoffenheim",
         "scoreline": "2:1",
         "confidence": 0.55,
         "probs": {
@@ -264,11 +249,11 @@
         },
         "reasons": [
           "Hoffenheim mit starker Heimform",
-          "HSV zuletzt auswärts schwach",
-          "Hoffenheim hat den besseren Kader"
+          "HSV kämpft auswärts mit der Defensive",
+          "Tabellarisch sind beide Teams nah beieinander, aber der Heimvorteil spricht für Hoffenheim"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-03T20:37:20.877857+00:00"
+        "generatedAt": "2026-10-04T20:54:00.011240+00:00"
       }
     },
     {
@@ -309,19 +294,19 @@
         "available": true,
         "outcome": "Sieg FC Bayern München",
         "scoreline": "1:3",
-        "confidence": 0.65,
+        "confidence": 0.6,
         "probs": {
           "home": 0.15,
-          "draw": 0.2,
-          "away": 0.65
+          "draw": 0.25,
+          "away": 0.6
         },
         "reasons": [
-          "Augsburg in schwacher Form, nur ein Sieg aus den letzten fünf Spielen",
-          "Bayern mit starker Offensive, durchschnittlich über 2 Tore pro Spiel",
-          "Augsburgs Heimschwäche gegen Top-Teams"
+          "Bayern deutlich stärker in der aktuellen Form.",
+          "Augsburg hat Heimnachteile gegen Top-Teams.",
+          "Bayern hat eine bessere Tabellensituation und mehr Qualität im Kader."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-03T20:37:22.453613+00:00"
+        "generatedAt": "2026-10-04T20:54:01.609108+00:00"
       }
     },
     {
@@ -367,12 +352,12 @@
           "away": 0.2
         },
         "reasons": [
-          "RB Leipzig ist zu Hause stärker und hat eine positive Heimbilanz gegen Frankfurt.",
-          "Eintracht Frankfurt zeigt auswärts Schwächen und hat Probleme in der Defensive.",
-          "Leipzig ist in der Tabelle besser platziert und hat eine konstantere Form gezeigt."
+          "RB Leipzig mit starker Heimform",
+          "Frankfurt auswärts anfällig",
+          "Leipzig hat den breiteren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-03T20:37:24.034747+00:00"
+        "generatedAt": "2026-10-04T20:54:03.217152+00:00"
       }
     },
     {
