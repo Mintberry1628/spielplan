@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T23:50:18.983854+00:00",
+  "generatedAt": "2026-10-05T04:11:09.104639+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -414,17 +414,17 @@
         "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.4,
+          "home": 0.35,
           "draw": 0.4,
-          "away": 0.2
+          "away": 0.25
         },
         "reasons": [
-          "Köln zuletzt heimstark",
-          "Gladbach auswärts anfällig",
-          "Beide Teams im Abstiegskampf unter Druck"
+          "Kölns Heimstärke gegen Gladbachs Auswärtsschwäche",
+          "Beide Teams in ähnlicher Form, wenige klare Vorteile",
+          "Rheinderby oft ausgeglichen und torarm"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-04T04:24:59.573386+00:00"
+        "generatedAt": "2026-10-05T04:11:06.414244+00:00"
       }
     },
     {
@@ -462,8 +462,8 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Freiburg",
-        "scoreline": "2:0",
+        "outcome": "Sieg SC Freiburg",
+        "scoreline": "2:1",
         "confidence": 0.6,
         "probs": {
           "home": 0.6,
@@ -471,12 +471,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Freiburg mit starker Heimform",
-          "Schalke kämpft auswärts",
-          "Freiburgs höhere Tabellenposition"
+          "Freiburg mit starker Heimform in dieser Saison.",
+          "Schalke 04 kämpft auswärts oft mit der Defensive.",
+          "Aktuelle Tabellensituation spricht für Freiburgs Konstanz."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-04T04:25:01.143663+00:00"
+        "generatedAt": "2026-10-05T04:11:08.104098+00:00"
       }
     },
     {
@@ -512,7 +512,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Lens",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Lens hat Heimvorteil und starke Saisonleistung",
+          "Sporting hat Auswärtsschwächen in der Champions League",
+          "Beide Teams defensivstark, erwartet torarmes Spiel"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-05T04:10:52.155607+00:00"
       }
     },
     {
@@ -548,7 +563,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg SK Slavia Praha",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Sabla Praha in besserer Form",
+          "Sabla Praha mit mehr internationaler Erfahrung",
+          "Sabla Praha hat die Heimniederlage gegen Lugano wettzumachen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-05T04:10:53.723705+00:00"
       }
     },
     {
@@ -584,7 +614,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Inter Mailand",
+        "scoreline": "2:0",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Inter hat eine starke Heimform.",
+          "Club Brügge hat auswärts Schwierigkeiten.",
+          "Inter ist in der Liga und international stärker besetzt."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-05T04:10:55.226148+00:00"
       }
     },
     {
@@ -620,7 +665,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.35,
+          "draw": 0.4,
+          "away": 0.25
+        },
+        "reasons": [
+          "Galatasaray mit starkem Heimvorteil in der Champions League.",
+          "Barcelona zeigt sich auswärts oft defensiv stabil.",
+          "Beide Teams sind in der Gruppenphase auf Punkte angewiesen, was zu einem vorsichtigen Spiel führen kann."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-05T04:10:56.854860+00:00"
       }
     },
     {
@@ -656,7 +716,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Atlético Madrid hat einen starken Heimvorteil in der Champions League.",
+          "Manchester United zeigt in letzter Zeit inkonsistente Leistungen.",
+          "Atlético ist defensiv stabil und schwer zu schlagen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-05T04:10:58.540088+00:00"
       }
     },
     {
@@ -692,7 +767,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Arsenal FC",
+        "scoreline": "2:0",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
+        },
+        "reasons": [
+          "Arsenal hat Heimvorteil und starke Form",
+          "Lille hat Probleme in der Offensive",
+          "Arsenal ist in der Liga besser platziert"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-05T04:11:00.061319+00:00"
       }
     },
     {
@@ -728,7 +818,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "1:3",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
+        },
+        "reasons": [
+          "Viking FK mit schwacher Heimbilanz in Europa",
+          "FC Bayern München in starker Verfassung und mit breiterem Kader",
+          "Historisch starke Auswärtsauftritte des FC Bayern in der Champions League"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-05T04:11:01.654880+00:00"
       }
     },
     {
@@ -764,7 +869,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "RB Leipzig hat einen starken Heimvorteil in der Champions League.",
+          "PSV Eindhoven hat zuletzt in der Liga Schwächen gezeigt.",
+          "RB Leipzig ist offensiv gut aufgestellt und kann Druck erzeugen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-05T04:11:03.210919+00:00"
       }
     },
     {
@@ -800,7 +920,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Beide Teams sind in solider Verfassung.",
+          "Villarreal hat einen starken Heimvorteil.",
+          "Napoli ist auswärts schwer zu schlagen und hat die Qualität, ein Unentschieden zu erzielen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-05T04:11:04.772354+00:00"
       }
     },
     {
@@ -863,10 +998,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -899,10 +1035,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -935,10 +1071,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -971,10 +1107,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1007,10 +1143,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1043,10 +1179,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1115,10 +1251,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
