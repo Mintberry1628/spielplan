@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T09:51:28.881738+00:00",
+  "generatedAt": "2026-10-07T18:28:03.117815+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -51,12 +51,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Dortmund mit starker Heimform und offensiver Durchschlagskraft",
-          "Bremen kämpft auswärts um Punkte und hat defensive Schwächen",
-          "Dortmunds höhere individuelle Qualität und breiterer Kader"
+          "Dortmund mit starker Saisonform und Heimstärke",
+          "Bremen kämpft mit Auswärtsschwäche und Verletzungssorgen",
+          "Direkter Vergleich spricht klar für Dortmund"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-06T19:59:10.962485+00:00"
+        "generatedAt": "2026-10-07T18:27:52.548995+00:00"
       }
     },
     {
@@ -96,20 +96,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "1:2",
-        "confidence": 0.4,
+        "scoreline": "1:3",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.2,
+          "draw": 0.2,
+          "away": 0.6
         },
         "reasons": [
-          "Leverkusen in starker Verfassung",
-          "Mainz mit Heimschwäche",
-          "Leverkusen hat die bessere Offensive"
+          "Leverkusen in starker Form",
+          "Mainz mit Auswärtsschwächen",
+          "Qualitativer Vorteil Leverkusen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-06T19:59:12.622933+00:00"
+        "generatedAt": "2026-10-07T18:27:54.206465+00:00"
       }
     },
     {
@@ -157,12 +157,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Stuttgart in besserer Form",
+          "Stuttgart in besserer Verfassung",
           "Paderborn mit Heimschwäche",
-          "Stuttgart hat die individuell besseren individuellen Spieler"
+          "Stuttgart mit mehr Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-06T19:59:14.292024+00:00"
+        "generatedAt": "2026-10-07T18:27:55.680460+00:00"
       }
     },
     {
@@ -210,12 +210,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Union Berlin mit starker Heimform",
-          "Elversberg auswärts noch punktlos",
-          "Union Berlin überzeugte zuletzt in der Liga und Europa"
+          "Union Berlin mit starker Heimbilanz",
+          "Elversberg noch nicht stabil in der Fremde",
+          "Union Berlin hat den breiteren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-06T19:59:16.027485+00:00"
+        "generatedAt": "2026-10-07T18:27:57.229836+00:00"
       }
     },
     {
@@ -254,21 +254,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Hoffenheim",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "outcome": "Sieg Heim",
+        "scoreline": "3:1",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
+          "home": 0.6,
+          "draw": 0.2,
           "away": 0.2
         },
         "reasons": [
-          "Hoffenheim mit starker Heimform",
+          "Hoffenheim heimstark und in guter Form",
           "HSV mit Auswärtsschwächen",
-          "Beide Teams im Mittelfeld der Tabelle, aber Hoffenheim hat den besseren Kader"
+          "Tabellarisch klar vor Hoffenheim"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-06T19:59:17.803495+00:00"
+        "generatedAt": "2026-10-07T18:27:58.817596+00:00"
       }
     },
     {
@@ -309,19 +309,19 @@
         "available": true,
         "outcome": "Sieg FC Bayern München",
         "scoreline": "1:3",
-        "confidence": 0.6,
+        "confidence": 0.65,
         "probs": {
           "home": 0.15,
-          "draw": 0.25,
-          "away": 0.6
+          "draw": 0.2,
+          "away": 0.65
         },
         "reasons": [
-          "Augsburgs Form schwankend",
+          "Augsburg in schwacher Form",
           "Bayern mit starker Offensive",
           "Augsburgs Heimschwäche gegen Top-Teams"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-06T19:59:19.558201+00:00"
+        "generatedAt": "2026-10-07T18:28:00.384600+00:00"
       }
     },
     {
@@ -359,20 +359,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg RB Leipzig",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "RB Leipzig mit starker Heimform in dieser Saison",
-          "Eintracht Frankfurt zuletzt auswärts anfällig",
-          "Leipzig hat den breiteren Kader und weniger Ausfälle"
+          "RB Leipzig hat eine starke Heimbilanz",
+          "Eintracht Frankfurt zeigt auswärts Schwächen",
+          "RB Leipzig ist in besserer Verfassung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-06T19:59:21.179888+00:00"
+        "generatedAt": "2026-10-07T18:28:02.117318+00:00"
       }
     },
     {
