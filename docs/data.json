@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T18:00:30.306833+00:00",
+  "generatedAt": "2026-10-09T22:33:39.649200+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -15,19 +15,19 @@
       "dateLocal": "2026-10-09",
       "kickoff": "2026-10-09T20:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "SV Werder Bremen",
         "short": "SVW",
         "crest": "https://crests.football-data.org/12.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -41,22 +41,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Dortmund",
-        "scoreline": "3:1",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
-        },
-        "reasons": [
-          "Dortmunds starke Heimform",
-          "Bremens Auswärtsschwäche",
-          "Qualitativer Unterschied im Kader"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-09T18:00:13.674019+00:00"
+        "available": false
       }
     },
     {
@@ -1487,7 +1472,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Borussia Dortmund",
+        "outcome": "Sieg Dortmund",
         "scoreline": "1:2",
         "confidence": 0.5,
         "probs": {
@@ -1496,12 +1481,12 @@
           "away": 0.5
         },
         "reasons": [
-          "Union Berlin zeigt zuletzt schwankende Leistungen",
-          "Dortmunds Offensive ist stark und konstant",
-          "BVB hat die bessere Tabellensituation und mehr Qualität im Kader"
+          "Union Berlin zuletzt formschwach",
+          "Dortmunds Offensivstärke",
+          "Bedeutung des Spiels für Dortmunds Titelchancen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-09T00:59:32.465003+00:00"
+        "generatedAt": "2026-10-09T22:33:30.845234+00:00"
       }
     },
     {
@@ -1540,21 +1525,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Hamburger SV",
+        "scoreline": "2:1",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
+          "home": 0.5,
+          "draw": 0.3,
           "away": 0.2
         },
         "reasons": [
-          "HSV mit Heimvorteil und starker Saison bisher",
-          "Stuttgart zeigt Auswärtsstärke und gute Form",
-          "Beide Teams defensiv stabil, erwartet ausgeglichenes Spiel"
+          "Hamburger SV mit starker Heimform",
+          "VfB Stuttgart auswärts anfällig",
+          "Tabellensituation spricht für HSV"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-09T00:59:34.221229+00:00"
+        "generatedAt": "2026-10-09T22:33:32.466605+00:00"
       }
     },
     {
@@ -1594,20 +1579,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Werder Bremen",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "scoreline": "3:1",
+        "confidence": 0.65,
         "probs": {
-          "home": 0.6,
-          "draw": 0.25,
+          "home": 0.65,
+          "draw": 0.2,
           "away": 0.15
         },
         "reasons": [
           "Werder Bremen mit starker Heimform",
-          "Paderborn zeigt Auswärtsschwächen",
-          "Bremen hat den besseren Kader"
+          "Paderborn schwächelt auswärts",
+          "Werder Bremen hat den besseren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-09T00:59:35.775156+00:00"
+        "generatedAt": "2026-10-09T22:33:33.967530+00:00"
       }
     },
     {
@@ -1646,21 +1631,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
+        "outcome": "Sieg FC Augsburg",
+        "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Elversberg mit starkem Heimvorteil",
+          "Elversberg mit schwacher Heimbilanz",
           "Augsburg in solider Verfassung",
-          "Beide Teams defensiv stabil"
+          "Augsburg hat mehr Erfahrung in der Liga"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-09T00:59:37.294837+00:00"
+        "generatedAt": "2026-10-09T22:33:35.511908+00:00"
       }
     },
     {
@@ -1708,12 +1693,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Schalke mit Heimvorteil, aber schwankender Form",
-          "Mainz defensiv stabil, aber offensiv harmlos",
-          "Beide Teams im Abstiegskampf, daher vorsichtige Spielweise zu erwarten"
+          "Schalke zeigt im Heimstadion oft eine bessere Leistung",
+          "Mainz ist auswärts generell schwach",
+          "Beide Teams kämpfen um wichtige Punkte und werden defensiv agieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-09T00:59:38.912189+00:00"
+        "generatedAt": "2026-10-09T22:33:37.156728+00:00"
       }
     },
     {
@@ -1755,16 +1740,16 @@
         "confidence": 0.6,
         "probs": {
           "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
+          "draw": 0.2,
+          "away": 0.2
         },
         "reasons": [
           "FC Bayern München mit starker Heimbilanz",
-          "RB Leipzig zuletzt mit schwankender Form",
-          "FC Bayern München hat die breitere Kaderbreite"
+          "RB Leipzig zuletzt auswärts anfällig",
+          "Bayern hat mehr Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-09T00:59:40.494731+00:00"
+        "generatedAt": "2026-10-09T22:33:38.648711+00:00"
       }
     },
     {
