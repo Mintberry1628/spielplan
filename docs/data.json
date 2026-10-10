@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:33:39.649200+00:00",
+  "generatedAt": "2026-10-10T04:26:35.099812+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1786,7 +1786,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "3:1",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.2,
+          "away": 0.15
+        },
+        "reasons": [
+          "Leverkusen in starker Form und heimstark",
+          "Freiburg mit Auswärtsschwächen in dieser Saison",
+          "Leverkusen hat die individuell stärkere Mannschaft"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-10T04:26:32.554849+00:00"
       }
     },
     {
@@ -1823,7 +1838,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Mönchengladbach",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Gladbach zuletzt heimstark",
+          "Hoffenheim auswärts anfällig",
+          "Beide Teams im Niemandsland der Tabelle, Tabelle"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-10T04:26:34.099377+00:00"
       }
     },
     {
