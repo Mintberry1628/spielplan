@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:11:51.298245+00:00",
+  "generatedAt": "2026-10-11T04:08:27.708091+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -68,12 +68,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "RTL",
-          "DAZN 1",
           "Sky"
         ],
-        "free": true,
-        "note": null
+        "free": false,
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -106,12 +104,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -144,12 +140,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -182,12 +176,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -220,12 +212,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -1644,7 +1634,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "3:1",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "FC Bayern München hat eine starke Heimbilanz gegen RB Leipzig.",
+          "RB Leipzig hat zuletzt einige Auswärtsspiele verloren.",
+          "FC Bayern München ist in besserer Form und hat weniger Verletzungssorgen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-11T04:08:23.607467+00:00"
       }
     },
     {
@@ -1683,20 +1688,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "3:1",
-        "confidence": 0.65,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.65,
-          "draw": 0.2,
+          "home": 0.6,
+          "draw": 0.25,
           "away": 0.15
         },
         "reasons": [
-          "Leverkusen in starker Form und heimstark",
+          "Leverkusen in starker Form und ungeschlagen",
           "Freiburg mit Auswärtsschwächen in dieser Saison",
-          "Leverkusen hat die individuell stärkere Mannschaft"
+          "Leverkusen hat Heimvorteil und breiteren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-10T04:26:32.554849+00:00"
+        "generatedAt": "2026-10-11T04:08:25.209942+00:00"
       }
     },
     {
@@ -1734,7 +1739,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Mönchengladbach",
+        "outcome": "Sieg Borussia Mönchengladbach",
         "scoreline": "2:1",
         "confidence": 0.55,
         "probs": {
@@ -1743,12 +1748,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Gladbach zuletzt heimstark",
+          "Gladbach mit starkem Heimvorteil",
           "Hoffenheim auswärts anfällig",
-          "Beide Teams im Niemandsland der Tabelle, Tabelle"
+          "Formkurve spricht für Gladbach"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-10T04:26:34.099377+00:00"
+        "generatedAt": "2026-10-11T04:08:26.707712+00:00"
       }
     },
     {
@@ -1778,7 +1783,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1814,7 +1819,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1850,7 +1855,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1883,10 +1888,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Amazon Prime Video"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1958,7 +1963,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1994,7 +1999,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2030,7 +2035,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2066,7 +2071,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
