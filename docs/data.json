@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:14:54.430588+00:00",
+  "generatedAt": "2026-10-12T10:15:50.800727+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1959,7 +1959,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Liverpool FC",
+        "scoreline": "2:0",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
+        },
+        "reasons": [
+          "Liverpool ist in starker Form und zu Hause eine Macht.",
+          "Villarreal hat Auswärtsschwächen und Verletzungssorgen.",
+          "Liverpool hat die höhere individuelle Qualität und mehr Erfahrung in solchen Spielen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-12T10:15:49.800167+00:00"
       }
     },
     {
