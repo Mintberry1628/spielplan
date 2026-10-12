@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T10:15:50.800727+00:00",
+  "generatedAt": "2026-10-12T20:57:03.974405+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -373,16 +373,16 @@
         "confidence": 0.4,
         "probs": {
           "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "draw": 0.35,
+          "away": 0.25
         },
         "reasons": [
-          "Lens ist zu Hause stark, aber Sporting hat mehr internationale Erfahrung.",
-          "Beide Teams haben zuletzt solide Leistungen gezeigt.",
-          "Die Ausgeglichenheit der Teams deutet auf ein knappes Spiel hin."
+          "Lens' Heimstärke ist ein Faktor.",
+          "Sporting hat die bessere aktuelle Form.",
+          "Beide Teams sind in der Gruppenphase unter Druck."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:09.326169+00:00"
+        "generatedAt": "2026-10-12T20:56:13.895470+00:00"
       }
     },
     {
@@ -430,11 +430,11 @@
         },
         "reasons": [
           "Sabla Praha in besserer Form",
-          "Sabla Praha hat mehr Erfahrung im internationalen Wettbewerb",
-          "Sabla Praha hat die stärkere Offensive"
+          "Sabla Praha mit breiterem Kader",
+          "Sabla Praha hat mehr Erfahrung auf internationaler Bühne"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:10.955890+00:00"
+        "generatedAt": "2026-10-12T20:56:15.485465+00:00"
       }
     },
     {
@@ -472,7 +472,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Internazionale",
+        "outcome": "Sieg Inter Mailand",
         "scoreline": "2:0",
         "confidence": 0.7,
         "probs": {
@@ -481,12 +481,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Inter Mailand mit starker Form und Heimstärke",
-          "Club Brügge hatte zuletzt Schwierigkeiten auswärts",
-          "Inter Mailand hat das klar bessere Kaderprofil"
+          "Inter Mailand ist in starker Form und hat Heimvorteil",
+          "Club Brügge hat auswärts Schwierigkeiten",
+          "Inter Mailand hat die bessere Kaderbreite und individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:12.574323+00:00"
+        "generatedAt": "2026-10-12T20:56:17.167618+00:00"
       }
     },
     {
@@ -524,21 +524,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.35,
+        "outcome": "Sieg Galatasaray SK",
+        "scoreline": "2:1",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.35,
-          "draw": 0.35,
-          "away": 0.3
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
         },
         "reasons": [
-          "Galatasaray mit starkem Heimvorteil in der Champions League.",
-          "Barcelona zeigt sich in der Liga stabil, aber auswärts anfällig.",
-          "Beide Teams haben ähnliche Kaderstärke und kämpfen um wichtige Punkte."
+          "Galatasaray hat einen starken Heimvorteil in der Champions League.",
+          "Barcelona zeigt aktuell Formschwankungen auswärts.",
+          "Beide Teams benötigen Punkte, was zu einem umkämpften Spiel führt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:14.186741+00:00"
+        "generatedAt": "2026-10-12T20:56:18.753652+00:00"
       }
     },
     {
@@ -586,11 +586,11 @@
         },
         "reasons": [
           "Atlético Madrid hat einen starken Heimvorteil in der Champions League.",
-          "Manchester United zeigt auswärts Schwächen in der Defensive.",
-          "Beide Teams sind defensivstark, was ein knappes Spiel erwarten lässt."
+          "Manchester United zeigt in letzter Zeit inkonsistente Leistungen.",
+          "Beide Teams sind defensivstark, was ein enges Spiel erwarten lässt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:15.947758+00:00"
+        "generatedAt": "2026-10-12T20:56:20.301030+00:00"
       }
     },
     {
@@ -636,12 +636,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Arsenal in starker Form und heimstark",
-          "Lille mit Problemen in der Fremde",
-          "Arsenal hat die breitere und tiefere Kaderbreite"
+          "Arsenal FC hat eine starke Heimform in der Liga.",
+          "Lille OSC zeigte zuletzt inkonsistente Leistungen auswärts.",
+          "Arsenal FC hat die breitere und tiefere Kaderbreite."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:17.669356+00:00"
+        "generatedAt": "2026-10-12T20:56:21.903589+00:00"
       }
     },
     {
@@ -687,12 +687,12 @@
           "away": 0.6
         },
         "reasons": [
-          "FC Bayern München mit deutlich stärkerem Kader",
-          "Viking FK hat Heimvorteil, aber internationale Erfahrung fehlt",
-          "FC Bayern München ist in guter Form und hat eine hohe Offensivqualität"
+          "Viking FK mit schwacher Heimbilanz in der Liga",
+          "FC Bayern München in starker Verfassung und mit breiterem Kader",
+          "Historisch starke Leistungen des FC Bayern in der Champions League"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:19.356959+00:00"
+        "generatedAt": "2026-10-12T20:56:23.529691+00:00"
       }
     },
     {
@@ -730,22 +730,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg RB Leipzig",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "RB Leipzig mit starker Heimform in der Liga",
-          "PSV zuletzt auswärts anfällig",
-          "RB Leipzig hat mehr Erfahrung auf diesem Niveau"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:21.014416+00:00"
+        "available": false
       }
     },
     {
@@ -791,12 +776,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Villarreal ist zu Hause stark, aber Napoli hat die individuelle Klasse",
-          "Beide Teams sind in der Liga zuletzt unkonstant aufgetreten",
-          "Die defensive Stabilität beider Mannschaften spricht für wenige Tore und ein enges Spiel"
+          "Villarreal zu Hause stark, aber Napoli in der Liga formstark",
+          "Beide Teams defensiv solide, wenig Gegentore zuletzt",
+          "Napoli hat leichte Vorteile in der direkten Bilanz gegen Villarreal"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:22.881765+00:00"
+        "generatedAt": "2026-10-12T20:56:25.790194+00:00"
       }
     },
     {
@@ -834,20 +819,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Liverpool FC",
-        "scoreline": "1:3",
+        "scoreline": "0:2",
         "confidence": 0.6,
         "probs": {
-          "home": 0.2,
-          "draw": 0.2,
+          "home": 0.15,
+          "draw": 0.25,
           "away": 0.6
         },
         "reasons": [
-          "LASK Linz mit schwacher Saisonform",
-          "Liverpool FC in guter Verfassung und mit starkem Kader",
-          "Auswärtsstärke von Liverpool in europäischen Wettbewerben"
+          "LASK Linz mit schwacher Form in den letzten Spielen",
+          "Liverpool FC ist in der Offensive deutlich stärker und konstanter",
+          "Liverpool FC hat die höhere individuelle Qualität und Erfahrung in europäischen Wettbewerben"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:24.479215+00:00"
+        "generatedAt": "2026-10-12T20:56:27.340072+00:00"
       }
     },
     {
@@ -887,19 +872,19 @@
         "available": true,
         "outcome": "Sieg Feyenoord Rotterdam",
         "scoreline": "2:0",
-        "confidence": 0.65,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.65,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "Feyenoord hat Heimvorteil und ist in besserer Form",
-          "Como hat Probleme in der Offensive",
-          "Feyenoord ist defensiv stabil"
+          "Feyenoord mit starker Heimbilanz",
+          "Como defensiv anfällig auswärts",
+          "Feyenoord hat mehr Erfahrung auf internationaler Bühne"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:26.130727+00:00"
+        "generatedAt": "2026-10-12T20:56:28.860249+00:00"
       }
     },
     {
@@ -937,21 +922,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
+        "outcome": "Sieg Real Madrid CF",
+        "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Roma zu Hause stark, aber Madrid offensiv gefährlich",
-          "Beide Teams defensiv solide",
-          "Ausgeglichene Kaderstärke"
+          "Roma zuletzt formschwach",
+          "Real Madrid mit starker Offensive",
+          "Auswärtsniederlage für Roma wahrscheinlich"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:28.004220+00:00"
+        "generatedAt": "2026-10-12T20:56:30.437130+00:00"
       }
     },
     {
@@ -999,11 +984,11 @@
         },
         "reasons": [
           "Manchester City hat einen starken Heimvorteil und eine überzeugende Saisonleistung.",
-          "Paris Saint-Germain zeigt zwar Offensivstärke, aber defensive Schwächen in Auswärtsspielen.",
-          "Beide Teams sind offensiv stark, Citys Konstanz spricht für sie."
+          "Paris Saint-Germain zeigt zwar offensive Stärke, aber defensive Schwächen in Auswärtsspielen.",
+          "Beide Teams sind gut besetzt, Citys Konstanz spricht jedoch für sie."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:29.966508+00:00"
+        "generatedAt": "2026-10-12T20:56:32.010323+00:00"
       }
     },
     {
@@ -1080,7 +1065,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Aston Villa FC",
-        "scoreline": "2:1",
+        "scoreline": "2:0",
         "confidence": 0.6,
         "probs": {
           "home": 0.6,
@@ -1089,11 +1074,11 @@
         },
         "reasons": [
           "Aston Villa hat Heimvorteil und eine starke Form",
-          "Fenerbahçe hat Auswärtsschwächen in der Champions League",
-          "Beide Teams sind offensivstark, was zu Toren führen kann"
+          "Fenerbahçe hat Probleme in der Fremde",
+          "Aston Villa ist in der heimischen Liga besser platziert"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:31.999383+00:00"
+        "generatedAt": "2026-10-12T20:56:33.611189+00:00"
       }
     },
     {
@@ -1140,12 +1125,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Real Betis mit starker Heimform",
-          "Porto zuletzt auswärts anfällig",
-          "Betis hat den besseren Kadervergleich"
+          "Real Betis hat Heimvorteil und eine starke Form",
+          "FC Porto zeigt Schwächen in der Defensive",
+          "Beide Teams sind offensivstark, aber Betis ist zu Hause effektiver"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:34.323163+00:00"
+        "generatedAt": "2026-10-12T20:56:35.251223+00:00"
       }
     },
     {
@@ -1182,21 +1167,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Shakhtar Donetsk",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Shakhtar Donetsk hat einen starken Heimvorteil in der Champions League.",
-          "AEK Athen hat in der Fremde oft Schwierigkeiten.",
-          "Shakhtar Donetsk ist in besserer Verfassung und hat die erfahrenere Mannschaft in diesem Wettbewerb."
+          "Shakhtar Donetsk mit Heimvorteil, aber schwankende Form",
+          "AEK Athen defensiv stabil, aber auswärts oft torarm",
+          "Beide Teams brauchen Punkte, was zu einem vorsichtigen Spiel führen könnte"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:36.012821+00:00"
+        "generatedAt": "2026-10-12T20:56:36.856026+00:00"
       }
     },
     {
@@ -1243,12 +1228,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Stuttgart mit besserer aktueller Form und breiterem Kader",
-          "Bratislava hat Heimvorteil, aber Stuttgart ist international erfahrener",
-          "Beide Teams brauchen Punkte, was zu einem offenen Spiel führt"
+          "Stuttgart in besserer Form",
+          "Bratislava mit Heimniederlage im Hinspiel",
+          "Stuttgart hat mehr individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:38.515033+00:00"
+        "generatedAt": "2026-10-12T20:56:38.426472+00:00"
       }
     },
     {
@@ -1294,12 +1279,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Frankfurt zuhause stark",
-          "Köln auswärts schwach",
-          "Formkurve spricht für Frankfurt"
+          "Frankfurt mit starker Heimform und breiterem Kader",
+          "Köln kämpft auswärts und hat zuletzt wenig Punkte geholt",
+          "Frankfurt hat die höhere individuelle Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:40.549241+00:00"
+        "generatedAt": "2026-10-12T20:56:51.357407+00:00"
       }
     },
     {
@@ -1338,21 +1323,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Borussia Dortmund",
+        "outcome": "Sieg Dortmund",
         "scoreline": "1:2",
-        "confidence": 0.5,
+        "confidence": 0.4,
         "probs": {
           "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
           "Union Berlin zuletzt formschwach",
           "Dortmunds Offensivstärke",
-          "Bessere Tabellensituation Dortmund"
+          "Union Berlins Heimschwäche gegen Top-Teams"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:43.563102+00:00"
+        "generatedAt": "2026-10-12T20:56:52.957873+00:00"
       }
     },
     {
@@ -1391,21 +1376,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Hamburger SV",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
+          "home": 0.4,
+          "draw": 0.4,
           "away": 0.2
         },
         "reasons": [
-          "HSV mit starker Heimform",
-          "Stuttgart schwächelt auswärts",
-          "Beide Teams im Mittelfeld der Tabelle, wenig Druck"
+          "HSV mit starkem Heimvorteil, aber auswärts anfällig.",
+          "Stuttgart in guter Form, aber auswärts oft defensiv.",
+          "Beide Teams haben ähnliche Punktzahlen und Ziele."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:45.702353+00:00"
+        "generatedAt": "2026-10-12T20:56:54.568899+00:00"
       }
     },
     {
@@ -1445,20 +1430,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Werder Bremen",
-        "scoreline": "2:0",
+        "scoreline": "3:1",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
+          "draw": 0.2,
+          "away": 0.15
         },
         "reasons": [
           "Werder Bremen mit starker Heimform",
           "Paderborn auswärts anfällig",
-          "Bremen hat den besseren Kader"
+          "Werder Bremen hat die individuell besseren Spieler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:47.405831+00:00"
+        "generatedAt": "2026-10-12T20:56:56.011764+00:00"
       }
     },
     {
@@ -1501,17 +1486,17 @@
         "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.35,
-          "draw": 0.25,
+          "home": 0.3,
+          "draw": 0.3,
           "away": 0.4
         },
         "reasons": [
           "Elversberg mit schwacher Heimbilanz",
           "Augsburg in solider Verfassung",
-          "Augsburg hat die höhere individuelle Qualität"
+          "Augsburg hat die breitere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:49.120743+00:00"
+        "generatedAt": "2026-10-12T20:56:57.574124+00:00"
       }
     },
     {
@@ -1559,12 +1544,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Schalke mit Heimvorteil, aber schwankender Form",
-          "Mainz defensiv stabil, aber auswärts schwächer",
-          "Beide Teams im Abstiegskampf, daher vorsichtiger Ansatz"
+          "Schalke mit Heimvorteil, aber schwankende Form",
+          "Mainz kämpft um jeden Punkt, aber auswärts oft schwächer",
+          "Beide Teams sind tabellarisch nah beieinander und defensivstark."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-11T19:21:50.777487+00:00"
+        "generatedAt": "2026-10-12T20:56:59.170454+00:00"
       }
     },
     {
@@ -1610,12 +1595,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Bayern mit starker Heimbilanz gegen Leipzig",
-          "Leipzig zuletzt auswärts anfällig",
-          "Bayern hat mehr Qualität im Kader"
+          "FC Bayern München hat eine starke Heimbilanz gegen RB Leipzig.",
+          "RB Leipzig zeigt zuletzt schwankende Leistungen auswärts.",
+          "FC Bayern München ist in der Liga gut in Form und hat weniger Verletzungssorgen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:50.422987+00:00"
+        "generatedAt": "2026-10-12T20:57:00.799042+00:00"
       }
     },
     {
@@ -1655,19 +1640,19 @@
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
         "scoreline": "3:1",
-        "confidence": 0.65,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.65,
+          "home": 0.6,
           "draw": 0.2,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Leverkusen ist in Topform und ungeschlagen.",
-          "Freiburg hat zuletzt schwankende Leistungen gezeigt.",
-          "Leverkusen hat einen starken Heimvorteil."
+          "Leverkusen in starker Form und ungeschlagen",
+          "Freiburg mit Auswärtsschwächen in dieser Saison",
+          "Leverkusen hat Heimvorteil und starke Offensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:51.945305+00:00"
+        "generatedAt": "2026-10-12T20:57:02.413398+00:00"
       }
     },
     {
@@ -1704,22 +1689,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Mönchengladbach",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Gladbach zuletzt heimstark",
-          "Hoffenheim auswärts anfällig",
-          "Beide Teams im Mittelfeld der Tabelle mit ähnlicher Form"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:53.430117+00:00"
+        "available": false
       }
     },
     {
@@ -1765,12 +1735,12 @@
           "away": 0.6
         },
         "reasons": [
-          "Dortmund hat die stärkere Mannschaft und mehr Erfahrung im europäischen Wettbewerb.",
-          "Sabah FK ist in der heimischen Liga stark, aber international noch unerfahren.",
-          "Dortmund ist auf internationaler Bühne generell besser aufgestellt und hat bewiesen, dass sie auch auswärts punkten können."
+          "Dortmund hat eine stärkere Mannschaft und mehr internationale Erfahrung.",
+          "Sabah FK spielt zu Hause, aber Dortmunds Offensivkraft ist entscheidend.",
+          "Beide Teams haben ähnliche Form, aber Dortmunds Qualität setzt sich durch."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:38.309661+00:00"
+        "generatedAt": "2026-10-12T20:56:40.040727+00:00"
       }
     },
     {
@@ -1816,12 +1786,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Starke Heimform von Fenerbahçe",
-          "Slavia Prag mit Auswärtsschwächen",
-          "Fenerbahçe benötigt Punkte für die K.o.-Phase"
+          "Fenerbahçe hat einen starken Heimvorteil in Europa",
+          "Slavia Prag zeigte zuletzt Schwächen in der Defensive",
+          "Fenerbahçe ist in der Liga in guter Form"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:39.874438+00:00"
+        "generatedAt": "2026-10-12T20:56:41.648124+00:00"
       }
     },
     {
@@ -1867,12 +1837,12 @@
           "away": 0.05
         },
         "reasons": [
-          "Überragende Heimbilanz von Man City",
-          "AEK mit schwacher Auswärtsform in der Champions League",
-          "Man City mit breiterem und tieferem Kader"
+          "Manchester City ist in überragender Form und hat eine beeindruckende Siegesserie.",
+          "AEK Athen hat Schwierigkeiten in der Fremde und gegen Top-Teams.",
+          "Manchester City hat eine extrem starke Heimbilanz und einen tiefen Kader."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:41.529924+00:00"
+        "generatedAt": "2026-10-12T20:56:43.413833+00:00"
       }
     },
     {
@@ -1909,21 +1879,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg VfB Stuttgart",
-        "scoreline": "2:1",
-        "confidence": 0.5,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
+          "home": 0.4,
+          "draw": 0.4,
           "away": 0.2
         },
         "reasons": [
-          "Stuttgart in starker Form und heimstark",
-          "Atlético Madrid mit Auswärtsschwächen in dieser Saison",
-          "Stuttgart benötigt Punkte für das Weiterkommen"
+          "Stuttgart mit starker Heimform in der Liga",
+          "Atlético defensiv stabil, aber auswärts oft Remis",
+          "Beide Teams brauchen Punkte, um sich in der Gruppe zu verbessern"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:43.090624+00:00"
+        "generatedAt": "2026-10-12T20:56:44.981977+00:00"
       }
     },
     {
@@ -2021,11 +1991,11 @@
         },
         "reasons": [
           "AS Roma ist in starker Form und hat Heimvorteil.",
-          "Slovan Bratislava hat eine schwache Auswärtsbilanz.",
-          "Roma hat die bessere Kaderqualität und ist in der Liga besser platziert."
+          "Slovan Bratislava hat auswärts Schwächen gezeigt.",
+          "Roma hat die höhere individuelle Qualität im Kader."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:45.419825+00:00"
+        "generatedAt": "2026-10-12T20:56:46.569682+00:00"
       }
     },
     {
@@ -2071,12 +2041,12 @@
           "away": 0.2
         },
         "reasons": [
-          "FC Porto hat Heimvorteil in der Champions League.",
-          "PSV ist auswärts in dieser Saison anfälliger.",
-          "Beide Teams sind in guter Form, Porto ist zu Hause stärker."
+          "FC Porto hat einen starken Heimvorteil",
+          "PSV zeigt auswärts Schwächen",
+          "Beide Teams sind in der Tabelle punktgleich, Porto mit leichter Tordifferenz-Vorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:47.160574+00:00"
+        "generatedAt": "2026-10-12T20:56:48.170805+00:00"
       }
     },
     {
@@ -2158,12 +2128,12 @@
           "away": 0.2
         },
         "reasons": [
-          "PSG mit starker Heimbilanz in der Champions League",
-          "Barcelona kämpft auswärts oft mit der Defensive",
-          "Beide Teams haben wichtige Spieler verletzt"
+          "PSG mit starker Heimform in der Champions League.",
+          "Barcelona kämpft mit Auswärtsschwäche in Top-Spielen.",
+          "Beide Teams haben Schlüsselspieler in guter Verfassung."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-12T00:14:48.871763+00:00"
+        "generatedAt": "2026-10-12T20:56:49.836239+00:00"
       }
     },
     {
