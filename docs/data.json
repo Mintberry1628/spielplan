@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T08:24:44.112420+00:00",
+  "generatedAt": "2026-10-14T14:20:38.714688+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -15,19 +15,19 @@
       "dateLocal": "2026-10-11",
       "kickoff": "2026-10-11T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FC Köln",
         "short": "KOE",
         "crest": "https://crests.football-data.org/1.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Borussia Mönchengladbach",
         "short": "BMG",
         "crest": "https://crests.football-data.org/18.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -41,22 +41,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Köln ist zu Hause stark, aber Gladbach hat zuletzt die Oberhand behalten.",
-          "Beide Teams zeigen eine inkonsistente Form.",
-          "Die Tabellensituation ist eng, was auf ein ausgeglichenes Spiel hindeutet."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T00:09:45.629417+00:00"
+        "available": false
       }
     },
     {
@@ -66,19 +51,19 @@
       "dateLocal": "2026-10-11",
       "kickoff": "2026-10-11T17:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SC Freiburg",
         "short": "SCF",
         "crest": "https://crests.football-data.org/17.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "FC Schalke 04",
         "short": "S04",
         "crest": "https://crests.football-data.org/6.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -92,22 +77,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg SC Freiburg",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Freiburg mit starker Heimform",
-          "Schalke kämpft auswärts mit der Defensive",
-          "Freiburg hat die stabilere Mannschaftsleistung gezeigt"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T00:09:47.294987+00:00"
+        "available": false
       }
     },
     {
