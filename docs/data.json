@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:09:49.886786+00:00",
+  "generatedAt": "2026-10-14T08:24:44.112420+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1604,12 +1604,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Liverpool ist zu Hause stark und hat eine positive Heimbilanz",
-          "Villarreal hat auswärts Schwierigkeiten und eine schwächere Form",
-          "Liverpool hat den Kader, um auch bei Rotation eine starke Elf aufzustellen"
+          "Liverpool mit starker Heimform in der Liga",
+          "Villarreal zeigt Auswärtsschwächen in Europa",
+          "Liverpool hat den Kader für die Doppelbelastung besser auf mehreren Positionen gut besetzt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-13T10:07:26.602897+00:00"
+        "generatedAt": "2026-10-14T08:24:43.111737+00:00"
       }
     },
     {
