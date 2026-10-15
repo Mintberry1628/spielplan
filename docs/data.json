@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T16:21:46.429643+00:00",
+  "generatedAt": "2026-10-15T20:57:41.937312+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -751,12 +751,12 @@
           "away": 0.5
         },
         "reasons": [
-          "Dortmunds höhere individuelle Qualität im Kader",
-          "Union Berlins zuletzt schwankende Formkurve",
-          "Dortmunds offensive Stärke auswärts"
+          "Union Berlin zuletzt formschwach",
+          "Dortmunds Offensivstärke",
+          "Union Berlins Heimschwäche gegen Top-Teams"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:47.301359+00:00"
+        "generatedAt": "2026-10-15T20:57:39.415782+00:00"
       }
     },
     {
@@ -1109,7 +1109,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Borussia Mönchengladbach",
+        "outcome": "Sieg Mönchengladbach",
         "scoreline": "2:1",
         "confidence": 0.55,
         "probs": {
@@ -1118,12 +1118,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Gladbach zuletzt heimstark",
-          "Hoffenheim auswärts anfällig",
-          "Beide Teams im Mittelfeld der Tabelle, geringe Unterschiede"
+          "Gladbach zuletzt formstark im heimischen Stadion",
+          "Hoffenheim mit Auswärtsschwächen in dieser Saison",
+          "Direkter Vergleich spricht leicht für Gladbach"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:48.845938+00:00"
+        "generatedAt": "2026-10-15T20:57:40.936848+00:00"
       }
     },
     {
@@ -1614,11 +1614,11 @@
         },
         "reasons": [
           "Como 1907 mit schwacher Heimbilanz",
-          "Manchester United FC in besserer Verfassung",
-          "Manchester United FC hat die höhere individuelle Qualität"
+          "Manchester United FC in guter Form",
+          "Manchester United FC mit mehr Erfahrung auf internationaler Bühne"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:32.414450+00:00"
+        "generatedAt": "2026-10-15T20:57:25.086487+00:00"
       }
     },
     {
@@ -1656,20 +1656,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Lille OSC",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Lille hat Heimvorteil",
-          "Galatasaray zuletzt schwankend",
-          "Lille in guter Form"
+          "Lille OSC ist in starker Form und hat Heimvorteil",
+          "Galatasaray SK hat auswärts Schwierigkeiten",
+          "Lille OSC hat die bessere Kaderbreite und Erfahrung in europäischen Wettbewerben"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:34.011017+00:00"
+        "generatedAt": "2026-10-15T20:57:26.748013+00:00"
       }
     },
     {
@@ -1715,12 +1715,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Real Madrid ist zu Hause stark und hat eine höhere individuelle Qualität.",
-          "RB Leipzig fehlt es an Konstanz in den Auswärtsspielen.",
-          "Die aktuelle Form von Real Madrid ist überzeugend."
+          "Real Madrid ist zuhause stark und hat eine positive Heimbilanz gegen Leipzig.",
+          "Leipzig hat zuletzt schwankende Leistungen gezeigt und muss auswärts bestehen.",
+          "Real Madrid verfügt über die erfahrenere und individuell stärkere Mannschaft."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:35.653113+00:00"
+        "generatedAt": "2026-10-15T20:57:28.401193+00:00"
       }
     },
     {
@@ -1757,7 +1757,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Inter Mailand",
+        "outcome": "Sieg Heim",
         "scoreline": "2:0",
         "confidence": 0.65,
         "probs": {
@@ -1766,12 +1766,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Inter Mailand hat eine starke Heimform in der Liga",
-          "Shakhtar Donetsk hat Probleme in der Offensive",
-          "Inter ist in der Champions League erfahrener"
+          "Inter Mailand zeigt starke Heimform in der Liga.",
+          "Shakhtar Donetsk hat Auswärtsschwächen gezeigt.",
+          "Inter hat die breitere und tiefere Kaderbreite."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:37.213084+00:00"
+        "generatedAt": "2026-10-15T20:57:30.064346+00:00"
       }
     },
     {
@@ -1817,12 +1817,12 @@
           "away": 0.2
         },
         "reasons": [
-          "FC Bayern München hat eine starke Heimbilanz in der Champions League.",
-          "Arsenal FC zeigt Schwächen in der Defensive bei Auswärtsspielen.",
-          "Die aktuelle Form beider Teams spricht leicht für die Bayern."
+          "FC Bayern München hat eine starke Heimform in der Champions League.",
+          "Arsenal FC hat zuletzt auswärts in K.O.-Runden Probleme gezeigt.",
+          "Beide Teams sind in guter Tabellensituation, aber der Heimvorteil spricht für München."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:38.897014+00:00"
+        "generatedAt": "2026-10-15T20:57:31.643101+00:00"
       }
     },
     {
@@ -1860,7 +1860,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Club Brugge KV",
-        "scoreline": "1:0",
+        "scoreline": "2:1",
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
@@ -1869,11 +1869,11 @@
         },
         "reasons": [
           "Club Brugge ist zu Hause stark",
-          "Lens hat zuletzt auswärts geschwächelt",
-          "Beide Teams defensiv solide"
+          "Lens hat Probleme in der Fremde",
+          "Beide Teams sind in der Tabelle nah beieinander, Brugge hat aber den Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:40.490624+00:00"
+        "generatedAt": "2026-10-15T20:57:33.234429+00:00"
       }
     },
     {
@@ -1919,12 +1919,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Aston Villa FC hat Heimvorteil und ist in besserer Form",
-          "Viking FK hat auswärts Schwächen gezeigt",
-          "Aston Villa FC hat den Kader, um auch in der Breite zu überzeugen"
+          "Aston Villa FC ist in starker Form und hat Heimvorteil.",
+          "Viking FK hat auswärts Schwächen gezeigt.",
+          "Aston Villa FC hat die bessere Kaderbreite und Erfahrung."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:42.126657+00:00"
+        "generatedAt": "2026-10-15T20:57:34.795035+00:00"
       }
     },
     {
@@ -1962,20 +1962,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Sporting Clube de Portugal",
-        "scoreline": "2:0",
-        "confidence": 0.7,
+        "scoreline": "3:1",
+        "confidence": 0.65,
         "probs": {
-          "home": 0.7,
+          "home": 0.65,
           "draw": 0.2,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "Sporting CP mit starker Heimform",
-          "LASK Linz schwächelt auswärts",
-          "Sporting CP hat die bessere Kaderqualität"
+          "Sporting mit starker Heimform in der Liga",
+          "LASK Linz mit Problemen in der Fremde",
+          "Sporting hat die individuell stärkere Mannschaft"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:44.005539+00:00"
+        "generatedAt": "2026-10-15T20:57:36.344541+00:00"
       }
     },
     {
@@ -2012,7 +2012,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Real Betis",
+        "outcome": "Sieg Real Betis Balompié",
         "scoreline": "2:1",
         "confidence": 0.55,
         "probs": {
@@ -2021,12 +2021,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Starke Heimform von Betis in europäischen Wettbewerben",
-          "Feyenoord hat auswärts oft Probleme gegen Top-Teams",
-          "Betis benötigt Punkte für das Weiterkommen"
+          "Real Betis hat eine starke Heimform in dieser Saison.",
+          "Feyenoord zeigt Schwächen in der Defensive auswärts.",
+          "Beide Teams sind punktgleich, Real Betis hat den Heimvorteil auf seiner Seite."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T23:42:45.670811+00:00"
+        "generatedAt": "2026-10-15T20:57:37.902310+00:00"
       }
     },
     {
