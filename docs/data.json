@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:57:41.937312+00:00",
+  "generatedAt": "2026-10-15T23:34:47.441964+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1046,6 +1046,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "DAZN",
           "Sky"
         ],
@@ -1098,6 +1099,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "DAZN",
           "Sky"
         ],
@@ -1150,7 +1152,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 1",
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1201,7 +1205,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1252,7 +1257,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1303,6 +1309,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "Amazon Prime Video"
         ],
         "free": false,
@@ -1405,7 +1412,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1456,7 +1464,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1507,7 +1516,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1543,7 +1553,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 1",
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1594,7 +1606,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1645,7 +1658,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1696,10 +1710,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1798,7 +1813,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 1",
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1849,7 +1866,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1900,7 +1918,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1951,7 +1970,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2"
         ],
         "free": false,
         "note": null
@@ -2002,7 +2021,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -2072,12 +2092,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Stuttgart in guter Form, besonders zuhause.",
-          "Gladbachs Auswärtsbilanz ist schwach.",
-          "Stuttgarts Offensive ist stärker einzuschätzen."
+          "Stuttgart mit starker Heimform",
+          "Gladbach auswärts anfällig",
+          "Stuttgarts Offensive ist konstanter"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-15T03:19:05.740966+00:00"
+        "generatedAt": "2026-10-15T23:34:46.441501+00:00"
       }
     },
     {
