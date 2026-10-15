@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:54:06.742643+00:00",
+  "generatedAt": "2026-10-15T16:21:46.429643+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -699,12 +699,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Frankfurt zuhause stark",
-          "Köln auswärts schwach",
-          "Frankfurt hat mehr Qualität im Kader"
+          "Frankfurt mit starker Heimform",
+          "Kölns Auswärtsschwäche",
+          "Frankfurt hat den besseren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:35.017606+00:00"
+        "generatedAt": "2026-10-15T16:21:35.419181+00:00"
       }
     },
     {
@@ -795,21 +795,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Hamburger SV",
-        "scoreline": "2:1",
-        "confidence": 0.5,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
+          "home": 0.4,
+          "draw": 0.35,
+          "away": 0.25
         },
         "reasons": [
-          "Hamburger SV mit starker Heimform in dieser Saison",
-          "VfB Stuttgart zuletzt auswärts anfällig",
-          "HSV benötigt Punkte im Abstiegskampf"
+          "HSV mit starkem Heimvorteil, aber unbeständiger Form.",
+          "Stuttgart in guter Verfassung, aber auswärts oft schwächer.",
+          "Beide Teams defensiv solide, was ein knappes Spiel erwarten lässt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:37.222309+00:00"
+        "generatedAt": "2026-10-15T16:21:37.211685+00:00"
       }
     },
     {
@@ -849,20 +849,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Werder Bremen",
-        "scoreline": "3:1",
-        "confidence": 0.65,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.65,
-          "draw": 0.2,
+          "home": 0.6,
+          "draw": 0.25,
           "away": 0.15
         },
         "reasons": [
-          "Werder Bremen mit starker Heimform",
-          "SC Paderborn 07 zuletzt auswärts anfällig",
-          "Tabellarische Situation spricht für Werder Bremen"
+          "Werder Bremen mit Heimvorteil und stärkerer Saisonform",
+          "Paderborn zeigt Auswärtsschwächen",
+          "Fehlende Schlüsselspieler bei Paderborn"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:38.737065+00:00"
+        "generatedAt": "2026-10-15T16:21:38.862931+00:00"
       }
     },
     {
@@ -910,12 +910,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Elversberg mit starkem Heimvorteil und guter Form",
-          "Augsburg defensiv stabil, aber auswärts schwächer",
-          "Beide Teams auf ähnlichem Tabellenplatz mit ähnlicher Spielanlage"
+          "Elversberg mit starkem Heimvorteil und zuletzt guter Form",
+          "Augsburg defensiv stabil, aber auswärts oft unauffällig",
+          "Beide Teams auf Augenhöhe, Punkteteilung wahrscheinlich"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:40.480858+00:00"
+        "generatedAt": "2026-10-15T16:21:40.455540+00:00"
       }
     },
     {
@@ -954,21 +954,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg FC Schalke 04",
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
+          "home": 0.55,
+          "draw": 0.25,
           "away": 0.2
         },
         "reasons": [
-          "Schalke mit Heimvorteil, aber schwacher Form",
-          "Mainz auswärts oft defensivstark",
-          "Beide Teams im Tabellenkeller, daher vorsichtig agierend"
+          "Schalke mit leicht besserer Form zuletzt",
+          "Mainz kämpft mit Auswärtsschwäche",
+          "Schalke hat Heimvorteil auf seiner Seite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:42.099772+00:00"
+        "generatedAt": "2026-10-15T16:21:42.087163+00:00"
       }
     },
     {
@@ -1014,12 +1014,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Bayern mit starker Heimbilanz",
-          "Leipzig hat Auswärtsschwächen",
-          "Bayern ist offensivstark"
+          "Bayern mit starker Heimbilanz gegen Leipzig",
+          "Leipzig zuletzt mit schwankender Form",
+          "Bayern hat den größeren Kader und weniger Ausfälle"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:43.644092+00:00"
+        "generatedAt": "2026-10-15T16:21:43.712705+00:00"
       }
     },
     {
@@ -1066,12 +1066,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Leverkusen ist in starker Form und ungeschlagen.",
-          "Freiburg hat auswärts oft Probleme.",
-          "Leverkusen hat die bessere Offensive und spielt zu Hause."
+          "Leverkusen in starker Form und ungeschlagen",
+          "Freiburg mit Auswärtsschwächen in dieser Saison",
+          "Leverkusen hat Heimvorteil und bessere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:45.259906+00:00"
+        "generatedAt": "2026-10-15T16:21:45.429105+00:00"
       }
     },
     {
@@ -1162,19 +1162,19 @@
         "available": true,
         "outcome": "Sieg Borussia Dortmund",
         "scoreline": "1:2",
-        "confidence": 0.5,
+        "confidence": 0.45,
         "probs": {
-          "home": 0.2,
+          "home": 0.25,
           "draw": 0.3,
-          "away": 0.5
+          "away": 0.45
         },
         "reasons": [
-          "Dortmund hat mehr internationale Erfahrung",
+          "Dortmund hat die stärkere Mannschaft und mehr Erfahrung im europäischen Wettbewerb",
           "Sabah FK ist Außenseiter in dieser Gruppe",
-          "Dortmunds Offensive ist stark genug für Auswärtstore"
+          "Dortmund benötigt Punkte für das Weiterkommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:23.679485+00:00"
+        "generatedAt": "2026-10-15T16:21:23.777038+00:00"
       }
     },
     {
@@ -1220,12 +1220,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Fenerbahçe hat einen starken Heimvorteil in Europa",
-          "Slavia Prag zeigt auswärts Schwächen in der Defensive",
-          "Fenerbahçe ist offensiv gut in Form"
+          "Fenerbahçe hat Heimvorteil",
+          "Slavia Prag zeigt auswärts Schwächen",
+          "Fenerbahçe ist in guter Form"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:25.366277+00:00"
+        "generatedAt": "2026-10-15T16:21:25.303244+00:00"
       }
     },
     {
@@ -1272,12 +1272,11 @@
         },
         "reasons": [
           "Manchester City ist in überragender Form und hat eine beeindruckende Siegesserie.",
-          "AEK Athen hat Schwierigkeiten in der Champions League und konnte bisher keine Punkte holen.",
-          "Der Heimvorteil im Etihad Stadium ist für Manchester City enorm.",
-          "Wichtige Spieler bei AEK sind angeschlagen oder fehlen."
+          "AEK Athen hat Schwierigkeiten in der Champions League und verlor zuletzt deutlich.",
+          "Manchester City hat einen klaren Heimvorteil und eine starke Offensive."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:27.029372+00:00"
+        "generatedAt": "2026-10-15T16:21:27.106213+00:00"
       }
     },
     {
@@ -1323,12 +1322,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Stuttgart mit starker Heimbilanz in der Liga",
+          "Stuttgart mit starker Heimform in dieser Saison",
           "Atlético Madrid zuletzt auswärts anfällig",
-          "Beide Teams mit ähnlicher Punktausbeute, Heimvorteil entscheidet"
+          "Stuttgarts Offensive ist gut in Schuss"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:28.630151+00:00"
+        "generatedAt": "2026-10-15T16:21:28.818867+00:00"
       }
     },
     {
@@ -1425,12 +1424,12 @@
           "away": 0.1
         },
         "reasons": [
-          "AS Roma ist in besserer Form und hat den Heimvorteil.",
-          "Slovan Bratislava hat in der Liga zuletzt geschwächelt.",
-          "Roma hat die breitere und qualitativ hochwertigere Kaderbreite."
+          "AS Roma in starker Verfassung",
+          "Slovan Bratislava mit Schwächen in der Defensive",
+          "Heimvorteil und höhere individuelle Qualität der Roma-Spieler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:30.247984+00:00"
+        "generatedAt": "2026-10-15T16:21:30.429825+00:00"
       }
     },
     {
@@ -1476,12 +1475,12 @@
           "away": 0.2
         },
         "reasons": [
-          "FC Porto hat Heimvorteil in der Champions League.",
-          "PSV zeigte zuletzt inkonsistente Leistungen.",
-          "Beide Teams sind in der Tabelle punktgleich, Porto hat die leicht bessere Tordifferenz."
+          "FC Porto hat einen starken Heimvorteil in europäischen Wettbewerben.",
+          "PSV zeigt in letzter Zeit inkonsistente Leistungen auswärts.",
+          "Beide Teams sind punktgleich, aber Porto hat die bessere Tordifferenz."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:31.893644+00:00"
+        "generatedAt": "2026-10-15T16:21:32.125245+00:00"
       }
     },
     {
@@ -1565,10 +1564,10 @@
         "reasons": [
           "PSG mit starker Heimbilanz in der Champions League",
           "Barcelona kämpft auswärts oft mit der Defensive",
-          "Beide Teams haben offensive Stärken, PSG wirkt aber konstanter"
+          "Beide Teams sind offensiv stark, PSG hat aber den Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-14T19:11:33.489190+00:00"
+        "generatedAt": "2026-10-15T16:21:33.783404+00:00"
       }
     },
     {
