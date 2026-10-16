@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:14:14.214383+00:00",
+  "generatedAt": "2026-10-16T10:45:06.668011+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -995,7 +995,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "WOW"
         ],
         "free": false,
         "note": null
@@ -1370,22 +1371,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Liverpool FC",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Liverpool ist in starker Form und hat Heimvorteil",
-          "Villarreal hat Probleme in der Offensive",
-          "Liverpools Kaderstärke übertrifft die von Villarreal"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-15T10:54:05.741932+00:00"
+        "available": false
       }
     },
     {
