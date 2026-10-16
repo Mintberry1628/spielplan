@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:34:47.441964+00:00",
+  "generatedAt": "2026-10-16T03:14:14.214383+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -2135,7 +2135,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Mainz 05",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Mainz mit starkem Heimvorteil",
+          "Bremen zuletzt formschwach",
+          "Mainz hat den besseren direkten Vergleich"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-16T03:14:05.175950+00:00"
       }
     },
     {
@@ -2173,7 +2188,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.3,
+          "away": 0.15
+        },
+        "reasons": [
+          "Köln zuletzt heimstark",
+          "Schalke mit schwacher Auswärtsbilanz",
+          "Kölns defensive Stabilität"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-16T03:14:06.720874+00:00"
       }
     },
     {
@@ -2211,7 +2241,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "3:0",
+        "confidence": 0.8,
+        "probs": {
+          "home": 0.8,
+          "draw": 0.15,
+          "away": 0.05
+        },
+        "reasons": [
+          "RB Leipzig ist klarer Favorit mit deutlich höherer individueller Qualität und breiterem Kader.",
+          "SV 07 Elversberg hat bisher eine schwache Auswärtsbilanz und Probleme in der Defensive.",
+          "RB Leipzig hat einen starken Heimvorteil und eine gute Form in den letzten Spielen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-16T03:14:08.491671+00:00"
       }
     },
     {
@@ -2249,7 +2294,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Paderborn zu Hause stark, aber HSV mit Aufwärtstrend",
+          "Beide Teams defensiv solide",
+          "Ausgeglichene Tabellensituation"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-16T03:14:10.038539+00:00"
       }
     },
     {
@@ -2287,7 +2347,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Augsburg",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Augsburg mit starker Heimform",
+          "Union Berlin schwächelt auswärts",
+          "Augsburg kämpft um jeden Punkt gegen den Abstieg"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-16T03:14:11.651362+00:00"
       }
     },
     {
@@ -2323,7 +2398,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Dortmund",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Dortmund mit starker Heimbilanz",
+          "Frankfurt auswärts anfällig",
+          "Aktuelle Form spricht für Dortmund"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-16T03:14:13.213900+00:00"
       }
     },
     {
@@ -2350,7 +2440,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -2386,7 +2477,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
