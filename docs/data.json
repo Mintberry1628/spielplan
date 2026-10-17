@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:10:59.520193+00:00",
+  "generatedAt": "2026-10-17T14:59:57.615551+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -375,19 +375,19 @@
       "dateLocal": "2026-10-17",
       "kickoff": "2026-10-17T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "1. FC Union Berlin",
         "short": "UNB",
         "crest": "https://crests.football-data.org/28.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -412,19 +412,19 @@
       "dateLocal": "2026-10-17",
       "kickoff": "2026-10-17T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Hamburger SV",
         "short": "HSV",
         "crest": "https://crests.football-data.org/7.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "VfB Stuttgart",
         "short": "VFB",
         "crest": "https://crests.football-data.org/10.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -450,19 +450,19 @@
       "dateLocal": "2026-10-17",
       "kickoff": "2026-10-17T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "SV Werder Bremen",
         "short": "SVW",
         "crest": "https://crests.football-data.org/12.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "SC Paderborn 07",
         "short": "SCP",
         "crest": "https://crests.football-data.org/29.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -488,19 +488,19 @@
       "dateLocal": "2026-10-17",
       "kickoff": "2026-10-17T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "SV 07 Elversberg",
         "short": "ELV",
         "crest": "https://crests.football-data.org/719.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "FC Augsburg",
         "short": "FCA",
         "crest": "https://crests.football-data.org/16.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -526,19 +526,19 @@
       "dateLocal": "2026-10-17",
       "kickoff": "2026-10-17T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "FC Schalke 04",
         "short": "S04",
         "crest": "https://crests.football-data.org/6.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
