@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:50:41.267425+00:00",
+  "generatedAt": "2026-10-17T20:09:53.908498+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -564,19 +564,19 @@
       "dateLocal": "2026-10-17",
       "kickoff": "2026-10-17T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": 4
+        "score": 6
       },
       "away": {
         "name": "RB Leipzig",
         "short": "RBL",
         "crest": "https://crests.football-data.org/721.png",
-        "score": 0
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -1433,9 +1433,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
