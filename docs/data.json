@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T15:24:44.710039+00:00",
+  "generatedAt": "2026-10-18T20:08:14.478543+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -267,7 +267,7 @@
       "dateLocal": "2026-10-18",
       "kickoff": "2026-10-18T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Bayer 04 Leverkusen",
@@ -305,19 +305,19 @@
       "dateLocal": "2026-10-18",
       "kickoff": "2026-10-18T17:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Borussia Mönchengladbach",
         "short": "BMG",
         "crest": "https://crests.football-data.org/18.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "TSG 1899 Hoffenheim",
         "short": "TSG",
         "crest": "https://crests.football-data.org/2.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
