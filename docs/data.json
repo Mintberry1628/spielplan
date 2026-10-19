@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T22:47:42.915048+00:00",
+  "generatedAt": "2026-10-19T03:21:28.860909+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -284,9 +284,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -322,9 +320,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -1667,7 +1663,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1703,7 +1699,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1739,7 +1735,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1775,7 +1771,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1811,7 +1807,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1847,7 +1843,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1883,7 +1879,7 @@
           "Sky"
         ],
         "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1916,10 +1912,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "Sky"
         ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "free": true,
+        "note": null
       },
       "odds": {
         "known": false
