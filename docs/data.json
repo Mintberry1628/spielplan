@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:07:19.319226+00:00",
+  "generatedAt": "2026-10-20T18:55:21.503694+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -303,19 +303,19 @@
       "dateLocal": "2026-10-20",
       "kickoff": "2026-10-20T18:45:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Sabah FK",
         "short": "SAB",
         "crest": "https://crests.football-data.org/10233.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -341,19 +341,19 @@
       "dateLocal": "2026-10-20",
       "kickoff": "2026-10-20T18:45:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Fenerbahçe SK",
         "short": "FEN",
         "crest": "https://crests.football-data.org/613.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "SK Slavia Praha",
         "short": "SLP",
         "crest": "https://crests.football-data.org/930.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
