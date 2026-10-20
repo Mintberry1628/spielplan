@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:55:21.503694+00:00",
+  "generatedAt": "2026-10-20T23:38:16.712332+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -378,19 +378,19 @@
       "dateLocal": "2026-10-20",
       "kickoff": "2026-10-20T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Manchester City FC",
         "short": "MCI",
         "crest": "https://crests.football-data.org/65.png",
-        "score": null
+        "score": 5
       },
       "away": {
         "name": "PAE AEK",
         "short": "AEK",
         "crest": "https://crests.football-data.org/1899.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -415,19 +415,19 @@
       "dateLocal": "2026-10-20",
       "kickoff": "2026-10-20T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "VfB Stuttgart",
         "short": "VFB",
         "crest": "https://crests.football-data.org/10.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Club Atlético de Madrid",
         "short": "ATL",
         "crest": "https://crests.football-data.org/78.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -451,19 +451,19 @@
       "dateLocal": "2026-10-20",
       "kickoff": "2026-10-20T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Liverpool FC",
         "short": "LIV",
         "crest": "https://crests.football-data.org/64.png",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "Villarreal CF",
         "short": "VIL",
         "crest": "https://crests.football-data.org/94.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -487,19 +487,19 @@
       "dateLocal": "2026-10-20",
       "kickoff": "2026-10-20T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "AS Roma",
         "short": "ROM",
         "crest": "https://crests.football-data.org/100.png",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "ŠK Slovan Bratislava",
         "short": "SBA",
         "crest": "https://crests.football-data.org/7509.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -524,19 +524,19 @@
       "dateLocal": "2026-10-20",
       "kickoff": "2026-10-20T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Porto",
         "short": "FCP",
         "crest": "https://crests.football-data.org/503.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "PSV",
         "short": "PSV",
         "crest": "https://crests.football-data.org/674.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -561,19 +561,19 @@
       "dateLocal": "2026-10-20",
       "kickoff": "2026-10-20T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SSC Napoli",
         "short": "NAP",
         "crest": "https://crests.football-data.org/113.png",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "FK Bodø/Glimt",
         "short": "FK",
         "crest": "https://crests.football-data.org/5721.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -598,19 +598,19 @@
       "dateLocal": "2026-10-20",
       "kickoff": "2026-10-20T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Paris Saint-Germain FC",
         "short": "PSG",
         "crest": "https://crests.football-data.org/524.png",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "FC Barcelona",
         "short": "FCB",
         "crest": "https://crests.football-data.org/81.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
