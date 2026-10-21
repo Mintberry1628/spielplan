@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:39:18.497835+00:00",
+  "generatedAt": "2026-10-21T21:17:05.417569+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -411,19 +411,19 @@
       "dateLocal": "2026-10-21",
       "kickoff": "2026-10-21T18:45:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Como 1907",
         "short": "COM",
         "crest": "https://crests.football-data.org/7397.png",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "Manchester United FC",
         "short": "MUN",
         "crest": "https://crests.football-data.org/66.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -448,19 +448,19 @@
       "dateLocal": "2026-10-21",
       "kickoff": "2026-10-21T18:45:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Lille OSC",
         "short": "LIL",
         "crest": "https://crests.football-data.org/521.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Galatasaray SK",
         "short": "GAL",
         "crest": "https://crests.football-data.org/610.png",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -485,19 +485,19 @@
       "dateLocal": "2026-10-21",
       "kickoff": "2026-10-21T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Real Madrid CF",
         "short": "RMA",
         "crest": "https://crests.football-data.org/86.png",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "RB Leipzig",
         "short": "RBL",
         "crest": "https://crests.football-data.org/721.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -522,19 +522,19 @@
       "dateLocal": "2026-10-21",
       "kickoff": "2026-10-21T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Internazionale Milano",
         "short": "INT",
         "crest": "https://crests.football-data.org/108.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "FK Shakhtar Donetsk",
         "short": "SHD",
         "crest": "https://crests.football-data.org/1887.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -558,19 +558,19 @@
       "dateLocal": "2026-10-21",
       "kickoff": "2026-10-21T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Arsenal FC",
         "short": "ARS",
         "crest": "https://crests.football-data.org/57.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -596,19 +596,19 @@
       "dateLocal": "2026-10-21",
       "kickoff": "2026-10-21T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Club Brugge KV",
         "short": "BRU",
         "crest": "https://crests.football-data.org/851.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Racing Club de Lens",
         "short": "RCL",
         "crest": "https://crests.football-data.org/546.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -633,19 +633,19 @@
       "dateLocal": "2026-10-21",
       "kickoff": "2026-10-21T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Aston Villa FC",
         "short": "AVL",
         "crest": "https://crests.football-data.org/58.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Viking FK",
         "short": "VIK",
         "crest": "https://crests.football-data.org/5720.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -670,19 +670,19 @@
       "dateLocal": "2026-10-21",
       "kickoff": "2026-10-21T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Sporting Clube de Portugal",
         "short": "SPO",
         "crest": "https://crests.football-data.org/498.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "LASK Linz",
         "short": "LIN",
         "crest": "https://crests.football-data.org/2016.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -706,19 +706,19 @@
       "dateLocal": "2026-10-21",
       "kickoff": "2026-10-21T21:00:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Real Betis Balompié",
         "short": "BET",
         "crest": "https://crests.football-data.org/90.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Feyenoord Rotterdam",
         "short": "FEY",
         "crest": "https://crests.football-data.org/675.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -796,12 +796,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -870,12 +868,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -946,12 +942,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
