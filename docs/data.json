@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:40:27.045881+00:00",
+  "generatedAt": "2026-10-22T21:13:22.782308+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -731,9 +731,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -784,6 +784,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky"
         ],
         "free": false,
@@ -835,9 +836,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -888,9 +889,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -941,9 +942,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -1045,6 +1046,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "DAZN",
           "Sky"
         ],
@@ -1097,6 +1099,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "DAZN",
           "Sky"
         ],
