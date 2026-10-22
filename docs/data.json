@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:12:33.698165+00:00",
+  "generatedAt": "2026-10-22T16:40:27.045881+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -793,7 +793,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Köln zu Hause stabil, aber offensiv limitiert",
+          "Schalke kämpferisch stark, aber auswärts anfällig",
+          "Beide Teams im Abstiegskampf, daher vorsichtiges Spiel erwartet"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-22T16:40:22.823819+00:00"
       }
     },
     {
@@ -937,7 +952,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Augsburg",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Augsburg zuletzt heimstark",
+          "Union Berlin auswärts schwach",
+          "Augsburg hat mehr Punkte in der Liga"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-22T16:40:24.363906+00:00"
       }
     },
     {
@@ -1640,7 +1670,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
+        },
+        "reasons": [
+          "Stuttgart in starker Verfassung",
+          "Paderborn anfällig in der Defensive",
+          "Stuttgart hat die höhere individuelle Qualität"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-22T16:40:26.045521+00:00"
       }
     },
     {
