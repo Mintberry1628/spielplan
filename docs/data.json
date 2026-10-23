@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:30:31.258120+00:00",
+  "generatedAt": "2026-10-23T21:01:09.785888+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -663,19 +663,19 @@
       "dateLocal": "2026-10-23",
       "kickoff": "2026-10-23T20:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "VfB Stuttgart",
         "short": "VFB",
         "crest": "https://crests.football-data.org/10.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Borussia Mönchengladbach",
         "short": "BMG",
         "crest": "https://crests.football-data.org/18.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -689,22 +689,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg VfB Stuttgart",
-        "scoreline": "2:1",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Stuttgart in starker Form und heimstark",
-          "Gladbach mit Auswärtsschwächen",
-          "Stuttgarts offensive Durchschlagskraft"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:35.954889+00:00"
+        "available": false
       }
     },
     {
@@ -794,7 +779,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg 1. FC Köln",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Köln zuletzt stabiler mit Heimvorteil",
+          "Schalke offensiv harmlos auswärts",
+          "Kölns defensive Stärke"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-23T21:01:08.785383+00:00"
       }
     },
     {
@@ -1084,7 +1084,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
