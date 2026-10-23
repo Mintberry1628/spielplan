@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:13:22.782308+00:00",
+  "generatedAt": "2026-10-23T03:28:36.921672+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1099,9 +1099,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -2033,7 +2031,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Mönchengladbach",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Mönchengladbach hat Heimvorteil und bessere aktuelle Form",
+          "Paderborn zeigt Auswärtsschwächen",
+          "Mönchengladbach hat den stärkeren Kader und mehr Erfahrung"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-23T03:28:27.600184+00:00"
       }
     },
     {
@@ -2071,7 +2084,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "0:2",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
+        },
+        "reasons": [
+          "Schalke 04 in schlechter Verfassung",
+          "RB Leipzig mit starker Offensive",
+          "Leipzig hat mehr Qualität im Kader"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-23T03:28:29.306771+00:00"
       }
     },
     {
@@ -2109,7 +2137,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Augsburg zuletzt heimstark",
+          "Freiburg defensiv stabil",
+          "Beide Teams im Mittelfeld der Tabelle ohne klare Überlegenheit"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-23T03:28:30.883533+00:00"
       }
     },
     {
@@ -2147,7 +2190,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Werder Bremen",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Werder Bremen zuletzt heimstark",
+          "Hoffenheim auswärts anfällig",
+          "Werder Bremen hat die bessere Tabellensituation"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-23T03:28:32.511533+00:00"
       }
     },
     {
@@ -2185,7 +2243,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "3:1",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Leverkusen in starker Form und ungeschlagen",
+          "Stuttgart mit Auswärtsschwächen in dieser Saison",
+          "Leverkusen hat Heimvorteil und offensivstarke Mannschaft"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-23T03:28:34.207099+00:00"
       }
     },
     {
@@ -2221,7 +2294,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "3:1",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Bayern mit starker Heimbilanz gegen Dortmund.",
+          "Aktuelle Form spricht leicht für die Bayern.",
+          "Dortmund hat Ausfälle in der Defensive."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-23T03:28:35.920962+00:00"
       }
     },
     {
@@ -2248,7 +2336,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -2284,7 +2373,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
