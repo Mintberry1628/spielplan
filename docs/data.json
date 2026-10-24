@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:25:31.364035+00:00",
+  "generatedAt": "2026-10-24T20:15:51.206389+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -455,22 +455,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg 1. FC Köln",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Köln zuletzt stabiler mit Heimvorteil",
-          "Schalke offensiv harmlos auswärts",
-          "Kölns defensive Stärke"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T21:01:08.785383+00:00"
+        "available": false
       }
     },
     {
