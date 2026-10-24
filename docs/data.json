@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:15:51.206389+00:00",
+  "generatedAt": "2026-10-24T22:54:34.778438+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -455,7 +455,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Köln zuletzt stabiler in der Defensive",
+          "Schalke auswärts oft anfällig",
+          "Köln hat den Heimvorteil auf seiner Seite"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-24T22:54:33.777916+00:00"
       }
     },
     {
@@ -465,7 +480,7 @@
       "dateLocal": "2026-10-24",
       "kickoff": "2026-10-24T15:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "RB Leipzig",
@@ -624,7 +639,7 @@
       "dateLocal": "2026-10-24",
       "kickoff": "2026-10-24T18:30:00+02:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
