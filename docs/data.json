@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T03:23:30.140124+00:00",
+  "generatedAt": "2026-10-24T10:20:14.281473+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -406,19 +406,19 @@
         "available": true,
         "outcome": "Sieg 1. FSV Mainz 05",
         "scoreline": "2:1",
-        "confidence": 0.55,
+        "confidence": 0.5,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
+          "home": 0.5,
+          "draw": 0.3,
           "away": 0.2
         },
         "reasons": [
-          "Mainz mit starkem Heimvorteil",
-          "Bremen in schwacher Form auswärts",
-          "Mainz benötigt Punkte für Klassenerhalt"
+          "Mainz hat Heimvorteil",
+          "Werder Bremen zeigt schwankende Leistungen",
+          "Mainz ist in der Tabelle leicht besser platziert"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:37.565652+00:00"
+        "generatedAt": "2026-10-24T10:19:39.960606+00:00"
       }
     },
     {
@@ -519,11 +519,11 @@
         },
         "reasons": [
           "RB Leipzig ist klarer Favorit aufgrund der deutlich höheren individuellen Qualität und des breiteren Kaders.",
-          "Elversberg hat bisher auswärts wenig Punkte geholt und wird sich gegen die Offensivkraft von Leipzig schwer tun.",
-          "Leipzig spielt zu Hause und hat eine gute Heimbilanz in dieser Saison."
+          "Elversberg zeigt zwar kämpferische Leistungen, hat aber defensiv und offensiv klare Schwächen im Vergleich zu Leipzig.",
+          "RB Leipzig hat einen starken Heimvorteil und ist zu Hause besonders dominant."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:39.443184+00:00"
+        "generatedAt": "2026-10-24T10:19:41.579382+00:00"
       }
     },
     {
@@ -561,22 +561,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
-        },
-        "reasons": [
-          "Paderborn zu Hause stark, aber HSV mit Aufwärtstrend",
-          "Beide Teams defensiv anfällig",
-          "Ausgeglichene Tabellensituation der beiden Mannschaften"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:41.073762+00:00"
+        "available": false
       }
     },
     {
@@ -666,7 +651,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Borussia Dortmund",
+        "outcome": "Sieg Dortmund",
         "scoreline": "3:1",
         "confidence": 0.6,
         "probs": {
@@ -675,12 +660,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Dortmund mit starker Heimbilanz und Offensivkraft",
-          "Frankfurt zuletzt auswärts anfällig",
-          "Dortmunds höhere Tabellenposition und Formstärke"
+          "Dortmund hat Heimvorteil und starke Offensive.",
+          "Frankfurt zuletzt inkonsistent mit Auswärtsschwächen.",
+          "Dortmunds Formkurve zeigt nach oben."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:42.732648+00:00"
+        "generatedAt": "2026-10-24T10:19:44.024299+00:00"
       }
     },
     {
@@ -720,7 +705,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "1:2",
+        "scoreline": "1:3",
         "confidence": 0.5,
         "probs": {
           "home": 0.2,
@@ -728,12 +713,12 @@
           "away": 0.5
         },
         "reasons": [
-          "Leverkusen in starker Form",
-          "Hoffenheim mit Auswärtsschwächen",
-          "Leverkusen hat die bessere Kaderbreite"
+          "Leverkusen in starker Verfassung",
+          "Hoffenheim mit Schwächen in der Defensive",
+          "Leverkusen hat die bessere Offensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:44.271924+00:00"
+        "generatedAt": "2026-10-24T10:19:45.503951+00:00"
       }
     },
     {
@@ -760,9 +745,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -774,19 +757,19 @@
         "available": true,
         "outcome": "Sieg FC Bayern München",
         "scoreline": "1:3",
-        "confidence": 0.5,
+        "confidence": 0.55,
         "probs": {
           "home": 0.2,
-          "draw": 0.3,
-          "away": 0.5
+          "draw": 0.25,
+          "away": 0.55
         },
         "reasons": [
-          "Freiburg zuletzt schwankend",
-          "Bayern mit starker Offensive",
-          "Historisch oft knappe Duelle gegen Bayern"
+          "Bayern mit starker Offensive, Freiburgs Defensive anfällig.",
+          "Freiburgs Form zuletzt schwankend, Bayern konstant.",
+          "Bayern hat historisch Vorteile gegen Freiburg."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:45.966597+00:00"
+        "generatedAt": "2026-10-24T10:19:47.168112+00:00"
       }
     },
     {
@@ -824,20 +807,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Augsburg",
-        "scoreline": "1:3",
-        "confidence": 0.6,
+        "scoreline": "0:3",
+        "confidence": 0.75,
         "probs": {
-          "home": 0.15,
-          "draw": 0.25,
-          "away": 0.6
+          "home": 0.1,
+          "draw": 0.15,
+          "away": 0.75
         },
         "reasons": [
-          "Augsburg spielt eine Klasse höher und ist klarer Favorit",
-          "Großaspach hat zuletzt schwankende Leistungen gezeigt",
-          "Augsburgs Offensive ist stark genug, um die Abwehr von Großaspach zu überwinden"
+          "Augsburg ist deutlich höherklassig",
+          "Großaspach hat zuletzt schwache Leistungen gezeigt",
+          "Augsburg hat die Qualität, auch in Pokalspielen zu überzeugen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:49.237535+00:00"
+        "generatedAt": "2026-10-24T10:19:50.302290+00:00"
       }
     },
     {
@@ -878,17 +861,17 @@
         "scoreline": "1:3",
         "confidence": 0.6,
         "probs": {
-          "home": 0.2,
-          "draw": 0.2,
+          "home": 0.15,
+          "draw": 0.25,
           "away": 0.6
         },
         "reasons": [
-          "RB Leipzig spielt in einer höheren Liga",
-          "Rot-Weiss Essen hat zuletzt schwankende Leistungen gezeigt",
-          "RB Leipzig ist offensivstark und hat eine gute Auswärtsbilanz"
+          "Leipzig ist qualitativ deutlich besser besetzt",
+          "RWE hat im Pokal oft Schwierigkeiten gegen höherklassige Teams",
+          "Leipzig wird die Favoritenrolle annehmen und offensiv agieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:50.775798+00:00"
+        "generatedAt": "2026-10-24T10:19:52.065973+00:00"
       }
     },
     {
@@ -934,12 +917,12 @@
           "away": 0.25
         },
         "reasons": [
-          "Bochum zuletzt heimstark",
-          "Mainz auswärts anfällig",
-          "Pokal-Überraschungen möglich"
+          "Bochum mit Heimvorteil und stabilerer Defensive",
+          "Mainz in schwacher Verfassung auswärts",
+          "Pokalspiele oft von Taktik und wenigen Toren geprägt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:52.315004+00:00"
+        "generatedAt": "2026-10-24T10:19:53.879545+00:00"
       }
     },
     {
@@ -986,12 +969,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Frankfurt in besserer Verfassung",
-          "HSV mit Auswärtsschwäche in Pokalspielen",
-          "Frankfurt hat die höhere individuelle Qualität"
+          "HSV mit schwankender Form in der 2. Liga",
+          "Frankfurt in der Bundesliga stabiler",
+          "Frankfurt hat die individuelle Qualität, um auch auswärts zu bestehen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:53.929156+00:00"
+        "generatedAt": "2026-10-24T10:19:55.480464+00:00"
       }
     },
     {
@@ -1028,21 +1011,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg 1. FC Köln",
-        "scoreline": "2:1",
-        "confidence": 0.5,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
+          "home": 0.4,
+          "draw": 0.4,
           "away": 0.2
         },
         "reasons": [
-          "Köln im heimischen Stadion stärker",
-          "Union Berlin mit Formschwankungen",
-          "Pokal-Überraschungen möglich, Köln hat den Heimvorteil"
+          "Köln heimstark in Pokalspielen",
+          "Union zuletzt formschwach auswärts",
+          "Beide Teams mit ähnlicher Tabellensituation und Pokalfokus"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:55.535364+00:00"
+        "generatedAt": "2026-10-24T10:19:57.048160+00:00"
       }
     },
     {
@@ -1082,19 +1065,19 @@
         "available": true,
         "outcome": "Sieg Borussia Dortmund",
         "scoreline": "3:1",
-        "confidence": 0.7,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.7,
+          "home": 0.65,
           "draw": 0.2,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "Dortmund hat Heimvorteil und starke Offensive.",
-          "Bremen zuletzt formschwach und defensiv anfällig.",
-          "Dortmunds Kaderqualität übertrifft die von Bremen."
+          "Dortmund hat Heimvorteil und starke Offensive",
+          "Bremen zuletzt mit schwankenden Leistungen",
+          "Dortmunds Kaderqualität übertrifft die von Bremen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:57.336295+00:00"
+        "generatedAt": "2026-10-24T10:19:58.586665+00:00"
       }
     },
     {
@@ -1140,12 +1123,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Mönchengladbach hat Heimvorteil und ist in der Liga besser platziert",
-          "Karlsruher SC zeigte zuletzt schwankende Leistungen",
-          "Pokalspiele sind oft unberechenbar, aber Gladbach ist favorisiert"
+          "Gladbach hat Heimvorteil",
+          "KSC schwächelt auswärts",
+          "Gladbach ist in besserer Verfassung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:58.950347+00:00"
+        "generatedAt": "2026-10-24T10:20:00.177392+00:00"
       }
     },
     {
@@ -1191,12 +1174,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Darmstadt ist in der 2. Bundesliga stärker einzuschätzen",
-          "Elversberg hat zuletzt schwankende Leistungen gezeigt",
-          "Auswärtsstärke von Darmstadt in Pokalspielen"
+          "Darmstadt 98 spielt eine Klasse höher und hat die höhere individuelle Qualität.",
+          "Elversberg zeigt zwar eine gute Form, aber Darmstadt hat mehr Erfahrung in Pokalspielen.",
+          "Die Auswärtsstärke von Darmstadt ist ein Faktor, auch wenn Elversberg zu Hause stark ist."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:04:00.752857+00:00"
+        "generatedAt": "2026-10-24T10:20:01.984513+00:00"
       }
     },
     {
@@ -1235,19 +1218,19 @@
         "available": true,
         "outcome": "Sieg Hertha BSC",
         "scoreline": "0:3",
-        "confidence": 0.8,
+        "confidence": 0.75,
         "probs": {
-          "home": 0.05,
+          "home": 0.1,
           "draw": 0.15,
-          "away": 0.8
+          "away": 0.75
         },
         "reasons": [
-          "Deutlicher Klassenunterschied",
-          "Hertha BSC mit hoher Motivation im Pokal",
-          "SSV Jeddeloh II mit geringer Erfahrung auf diesem Niveau"
+          "Klassengefälle zwischen Amateur- und Profiverein",
+          "Hertha BSC mit höherer individueller Qualität",
+          "SSV Jeddeloh II mit geringer Pokalerfahrung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:04:02.385933+00:00"
+        "generatedAt": "2026-10-24T10:20:03.571557+00:00"
       }
     },
     {
@@ -1284,21 +1267,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Dynamo Dresden",
+        "outcome": "Sieg Heim",
         "scoreline": "2:1",
-        "confidence": 0.55,
+        "confidence": 0.5,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
+          "home": 0.5,
+          "draw": 0.3,
           "away": 0.2
         },
         "reasons": [
-          "Dresden in guter Form und heimstark",
-          "Schalke mit Auswärtsschwächen und Personalsorgen",
-          "Pokal-Überraschungen sind möglich"
+          "Dynamo Dresden mit starker Heimform in der 3. Liga",
+          "FC Schalke 04 kämpft mit Konstanzproblemen in der 2. Bundesliga",
+          "Pokalspiele sind oft unberechenbar, Heimvorteil kann entscheidend sein"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:04:04.007054+00:00"
+        "generatedAt": "2026-10-24T10:20:05.220013+00:00"
       }
     },
     {
@@ -1387,20 +1370,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Heim",
-        "scoreline": "1:0",
-        "confidence": 0.45,
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.45,
-          "draw": 0.3,
-          "away": 0.25
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
         },
         "reasons": [
-          "Freiburg heimstark in Pokalwettbewerben",
-          "Wolfsburg zuletzt auswärts schwankend",
-          "Beide Teams defensiv stabil, wenige Tore erwartet"
+          "Freiburg hat eine starke Heimform in dieser Saison.",
+          "Wolfsburgs Auswärtsbilanz ist inkonsistent.",
+          "Beide Teams sind relativ verletzungsfrei, was auf ein ausgeglichenes Spiel hindeutet, aber der Heimvorteil gibt Freiburg den Ausschlag."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:04:05.642330+00:00"
+        "generatedAt": "2026-10-24T10:20:06.951553+00:00"
       }
     },
     {
@@ -1439,19 +1422,19 @@
         "available": true,
         "outcome": "Sieg TSG Hoffenheim",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.5,
         "probs": {
-          "home": 0.35,
-          "draw": 0.25,
-          "away": 0.4
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
           "Hoffenheim in besserer Verfassung",
-          "Kiel mit Auswärtsschwäche in Pokalspielen",
-          "Hoffenheim hat die höhere individuelle Qualität"
+          "Kiel mit Heimvorteil, aber schwächerer Kader",
+          "Pokal-Überraschungen möglich, aber tendenziell Favoritensieg"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:04:07.220958+00:00"
+        "generatedAt": "2026-10-24T10:20:08.561891+00:00"
       }
     },
     {
@@ -1497,12 +1480,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Leverkusen in starker Form und ungeschlagen",
-          "Nürnberg kämpft mit Konstanz in der Liga",
-          "Leverkusen hat Heimvorteil und höhere individuelle Qualität"
+          "Leverkusen ist in überragender Form und ungeschlagen",
+          "Nürnberg hat Probleme in der Defensive und Ausfälle",
+          "Leverkusen hat Heimvorteil und eine stärkere Offensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:04:08.768302+00:00"
+        "generatedAt": "2026-10-24T10:20:10.122770+00:00"
       }
     },
     {
@@ -1548,12 +1531,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Hannover 96 hat Heimvorteil",
-          "1. FC Kaiserslautern in schwacher Verfassung",
-          "Hannover 96 ist in der Liga stabiler"
+          "Hannover 96 mit starker Heimform",
+          "1. FC Kaiserslautern aktuell in schwacher Verfassung",
+          "Pokal-Überraschungen sind möglich, aber tendenziell unwahrscheinlich"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:04:10.320919+00:00"
+        "generatedAt": "2026-10-24T10:20:11.675539+00:00"
       }
     },
     {
@@ -1601,11 +1584,11 @@
         },
         "reasons": [
           "Überlegenheit des FC Bayern in allen Mannschaftsteilen",
-          "Schwächere Form des 1. FC Magdeburg in den letzten Spielen",
-          "Historisch starke Heimbilanz des FC Bayern im DFB-Pokal"
+          "Schwäche des FCM in der Fremde",
+          "FC Bayern mit starker Heimbilanz im Pokal"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:04:11.936843+00:00"
+        "generatedAt": "2026-10-24T10:20:13.280966+00:00"
       }
     },
     {
@@ -1652,11 +1635,11 @@
         },
         "reasons": [
           "Elversberg mit starkem Heimvorteil",
-          "Mainz stabilisiert sich zuletzt",
-          "Beide Teams im Abstiegskampf mit ähnlicher Qualität"
+          "Mainz in jüngster Vergangenheit stabil",
+          "Beide Teams kämpfen um wichtige Punkte und werden defensiv agieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-23T11:03:47.564775+00:00"
+        "generatedAt": "2026-10-24T10:19:48.729343+00:00"
       }
     },
     {
