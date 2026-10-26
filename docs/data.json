@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:18:35.151840+00:00",
+  "generatedAt": "2026-10-26T20:18:56.545846+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -267,19 +267,19 @@
       "dateLocal": "2026-10-25",
       "kickoff": "2026-10-25T15:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "TSG 1899 Hoffenheim",
         "short": "TSG",
         "crest": "https://crests.football-data.org/2.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "Bayer 04 Leverkusen",
         "short": "B04",
         "crest": "https://crests.football-data.org/3.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -293,22 +293,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "1:2",
-        "confidence": 0.45,
-        "probs": {
-          "home": 0.25,
-          "draw": 0.3,
-          "away": 0.45
-        },
-        "reasons": [
-          "Leverkusen in starker Verfassung",
-          "Hoffenheim mit Auswärtsschwäche",
-          "Leverkusen hat die bessere Offensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-26T03:20:04.012537+00:00"
+        "available": false
       }
     },
     {
@@ -318,19 +303,19 @@
       "dateLocal": "2026-10-25",
       "kickoff": "2026-10-25T17:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SC Freiburg",
         "short": "SCF",
         "crest": "https://crests.football-data.org/17.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
@@ -344,22 +329,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "1:3",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.25,
-          "away": 0.55
-        },
-        "reasons": [
-          "Bayern mit deutlich stärkerem Kader und Offensivpower.",
-          "Freiburg defensiv anfällig in den letzten Spielen.",
-          "Bayern hat die höhere Qualität in der Breite und Spitze."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-26T03:20:05.768376+00:00"
+        "available": false
       }
     },
     {
@@ -651,7 +621,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Dortmund",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Dortmunds Heimstärke in Pokalspielen",
+          "Bremens inkonsistente Auswärtsform",
+          "Qualitativer Kaderunterschied bei Dortmund"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T20:18:55.545497+00:00"
       }
     },
     {
@@ -1137,10 +1122,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "ARD",
           "Sky"
         ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+        "free": true,
+        "note": null
       },
       "odds": {
         "known": false
