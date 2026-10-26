@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:01:54.039979+00:00",
+  "generatedAt": "2026-10-26T03:20:18.078754+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -267,26 +267,24 @@
       "dateLocal": "2026-10-25",
       "kickoff": "2026-10-25T15:30:00+01:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "TSG 1899 Hoffenheim",
         "short": "TSG",
         "crest": "https://crests.football-data.org/2.png",
-        "score": 3
+        "score": null
       },
       "away": {
         "name": "Bayer 04 Leverkusen",
         "short": "B04",
         "crest": "https://crests.football-data.org/3.png",
-        "score": 0
+        "score": null
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -295,7 +293,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "1:2",
+        "confidence": 0.45,
+        "probs": {
+          "home": 0.25,
+          "draw": 0.3,
+          "away": 0.45
+        },
+        "reasons": [
+          "Leverkusen in starker Verfassung",
+          "Hoffenheim mit Auswärtsschwäche",
+          "Leverkusen hat die bessere Offensive"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T03:20:04.012537+00:00"
       }
     },
     {
@@ -305,26 +318,24 @@
       "dateLocal": "2026-10-25",
       "kickoff": "2026-10-25T17:30:00+01:00",
       "kickoffKnown": true,
-      "status": "finished",
+      "status": "scheduled",
       "minute": null,
       "home": {
         "name": "SC Freiburg",
         "short": "SCF",
         "crest": "https://crests.football-data.org/17.png",
-        "score": 1
+        "score": null
       },
       "away": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": 3
+        "score": null
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -333,7 +344,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "1:3",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.2,
+          "draw": 0.25,
+          "away": 0.55
+        },
+        "reasons": [
+          "Bayern mit deutlich stärkerem Kader und Offensivpower.",
+          "Freiburg defensiv anfällig in den letzten Spielen.",
+          "Bayern hat die höhere Qualität in der Breite und Spitze."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T03:20:05.768376+00:00"
       }
     },
     {
@@ -1250,12 +1276,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Mönchengladbach mit starker Heimform",
+          "Gladbach mit starker Heimform",
           "Paderborn defensiv anfällig",
-          "Klarer Qualitätsunterschied im Kader"
+          "Gladbachs Offensivstärke"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-25T03:18:25.874063+00:00"
+        "generatedAt": "2026-10-26T03:20:07.351150+00:00"
       }
     },
     {
@@ -1349,17 +1375,17 @@
         "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.4,
+          "home": 0.35,
           "draw": 0.4,
-          "away": 0.2
+          "away": 0.25
         },
         "reasons": [
-          "Augsburg zuletzt heimstark",
-          "Freiburg defensiv stabil",
-          "Beide Teams im Tabellenmittelfeld ohne großen Druck"
+          "Augsburg mit Heimvorteil, aber schwankender Form.",
+          "Freiburg stabil, aber auswärts oft unentschieden.",
+          "Beide Teams defensivstark, was zu knappen Ergebnissen führt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-25T03:18:28.148816+00:00"
+        "generatedAt": "2026-10-26T03:20:09.058711+00:00"
       }
     },
     {
@@ -1407,12 +1433,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Werder Bremen hat Heimstärke bewiesen.",
-          "Hoffenheim zeigt inkonsistente Leistungen auswärts.",
-          "Werder ist in der Tabelle leicht besser platziert."
+          "Werder Bremen zuletzt formstark im Heimstadion",
+          "Hoffenheim defensiv anfällig bei Auswärtsspielen",
+          "Direkter Vergleich spricht leicht für Bremen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-25T03:18:29.859558+00:00"
+        "generatedAt": "2026-10-26T03:20:10.709653+00:00"
       }
     },
     {
@@ -1453,19 +1479,19 @@
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
         "scoreline": "3:1",
-        "confidence": 0.65,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.65,
-          "draw": 0.2,
+          "home": 0.6,
+          "draw": 0.25,
           "away": 0.15
         },
         "reasons": [
           "Leverkusen in starker Form und ungeschlagen",
           "Stuttgart mit Auswärtsschwächen in dieser Saison",
-          "Leverkusen hat Heimvorteil und starke Offensive"
+          "Leverkusen hat Heimvorteil und breiteren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-25T03:18:31.490758+00:00"
+        "generatedAt": "2026-10-26T03:20:12.297056+00:00"
       }
     },
     {
@@ -1507,16 +1533,16 @@
         "confidence": 0.6,
         "probs": {
           "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
+          "draw": 0.2,
+          "away": 0.2
         },
         "reasons": [
-          "Bayern hat eine starke Heimbilanz gegen Dortmund.",
-          "Dortmunds Auswärtsform ist inkonsistent.",
-          "Bayern hat einen breiteren und tieferen Kader."
+          "Bayern hat eine starke Heimbilanz gegen Dortmund",
+          "Dortmunds Form zuletzt schwankend",
+          "Bayern hat den tieferen Kader und weniger Verletzungssorgen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-25T03:18:33.171094+00:00"
+        "generatedAt": "2026-10-26T03:20:13.894081+00:00"
       }
     },
     {
@@ -1555,20 +1581,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Heim",
-        "scoreline": "1:0",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
-          "draw": 0.3,
+          "home": 0.6,
+          "draw": 0.25,
           "away": 0.15
         },
         "reasons": [
-          "Union Berlin mit starker Heimform",
+          "Union Berlin mit starker Heimbilanz",
           "Kölns Auswärtsschwäche",
-          "Beide Teams im Abstiegskampf mit geringer Tordifferenz"
+          "Köln zuletzt mit wenig Toren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-25T03:18:34.762252+00:00"
+        "generatedAt": "2026-10-26T03:20:15.519638+00:00"
       }
     },
     {
@@ -1607,7 +1633,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "2:1",
+        "scoreline": "2:0",
         "confidence": 0.6,
         "probs": {
           "home": 0.6,
@@ -1615,12 +1641,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Starke Heimform von Frankfurt",
-          "HSV mit Auswärtsschwächen",
+          "Frankfurt in guter Form und heimstark",
+          "HSV mit Schwächen in der Defensive",
           "Frankfurt hat den besseren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-25T03:18:36.351686+00:00"
+        "generatedAt": "2026-10-26T03:20:17.078141+00:00"
       }
     },
     {
@@ -1656,7 +1682,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Shakhtar Donetsk ist zu Hause stark und hat eine gute Ligaphase gespielt.",
+          "Sporting CP hat eine starke Offensive, aber auswärts oft Schwierigkeiten.",
+          "Beide Teams kämpfen um das Weiterkommen, was zu einem vorsichtigen Spiel führen könnte."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T03:19:51.844418+00:00"
       }
     },
     {
@@ -1692,7 +1733,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Galatasaray SK",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Galatasaray hat Heimstärke in der Champions League bewiesen.",
+          "Stuttgart zeigt in der Liga zwar gute Form, aber auswärts in der CL fehlt die Konstanz.",
+          "Beide Teams benötigen Punkte, was zu einem intensiven Spiel führt, Galatasaray mit leichtem Vorteil."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T03:19:53.599177+00:00"
       }
     },
     {
@@ -1728,7 +1784,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Internazionale Milano",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.35,
+          "draw": 0.25,
+          "away": 0.4
+        },
+        "reasons": [
+          "Inter hat die stärkere Offensive und Defensive in dieser Saison.",
+          "Feyenoord zeigt Schwächen in der Defensive bei internationalen Spielen.",
+          "Inter hat die Erfahrung, solche wichtigen Spiele zu gewinnen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T03:19:55.230301+00:00"
       }
     },
     {
@@ -1764,7 +1835,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Barcelona",
+        "scoreline": "2:0",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
+        },
+        "reasons": [
+          "Barcelona hat Heimvorteil und starke Offensive",
+          "Aston Villa zeigt auswärts Schwächen",
+          "Barcelona benötigt Punkte für das Weiterkommen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T03:19:56.846884+00:00"
       }
     },
     {
@@ -1836,7 +1922,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Paris Saint-Germain FC",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "PSG mit stärkerer Offensive und mehr individueller Klasse",
+          "Villarreal zeigt sich defensiv anfällig in den letzten Spielen",
+          "PSG hat in der Champions League bisher konstant abgeliefert"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T03:19:59.125988+00:00"
       }
     },
     {
@@ -1872,7 +1973,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Manchester United FC",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Manchester United hat eine starke Heimbilanz in dieser Saison.",
+          "AS Roma kämpft auswärts mit Konstanz.",
+          "Manchester United hat die viimeletzte Begegnung gegen AS Roma gewonnen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T03:20:00.786035+00:00"
       }
     },
     {
@@ -1944,7 +2060,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg LASK Linz",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "LASK Linz mit starker Heimform in der Liga",
+          "Slovan Bratislava zuletzt auswärts anfällig",
+          "LASK Linz hat mehr zu gewinnen, um weiterzukommen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-26T03:20:02.428423+00:00"
       }
     },
     {
@@ -1974,7 +2105,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2010,7 +2141,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2046,7 +2177,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2118,7 +2249,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2190,7 +2321,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2226,7 +2357,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2262,7 +2393,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
