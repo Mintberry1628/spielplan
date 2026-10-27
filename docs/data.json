@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T08:40:22.534801+00:00",
+  "generatedAt": "2026-10-27T15:08:26.422521+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -483,7 +483,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Eintracht Frankfurt",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Hamburger SV mit schwankender Form in der 2. Bundesliga",
+          "Eintracht Frankfurt zuletzt stabiler mit guten Ergebnissen gegen stärkere Gegner",
+          "Auswärtsstärke von Frankfurt und die höhere individuelle Qualität"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-27T15:08:23.604326+00:00"
       }
     },
     {
@@ -876,7 +891,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Freiburg hat Heimvorteil und ist in guter Form",
+          "Wolfsburg zeigt Schwächen in der Defensive",
+          "Freiburg hat die besseren direkten Vergleiche in den letzten Jahren"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-27T15:08:25.421986+00:00"
       }
     },
     {
