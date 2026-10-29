@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T00:36:56.259953+00:00",
+  "generatedAt": "2026-10-29T09:22:56.841731+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -618,21 +618,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Mainz 05",
-        "scoreline": "1:2",
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Elversberg mit schwacher Heimbilanz",
-          "Mainz 05 zuletzt stabiler in der Defensive",
-          "Direkter Vergleich spricht leicht für Mainz 05"
+          "Elversberg zu Hause stark, aber Mainz mit Aufwärtstrend",
+          "Beide Teams defensiv solide, wenig Tore zu erwarten",
+          "Mainz hat die höhere individuelle Qualität, Elversberg den Heimvorteil"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T12:09:44.404868+00:00"
+        "generatedAt": "2026-10-29T09:22:52.607630+00:00"
       }
     },
     {
@@ -724,20 +724,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg RB Leipzig",
-        "scoreline": "1:3",
+        "scoreline": "0:2",
         "confidence": 0.6,
         "probs": {
-          "home": 0.2,
-          "draw": 0.2,
+          "home": 0.15,
+          "draw": 0.25,
           "away": 0.6
         },
         "reasons": [
           "Schalke 04 in schlechter Verfassung",
           "RB Leipzig mit starker Offensive",
-          "Leipzig hat die bessere Tabellensituation"
+          "Leipzig hat die bessere Tabellensituation und Kaderqualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T12:09:45.957262+00:00"
+        "generatedAt": "2026-10-29T09:22:54.254325+00:00"
       }
     },
     {
@@ -1040,20 +1040,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Frankfurt zuletzt heimstark",
-          "HSV mit Auswärtsschwächen",
-          "Frankfurt im Aufwind, HSV stagniert"
+          "Frankfurt heimstark und in guter Form",
+          "HSV mit Auswärtsschwächen und Verletzungssorgen",
+          "Frankfurt hat die bessere Tabellenposition"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T12:09:47.562012+00:00"
+        "generatedAt": "2026-10-29T09:22:55.841263+00:00"
       }
     },
     {
@@ -1304,17 +1304,17 @@
         "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.35,
-          "draw": 0.25,
+          "home": 0.3,
+          "draw": 0.3,
           "away": 0.4
         },
         "reasons": [
-          "Atlético Madrid zu Hause stark, aber Bayerns Offensivkraft überlegen",
-          "Bayern hat die breitere und tiefere Kaderbreite",
-          "Beide Teams mit Siegen im Hinspiel, aber Bayern mit mehr Momentum"
+          "Bayern mit stärkerer Form in den letzten Wochen",
+          "Atlético hat Heimschwäche in dieser Saison",
+          "Bayern hat die individuelle Klasse, um auch auswärts zu gewinnen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T12:09:41.263460+00:00"
+        "generatedAt": "2026-10-29T09:22:49.282223+00:00"
       }
     },
     {
@@ -1918,12 +1918,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Lens hat Heimvorteil und ist in guter Form",
+          "Lens ist in starker Form und hat Heimvorteil",
           "Como hat Probleme in der Defensive",
-          "Lens ist in der Tabelle besser platziert"
+          "Lens hat mehr Erfahrung auf dieser Bühne"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T12:09:42.818814+00:00"
+        "generatedAt": "2026-10-29T09:22:50.883559+00:00"
       }
     },
     {
