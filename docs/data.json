@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T20:06:00.542651+00:00",
+  "generatedAt": "2026-10-29T00:36:56.259953+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,78 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565835",
-      "competition": "Bundesliga",
-      "competitionStage": "7. Spieltag",
-      "dateLocal": "2026-10-25",
-      "kickoff": "2026-10-25T15:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "TSG 1899 Hoffenheim",
-        "short": "TSG",
-        "crest": "https://crests.football-data.org/2.png",
-        "score": 3
-      },
-      "away": {
-        "name": "Bayer 04 Leverkusen",
-        "short": "B04",
-        "crest": "https://crests.football-data.org/3.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565836",
-      "competition": "Bundesliga",
-      "competitionStage": "7. Spieltag",
-      "dateLocal": "2026-10-25",
-      "kickoff": "2026-10-25T17:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SC Freiburg",
-        "short": "SCF",
-        "crest": "https://crests.football-data.org/17.png",
-        "score": 1
-      },
-      "away": {
-        "name": "FC Bayern München",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "score": 3
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "oldb-87618",
       "competition": "DFB-Pokal",
@@ -395,7 +323,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -431,7 +359,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -467,7 +395,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -503,7 +431,7 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
@@ -519,19 +447,19 @@
       "dateLocal": "2026-10-28",
       "kickoff": "2026-10-28T20:45:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Holstein Kiel",
         "short": "Kiel",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/330px-Holstein_Kiel_Logo.svg.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "TSG Hoffenheim",
         "short": "Hoffenheim",
         "crest": "https://i.imgur.com/gF0PfEl.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -539,28 +467,13 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg TSG Hoffenheim",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "Hoffenheim in besserer Verfassung",
-          "Kiel mit Auswärtsschwäche in der Liga",
-          "Pokal-Überraschungen möglich, aber Hoffenheim favorisiert"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T12:09:55.787827+00:00"
+        "available": false
       }
     },
     {
@@ -570,19 +483,19 @@
       "dateLocal": "2026-10-28",
       "kickoff": "2026-10-28T20:45:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Bayer 04 Leverkusen",
         "short": "Leverkusen",
         "crest": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg",
-        "score": null
+        "score": 5
       },
       "away": {
         "name": "1. FC Nürnberg",
         "short": "Nürnberg",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -590,28 +503,13 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "3:1",
-        "confidence": 0.7,
-        "probs": {
-          "home": 0.7,
-          "draw": 0.2,
-          "away": 0.1
-        },
-        "reasons": [
-          "Leverkusen in starker Form und heimstark",
-          "Nürnberg kämpft mit Konstanz in der 2. Liga",
-          "Qualitativer Unterschied im Kader spricht für Leverkusen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T12:09:57.552071+00:00"
+        "available": false
       }
     },
     {
@@ -621,19 +519,19 @@
       "dateLocal": "2026-10-28",
       "kickoff": "2026-10-28T20:45:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Hannover 96",
         "short": "Hannover",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "1. FC Kaiserslautern",
         "short": "Kaiserslautern",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -641,28 +539,13 @@
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Hannover 96",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Hannover 96 mit starker Heimform",
-          "1. FC Kaiserslautern kämpft mit Auswärtsschwäche",
-          "Pokal-Überraschungen sind selten, aber Hannover ist favorisiert"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T12:09:59.178284+00:00"
+        "available": false
       }
     },
     {
@@ -672,49 +555,33 @@
       "dateLocal": "2026-10-28",
       "kickoff": "2026-10-28T20:45:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Bayern München",
         "short": "Bayern",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
-        "score": null
+        "score": 6
       },
       "away": {
         "name": "1. FC Magdeburg",
         "short": "Magdeburg",
         "crest": "https://upload.wikimedia.org/wikipedia/commons/8/84/1._FC_Magdeburg.svg",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
         "channels": [
-          "ARD",
           "Sky"
         ],
-        "free": true,
-        "note": null
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "3:0",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.8,
-          "draw": 0.15,
-          "away": 0.05
-        },
-        "reasons": [
-          "Überlegenheit des FC Bayern in allen Mannschaftsteilen",
-          "Magdeburgs Formschwäche auswärts",
-          "Historisch klare Dominanz des FC Bayern gegen tiefklassigere Teams im Pokal"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T12:10:00.836859+00:00"
+        "available": false
       }
     },
     {
@@ -1894,12 +1761,12 @@
           "away": 0.1
         },
         "reasons": [
-          "PSV hat Heimvorteil und ist in guter Form",
-          "Club Brügge hat Probleme in der Offensive",
-          "PSV ist in der Liga deutlich stärker"
+          "PSV mit starker Heimform",
+          "Club Brugge mit Auswärtsschwächen",
+          "PSV hat mehr auf dem Spiel"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T04:06:16.214139+00:00"
+        "generatedAt": "2026-10-29T00:36:52.182924+00:00"
       }
     },
     {
@@ -2108,7 +1975,7 @@
           "Viking FK hat die bessere Tabellensituation"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-28T04:06:17.755435+00:00"
+        "generatedAt": "2026-10-29T00:36:53.719426+00:00"
       }
     },
     {
@@ -2144,7 +2011,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Hamburger SV",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Hamburger SV mit starker Heimform",
+          "Borussia Mönchengladbach zuletzt auswärts anfällig",
+          "HSV benötigt Punkte im Abstiegskampf"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-29T00:36:55.259577+00:00"
       }
     },
     {
@@ -2171,10 +2053,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2207,10 +2091,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2243,10 +2129,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -2279,10 +2167,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
