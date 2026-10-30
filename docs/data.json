@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T18:03:17.598888+00:00",
+  "generatedAt": "2026-10-30T00:37:45.780742+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1761,12 +1761,12 @@
           "away": 0.1
         },
         "reasons": [
-          "PSV mit starker Heimform",
-          "Club Brugge mit Auswärtsschwächen",
-          "PSV hat mehr auf dem Spiel"
+          "PSV mit starker Heimform in der Liga",
+          "Club Brügge zuletzt auswärts anfällig",
+          "PSV hat mehr auf dem Spiel um sich für die nächste Runde zu qualifizieren"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-29T00:36:52.182924+00:00"
+        "generatedAt": "2026-10-30T00:37:32.970161+00:00"
       }
     },
     {
@@ -1963,19 +1963,19 @@
         "available": true,
         "outcome": "Sieg Viking FK",
         "scoreline": "2:0",
-        "confidence": 0.65,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.65,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
           "Viking FK mit starker Heimform",
-          "Sabah FK schwächelt auswärts",
-          "Viking FK hat die bessere Tabellensituation"
+          "Sabah FK defensiv anfällig auswärts",
+          "Viking FK benötigt Punkte für das Weiterkommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-29T00:36:53.719426+00:00"
+        "generatedAt": "2026-10-30T00:37:34.566070+00:00"
       }
     },
     {
@@ -2014,19 +2014,19 @@
         "available": true,
         "outcome": "Sieg Hamburger SV",
         "scoreline": "2:1",
-        "confidence": 0.5,
+        "confidence": 0.55,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
+          "home": 0.55,
+          "draw": 0.25,
           "away": 0.2
         },
         "reasons": [
-          "Hamburger SV mit starker Heimform",
-          "Borussia Mönchengladbach zuletzt auswärts anfällig",
-          "HSV benötigt Punkte im Abstiegskampf"
+          "HSV mit starker Heimform",
+          "Mönchengladbach auswärts anfällig",
+          "Beide Teams im Mittelfeld der Tabelle, HSV mit leichtem Vorteil durch Heimrecht"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-29T00:36:55.259577+00:00"
+        "generatedAt": "2026-10-30T00:37:36.365386+00:00"
       }
     },
     {
@@ -2064,7 +2064,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "3:1",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.2,
+          "away": 0.15
+        },
+        "reasons": [
+          "RB Leipzig mit starker Heimbilanz",
+          "Augsburg kämpft auswärts oft mit der Defensive",
+          "Leipzig hat den breiteren und qualitativ besseren Kader"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-30T00:37:38.284402+00:00"
       }
     },
     {
@@ -2102,7 +2117,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Borussia Dortmund",
+        "scoreline": "3:0",
+        "confidence": 0.75,
+        "probs": {
+          "home": 0.75,
+          "draw": 0.15,
+          "away": 0.1
+        },
+        "reasons": [
+          "Dortmunds starke Heimform",
+          "Elversbergs schwache Auswärtsbilanz",
+          "Qualitativer Unterschied im Kader"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-30T00:37:40.469975+00:00"
       }
     },
     {
@@ -2140,7 +2170,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "1:3",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
+        },
+        "reasons": [
+          "Mainz 05 in schlechter Verfassung",
+          "Bayern mit starker Offensive",
+          "Auswärtsstärke der Bayern"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-30T00:37:42.172434+00:00"
       }
     },
     {
@@ -2214,7 +2259,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "2:0",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.25,
+          "away": 0.15
+        },
+        "reasons": [
+          "Stuttgart in starker Form zu Hause",
+          "Bremen mit Auswärtsschwächen",
+          "Stuttgarts offensive Durchschlagskraft"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-30T00:37:44.780304+00:00"
       }
     },
     {
@@ -2241,7 +2301,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -2277,7 +2338,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -2313,7 +2375,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
