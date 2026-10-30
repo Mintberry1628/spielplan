@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:37:45.780742+00:00",
+  "generatedAt": "2026-10-30T09:37:57.011895+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -618,21 +618,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
+        "outcome": "Sieg Mainz 05",
+        "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Elversberg zu Hause stark, aber Mainz mit Aufwärtstrend",
-          "Beide Teams defensiv solide, wenig Tore zu erwarten",
-          "Mainz hat die höhere individuelle Qualität, Elversberg den Heimvorteil"
+          "Elversberg mit schwacher Heimbilanz",
+          "Mainz 05 in besserer Verfassung",
+          "Direkter Vergleich spricht für Mainz 05"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-29T09:22:52.607630+00:00"
+        "generatedAt": "2026-10-30T09:37:52.019303+00:00"
       }
     },
     {
@@ -722,22 +722,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg RB Leipzig",
-        "scoreline": "0:2",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.15,
-          "draw": 0.25,
-          "away": 0.6
-        },
-        "reasons": [
-          "Schalke 04 in schlechter Verfassung",
-          "RB Leipzig mit starker Offensive",
-          "Leipzig hat die bessere Tabellensituation und Kaderqualität"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-29T09:22:54.254325+00:00"
+        "available": false
       }
     },
     {
@@ -1048,12 +1033,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Frankfurt heimstark und in guter Form",
-          "HSV mit Auswärtsschwächen und Verletzungssorgen",
-          "Frankfurt hat die bessere Tabellenposition"
+          "Frankfurt zu Hause stark",
+          "HSV mit Auswärtsschwäche",
+          "Frankfurt hat die bessere Form"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-29T09:22:55.841263+00:00"
+        "generatedAt": "2026-10-30T09:37:54.354591+00:00"
       }
     },
     {
@@ -1309,12 +1294,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Bayern mit stärkerer Form in den letzten Wochen",
-          "Atlético hat Heimschwäche in dieser Saison",
-          "Bayern hat die individuelle Klasse, um auch auswärts zu gewinnen"
+          "Atlético Madrid zu Hause stark, aber Bayern in Topform",
+          "Bayern hat die breitere und tiefere Kaderbreite",
+          "Atlético hat Probleme in der Offensive gegen Topteams"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-29T09:22:49.282223+00:00"
+        "generatedAt": "2026-10-30T09:37:48.669427+00:00"
       }
     },
     {
@@ -1910,20 +1895,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Heim",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Lens ist in starker Form und hat Heimvorteil",
-          "Como hat Probleme in der Defensive",
-          "Lens hat mehr Erfahrung auf dieser Bühne"
+          "Lens hat Heimstärke in der Liga bewiesen.",
+          "Como zeigt Auswärtsschwächen in dieser Saison.",
+          "Lens hat mehr Erfahrung auf europäischer Bühne."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-29T09:22:50.883559+00:00"
+        "generatedAt": "2026-10-30T09:37:50.423168+00:00"
       }
     },
     {
@@ -2223,7 +2208,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Eintracht Frankfurt",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Paderborn zuletzt schwankend in der Form",
+          "Frankfurt mit stabilerer Defensive",
+          "Frankfurt hat die höhere individuelle Qualität"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-30T09:37:56.011410+00:00"
       }
     },
     {
