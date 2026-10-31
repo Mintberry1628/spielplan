@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T04:10:38.971809+00:00",
+  "generatedAt": "2026-10-31T11:43:36.017683+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -737,20 +737,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "2:0",
-        "confidence": 0.6,
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Frankfurt zu Hause stark",
-          "HSV mit Auswärtsschwäche",
-          "Frankfurt hat die bessere Form"
+          "Frankfurt zuletzt heimstark",
+          "HSV mit Auswärtsschwächen",
+          "Frankfurt hat den besseren Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T09:37:54.354591+00:00"
+        "generatedAt": "2026-10-31T11:43:33.353045+00:00"
       }
     },
     {
@@ -1006,12 +1006,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Atlético Madrid zu Hause stark, aber Bayern in Topform",
-          "Bayern hat die breitere und tiefere Kaderbreite",
-          "Atlético hat Probleme in der Offensive gegen Topteams"
+          "Bayern mit starker Form und breiterem Kader",
+          "Atlético defensiv anfällig in den letzten Spielen",
+          "Auswärtsstärke von Bayern in der Champions League"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T09:37:48.669427+00:00"
+        "generatedAt": "2026-10-31T11:43:30.923679+00:00"
       }
     },
     {
@@ -1605,22 +1605,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Lens hat Heimstärke in der Liga bewiesen.",
-          "Como zeigt Auswärtsschwächen in dieser Saison.",
-          "Lens hat mehr Erfahrung auf europäischer Bühne."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T09:37:50.423168+00:00"
+        "available": false
       }
     },
     {
@@ -1750,12 +1735,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -1803,12 +1786,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -1930,12 +1911,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Paderborn zuletzt schwankend in der Form",
-          "Frankfurt mit stabilerer Defensive",
-          "Frankfurt hat die höhere individuelle Qualität"
+          "Paderborn zuletzt schwankend",
+          "Frankfurt in besserer Verfassung",
+          "Frankfurt mit mehr Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T09:37:56.011410+00:00"
+        "generatedAt": "2026-10-31T11:43:35.017211+00:00"
       }
     },
     {
