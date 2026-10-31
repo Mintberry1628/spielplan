@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:51:52.677639+00:00",
+  "generatedAt": "2026-10-31T21:00:40.801039+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -528,19 +528,19 @@
       "dateLocal": "2026-10-31",
       "kickoff": "2026-10-31T18:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -554,22 +554,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "3:1",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Bayern hat eine starke Heimbilanz gegen Dortmund.",
-          "Aktuelle Form spricht leicht für die Bayern.",
-          "Dortmund hat Ausfälle in der Abwehr."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-31T16:51:50.065320+00:00"
+        "available": false
       }
     },
     {
@@ -1270,7 +1255,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Manchester City FC",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
+        },
+        "reasons": [
+          "Leipzig zuletzt inkonsistent",
+          "City mit starker Offensive",
+          "Auswärtsstärke von City"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-10-31T21:00:30.065953+00:00"
       }
     },
     {
@@ -1582,7 +1582,7 @@
           "Viking FK hat die bessere Tabellensituation"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T21:57:26.285811+00:00"
+        "generatedAt": "2026-10-31T21:00:31.712284+00:00"
       }
     },
     {
@@ -1629,11 +1629,11 @@
         },
         "reasons": [
           "HSV mit starker Heimform",
-          "Gladbach defensiv anfällig in Auswärtsspielen",
-          "Hamburger SV hat den größeren Tabellenabstand zu den Abstiegsplätzen"
+          "Gladbach defensiv anfällig auswärts",
+          "Tabellarische Nähe begünstigt knappen Ausgang"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T21:57:27.859530+00:00"
+        "generatedAt": "2026-10-31T21:00:33.254921+00:00"
       }
     },
     {
@@ -1681,12 +1681,12 @@
           "away": 0.15
         },
         "reasons": [
-          "RB Leipzig hat eine starke Heimform.",
-          "Augsburgs Auswärtsbilanz ist schwach.",
-          "Leipzig hat die qualitativ bessere Mannschaft."
+          "RB Leipzig mit starker Heimbilanz",
+          "FC Augsburg zuletzt formschwach",
+          "RB Leipzig hat die individuell besseren Spieler"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T21:57:29.488236+00:00"
+        "generatedAt": "2026-10-31T21:00:34.889672+00:00"
       }
     },
     {
@@ -1734,12 +1734,12 @@
           "away": 0.05
         },
         "reasons": [
-          "Dortmunds starke Heimform",
-          "Elversbergs schwache Auswärtsbilanz",
-          "Qualitativer Unterschied im Kader"
+          "Dortmund mit starker Heimform",
+          "Elversberg schwache Auswärtsbilanz",
+          "Dortmunds Kaderqualität deutlich höher"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T21:57:31.005159+00:00"
+        "generatedAt": "2026-10-31T21:00:36.446349+00:00"
       }
     },
     {
@@ -1782,17 +1782,17 @@
         "scoreline": "1:3",
         "confidence": 0.6,
         "probs": {
-          "home": 0.2,
-          "draw": 0.2,
+          "home": 0.15,
+          "draw": 0.25,
           "away": 0.6
         },
         "reasons": [
-          "Mainz in schlechter Verfassung",
-          "Bayern mit starker Offensive",
-          "Historisch klare Überlegenheit Bayerns"
+          "Mainz 05 mit schwacher Heimbilanz gegen Top-Teams",
+          "Bayern München in starker Verfassung und mit breiterem Kader",
+          "Tabellarische Situation zwingt Bayern zum Sieg, Mainz kann befreit aufspielen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T21:57:32.474840+00:00"
+        "generatedAt": "2026-10-31T21:00:38.091086+00:00"
       }
     },
     {
@@ -1883,20 +1883,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg VfB Stuttgart",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Stuttgart in guter Form und heimstark",
-          "Bremen auswärts schwächer",
-          "Stuttgarts offensive Durchschlagskraft"
+          "Stuttgart in starker Form und heimstark",
+          "Bremen mit Auswärtsschwächen",
+          "Stuttgarts Offensive übertrifft Bremens Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-30T21:57:33.959726+00:00"
+        "generatedAt": "2026-10-31T21:00:39.800590+00:00"
       }
     },
     {
