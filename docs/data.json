@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T05:49:39.640882+00:00",
+  "generatedAt": "2026-11-01T12:42:58.751485+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -350,20 +350,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Frankfurt zuletzt heimstark",
+          "Frankfurt in guter Form und heimstark",
           "HSV mit Auswärtsschwächen",
-          "Frankfurt hat den besseren Kader"
+          "Frankfurt hat die bessere Tabellensituation"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-31T11:43:33.353045+00:00"
+        "generatedAt": "2026-11-01T12:42:56.239888+00:00"
       }
     },
     {
@@ -619,12 +619,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Bayern mit starker Form und breiterem Kader",
-          "Atlético defensiv anfällig in den letzten Spielen",
-          "Auswärtsstärke von Bayern in der Champions League"
+          "Atlético Madrid zuletzt heimschwach",
+          "Bayern München mit starker Offensive",
+          "Beide Teams mit ähnlicher Tabellensituation, aber Bayern mit mehr Erfahrung in die Offensive investiert"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-31T11:43:30.923679+00:00"
+        "generatedAt": "2026-11-01T12:42:54.699264+00:00"
       }
     },
     {
@@ -1543,12 +1543,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Paderborn zuletzt schwankend",
+          "Paderborn mit schwacher Heimbilanz",
           "Frankfurt in besserer Verfassung",
-          "Frankfurt mit mehr Qualität im Kader"
+          "Frankfurt hat mehr Qualität im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-10-31T11:43:35.017211+00:00"
+        "generatedAt": "2026-11-01T12:42:57.751053+00:00"
       }
     },
     {
