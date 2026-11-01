@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:00:40.801039+00:00",
+  "generatedAt": "2026-11-01T00:00:55.070461+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,294 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "oldb-87619",
-      "competition": "DFB-Pokal",
-      "competitionStage": "2. Runde",
-      "dateLocal": "2026-10-28",
-      "kickoff": "2026-10-28T18:00:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SSV Jeddeloh II",
-        "short": "SSV Jeddeloh",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_SSV_Jeddeloh.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "Hertha BSC",
-        "short": "Hertha",
-        "crest": "https://i.imgur.com/apFwbYZ.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-87622",
-      "competition": "DFB-Pokal",
-      "competitionStage": "2. Runde",
-      "dateLocal": "2026-10-28",
-      "kickoff": "2026-10-28T18:00:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Dynamo Dresden",
-        "short": "Dresden",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_SG_Dynamo_Dresden_neu.svg/960px-Logo_SG_Dynamo_Dresden_neu.svg.png",
-        "score": 2
-      },
-      "away": {
-        "name": "FC Schalke 04",
-        "short": "S04",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-87630",
-      "competition": "DFB-Pokal",
-      "competitionStage": "2. Runde",
-      "dateLocal": "2026-10-28",
-      "kickoff": "2026-10-28T18:00:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SC Paderborn 07",
-        "short": "Paderborn",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "VfB Stuttgart",
-        "short": "Stuttgart",
-        "crest": "https://i.imgur.com/v0tkpNx.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-87631",
-      "competition": "DFB-Pokal",
-      "competitionStage": "2. Runde",
-      "dateLocal": "2026-10-28",
-      "kickoff": "2026-10-28T18:00:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SC Freiburg",
-        "short": "Freiburg",
-        "crest": "https://i.imgur.com/r3mvi0h.png",
-        "score": 3
-      },
-      "away": {
-        "name": "VfL Wolfsburg",
-        "short": "Wolfsburg",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/VfL_Wolfsburg_logo_2026.svg/960px-VfL_Wolfsburg_logo_2026.svg.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-87627",
-      "competition": "DFB-Pokal",
-      "competitionStage": "2. Runde",
-      "dateLocal": "2026-10-28",
-      "kickoff": "2026-10-28T20:45:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Holstein Kiel",
-        "short": "Kiel",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/330px-Holstein_Kiel_Logo.svg.png",
-        "score": 1
-      },
-      "away": {
-        "name": "TSG Hoffenheim",
-        "short": "Hoffenheim",
-        "crest": "https://i.imgur.com/gF0PfEl.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-87628",
-      "competition": "DFB-Pokal",
-      "competitionStage": "2. Runde",
-      "dateLocal": "2026-10-28",
-      "kickoff": "2026-10-28T20:45:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Bayer 04 Leverkusen",
-        "short": "Leverkusen",
-        "crest": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg",
-        "score": 5
-      },
-      "away": {
-        "name": "1. FC Nürnberg",
-        "short": "Nürnberg",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-87629",
-      "competition": "DFB-Pokal",
-      "competitionStage": "2. Runde",
-      "dateLocal": "2026-10-28",
-      "kickoff": "2026-10-28T20:45:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Hannover 96",
-        "short": "Hannover",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
-        "score": 0
-      },
-      "away": {
-        "name": "1. FC Kaiserslautern",
-        "short": "Kaiserslautern",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "oldb-87633",
-      "competition": "DFB-Pokal",
-      "competitionStage": "2. Runde",
-      "dateLocal": "2026-10-28",
-      "kickoff": "2026-10-28T20:45:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Bayern München",
-        "short": "Bayern",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
-        "score": 6
-      },
-      "away": {
-        "name": "1. FC Magdeburg",
-        "short": "Magdeburg",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/8/84/1._FC_Magdeburg.svg",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565846",
       "competition": "Bundesliga",
@@ -356,12 +68,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -394,11 +104,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -431,12 +140,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -469,12 +176,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -507,12 +212,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
