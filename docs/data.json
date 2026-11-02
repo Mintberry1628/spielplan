@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T00:15:31.687065+00:00",
+  "generatedAt": "2026-11-02T10:34:16.020480+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -576,21 +576,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "1:2",
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Atlético Madrid zuletzt heimschwach",
-          "Bayern München mit starker Offensive",
-          "Beide Teams mit ähnlicher Tabellensituation, aber Bayern mit mehr Erfahrung in die Offensive investiert"
+          "Atlético Madrid heimstark in der Champions League.",
+          "Bayern München zeigt sich auswärts oft stabil.",
+          "Beide Teams haben ähnliche defensive Stärken."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-01T12:42:54.699264+00:00"
+        "generatedAt": "2026-11-02T10:34:07.740758+00:00"
       }
     },
     {
@@ -1029,20 +1029,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg PSV",
-        "scoreline": "3:1",
+        "scoreline": "2:0",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
+          "draw": 0.25,
+          "away": 0.1
         },
         "reasons": [
           "PSV mit starker Heimform in der Liga",
           "Club Brügge zuletzt auswärts anfällig",
-          "PSV hat mehr Qualität im Kader"
+          "PSV hat die höhere individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-01T05:49:33.798912+00:00"
+        "generatedAt": "2026-11-02T10:34:09.375477+00:00"
       }
     },
     {
@@ -1509,12 +1509,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Paderborn mit schwacher Heimbilanz",
-          "Frankfurt in besserer Verfassung",
-          "Frankfurt hat mehr Qualität im Kader"
+          "Paderborn schwächelt in der Rückrunde",
+          "Frankfurt hat eine stabilere Defensive",
+          "Frankfurt ist auswärtsstark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-01T12:42:57.751053+00:00"
+        "generatedAt": "2026-11-02T10:34:10.923896+00:00"
       }
     },
     {
@@ -1605,19 +1605,19 @@
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
         "scoreline": "1:3",
-        "confidence": 0.5,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.25,
-          "draw": 0.25,
-          "away": 0.5
+          "home": 0.2,
+          "draw": 0.2,
+          "away": 0.6
         },
         "reasons": [
           "Köln in schlechter Verfassung",
           "Leverkusen konstant stark",
-          "Kölns Heimschwäche gegen Top-Teams"
+          "Kölns Heimschwäche"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-01T05:49:35.380157+00:00"
+        "generatedAt": "2026-11-02T10:34:12.422284+00:00"
       }
     },
     {
@@ -1654,22 +1654,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:1",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.5,
-          "draw": 0.3,
-          "away": 0.2
-        },
-        "reasons": [
-          "Freiburg heimstark",
-          "Union in schwacher Form",
-          "fehlende Offensivkraft bei Union"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-01T05:49:36.990279+00:00"
+        "available": false
       }
     },
     {
@@ -1708,20 +1693,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg TSG 1899 Hoffenheim",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Hoffenheim mit stärkerer Form in den letzten Spielen.",
-          "Schalke kämpft mit Auswärtsschwäche und vielen Verletzten.",
-          "Heimvorteil spricht klar für Hoffenheim."
+          "Hoffenheim mit starker Heimform",
+          "Schalke kämpft auswärts mit der Defensive",
+          "Tabellarisch hat Hoffenheim den größeren Druck"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-01T05:49:38.640539+00:00"
+        "generatedAt": "2026-11-02T10:34:15.020109+00:00"
       }
     },
     {
