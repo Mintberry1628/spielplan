@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:26:00.384051+00:00",
+  "generatedAt": "2026-11-03T05:27:10.982670+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,42 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565846",
-      "competition": "Bundesliga",
-      "competitionStage": "8. Spieltag",
-      "dateLocal": "2026-10-30",
-      "kickoff": "2026-10-30T20:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SV 07 Elversberg",
-        "short": "ELV",
-        "crest": "https://crests.football-data.org/719.png",
-        "score": 4
-      },
-      "away": {
-        "name": "1. FSV Mainz 05",
-        "short": "M05",
-        "crest": "https://crests.football-data.org/15.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565839",
       "competition": "Bundesliga",
