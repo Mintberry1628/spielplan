@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:47:39.105825+00:00",
+  "generatedAt": "2026-11-04T01:02:56.583990+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,222 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565839",
-      "competition": "Bundesliga",
-      "competitionStage": "8. Spieltag",
-      "dateLocal": "2026-10-31",
-      "kickoff": "2026-10-31T15:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Borussia Mönchengladbach",
-        "short": "BMG",
-        "crest": "https://crests.football-data.org/18.png",
-        "score": 0
-      },
-      "away": {
-        "name": "SC Paderborn 07",
-        "short": "SCP",
-        "crest": "https://crests.football-data.org/29.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565840",
-      "competition": "Bundesliga",
-      "competitionStage": "8. Spieltag",
-      "dateLocal": "2026-10-31",
-      "kickoff": "2026-10-31T15:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Schalke 04",
-        "short": "S04",
-        "crest": "https://crests.football-data.org/6.png",
-        "score": 0
-      },
-      "away": {
-        "name": "RB Leipzig",
-        "short": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565842",
-      "competition": "Bundesliga",
-      "competitionStage": "8. Spieltag",
-      "dateLocal": "2026-10-31",
-      "kickoff": "2026-10-31T15:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Augsburg",
-        "short": "FCA",
-        "crest": "https://crests.football-data.org/16.png",
-        "score": 1
-      },
-      "away": {
-        "name": "SC Freiburg",
-        "short": "SCF",
-        "crest": "https://crests.football-data.org/17.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565843",
-      "competition": "Bundesliga",
-      "competitionStage": "8. Spieltag",
-      "dateLocal": "2026-10-31",
-      "kickoff": "2026-10-31T15:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SV Werder Bremen",
-        "short": "SVW",
-        "crest": "https://crests.football-data.org/12.png",
-        "score": 2
-      },
-      "away": {
-        "name": "TSG 1899 Hoffenheim",
-        "short": "TSG",
-        "crest": "https://crests.football-data.org/2.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565847",
-      "competition": "Bundesliga",
-      "competitionStage": "8. Spieltag",
-      "dateLocal": "2026-10-31",
-      "kickoff": "2026-10-31T15:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Bayer 04 Leverkusen",
-        "short": "B04",
-        "crest": "https://crests.football-data.org/3.png",
-        "score": 2
-      },
-      "away": {
-        "name": "VfB Stuttgart",
-        "short": "VFB",
-        "crest": "https://crests.football-data.org/10.png",
-        "score": 4
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "Konferenz auf DAZN"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565845",
-      "competition": "Bundesliga",
-      "competitionStage": "8. Spieltag",
-      "dateLocal": "2026-10-31",
-      "kickoff": "2026-10-31T18:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Bayern München",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "score": 2
-      },
-      "away": {
-        "name": "Borussia Dortmund",
-        "short": "BVB",
-        "crest": "https://crests.football-data.org/4.png",
-        "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565841",
       "competition": "Bundesliga",
@@ -320,11 +104,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -357,12 +140,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -378,7 +159,7 @@
       "dateLocal": "2026-11-03",
       "kickoff": "2026-11-03T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Feyenoord Rotterdam",
@@ -390,37 +171,21 @@
         "name": "FC Internazionale Milano",
         "short": "INT",
         "crest": "https://crests.football-data.org/108.png",
-        "score": 2
+        "score": 3
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Internazionale Milano",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Inter ist in besserer Verfassung und hat die breitere Kaderbreite",
-          "Feyenoord hat zuletzt zu Hause Schwächen gezeigt",
-          "Inter hat die höhere individuelle Qualität im Kader"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:03.531674+00:00"
+        "available": false
       }
     },
     {
@@ -430,13 +195,13 @@
       "dateLocal": "2026-11-03",
       "kickoff": "2026-11-03T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Barcelona",
         "short": "FCB",
         "crest": "https://crests.football-data.org/81.png",
-        "score": 1
+        "score": 3
       },
       "away": {
         "name": "Aston Villa FC",
@@ -447,33 +212,16 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Barcelona",
-        "scoreline": "2:1",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Starke Heimbilanz des FC Barcelona",
-          "Aston Villa FC mit Auswärtsschwächen in der Champions League",
-          "Aktuelle Form spricht leicht für Barcelona"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:05.230975+00:00"
+        "available": false
       }
     },
     {
@@ -483,7 +231,7 @@
       "dateLocal": "2026-11-03",
       "kickoff": "2026-11-03T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Club Atlético de Madrid",
@@ -495,36 +243,21 @@
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": 0
+        "score": 2
       },
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Bayern mit starker Gruppenphase bisher",
-          "Atlético zu Hause oft defensivstark, aber anfällig für Konter",
-          "Formkurve der Bayern leicht besser"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T13:40:14.551429+00:00"
+        "available": false
       }
     },
     {
@@ -534,7 +267,7 @@
       "dateLocal": "2026-11-03",
       "kickoff": "2026-11-03T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Villarreal CF",
@@ -546,37 +279,21 @@
         "name": "Paris Saint-Germain FC",
         "short": "PSG",
         "crest": "https://crests.football-data.org/524.png",
-        "score": 4
+        "score": 6
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Paris Saint-Germain FC",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "PSG hat die stärkere Offensive",
-          "Villarreal zeigt inkonsistente Leistungen",
-          "PSG hat mehr Erfahrung in der Champions League"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:06.840041+00:00"
+        "available": false
       }
     },
     {
@@ -586,13 +303,13 @@
       "dateLocal": "2026-11-03",
       "kickoff": "2026-11-03T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Manchester United FC",
         "short": "MUN",
         "crest": "https://crests.football-data.org/66.png",
-        "score": 0
+        "score": 3
       },
       "away": {
         "name": "AS Roma",
@@ -603,32 +320,16 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Manchester United FC",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Manchester United hat eine starke Heimform in europäischen Wettbewerben.",
-          "AS Roma hat zuletzt in der Liga Schwächen gezeigt.",
-          "Manchester United ist im direkten Vergleich meist überlegen."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:08.664163+00:00"
+        "available": false
       }
     },
     {
@@ -638,7 +339,7 @@
       "dateLocal": "2026-11-03",
       "kickoff": "2026-11-03T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FK Bodø/Glimt",
@@ -655,11 +356,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -675,13 +375,13 @@
       "dateLocal": "2026-11-03",
       "kickoff": "2026-11-03T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "LASK Linz",
         "short": "LIN",
         "crest": "https://crests.football-data.org/2016.png",
-        "score": 2
+        "score": 4
       },
       "away": {
         "name": "ŠK Slovan Bratislava",
@@ -692,32 +392,16 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg LASK Linz",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "LASK Linz mit starker Heimform",
-          "Slovan Bratislava auswärts anfällig",
-          "Wichtigkeit des Spiels für LASK in der Gruppenphase"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:10.434134+00:00"
+        "available": false
       }
     },
     {
@@ -1274,7 +958,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "3:1",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.2,
+          "away": 0.15
+        },
+        "reasons": [
+          "RB Leipzig ist in starker Form und hat die letzten Heimspiele dominiert.",
+          "FC Augsburg hat auswärts Schwierigkeiten und eine negative Bilanz gegen Leipzig.",
+          "Leipzig hat den größeren Kader und weniger verletzte Schlüsselspieler."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-04T01:02:55.583555+00:00"
       }
     },
     {
