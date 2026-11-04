@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T10:30:19.853850+00:00",
+  "generatedAt": "2026-11-04T19:24:13.679674+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -411,19 +411,19 @@
       "dateLocal": "2026-11-04",
       "kickoff": "2026-11-04T18:45:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "PAE AEK",
         "short": "AEK",
         "crest": "https://crests.football-data.org/1899.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Real Madrid CF",
         "short": "RMA",
         "crest": "https://crests.football-data.org/86.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -438,22 +438,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Real Madrid CF",
-        "scoreline": "0:2",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.15,
-          "draw": 0.25,
-          "away": 0.6
-        },
-        "reasons": [
-          "Stärkere Kaderbreite und individuelle Klasse von Real Madrid",
-          "AEK Athen hat in dieser Saison Probleme gegen Topteams",
-          "Real Madrid benötigt Punkte für das Weiterkommen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:12.284161+00:00"
+        "available": false
       }
     },
     {
@@ -463,19 +448,19 @@
       "dateLocal": "2026-11-04",
       "kickoff": "2026-11-04T18:45:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "live",
       "minute": null,
       "home": {
         "name": "Fenerbahçe SK",
         "short": "FEN",
         "crest": "https://crests.football-data.org/613.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Liverpool FC",
         "short": "LIV",
         "crest": "https://crests.football-data.org/64.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -494,19 +479,19 @@
         "available": true,
         "outcome": "Sieg Liverpool FC",
         "scoreline": "1:2",
-        "confidence": 0.5,
+        "confidence": 0.45,
         "probs": {
           "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
+          "draw": 0.25,
+          "away": 0.45
         },
         "reasons": [
-          "Liverpool FC ist in besserer Form",
-          "Fenerbahçe SK hat Heimvorteil, aber Liverpool FC die höhere individuelle Qualität",
-          "Liverpool FC hat die bessere Ausgangslage in der Tabelle"
+          "Liverpool in besserer Verfassung",
+          "Fenerbahçe mit Auswärtsschwäche in der Liga",
+          "Liverpools internationale Erfahrung spricht für sie"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:13.990256+00:00"
+        "generatedAt": "2026-11-04T19:23:51.066734+00:00"
       }
     },
     {
@@ -552,12 +537,12 @@
           "away": 0.5
         },
         "reasons": [
-          "Leipzig zuletzt mit schwankenden Leistungen",
-          "Manchester City mit starker Offensive und Konstanz",
-          "Leipzig hat im Hinspiel bereits verloren"
+          "Leipzig zuletzt inkonsistent",
+          "Man City mit starker Offensive",
+          "Man City hat die bessere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:15.631572+00:00"
+        "generatedAt": "2026-11-04T19:23:52.772560+00:00"
       }
     },
     {
@@ -596,19 +581,19 @@
         "available": true,
         "outcome": "Sieg Arsenal FC",
         "scoreline": "1:2",
-        "confidence": 0.45,
+        "confidence": 0.4,
         "probs": {
           "home": 0.25,
-          "draw": 0.3,
-          "away": 0.45
+          "draw": 0.35,
+          "away": 0.4
         },
         "reasons": [
-          "Arsenal zeigt konstant starke Leistungen in der Liga und international.",
-          "Slavia Prag hat Heimstärke, aber Arsenal verfügt über mehr individuelle Klasse.",
-          "Arsenal benötigt Punkte für die K.o.-Phase und wird entsprechend auftreten."
+          "Arsenal FC hat eine starke Saisonform",
+          "Slavia Prag hat zuletzt defensiv gewackelt",
+          "Arsenal FC ist international erfahrener"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:17.404069+00:00"
+        "generatedAt": "2026-11-04T19:23:54.416619+00:00"
       }
     },
     {
@@ -708,12 +693,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Dortmund mit starker Heimbilanz",
-          "Betis hat Auswärtsschwächen",
-          "Dortmund ist offensivstark"
+          "Dortmund mit starker Heimbilanz in der Champions League",
+          "Real Betis hat auswärts Probleme, Tore zu erzielen",
+          "Dortmund ist in der Liga in besserer Form"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:19.087273+00:00"
+        "generatedAt": "2026-11-04T19:23:56.065529+00:00"
       }
     },
     {
@@ -756,16 +741,16 @@
         "confidence": 0.4,
         "probs": {
           "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "draw": 0.35,
+          "away": 0.25
         },
         "reasons": [
-          "Porto zu Hause stark, Napoli auswärts defensiv solide",
-          "Beide Teams brauchen Punkte, was zu vorsichtigem Spiel führt",
-          "Ausgeglichene Kaderstärke mit leichten Vorteilen für Porto im Mittelfeld"
+          "Porto mit starkem Heimvorteil in der Champions League.",
+          "Neapel zeigt sich auswärts oft defensiv stabil.",
+          "Beide Teams sind punktuell stark, aber nicht immer konstant."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:20.864477+00:00"
+        "generatedAt": "2026-11-04T19:23:57.872472+00:00"
       }
     },
     {
@@ -805,19 +790,19 @@
         "available": true,
         "outcome": "Sieg Heim",
         "scoreline": "2:1",
-        "confidence": 0.55,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Lens hat Heimvorteil in der Ligue 1.",
-          "Como ist in der Serie B noch nicht konstant.",
-          "Lens hat mehr internationale Erfahrung."
+          "Lens hat Heimstärke in europäischen Wettbewerben.",
+          "Como zeigt auswärts Schwächen in der Defensive.",
+          "Lens ist in der Liga in guter Form."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:22.827255+00:00"
+        "generatedAt": "2026-11-04T19:23:59.700873+00:00"
       }
     },
     {
@@ -864,12 +849,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Viking FK hat Heimvorteil",
-          "Sabah FK zeigt schwache Auswärtsform",
-          "Viking FK ist in besserer Verfassung"
+          "Viking FK mit starker Heimform",
+          "Sabah FK schwächelt auswärts",
+          "Viking FK hat die bessere Tabellensituation"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:24.444711+00:00"
+        "generatedAt": "2026-11-04T19:24:01.420889+00:00"
       }
     },
     {
@@ -906,21 +891,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Hamburger SV",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
+          "home": 0.4,
+          "draw": 0.4,
           "away": 0.2
         },
         "reasons": [
-          "HSV mit starker Heimform",
-          "Gladbach kämpft auswärts mit Konstanz",
-          "Tabellarisch engeres Mittelfeld begünstigt Heimteam"
+          "HSV mit Heimvorteil, aber schwankender Form.",
+          "Gladbach auswärts oft defensivstark, aber offensiv limitiert.",
+          "Beide Teams haben Probleme, konstant zu punkten."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:26.214346+00:00"
+        "generatedAt": "2026-11-04T19:24:03.266913+00:00"
       }
     },
     {
@@ -947,9 +932,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -1000,9 +985,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -1014,19 +999,19 @@
         "available": true,
         "outcome": "Sieg Borussia Dortmund",
         "scoreline": "3:0",
-        "confidence": 0.8,
+        "confidence": 0.85,
         "probs": {
-          "home": 0.8,
-          "draw": 0.15,
+          "home": 0.85,
+          "draw": 0.1,
           "away": 0.05
         },
         "reasons": [
-          "Dortmund mit starker Heimbilanz und offensiver Durchschlagskraft",
-          "Elversberg kämpft auswärts und hat Schwierigkeiten gegen Top-Teams",
-          "Dortmunds Formkurve zeigt nach oben, Elversberg zuletzt schwächer"
+          "Dortmunds starke Heimform und Offensivkraft.",
+          "Elversbergs Schwierigkeiten auswärts und mangelnde Erfahrung.",
+          "Deutlicher Qualitätsunterschied im Kader beider Teams."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:29.415851+00:00"
+        "generatedAt": "2026-11-04T19:24:05.134207+00:00"
       }
     },
     {
@@ -1053,9 +1038,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN 1",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1074,12 +1058,12 @@
           "away": 0.6
         },
         "reasons": [
-          "Bayern mit deutlich stärkerem Kader und höherer individueller Qualität.",
-          "Mainz kämpft um Punkte gegen den Abstieg, Bayern um die Tabellenspitze.",
-          "Auswärtsstärke von Bayern gegen die Heimschwäche von Mainz in dieser Saison."
+          "Mainz 05 mit schwacher Heimbilanz gegen Top-Teams",
+          "Bayern München in starker Verfassung und offensiv gefährlich",
+          "Wichtige Ausfälle bei Mainz 05 im defensiven Mittelfeld"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:31.177619+00:00"
+        "generatedAt": "2026-11-04T19:24:06.819708+00:00"
       }
     },
     {
@@ -1106,9 +1090,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -1117,22 +1101,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Auswärts",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Frankfurt in besserer Form zuletzt",
-          "Paderborn schwache Heimbilanz",
-          "Frankfurt hat die stabilere Defensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:33.012746+00:00"
+        "available": false
       }
     },
     {
@@ -1170,20 +1139,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg VfB Stuttgart",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Stuttgart in guter Form und heimstark",
-          "Bremen kämpft auswärts mit Konstanz",
-          "Stuttgarts Offensive ist schlagkräftiger"
+          "Stuttgart in starker Form und heimstark",
+          "Bremen mit Auswärtsschwächen",
+          "Stuttgarts Offensive übertrifft Bremens Defensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:34.743159+00:00"
+        "generatedAt": "2026-11-04T19:24:09.295424+00:00"
       }
     },
     {
@@ -1275,19 +1244,19 @@
         "available": true,
         "outcome": "Sieg Heim",
         "scoreline": "1:0",
-        "confidence": 0.45,
+        "confidence": 0.55,
         "probs": {
-          "home": 0.45,
+          "home": 0.55,
           "draw": 0.3,
-          "away": 0.25
+          "away": 0.15
         },
         "reasons": [
-          "Freiburg hat eine starke Heimform",
-          "Union Berlin zeigt Auswärtsschwächen",
-          "Beide Teams sind defensivstark, was ein enges Spiel erwarten lässt"
+          "Freiburg mit starkem Heimvorteil",
+          "Union Berlin in schwacher Form",
+          "Freiburgs defensive Stabilität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:36.438131+00:00"
+        "generatedAt": "2026-11-04T19:24:10.909447+00:00"
       }
     },
     {
@@ -1335,11 +1304,11 @@
         },
         "reasons": [
           "Hoffenheim mit starker Heimform",
-          "Schalke kämpft auswärts",
-          "Tabellarisch eng, Heimvorteil entscheidend"
+          "Schalke kämpft auswärts mit der Defensive",
+          "Tabellarische Nähe begünstigt Heimmannschaft"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T20:47:38.105475+00:00"
+        "generatedAt": "2026-11-04T19:24:12.679205+00:00"
       }
     },
     {
@@ -2639,47 +2608,11 @@
       }
     },
     {
-      "id": "oldb-88749",
-      "competition": "DFB-Pokal",
-      "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-12-01",
-      "kickoff": "2026-12-01T15:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "Eintracht Frankfurt",
-        "short": "Frankfurt",
-        "crest": "https://i.imgur.com/X8NFkOb.png",
-        "score": null
-      },
-      "away": {
-        "name": "Borussia Dortmund",
-        "short": "Dortmund",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
       "id": "oldb-88750",
       "competition": "DFB-Pokal",
       "competitionStage": "Achtelfinale",
       "dateLocal": "2026-12-01",
-      "kickoff": "2026-12-01T15:30:00+01:00",
+      "kickoff": "2026-12-01T18:00:00+01:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
@@ -2711,24 +2644,24 @@
       }
     },
     {
-      "id": "oldb-88751",
+      "id": "oldb-88755",
       "competition": "DFB-Pokal",
       "competitionStage": "Achtelfinale",
       "dateLocal": "2026-12-01",
-      "kickoff": "2026-12-01T15:30:00+01:00",
+      "kickoff": "2026-12-01T18:00:00+01:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Bayer 04 Leverkusen",
-        "short": "Leverkusen",
-        "crest": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg",
+        "name": "Holstein Kiel",
+        "short": "Kiel",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/330px-Holstein_Kiel_Logo.svg.png",
         "score": null
       },
       "away": {
-        "name": "RB Leipzig",
-        "short": "Leipzig",
-        "crest": "https://i.imgur.com/Rpwsjz1.png",
+        "name": "1. FC Köln",
+        "short": "Köln",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
         "score": null
       },
       "tv": {
@@ -2751,7 +2684,7 @@
       "competition": "DFB-Pokal",
       "competitionStage": "Achtelfinale",
       "dateLocal": "2026-12-01",
-      "kickoff": "2026-12-01T15:30:00+01:00",
+      "kickoff": "2026-12-01T20:45:00+01:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
@@ -2787,7 +2720,7 @@
       "competition": "DFB-Pokal",
       "competitionStage": "Achtelfinale",
       "dateLocal": "2026-12-01",
-      "kickoff": "2026-12-01T15:30:00+01:00",
+      "kickoff": "2026-12-01T20:45:00+01:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
@@ -2819,11 +2752,47 @@
       }
     },
     {
+      "id": "oldb-88751",
+      "competition": "DFB-Pokal",
+      "competitionStage": "Achtelfinale",
+      "dateLocal": "2026-12-02",
+      "kickoff": "2026-12-02T18:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "scheduled",
+      "minute": null,
+      "home": {
+        "name": "Bayer 04 Leverkusen",
+        "short": "Leverkusen",
+        "crest": "https://upload.wikimedia.org/wikipedia/de/f/f7/Bayer_Leverkusen_Logo.svg",
+        "score": null
+      },
+      "away": {
+        "name": "RB Leipzig",
+        "short": "Leipzig",
+        "crest": "https://i.imgur.com/Rpwsjz1.png",
+        "score": null
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "Sky"
+        ],
+        "free": false,
+        "note": "ausgewählte Spiele frei im ZDF/ARD/Sat.1"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
       "id": "oldb-88754",
       "competition": "DFB-Pokal",
       "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-12-01",
-      "kickoff": "2026-12-01T15:30:00+01:00",
+      "dateLocal": "2026-12-02",
+      "kickoff": "2026-12-02T18:00:00+01:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
@@ -2855,24 +2824,24 @@
       }
     },
     {
-      "id": "oldb-88755",
+      "id": "oldb-88749",
       "competition": "DFB-Pokal",
       "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-12-01",
-      "kickoff": "2026-12-01T15:30:00+01:00",
+      "dateLocal": "2026-12-02",
+      "kickoff": "2026-12-02T20:45:00+01:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
       "home": {
-        "name": "Holstein Kiel",
-        "short": "Kiel",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/330px-Holstein_Kiel_Logo.svg.png",
+        "name": "Eintracht Frankfurt",
+        "short": "Frankfurt",
+        "crest": "https://i.imgur.com/X8NFkOb.png",
         "score": null
       },
       "away": {
-        "name": "1. FC Köln",
-        "short": "Köln",
-        "crest": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
+        "name": "Borussia Dortmund",
+        "short": "Dortmund",
+        "crest": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
         "score": null
       },
       "tv": {
@@ -2894,8 +2863,8 @@
       "id": "oldb-88756",
       "competition": "DFB-Pokal",
       "competitionStage": "Achtelfinale",
-      "dateLocal": "2026-12-01",
-      "kickoff": "2026-12-01T15:30:00+01:00",
+      "dateLocal": "2026-12-02",
+      "kickoff": "2026-12-02T20:45:00+01:00",
       "kickoffKnown": true,
       "status": "scheduled",
       "minute": null,
