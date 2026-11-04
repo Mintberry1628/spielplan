@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:02:56.583990+00:00",
+  "generatedAt": "2026-11-04T10:30:19.853850+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -648,19 +648,19 @@
         "available": true,
         "outcome": "Sieg PSV",
         "scoreline": "2:0",
-        "confidence": 0.6,
+        "confidence": 0.65,
         "probs": {
-          "home": 0.6,
+          "home": 0.65,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.1
         },
         "reasons": [
-          "PSV hat eine starke Heimform",
-          "Club Brügge hat Probleme in der Offensive",
-          "PSV ist in der Tabelle besser platziert"
+          "PSV hat Heimvorteil und ist in guter Form",
+          "Club Brügge hat zuletzt schwache Leistungen gezeigt",
+          "PSV ist in der Liga und im Pokal konstant stark"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T13:40:16.162949+00:00"
+        "generatedAt": "2026-11-04T10:30:17.281782+00:00"
       }
     },
     {
@@ -1235,7 +1235,7 @@
           "Leverkusen hat die bessere Offensive"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-03T13:40:18.376066+00:00"
+        "generatedAt": "2026-11-04T10:30:18.853466+00:00"
       }
     },
     {
