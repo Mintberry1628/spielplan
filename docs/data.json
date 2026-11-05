@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:24:13.679674+00:00",
+  "generatedAt": "2026-11-05T01:18:27.440441+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,78 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565841",
-      "competition": "Bundesliga",
-      "competitionStage": "8. Spieltag",
-      "dateLocal": "2026-11-01",
-      "kickoff": "2026-11-01T15:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "1. FC Union Berlin",
-        "short": "UNB",
-        "crest": "https://crests.football-data.org/28.png",
-        "score": 1
-      },
-      "away": {
-        "name": "1. FC Köln",
-        "short": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565844",
-      "competition": "Bundesliga",
-      "competitionStage": "8. Spieltag",
-      "dateLocal": "2026-11-01",
-      "kickoff": "2026-11-01T17:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "Eintracht Frankfurt",
-        "short": "SGE",
-        "crest": "https://crests.football-data.org/19.png",
-        "score": 3
-      },
-      "away": {
-        "name": "Hamburger SV",
-        "short": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-575377",
       "competition": "Champions League",
@@ -411,28 +339,27 @@
       "dateLocal": "2026-11-04",
       "kickoff": "2026-11-04T18:45:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "PAE AEK",
         "short": "AEK",
         "crest": "https://crests.football-data.org/1899.png",
-        "score": 1
+        "score": 2
       },
       "away": {
         "name": "Real Madrid CF",
         "short": "RMA",
         "crest": "https://crests.football-data.org/86.png",
-        "score": 1
+        "score": 3
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -448,123 +375,19 @@
       "dateLocal": "2026-11-04",
       "kickoff": "2026-11-04T18:45:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Fenerbahçe SK",
         "short": "FEN",
         "crest": "https://crests.football-data.org/613.png",
-        "score": 1
+        "score": 3
       },
       "away": {
         "name": "Liverpool FC",
         "short": "LIV",
         "crest": "https://crests.football-data.org/64.png",
         "score": 2
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN 1",
-          "DAZN 2",
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": true,
-        "outcome": "Sieg Liverpool FC",
-        "scoreline": "1:2",
-        "confidence": 0.45,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.25,
-          "away": 0.45
-        },
-        "reasons": [
-          "Liverpool in besserer Verfassung",
-          "Fenerbahçe mit Auswärtsschwäche in der Liga",
-          "Liverpools internationale Erfahrung spricht für sie"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-04T19:23:51.066734+00:00"
-      }
-    },
-    {
-      "id": "fd-575388",
-      "competition": "Champions League",
-      "competitionStage": "Ligaphase · 4. Spieltag",
-      "dateLocal": "2026-11-04",
-      "kickoff": "2026-11-04T21:00:00+01:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "RB Leipzig",
-        "short": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "score": null
-      },
-      "away": {
-        "name": "Manchester City FC",
-        "short": "MCI",
-        "crest": "https://crests.football-data.org/65.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN 2"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": true,
-        "outcome": "Sieg Manchester City FC",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "Leipzig zuletzt inkonsistent",
-          "Man City mit starker Offensive",
-          "Man City hat die bessere Kaderbreite"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-04T19:23:52.772560+00:00"
-      }
-    },
-    {
-      "id": "fd-575389",
-      "competition": "Champions League",
-      "competitionStage": "Ligaphase · 4. Spieltag",
-      "dateLocal": "2026-11-04",
-      "kickoff": "2026-11-04T21:00:00+01:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "SK Slavia Praha",
-        "short": "SLP",
-        "crest": "https://crests.football-data.org/930.png",
-        "score": null
-      },
-      "away": {
-        "name": "Arsenal FC",
-        "short": "ARS",
-        "crest": "https://crests.football-data.org/57.png",
-        "score": null
       },
       "tv": {
         "known": true,
@@ -578,22 +401,79 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Arsenal FC",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.25,
-          "draw": 0.35,
-          "away": 0.4
-        },
-        "reasons": [
-          "Arsenal FC hat eine starke Saisonform",
-          "Slavia Prag hat zuletzt defensiv gewackelt",
-          "Arsenal FC ist international erfahrener"
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575388",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "RB Leipzig",
+        "short": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "score": 2
+      },
+      "away": {
+        "name": "Manchester City FC",
+        "short": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "score": 3
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
         ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-04T19:23:54.416619+00:00"
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575389",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 4. Spieltag",
+      "dateLocal": "2026-11-04",
+      "kickoff": "2026-11-04T21:00:00+01:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": 1
+      },
+      "away": {
+        "name": "Arsenal FC",
+        "short": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "score": 2
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
+        ],
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
       }
     },
     {
@@ -603,49 +483,33 @@
       "dateLocal": "2026-11-04",
       "kickoff": "2026-11-04T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "PSV",
         "short": "PSV",
         "crest": "https://crests.football-data.org/674.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Club Brugge KV",
         "short": "BRU",
         "crest": "https://crests.football-data.org/851.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg PSV",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "PSV hat Heimvorteil und ist in guter Form",
-          "Club Brügge hat zuletzt schwache Leistungen gezeigt",
-          "PSV ist in der Liga und im Pokal konstant stark"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-04T10:30:17.281782+00:00"
+        "available": false
       }
     },
     {
@@ -655,50 +519,33 @@
       "dateLocal": "2026-11-04",
       "kickoff": "2026-11-04T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Real Betis Balompié",
         "short": "BET",
         "crest": "https://crests.football-data.org/90.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Dortmund",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Dortmund mit starker Heimbilanz in der Champions League",
-          "Real Betis hat auswärts Probleme, Tore zu erzielen",
-          "Dortmund ist in der Liga in besserer Form"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-04T19:23:56.065529+00:00"
+        "available": false
       }
     },
     {
@@ -708,49 +555,33 @@
       "dateLocal": "2026-11-04",
       "kickoff": "2026-11-04T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Porto",
         "short": "FCP",
         "crest": "https://crests.football-data.org/503.png",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "SSC Napoli",
         "short": "NAP",
         "crest": "https://crests.football-data.org/113.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.4,
-          "draw": 0.35,
-          "away": 0.25
-        },
-        "reasons": [
-          "Porto mit starkem Heimvorteil in der Champions League.",
-          "Neapel zeigt sich auswärts oft defensiv stabil.",
-          "Beide Teams sind punktuell stark, aber nicht immer konstant."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-04T19:23:57.872472+00:00"
+        "available": false
       }
     },
     {
@@ -760,49 +591,33 @@
       "dateLocal": "2026-11-04",
       "kickoff": "2026-11-04T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Racing Club de Lens",
         "short": "RCL",
         "crest": "https://crests.football-data.org/546.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "Como 1907",
         "short": "COM",
         "crest": "https://crests.football-data.org/7397.png",
-        "score": null
+        "score": 9
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:1",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Lens hat Heimstärke in europäischen Wettbewerben.",
-          "Como zeigt auswärts Schwächen in der Defensive.",
-          "Lens ist in der Liga in guter Form."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-04T19:23:59.700873+00:00"
+        "available": false
       }
     },
     {
@@ -812,49 +627,33 @@
       "dateLocal": "2026-11-04",
       "kickoff": "2026-11-04T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Viking FK",
         "short": "VIK",
         "crest": "https://crests.football-data.org/5720.png",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "Sabah FK",
         "short": "SAB",
         "crest": "https://crests.football-data.org/10233.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Viking FK",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "Viking FK mit starker Heimform",
-          "Sabah FK schwächelt auswärts",
-          "Viking FK hat die bessere Tabellensituation"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-04T19:24:01.420889+00:00"
+        "available": false
       }
     },
     {
@@ -953,12 +752,12 @@
           "away": 0.15
         },
         "reasons": [
-          "RB Leipzig ist in starker Form und hat die letzten Heimspiele dominiert.",
-          "FC Augsburg hat auswärts Schwierigkeiten und eine negative Bilanz gegen Leipzig.",
-          "Leipzig hat den größeren Kader und weniger verletzte Schlüsselspieler."
+          "RB Leipzig hat eine starke Heimform.",
+          "Augsburgs Auswärtsbilanz ist schwach.",
+          "Leipzig hat den Kader für die Breite und Tiefe."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-04T01:02:55.583555+00:00"
+        "generatedAt": "2026-11-05T01:18:24.770240+00:00"
       }
     },
     {
@@ -1101,7 +900,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Eintracht Frankfurt",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Paderborn zeigt inconsistente Leistungen",
+          "Frankfurt hat die stabilere Defensive",
+          "Frankfurt ist auswärtsstark"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-05T01:18:26.439928+00:00"
       }
     },
     {
