@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T10:25:07.808496+00:00",
+  "generatedAt": "2026-11-06T18:55:28.361041+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -692,19 +692,19 @@
         "available": true,
         "outcome": "Sieg Hamburger SV",
         "scoreline": "2:1",
-        "confidence": 0.55,
+        "confidence": 0.5,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
+          "home": 0.5,
+          "draw": 0.3,
           "away": 0.2
         },
         "reasons": [
-          "HSV mit starker Heimform",
-          "Gladbach defensiv anfällig",
-          "HSV hat mehr auf dem Spiel (Aufstiegskampf)"
+          "HSV mit starker Heimform und breiterem Kader",
+          "Gladbach schwächelt auswärts und hat Verletzungssorgen",
+          "Tabellarisch sind beide Teams nah beieinander, aber der Heimvorteil spricht für Hamburg"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-05T19:30:59.406879+00:00"
+        "generatedAt": "2026-11-06T18:55:19.575651+00:00"
       }
     },
     {
@@ -731,10 +731,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "DAZN 1",
+          "Sky",
+          "DAZN"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -782,10 +784,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "DAZN 1",
+          "Sky",
+          "DAZN"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -794,19 +798,19 @@
         "available": true,
         "outcome": "Sieg Borussia Dortmund",
         "scoreline": "3:0",
-        "confidence": 0.85,
+        "confidence": 0.8,
         "probs": {
-          "home": 0.85,
-          "draw": 0.1,
+          "home": 0.8,
+          "draw": 0.15,
           "away": 0.05
         },
         "reasons": [
-          "Dortmunds starke Heimform und Offensivkraft",
-          "Elversbergs Schwierigkeiten in der Fremde und Abwehrschwächen",
-          "Deutlicher Qualitätsunterschied zwischen den Teams"
+          "Dortmunds starke Heimform",
+          "Elversbergs schwache Auswärtsbilanz",
+          "Qualitätsunterschied im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-05T19:31:01.249763+00:00"
+        "generatedAt": "2026-11-06T18:55:21.171944+00:00"
       }
     },
     {
@@ -833,10 +837,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -847,17 +852,17 @@
         "scoreline": "1:3",
         "confidence": 0.6,
         "probs": {
-          "home": 0.2,
-          "draw": 0.2,
+          "home": 0.15,
+          "draw": 0.25,
           "away": 0.6
         },
         "reasons": [
-          "Mainz in schlechter Verfassung",
-          "Bayern mit starker Offensive",
-          "Historisch klare Überlegenheit Bayerns"
+          "Mainz 05 in schwacher Form",
+          "FC Bayern München mit starker Offensive",
+          "Historisch klare Überlegenheit der Bayern"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-05T19:31:02.872920+00:00"
+        "generatedAt": "2026-11-06T18:55:22.946348+00:00"
       }
     },
     {
@@ -884,10 +889,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "DAZN 1",
+          "Sky",
+          "DAZN"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -939,12 +946,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Stuttgart in starker Form und heimstark in der Offensive",
-          "Werder Bremen auswärts oft anfällig",
-          "Stuttgarts Heimstärke"
+          "Stuttgart in starker Form zu Hause",
+          "Bremen mit Auswärtsschwächen",
+          "Stuttgarts Offensive ist aktuell gefährlicher"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-05T19:31:04.494326+00:00"
+        "generatedAt": "2026-11-06T18:55:25.571191+00:00"
       }
     },
     {
@@ -971,7 +978,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 1",
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1022,7 +1031,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1037,16 +1048,16 @@
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
+          "draw": 0.3,
+          "away": 0.15
         },
         "reasons": [
-          "Freiburg hat Heimstärke gegen Union",
-          "Union in schlechter Verfassung",
+          "Freiburg mit starkem Heimvorteil",
+          "Union Berlin in schwacher Form",
           "Freiburgs defensive Stabilität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-05T19:31:06.121030+00:00"
+        "generatedAt": "2026-11-06T18:55:27.360514+00:00"
       }
     },
     {
@@ -1073,7 +1084,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 1",
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
