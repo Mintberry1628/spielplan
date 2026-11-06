@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:23:04.627556+00:00",
+  "generatedAt": "2026-11-06T10:25:07.808496+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -731,12 +731,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -784,12 +782,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -837,11 +833,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
           "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -889,12 +884,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "Sky",
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": null
+        "note": "Konferenz auf DAZN"
       },
       "odds": {
         "known": false
@@ -978,8 +971,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -999,11 +991,11 @@
         },
         "reasons": [
           "Köln in schlechter Verfassung",
-          "Leverkusen stark in Form",
-          "Köln mit vielen Ausfällen"
+          "Leverkusen konstant stark",
+          "Leverkusen höhere individuelle Klasse"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-05T10:22:39.007333+00:00"
+        "generatedAt": "2026-11-06T10:25:06.808039+00:00"
       }
     },
     {
@@ -1030,8 +1022,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -1082,8 +1073,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
