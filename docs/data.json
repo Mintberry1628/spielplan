@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:31:07.755947+00:00",
+  "generatedAt": "2026-11-06T01:23:04.627556+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -752,12 +752,12 @@
           "away": 0.15
         },
         "reasons": [
-          "RB Leipzig hat eine starke Heimform.",
-          "Augsburgs Auswärtsbilanz ist schwach.",
-          "Leipzig hat den Kader für die Breite und Tiefe."
+          "Leipzig mit starker Heimform und offensiver Durchschlagskraft",
+          "Augsburg kämpft auswärts um Punkte und hat defensive Schwächen",
+          "Leipzig hat die höhere individuelle Qualität und breitere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-05T01:18:24.770240+00:00"
+        "generatedAt": "2026-11-06T01:23:01.213058+00:00"
       }
     },
     {
@@ -900,22 +900,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Paderborn zeigt inconsistente Leistungen",
-          "Frankfurt hat die stabilere Defensive",
-          "Frankfurt ist auswärtsstark"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-05T01:18:26.439928+00:00"
+        "available": false
       }
     },
     {
@@ -1097,7 +1082,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1106,7 +1092,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Hoffenheim",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Hoffenheim zu Hause stärker",
+          "Schalke in schwacher Form",
+          "Hoffenheim hat mehr Qualität im Kader"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-06T01:23:03.627143+00:00"
       }
     },
     {
