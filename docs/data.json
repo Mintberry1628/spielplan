@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T17:27:59.529739+00:00",
+  "generatedAt": "2026-11-07T21:28:32.681187+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -526,19 +526,19 @@
       "dateLocal": "2026-11-07",
       "kickoff": "2026-11-07T18:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "VfB Stuttgart",
         "short": "VFB",
         "crest": "https://crests.football-data.org/10.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "SV Werder Bremen",
         "short": "SVW",
         "crest": "https://crests.football-data.org/12.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -552,22 +552,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg VfB Stuttgart",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Stuttgart in starker Form, besonders zuhause",
-          "Werder Bremen mit Auswärtsschwächen",
-          "Stuttgarts Offensive ist derzeit effektiver"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-07T17:27:56.909541+00:00"
+        "available": false
       }
     },
     {
@@ -712,7 +697,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Hoffenheim",
+        "outcome": "Sieg TSG 1899 Hoffenheim",
         "scoreline": "2:1",
         "confidence": 0.55,
         "probs": {
@@ -721,12 +706,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Hoffenheim mit starker Heimform",
-          "Schalke kämpft mit Auswärtsschwäche",
-          "Beide Teams defensiv anfällig"
+          "Hoffenheim mit stärkerer Form in den letzten Spielen.",
+          "Schalke kämpft mit Konstanz und Auswärtsschwäche.",
+          "Heimvorteil spricht für Hoffenheim."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-07T00:38:18.090758+00:00"
+        "generatedAt": "2026-11-07T21:28:31.680813+00:00"
       }
     },
     {
