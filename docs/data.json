@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:38:40.974253+00:00",
+  "generatedAt": "2026-11-07T17:27:59.529739+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -375,19 +375,19 @@
       "dateLocal": "2026-11-07",
       "kickoff": "2026-11-07T15:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "RB Leipzig",
         "short": "RBL",
         "crest": "https://crests.football-data.org/721.png",
-        "score": null
+        "score": 5
       },
       "away": {
         "name": "FC Augsburg",
         "short": "FCA",
         "crest": "https://crests.football-data.org/16.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -403,22 +403,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg RB Leipzig",
-        "scoreline": "3:1",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
-        },
-        "reasons": [
-          "RB Leipzig hat eine starke Heimbilanz",
-          "FC Augsburg fehlt es an Konstanz in der Fremde",
-          "RB Leipzig ist offensivstark und wird das Spiel dominieren"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-07T00:38:14.839137+00:00"
+        "available": false
       }
     },
     {
@@ -428,19 +413,19 @@
       "dateLocal": "2026-11-07",
       "kickoff": "2026-11-07T15:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Borussia Dortmund",
         "short": "BVB",
         "crest": "https://crests.football-data.org/4.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "SV 07 Elversberg",
         "short": "ELV",
         "crest": "https://crests.football-data.org/719.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -456,22 +441,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Borussia Dortmund",
-        "scoreline": "3:0",
-        "confidence": 0.8,
-        "probs": {
-          "home": 0.8,
-          "draw": 0.15,
-          "away": 0.05
-        },
-        "reasons": [
-          "Dortmunds starke Heimform",
-          "Elversbergs schwache Auswärtsbilanz",
-          "Qualitätsunterschied im Kader"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-06T18:55:21.171944+00:00"
+        "available": false
       }
     },
     {
@@ -481,19 +451,19 @@
       "dateLocal": "2026-11-07",
       "kickoff": "2026-11-07T15:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -508,22 +478,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "1:3",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.15,
-          "draw": 0.25,
-          "away": 0.6
-        },
-        "reasons": [
-          "Mainz 05 in schwacher Form",
-          "FC Bayern München mit starker Offensive",
-          "Historisch klare Überlegenheit der Bayern"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-06T18:55:22.946348+00:00"
+        "available": false
       }
     },
     {
@@ -533,19 +488,19 @@
       "dateLocal": "2026-11-07",
       "kickoff": "2026-11-07T15:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SC Paderborn 07",
         "short": "SCP",
         "crest": "https://crests.football-data.org/29.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Eintracht Frankfurt",
         "short": "SGE",
         "crest": "https://crests.football-data.org/19.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
@@ -561,22 +516,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Eintracht Frankfurt",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Paderborn zuletzt schwankend in den Ergebnissen",
-          "Frankfurt mit stabilerer Form und Offensivstärke",
-          "Frankfurt hat die bessere Tabellenposition"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-07T00:38:16.498233+00:00"
+        "available": false
       }
     },
     {
@@ -622,12 +562,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Stuttgart in starker Form zu Hause",
-          "Bremen mit Auswärtsschwächen",
-          "Stuttgarts Offensive ist aktuell gefährlicher"
+          "Stuttgart in starker Form, besonders zuhause",
+          "Werder Bremen mit Auswärtsschwächen",
+          "Stuttgarts Offensive ist derzeit effektiver"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-06T18:55:25.571191+00:00"
+        "generatedAt": "2026-11-07T17:27:56.909541+00:00"
       }
     },
     {
@@ -707,7 +647,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 2",
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -726,12 +668,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Freiburg mit starkem Heimvorteil",
-          "Union Berlin in schwacher Form",
-          "Freiburgs defensive Stabilität"
+          "Freiburg hat Heimstärke bewiesen",
+          "Union Berlin zeigt Formschwäche auswärts",
+          "Knappe Abstände in der Tabelle begünstigen defensiven Ansatz"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-06T18:55:27.360514+00:00"
+        "generatedAt": "2026-11-07T17:27:58.529329+00:00"
       }
     },
     {
@@ -758,7 +700,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 1",
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
