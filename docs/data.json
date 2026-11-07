@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:38:19.091066+00:00",
+  "generatedAt": "2026-11-07T09:38:40.974253+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -675,12 +675,12 @@
           "away": 0.6
         },
         "reasons": [
-          "Köln in schlechter Verfassung",
-          "Leverkusen konstant stark",
-          "Leverkusen höhere individuelle Klasse"
+          "Kölns schwache Heimbilanz",
+          "Leverkusens starke Form und Offensivkraft",
+          "Kölns defensive Anfälligkeit"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-06T10:25:06.808039+00:00"
+        "generatedAt": "2026-11-07T09:38:39.973954+00:00"
       }
     },
     {
