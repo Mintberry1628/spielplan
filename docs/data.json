@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T19:20:30.443698+00:00",
+  "generatedAt": "2026-11-09T00:33:10.692394+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -248,9 +248,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -286,9 +284,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -307,7 +303,7 @@
       "dateLocal": "2026-11-08",
       "kickoff": "2026-11-08T19:30:00+01:00",
       "kickoffKnown": true,
-      "status": "live",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "TSG 1899 Hoffenheim",
@@ -319,14 +315,12 @@
         "name": "FC Schalke 04",
         "short": "S04",
         "crest": "https://crests.football-data.org/6.png",
-        "score": 0
+        "score": 1
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -335,22 +329,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg TSG 1899 Hoffenheim",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Hoffenheim mit starker Heimform in dieser Saison.",
-          "Schalke 04 kämpft auswärts um Punkte und hat eine negative Tordifferenz.",
-          "Aktuelle Tabellensituation spricht für Hoffenheim im Mittelfeld."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-08T19:20:29.443322+00:00"
+        "available": false
       }
     },
     {
