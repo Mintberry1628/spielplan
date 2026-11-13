@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:44:25.685369+00:00",
+  "generatedAt": "2026-11-13T05:11:16.359183+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -44,19 +44,19 @@
         "available": true,
         "outcome": "Sieg FC Bayern München",
         "scoreline": "3:0",
-        "confidence": 0.75,
+        "confidence": 0.8,
         "probs": {
-          "home": 0.75,
+          "home": 0.8,
           "draw": 0.15,
-          "away": 0.1
+          "away": 0.05
         },
         "reasons": [
-          "FC Bayern München ist in starker Form und hat eine beeindruckende Heimbilanz.",
-          "1. FC Köln hat Probleme in der Offensive und defensiv anfällig.",
-          "Der Heimvorteil und die höhere individuelle Qualität sprechen klar für die Bayern."
+          "FC Bayern München ist in überragender Verfassung und zu Hause sehr stark.",
+          "1. FC Köln hat aktuell Formschwächen und Auswärtsschwächen.",
+          "Die Kaderqualität und die Tabellensituation sprechen klar für die Bayern."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-12T05:50:37.252202+00:00"
+        "generatedAt": "2026-11-13T05:11:05.158124+00:00"
       }
     },
     {
@@ -94,7 +94,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "3:0",
+        "confidence": 0.8,
+        "probs": {
+          "home": 0.8,
+          "draw": 0.15,
+          "away": 0.05
+        },
+        "reasons": [
+          "Leverkusen in starker Form und Tabellenführer",
+          "Paderborn kämpft gegen den Abstieg",
+          "Leverkusen hat Heimvorteil und bessere individuelle Qualität"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-13T05:11:06.916504+00:00"
       }
     },
     {
@@ -132,7 +147,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Union Berlin zuletzt formschwach",
+          "RB Leipzig offensivstark",
+          "Leipzig hat die bessere Tabellensituation"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-13T05:11:08.549224+00:00"
       }
     },
     {
@@ -170,7 +200,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Auswärts",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Elversberg mit schwacher Heimbilanz",
+          "Freiburg in guter Verfassung",
+          "Elversberg kämpft gegen den Abstieg"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-13T05:11:10.234695+00:00"
       }
     },
     {
@@ -208,7 +253,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Dortmund",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
+        },
+        "reasons": [
+          "Dortmunds offensive Stärke übertrifft Gladbachs Defensive.",
+          "Gladbachs inkonsistente Heimform.",
+          "Dortmunds höhere Tabellenplatzierung und Ambitionen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-13T05:11:12.064567+00:00"
       }
     },
     {
@@ -246,7 +306,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Eintracht Frankfurt",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Frankfurt mit starker Heimform",
+          "Hoffenheim auswärts anfällig",
+          "Frankfurt im direkten Duell meist überlegen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-13T05:11:13.740325+00:00"
       }
     },
     {
@@ -282,7 +357,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.35,
+          "draw": 0.25,
+          "away": 0.4
+        },
+        "reasons": [
+          "Schalke mit schwacher Heimbilanz",
+          "Stuttgart in guter Verfassung",
+          "Schalke im Abstiegskampf unter Druck"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-13T05:11:15.358838+00:00"
       }
     },
     {
@@ -309,7 +399,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -345,7 +436,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN",
+          "Sky"
         ],
         "free": false,
         "note": null
