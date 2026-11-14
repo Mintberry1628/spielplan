@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T05:00:52.237122+00:00",
+  "generatedAt": "2026-11-14T12:59:52.076385+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -147,7 +147,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Union Berlin zuletzt formschwach",
+          "RB Leipzig mit starker Offensive",
+          "Leipzig hat die bessere Tabellensituation"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-14T12:59:51.076024+00:00"
       }
     },
     {
