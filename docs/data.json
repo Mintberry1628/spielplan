@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:42:52.560892+00:00",
+  "generatedAt": "2026-11-15T00:45:58.172476+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -503,10 +503,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -539,10 +540,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -575,10 +577,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -611,10 +614,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -647,10 +651,11 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky",
+          "Amazon Prime Video"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -683,10 +688,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -719,10 +725,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -755,10 +762,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -791,10 +799,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
