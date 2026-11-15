@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T00:45:58.172476+00:00",
+  "generatedAt": "2026-11-15T10:25:45.288062+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -43,20 +43,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Bayern München",
-        "scoreline": "3:1",
-        "confidence": 0.75,
+        "scoreline": "3:0",
+        "confidence": 0.8,
         "probs": {
-          "home": 0.75,
-          "draw": 0.15,
+          "home": 0.8,
+          "draw": 0.1,
           "away": 0.1
         },
         "reasons": [
-          "FC Bayern München ist in Topform und hat eine beeindruckende Heimbilanz.",
-          "1. FC Köln kämpft mit Konstanz und hat auswärts oft Probleme.",
-          "Die Verletztenliste des FC Bayern ist kürzer als die des Gegners."
+          "FC Bayern München ist in Topform und hat eine starke Heimbilanz.",
+          "1. FC Köln hat zuletzt schwankende Leistungen gezeigt und Probleme in der Offensive.",
+          "Die personelle Situation beim FC Bayern ist stabil, während Köln auf Schlüsselspieler verzichten muss."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-14T05:00:38.660739+00:00"
+        "generatedAt": "2026-11-15T10:25:31.230377+00:00"
       }
     },
     {
@@ -96,20 +96,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
-        "scoreline": "3:0",
-        "confidence": 0.8,
+        "scoreline": "3:1",
+        "confidence": 0.7,
         "probs": {
-          "home": 0.8,
-          "draw": 0.15,
-          "away": 0.05
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
         },
         "reasons": [
-          "Leverkusen in Topform und ungeschlagen",
-          "Paderborn schwache Auswärtsbilanz",
-          "Kaderstärke und Tabellenplatz sprechen klar für Leverkusen"
+          "Leverkusen in starker Form und heimstark",
+          "Paderborn mit Abstiegssorgen und schwacher Auswärtsbilanz",
+          "Qualitätsunterschied im Kader spricht für Leverkusen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-14T05:00:40.309975+00:00"
+        "generatedAt": "2026-11-15T10:25:32.932528+00:00"
       }
     },
     {
@@ -157,12 +157,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Union Berlin zuletzt formschwach",
-          "RB Leipzig mit starker Offensive",
-          "Leipzig hat die bessere Tabellensituation"
+          "Union Berlin zeigt zuletzt schwankende Leistungen.",
+          "RB Leipzig ist auswärtsstark und hat die bessere Offensive.",
+          "Die Tabellensituation spricht für Leipzig, das um die Champions League Plätze kämpft."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-14T12:59:51.076024+00:00"
+        "generatedAt": "2026-11-15T10:25:34.602727+00:00"
       }
     },
     {
@@ -201,21 +201,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
+        "outcome": "Sieg Auswärts",
+        "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Elversberg mit starkem Heimvorteil",
-          "Freiburg zuletzt formschwach",
-          "Beide Teams im Abstiegskampf mit ähnlicher Qualität"
+          "Elversberg schwächelt in letzter Zeit",
+          "Freiburg hat die stabilere Defensive",
+          "Freiburg hat die höhere individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-14T05:00:42.510415+00:00"
+        "generatedAt": "2026-11-15T10:25:36.291035+00:00"
       }
     },
     {
@@ -254,21 +254,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "2:2",
-        "confidence": 0.4,
+        "outcome": "Sieg Dortmund",
+        "scoreline": "1:2",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.35,
-          "draw": 0.4,
-          "away": 0.25
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
-          "Gladbach zu Hause stark, besonders gegen Top-Teams.",
-          "Dortmunds Auswärtsform schwankend, aber offensiv gefährlich.",
-          "Beide Teams mit ähnlicher Tabellensituation, hoher Motivation."
+          "Dortmund in besserer Verfassung",
+          "Gladbach mit Ausfällen in der Defensive",
+          "Dortmunds Offensivstärke auswärts"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-14T05:00:44.378559+00:00"
+        "generatedAt": "2026-11-15T10:25:37.907281+00:00"
       }
     },
     {
@@ -316,12 +316,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Frankfurt mit starker Heimbilanz",
-          "Hoffenheim zuletzt formschwach",
-          "Frankfurt hat die breitere Kaderbreite"
+          "Frankfurt heimstark",
+          "Hoffenheim auswärts schwächer",
+          "Frankfurt in besserer Verfassung"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-14T05:00:46.099188+00:00"
+        "generatedAt": "2026-11-15T10:25:39.413692+00:00"
       }
     },
     {
@@ -360,19 +360,19 @@
         "available": true,
         "outcome": "Sieg VfB Stuttgart",
         "scoreline": "1:2",
-        "confidence": 0.35,
+        "confidence": 0.4,
         "probs": {
-          "home": 0.35,
+          "home": 0.3,
           "draw": 0.3,
-          "away": 0.35
+          "away": 0.4
         },
         "reasons": [
-          "Schalke kämpft mit Konstanzproblemen",
-          "Stuttgart zeigt sich in guter Form",
-          "Auswärtsstärke von Stuttgart"
+          "Schalke 04 mit schwacher Heimbilanz",
+          "VfB Stuttgart in guter Verfassung",
+          "Schalke 04 kämpft gegen den Abstieg"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-14T05:00:47.705886+00:00"
+        "generatedAt": "2026-11-15T10:25:41.024538+00:00"
       }
     },
     {
@@ -411,7 +411,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg FC Augsburg",
-        "scoreline": "2:1",
+        "scoreline": "1:0",
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
@@ -419,12 +419,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Augsburg mit starker Heimform in dieser Saison.",
-          "Mainz kämpft auswärts um Punkte und hat zuletzt Schwächen gezeigt.",
-          "Aktuelle Tabellensituation spricht leicht für Augsburgs defensive Stabilität."
+          "Augsburg heimstark, Mainz auswärtsschwach",
+          "Mainz zuletzt mit vielen Gegentoren",
+          "Augsburgs defensive Stabilität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-14T05:00:49.633558+00:00"
+        "generatedAt": "2026-11-15T10:25:42.675336+00:00"
       }
     },
     {
@@ -467,16 +467,16 @@
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
+          "draw": 0.3,
+          "away": 0.15
         },
         "reasons": [
-          "Werder Bremen hat Heimvorteil",
-          "HSV mit schwacher Auswärtsform",
-          "Werder Bremen ist tabellarisch besser platziert"
+          "Werder Bremen hat einen starken Heimvorteil in dieser Saison.",
+          "Hamburger SV zeigt auswärts eine inkonsistente Leistung.",
+          "Die aktuelle Formkurve von Werder Bremen ist leicht besser."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-14T05:00:51.236820+00:00"
+        "generatedAt": "2026-11-15T10:25:44.287709+00:00"
       }
     },
     {
