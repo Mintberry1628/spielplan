@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:30:15.506450+00:00",
+  "generatedAt": "2026-11-16T00:46:30.704941+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -242,9 +242,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -513,7 +511,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Galatasaray SK",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Galatasaray mit starker Heimform in der Liga",
+          "Aston Villa zuletzt auswärts anfällig",
+          "Beide Teams brauchen Punkte für das Weiterkommen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-16T00:46:18.347760+00:00"
       }
     },
     {
@@ -587,7 +600,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Real Madrid CF",
+        "scoreline": "2:0",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
+        },
+        "reasons": [
+          "Real Madrid hat Heimvorteil und eine starke Saisonleistung.",
+          "PSV hat Probleme in der Defensive und auswärts.",
+          "Real Madrid benötigt einen Sieg für die Tabellenposition."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-16T00:46:19.943934+00:00"
       }
     },
     {
@@ -624,7 +652,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Manchester City FC",
+        "scoreline": "3:1",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Manchester City hat eine starke Heimform und eine überlegene Kaderbreite.",
+          "SSC Napoli kämpft mit Konstanz und hat zuletzt Auswärtsspiele verloren.",
+          "Manchester City ist in der Liga und im Pokal gefestigt und hat mehr zu gewinnen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-16T00:46:21.693901+00:00"
       }
     },
     {
@@ -661,7 +704,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Arsenal FC",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Arsenal zuletzt stark in Form",
+          "Dortmunds Auswärtsbilanz ausbaufähig",
+          "Heimvorteil im Emirates Stadium of Light"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-16T00:46:23.345383+00:00"
       }
     },
     {
@@ -698,7 +756,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
+        },
+        "reasons": [
+          "Feyenoord zu Hause stark, aber Porto mit Erfahrung",
+          "Beide Teams brauchen Punkte, defensives Spiel erwartet",
+          "Formkurve beider Teams zuletzt ausgeglichen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-16T00:46:24.965629+00:00"
       }
     },
     {
@@ -735,7 +808,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Real Betis Balompié",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Real Betis hat die stärkere Form in den letzten Spielen",
+          "Slovan Bratislava hat zuhause Schwierigkeiten gegen stärkere Gegner",
+          "Real Betis ist in der Tabelle besser platziert und hat mehr zu gewinnen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-16T00:46:26.568963+00:00"
       }
     },
     {
@@ -772,7 +860,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg RB Leipzig",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "RB Leipzig hat Heimvorteil und ist in guter Form",
+          "Lens hat Probleme in der Fremde",
+          "Leipzig braucht Punkte für das Weiterkommen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-16T00:46:28.185382+00:00"
       }
     },
     {
@@ -809,7 +912,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg PAE AEK",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
+        },
+        "reasons": [
+          "AEK mit stabilerer Form in den letzten Spielen",
+          "Como hat Probleme in der Defensive",
+          "AEK hat die größere internationale Erfahrung"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-16T00:46:29.704574+00:00"
       }
     },
     {
@@ -836,10 +954,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -908,10 +1027,10 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "Sky"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -944,10 +1063,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -980,10 +1100,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1016,10 +1137,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1055,7 +1177,7 @@
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1088,10 +1210,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1124,10 +1247,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "Sky",
           "DAZN"
         ],
         "free": false,
-        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+        "note": null
       },
       "odds": {
         "known": false
