@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:40:11.750395+00:00",
+  "generatedAt": "2026-11-17T06:39:32.150658+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -964,7 +964,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Barcelona",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.2,
+          "draw": 0.3,
+          "away": 0.5
+        },
+        "reasons": [
+          "Sabah FK mit schwacher Form in den letzten Spielen",
+          "FC Barcelona hat die höhere individuelle Qualität",
+          "FC Barcelona benötigt Punkte für das Weiterkommen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-17T06:39:18.038404+00:00"
       }
     },
     {
@@ -1000,7 +1015,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Villarreal CF",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
+        },
+        "reasons": [
+          "Slavia Prag zuletzt schwankende Leistungen",
+          "Villarreal CF mit stabilerer Form und offensiver Durchschlagskraft",
+          "Vorteil für Villarreal durch die bisherige Gruppenkonstellation"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-17T06:39:19.626761+00:00"
       }
     },
     {
@@ -1036,7 +1066,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "3:1",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.2,
+          "away": 0.15
+        },
+        "reasons": [
+          "Inter Mailand hat eine starke Heimbilanz in der Champions League.",
+          "VfB Stuttgart zeigt Schwächen in der Defensive auswärts.",
+          "Inter ist in der Tabelle besser platziert und hat mehr zu gewinnen."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-17T06:39:21.320990+00:00"
       }
     },
     {
@@ -1073,7 +1118,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Club Atlético de Madrid",
+        "scoreline": "2:0",
+        "confidence": 0.7,
+        "probs": {
+          "home": 0.7,
+          "draw": 0.2,
+          "away": 0.1
+        },
+        "reasons": [
+          "Atlético Madrid hat Heimvorteil",
+          "Viking FK ist in schwacher Verfassung",
+          "Atlético Madrid ist tabellarisch in besserer Position"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-17T06:39:22.897365+00:00"
       }
     },
     {
@@ -1110,7 +1170,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Paris Saint-Germain FC",
+        "scoreline": "2:0",
+        "confidence": 0.65,
+        "probs": {
+          "home": 0.65,
+          "draw": 0.25,
+          "away": 0.1
+        },
+        "reasons": [
+          "PSG hat Heimvorteil und starke Offensive",
+          "Roma zeigt auswärts Schwächen",
+          "PSG ist in der Ligaform stärker"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-17T06:39:24.551909+00:00"
       }
     },
     {
@@ -1147,7 +1222,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Liverpool FC",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.25,
+          "draw": 0.25,
+          "away": 0.5
+        },
+        "reasons": [
+          "Liverpool FC hat eine stärkere Offensive",
+          "Club Brugge KV hat zuletzt schwankende Leistungen gezeigt",
+          "Liverpool FC ist in europäischen Wettbewerben erfahren"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-17T06:39:26.202115+00:00"
       }
     },
     {
@@ -1183,7 +1273,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
+        },
+        "reasons": [
+          "FC Bayern München hat eine stärkere Form und eine höhere individuelle Qualität.",
+          "Lille OSC hat im heimischen Stadion eine gute Bilanz, aber Bayern ist auswärts sehr gefährlich.",
+          "Die Tabellensituation zwingt Bayern zu einem Sieg, um den Gruppensieg zu sichern."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-17T06:39:27.879665+00:00"
       }
     },
     {
@@ -1220,7 +1325,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Manchester United FC",
+        "scoreline": "1:2",
+        "confidence": 0.4,
+        "probs": {
+          "home": 0.35,
+          "draw": 0.25,
+          "away": 0.4
+        },
+        "reasons": [
+          "Manchester United FC hat eine stärkere aktuelle Form.",
+          "Sporting CP hat mit Personalsorgen zu kämpfen.",
+          "Manchester United FC hat historisch gute Ergebnisse gegen Sporting CP erzielt."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-17T06:39:29.458621+00:00"
       }
     },
     {
@@ -1257,7 +1377,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FK Shakhtar Donetsk",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Starker Heimvorteil von Shakhtar in der Champions League.",
+          "Fenerbahce hat auswärts oft Schwierigkeiten.",
+          "Beide Teams benötigen Punkte für das Weiterkommen, was zu einem intensiven Spiel führt."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-17T06:39:31.150287+00:00"
       }
     },
     {
