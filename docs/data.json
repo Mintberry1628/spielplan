@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:39:32.150658+00:00",
+  "generatedAt": "2026-11-17T18:10:24.736455+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -51,12 +51,12 @@
           "away": 0.05
         },
         "reasons": [
-          "FC Bayern München ist in Topform und hat eine starke Heimbilanz.",
-          "1. FC Köln kämpft mit Verletzungssorgen und schwacher Auswärtsform.",
-          "Der Heimvorteil und die individuelle Klasse sprechen klar für die Bayern."
+          "FC Bayern München ist in überragender Verfassung und hat eine starke Heimbilanz.",
+          "1. FC Köln kämpft mit Formschwankungen und vielen Verletzten.",
+          "Historisch gesehen dominieren die Bayern die Duelle gegen Köln deutlich."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T10:40:03.281650+00:00"
+        "generatedAt": "2026-11-17T18:10:11.065502+00:00"
       }
     },
     {
@@ -83,9 +83,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -97,19 +97,19 @@
         "available": true,
         "outcome": "Sieg Bayer 04 Leverkusen",
         "scoreline": "3:0",
-        "confidence": 0.8,
+        "confidence": 0.75,
         "probs": {
-          "home": 0.8,
+          "home": 0.75,
           "draw": 0.15,
-          "away": 0.05
+          "away": 0.1
         },
         "reasons": [
-          "Leverkusen in starker Form und heimstark",
-          "Paderborn kämpft um den Klassenerhalt und ist auswärtsschwach",
+          "Leverkusen in starker Form",
+          "Paderborn schwache Auswärtsbilanz",
           "Deutlicher Qualitätsunterschied im Kader"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T10:40:04.946907+00:00"
+        "generatedAt": "2026-11-17T18:10:12.587039+00:00"
       }
     },
     {
@@ -136,9 +136,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -150,19 +150,19 @@
         "available": true,
         "outcome": "Sieg RB Leipzig",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.5,
         "probs": {
           "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "draw": 0.2,
+          "away": 0.5
         },
         "reasons": [
-          "Union Berlin mit schwacher Form in den letzten Spielen",
-          "RB Leipzig offensivstark und konstant",
-          "Leipzig hat die bessere Tabellenposition und mehr Qualität im Kader"
+          "Union Berlin zeigt zuletzt schwankende Leistungen",
+          "RB Leipzig ist offensivstark und konstant",
+          "Leipzig hat die bessere Bilanz gegen Union"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T21:40:10.750037+00:00"
+        "generatedAt": "2026-11-17T18:10:14.197505+00:00"
       }
     },
     {
@@ -189,9 +189,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -210,12 +210,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Elversberg mit schwacher Form in den letzten Spielen",
-          "Freiburg hat die klar bessere Tabellensituation",
-          "Freiburgs Auswärtsbilanz ist solide, Elversbergs Heimschwäche"
+          "Elversberg mit schwacher Heimbilanz",
+          "Freiburg in guter Verfassung",
+          "Elversberg kämpft gegen den Abstieg"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T10:40:07.385952+00:00"
+        "generatedAt": "2026-11-17T18:10:15.879128+00:00"
       }
     },
     {
@@ -242,6 +242,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky"
         ],
         "free": false,
@@ -254,19 +255,19 @@
         "available": true,
         "outcome": "Sieg Dortmund",
         "scoreline": "1:2",
-        "confidence": 0.45,
+        "confidence": 0.4,
         "probs": {
           "home": 0.3,
-          "draw": 0.25,
-          "away": 0.45
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Dortmund in besserer Verfassung, zuletzt konstant punkten.",
-          "Gladbach mit Ausfällen in der Defensive.",
-          "Dortmunds offensive Stärke gegen Gladbachs anfällige Abwehr."
+          "Dortmunds offensive Stärke",
+          "Gladbachs inkonsistente Defensive",
+          "Dortmunds bessere Tabellensituation"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T10:40:09.179409+00:00"
+        "generatedAt": "2026-11-17T18:10:17.357219+00:00"
       }
     },
     {
@@ -293,9 +294,9 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "Sky",
-          "DAZN",
-          "WOW"
+          "DAZN"
         ],
         "free": false,
         "note": null
@@ -314,12 +315,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Frankfurt hat Heimvorteil und bessere Form",
-          "Hoffenheim mit Auswärtsschwächen",
-          "Direkter Vergleich spricht leicht für Frankfurt"
+          "Frankfurt mit starker Heimbilanz",
+          "Hoffenheim zuletzt auswärts schwächer",
+          "Frankfurt im direkten Vergleich meist überlegen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T10:40:10.756245+00:00"
+        "generatedAt": "2026-11-17T18:10:18.819038+00:00"
       }
     },
     {
@@ -365,12 +366,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Schalke mit Heimvorteil, aber Stuttgart in besserer Verfassung",
-          "Beide Teams defensiv stabil",
-          "Schwieriges Spiel für beide Angriffsreihen"
+          "Schalke mit Heimvorteil, aber schwacher Form",
+          "Stuttgart stabilisiert sich, aber auswärts oft schwächer",
+          "Beide Teams haben Probleme im Abschluss."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T10:40:12.441421+00:00"
+        "generatedAt": "2026-11-17T18:10:20.447377+00:00"
       }
     },
     {
@@ -397,6 +398,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 1",
           "DAZN",
           "Sky"
         ],
@@ -410,19 +412,19 @@
         "available": true,
         "outcome": "Sieg FC Augsburg",
         "scoreline": "2:1",
-        "confidence": 0.5,
+        "confidence": 0.55,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
+          "home": 0.55,
+          "draw": 0.25,
           "away": 0.2
         },
         "reasons": [
-          "Augsburg hat Heimvorteil und zuletzt bessere Form",
-          "Mainz kämpft mit Auswärtsschwäche",
-          "Beide Teams sind tabellarisch nah beieinander, aber Augsburgs Heimstärke zählt."
+          "Augsburg mit starker Heimform in dieser Saison.",
+          "Mainz kämpft auswärts um konstante Leistungen.",
+          "Augsburgs defensive Stabilität gegen Mainzer Offensivschwächen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T10:40:14.063330+00:00"
+        "generatedAt": "2026-11-17T18:10:22.194784+00:00"
       }
     },
     {
@@ -449,6 +451,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "DAZN",
           "Sky"
         ],
@@ -465,16 +468,16 @@
         "confidence": 0.55,
         "probs": {
           "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
+          "draw": 0.3,
+          "away": 0.15
         },
         "reasons": [
-          "Werder Bremen hat Heimvorteil.",
-          "Aktuelle Form spricht leicht für Bremen.",
-          "HSV hat auswärts oft Probleme."
+          "Werder Bremen mit starker Heimform",
+          "Hamburger SV auswärts anfällig",
+          "Aktuelle Tabellensituation spricht für Bremen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T10:40:15.731133+00:00"
+        "generatedAt": "2026-11-17T18:10:23.736112+00:00"
       }
     },
     {
@@ -501,8 +504,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 1",
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -521,12 +525,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Galatasaray mit starker Heimform in der Liga",
-          "Aston Villa zuletzt auswärts anfällig",
-          "Beide Teams kämpfen um das Weiterkommen, Galatasaray hat den Heimvorteil"
+          "Galatasaray SK hat eine starke Heimform in dieser Saison.",
+          "Aston Villa FC zeigt Schwächen in der Defensive bei Auswärtsspielen.",
+          "Die Tabellensituation zwingt Galatasaray SK zu einem Sieg, um die nächste Runde zu erreichen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T21:39:57.214255+00:00"
+        "generatedAt": "2026-11-17T18:09:58.228771+00:00"
       }
     },
     {
@@ -553,8 +557,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -590,8 +594,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -602,20 +606,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Real Madrid CF",
-        "scoreline": "2:0",
+        "scoreline": "3:1",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
+          "draw": 0.2,
+          "away": 0.15
         },
         "reasons": [
-          "Real Madrid ist in starker Form und hat eine beeindruckende Heimbilanz.",
-          "PSV hat Auswärtsspiele in der Champions League oft schwer getan.",
-          "Die Tabellensituation spricht für Real Madrid, die einen Sieg benötigen, um den Gruppensieg zu sichern."
+          "Real Madrid mit starker Saisonform und Heimstärke",
+          "PSV zeigt Schwächen in der Defensive gegen Top-Teams",
+          "Drucksituation für Real Madrid im Heimspiel"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T21:39:58.930650+00:00"
+        "generatedAt": "2026-11-17T18:09:59.791081+00:00"
       }
     },
     {
@@ -642,8 +646,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -662,12 +666,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Manchester City hat eine starke Heimbilanz in der Champions League.",
-          "SSC Neapel zeigt Schwächen in der Defensive in den letzten Auswärtsspielen.",
-          "Manchester City ist in der Liga und international konstant in Form."
+          "Manchester City hat einen starken Heimvorteil und eine beeindruckende Saisonleistung.",
+          "SSC Napoli zeigt Schwächen in der Defensive und hat auswärts Schwierigkeiten.",
+          "Die taktische Überlegenheit von Manchester City wird sich voraussichtlich durchsetzen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T21:40:00.640089+00:00"
+        "generatedAt": "2026-11-17T18:10:01.398708+00:00"
       }
     },
     {
@@ -694,8 +698,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "Amazon Prime Video"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -707,19 +710,19 @@
         "available": true,
         "outcome": "Sieg Arsenal FC",
         "scoreline": "2:1",
-        "confidence": 0.6,
+        "confidence": 0.55,
         "probs": {
-          "home": 0.6,
+          "home": 0.55,
           "draw": 0.25,
-          "away": 0.15
+          "away": 0.2
         },
         "reasons": [
-          "Arsenal ist in starker Form und hat Heimvorteil",
-          "Dortmund zeigte zuletzt Schwächen in der Defensive",
-          "Arsenal benötigt Sieg für Tabellenspitze"
+          "Arsenal zeigt starke Heimform in der Liga.",
+          "Dortmunds Auswärtsbilanz in der Champions League ist wechselhaft.",
+          "Arsenal benötigt einen Sieg für die K.o.-Phase."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T21:40:02.285647+00:00"
+        "generatedAt": "2026-11-17T18:10:03.154311+00:00"
       }
     },
     {
@@ -746,8 +749,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -757,21 +760,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Feyenoord Rotterdam",
-        "scoreline": "2:1",
-        "confidence": 0.5,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.5,
-          "draw": 0.3,
+          "home": 0.4,
+          "draw": 0.4,
           "away": 0.2
         },
         "reasons": [
-          "Feyenoord hat Heimvorteil",
-          "Porto zeigt schwankende Leistungen in der Fremde",
-          "Beide Teams kämpfen um das Weiterkommen, Feyenoord hat leichte Vorteile in der aktuellen Form."
+          "Feyenoord mit starker Heimform",
+          "Porto defensiv stabil",
+          "Beide Teams kämpfen um Platz 2"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T21:40:03.972385+00:00"
+        "generatedAt": "2026-11-17T18:10:04.648464+00:00"
       }
     },
     {
@@ -798,8 +801,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -811,19 +814,19 @@
         "available": true,
         "outcome": "Sieg Real Betis Balompié",
         "scoreline": "1:2",
-        "confidence": 0.4,
+        "confidence": 0.45,
         "probs": {
-          "home": 0.3,
+          "home": 0.25,
           "draw": 0.3,
-          "away": 0.4
+          "away": 0.45
         },
         "reasons": [
-          "Real Betis hat die stärkere Form und die besseren individuellen Spieler",
-          "Slovan Bratislava hat zu Hause Schwierigkeiten gegen stärkere Gegner",
-          "Real Betis benötigt Punkte für die K.o.-Runde und wird entsprechend agieren"
+          "Real Betis hat die bessere Form und ist in der Liga konstanter.",
+          "Slovan Bratislava hat im bisherigen Wettbewerb zu Hause Schwächen gezeigt.",
+          "Real Betis hat die höhere individuelle Qualität im Kader."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T21:40:05.788838+00:00"
+        "generatedAt": "2026-11-17T18:10:06.258860+00:00"
       }
     },
     {
@@ -850,8 +853,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 1",
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -862,20 +866,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg RB Leipzig",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
-          "draw": 0.3,
+          "home": 0.6,
+          "draw": 0.25,
           "away": 0.15
         },
         "reasons": [
-          "RB Leipzig hat Heimvorteil und ist offensivstark",
-          "Lens zeigte zuletzt schwankende Leistungen",
+          "RB Leipzig hat Heimvorteil und ist in guter Form",
+          "Lens hat Probleme in der Offensive und auswärts",
           "Leipzig benötigt Punkte für das Weiterkommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T21:40:07.446409+00:00"
+        "generatedAt": "2026-11-17T18:10:07.828035+00:00"
       }
     },
     {
@@ -902,8 +906,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -913,21 +917,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg PAE AEK",
-        "scoreline": "1:2",
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
         "confidence": 0.4,
         "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Como 1907 mit schwacher Form in den letzten Spielen",
-          "PAE AEK hat die bessere Tabellensituation und mehr zu gewinnen",
-          "PAE AEK hat auswärts eine solide Leistung gezeigt"
+          "Como heimstark in der Liga",
+          "AEK mit Auswärtsschwächen",
+          "Beide Teams kämpfen um Platz 3"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-16T21:40:09.137255+00:00"
+        "generatedAt": "2026-11-17T18:10:09.390256+00:00"
       }
     },
     {
@@ -954,8 +958,9 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 1",
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1057,6 +1062,7 @@
       "tv": {
         "known": true,
         "channels": [
+          "DAZN 2",
           "Sky"
         ],
         "free": false,
@@ -1108,8 +1114,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1160,8 +1166,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1212,8 +1218,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1264,7 +1270,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "DAZN"
+          "DAZN 1",
+          "DAZN 2"
         ],
         "free": false,
         "note": null
@@ -1315,8 +1322,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1367,8 +1374,8 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN"
+          "DAZN 2",
+          "Sky"
         ],
         "free": false,
         "note": null
