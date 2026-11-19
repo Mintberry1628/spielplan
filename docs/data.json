@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:00:31.977707+00:00",
+  "generatedAt": "2026-11-19T02:17:04.324219+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -974,17 +974,17 @@
         "scoreline": "1:2",
         "confidence": 0.5,
         "probs": {
-          "home": 0.3,
-          "draw": 0.2,
+          "home": 0.2,
+          "draw": 0.3,
           "away": 0.5
         },
         "reasons": [
           "Sabah FK mit schwacher Form in den letzten Spielen",
           "FC Barcelona hat die höhere individuelle Qualität",
-          "FC Barcelona benötigt Punkte für das Weiterkommen"
+          "FC Barcelona ist zum Siegen verdammt um weiterzukommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-18T02:44:38.336635+00:00"
+        "generatedAt": "2026-11-19T02:16:48.262219+00:00"
       }
     },
     {
@@ -1021,21 +1021,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
+        "outcome": "Sieg Villarreal CF",
+        "scoreline": "1:2",
         "confidence": 0.4,
         "probs": {
-          "home": 0.4,
-          "draw": 0.4,
-          "away": 0.2
+          "home": 0.3,
+          "draw": 0.3,
+          "away": 0.4
         },
         "reasons": [
-          "Slavia Prag zu Hause stark, aber Villarreal defensiv stabil",
-          "Beide Teams brauchen Punkte für das Weiterkommen",
-          "Schwieriges Spiel für beide Mannschaften, ausgeglichene Kräfteverhältnisse"
+          "Slavia Prag zuletzt schwankend",
+          "Villarreal mit stabilerer Form",
+          "Vorteil für Villarreal im direkten Vergleich"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-18T02:44:39.980329+00:00"
+        "generatedAt": "2026-11-19T02:16:50.042949+00:00"
       }
     },
     {
@@ -1072,22 +1072,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Internazionale Milano",
-        "scoreline": "2:1",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Inter hat Heimvorteil und starke Form",
-          "Stuttgart fehlt es an internationaler Erfahrung",
-          "Inter ist in der Tabelle besser platziert"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-18T02:44:41.656323+00:00"
+        "available": false
       }
     },
     {
@@ -1126,7 +1111,7 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Club Atlético de Madrid",
-        "scoreline": "2:0",
+        "scoreline": "3:1",
         "confidence": 0.7,
         "probs": {
           "home": 0.7,
@@ -1134,12 +1119,12 @@
           "away": 0.1
         },
         "reasons": [
-          "Atlético Madrid hat Heimvorteil und starke Defensive",
-          "Viking FK hat auswärts Schwierigkeiten",
-          "Atlético Madrid ist in besserer Verfassung"
+          "Atlético Madrid mit starker Heimbilanz in der Champions League",
+          "Viking FK mit schwacher Auswärtsform in europäischen Wettbewerben",
+          "Atlético Madrid benötigt einen Sieg für das Weiterkommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-18T02:44:43.284168+00:00"
+        "generatedAt": "2026-11-19T02:16:52.705286+00:00"
       }
     },
     {
@@ -1178,20 +1163,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Paris Saint-Germain FC",
-        "scoreline": "2:0",
+        "scoreline": "3:1",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
+          "draw": 0.2,
+          "away": 0.15
         },
         "reasons": [
-          "PSG hat Heimvorteil und starke Offensive",
-          "Roma kämpft mit Auswärtsschwäche in der Champions League",
-          "PSG ist in besserer Form und hat mehr zu gewinnen"
+          "PSG hat Heimvorteil und ist offensivstark",
+          "Roma hat zuletzt schwankende Leistungen gezeigt",
+          "PSG ist in der Liga und international konstant gut"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-18T02:44:45.241483+00:00"
+        "generatedAt": "2026-11-19T02:16:54.412950+00:00"
       }
     },
     {
@@ -1231,19 +1216,19 @@
         "available": true,
         "outcome": "Sieg Liverpool FC",
         "scoreline": "1:2",
-        "confidence": 0.45,
+        "confidence": 0.5,
         "probs": {
-          "home": 0.25,
+          "home": 0.2,
           "draw": 0.3,
-          "away": 0.45
+          "away": 0.5
         },
         "reasons": [
-          "Club Brugge mit schwankender Form in den letzten Spielen.",
-          "Liverpool FC zeigt konstante Leistungen und ist offensiv stark.",
-          "Liverpool FC hat die höhere individuelle Qualität und mehr Erfahrung auf diesem Niveau."
+          "Liverpool FC hat eine stärkere aktuelle Form",
+          "Club Brugge KV hat eine schwächere Heimbilanz gegen Top-Teams",
+          "Liverpool FC hat mehr Erfahrung auf diesem Niveau"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-18T02:44:46.843156+00:00"
+        "generatedAt": "2026-11-19T02:16:56.119711+00:00"
       }
     },
     {
@@ -1283,19 +1268,19 @@
         "available": true,
         "outcome": "Sieg FC Bayern München",
         "scoreline": "1:2",
-        "confidence": 0.5,
+        "confidence": 0.45,
         "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
+          "home": 0.25,
+          "draw": 0.3,
+          "away": 0.45
         },
         "reasons": [
           "FC Bayern München ist in besserer Form",
-          "Lille OSC hat Heimvorteil, aber Bayerns individuelle Klasse ist höher",
-          "Beide Teams brauchen Punkte, aber Bayern hat die erfahrenere Mannschaft"
+          "Lille OSC hat Heimschwäche in der Champions League",
+          "FC Bayern München hat die breitere Kaderbreite"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-18T02:44:48.453588+00:00"
+        "generatedAt": "2026-11-19T02:16:57.867726+00:00"
       }
     },
     {
@@ -1342,12 +1327,12 @@
           "away": 0.4
         },
         "reasons": [
-          "Manchester United FC hat eine stärkere aktuelle Form.",
-          "Sporting CP hat Heimvorteil, aber Manchester United FC ist international erfahrener.",
-          "Beide Teams benötigen Punkte, was zu einem offenen Spiel führt."
+          "Manchester United FC mit besserer aktueller Form",
+          "Sporting CP hat Heimvorteil, aber Manchester United FC ist international erfahrener",
+          "Beide Teams kämpfen um die nächste Runde, was zu einem knappen Spiel führt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-18T02:44:50.089324+00:00"
+        "generatedAt": "2026-11-19T02:16:59.747287+00:00"
       }
     },
     {
@@ -1385,21 +1370,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg FK Shakhtar Donetsk",
+        "scoreline": "2:1",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.4,
-          "draw": 0.35,
-          "away": 0.25
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
         },
         "reasons": [
-          "Shakhtar mit Heimvorteil, aber unkonstant",
-          "Fenerbahçe stark in der Fremde, aber defensiv anfällig",
-          "Beide Teams brauchen Punkte für das Weiterkommen"
+          "Shakhtar hat Heimvorteil",
+          "Fenerbahce in schwacher Form",
+          "Beide Teams brauchen Punkte"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-18T02:44:51.734190+00:00"
+        "generatedAt": "2026-11-19T02:17:01.487233+00:00"
       }
     },
     {
@@ -1435,7 +1420,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Werder Bremen",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Werder Bremen ist zuhause stärker",
+          "Gladbach hat zuletzt schwankende Leistungen gezeigt",
+          "Werder Bremen hat eine bessere Tabellensituation"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-19T02:17:03.323763+00:00"
       }
     },
     {
@@ -1462,10 +1462,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1498,10 +1500,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1534,10 +1538,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1570,10 +1576,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
