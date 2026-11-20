@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:02:06.218726+00:00",
+  "generatedAt": "2026-11-20T10:56:09.522419+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1073,7 +1073,7 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Inter Mailand",
+        "outcome": "Sieg Heim",
         "scoreline": "2:0",
         "confidence": 0.6,
         "probs": {
@@ -1082,12 +1082,12 @@
           "away": 0.15
         },
         "reasons": [
-          "Inter Mailand hat eine starke Heimbilanz in der Champions League.",
-          "Stuttgart kämpft auswärts oft mit der Defensive.",
-          "Inter ist in besserer Verfassung und hat mehr Qualität im Kader."
+          "Inter hat eine starke Heimbilanz in der Champions League",
+          "Stuttgart kämpft auswärts und hat Verletzungssorgen",
+          "Inter ist in der Tabelle besser positioniert und hat mehr zu gewinnen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-19T11:09:03.238536+00:00"
+        "generatedAt": "2026-11-20T10:56:08.522086+00:00"
       }
     },
     {
