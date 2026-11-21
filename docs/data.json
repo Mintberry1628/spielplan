@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T01:59:26.387359+00:00",
+  "generatedAt": "2026-11-21T10:40:13.528104+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1057,22 +1057,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "2:0",
-        "confidence": 0.6,
-        "probs": {
-          "home": 0.6,
-          "draw": 0.25,
-          "away": 0.15
-        },
-        "reasons": [
-          "Inter hat eine starke Heimbilanz in der Champions League",
-          "Stuttgart kämpft auswärts und hat Verletzungssorgen",
-          "Inter ist in der Tabelle besser positioniert und hat mehr zu gewinnen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-20T10:56:08.522086+00:00"
+        "available": false
       }
     },
     {
