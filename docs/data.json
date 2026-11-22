@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T10:44:36.261417+00:00",
+  "generatedAt": "2026-11-22T19:04:13.175472+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -267,19 +267,19 @@
       "dateLocal": "2026-11-22",
       "kickoff": "2026-11-22T15:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Augsburg",
         "short": "FCA",
         "crest": "https://crests.football-data.org/16.png",
-        "score": null
+        "score": 3
       },
       "away": {
         "name": "1. FSV Mainz 05",
         "short": "M05",
         "crest": "https://crests.football-data.org/15.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
@@ -295,22 +295,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Augsburg",
-        "scoreline": "1:0",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Augsburg mit starker Heimform",
-          "Mainz kämpft auswärts",
-          "Augsburg hat die stabilere Defensive"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:55.604972+00:00"
+        "available": false
       }
     },
     {
@@ -320,19 +305,19 @@
       "dateLocal": "2026-11-22",
       "kickoff": "2026-11-22T17:30:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "SV Werder Bremen",
         "short": "SVW",
         "crest": "https://crests.football-data.org/12.png",
-        "score": null
+        "score": 4
       },
       "away": {
         "name": "Hamburger SV",
         "short": "HSV",
         "crest": "https://crests.football-data.org/7.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
@@ -348,22 +333,7 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Werder Bremen",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
-        },
-        "reasons": [
-          "Werder Bremen hat Heimvorteil und zuletzt bessere Form gezeigt.",
-          "Hamburger SV kämpft mit Auswärtsschwäche und Verletzungssorgen.",
-          "Direkter Vergleich spricht leicht für Bremen in den letzten Jahren."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:57.439386+00:00"
+        "available": false
       }
     },
     {
@@ -402,21 +372,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Unentschieden",
-        "scoreline": "1:1",
-        "confidence": 0.4,
+        "outcome": "Sieg Galatasaray SK",
+        "scoreline": "1:0",
+        "confidence": 0.55,
         "probs": {
-          "home": 0.4,
-          "draw": 0.35,
-          "away": 0.25
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
         },
         "reasons": [
-          "Galatasaray mit starkem Heimvorteil in der Champions League.",
-          "Aston Villa in guter Form, aber auswärts anfällig.",
-          "Beide Teams kämpfen um wichtige Punkte für das Weiterkommen."
+          "Galatasaray SK hat eine starke Heimform in europäischen Wettbewerben",
+          "Aston Villa FC zeigt Schwächen in Auswärtsspielen gegen Top-Teams",
+          "Die Tabellensituation erfordert für Galatasaray SK ein positives Ergebnis, um die nächste Runde zu erreichen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:37.460525+00:00"
+        "generatedAt": "2026-11-22T19:03:57.644287+00:00"
       }
     },
     {
@@ -492,20 +462,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Real Madrid CF",
-        "scoreline": "2:0",
-        "confidence": 0.7,
+        "scoreline": "3:1",
+        "confidence": 0.65,
         "probs": {
-          "home": 0.7,
+          "home": 0.65,
           "draw": 0.2,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "Real Madrid hat Heimvorteil und eine starke Saison",
-          "PSV hat zuletzt schwankende Leistungen gezeigt",
-          "Real Madrid ist in der Liga und CL auf Erfolgskurs"
+          "Real Madrid hat eine starke Heimbilanz in der Champions League.",
+          "PSV hat in der Fremde oft Schwierigkeiten gegen Top-Teams.",
+          "Real Madrid ist in der Liga in besserer Form und hat mehr individuelle Klasse."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:39.325560+00:00"
+        "generatedAt": "2026-11-22T19:03:59.425303+00:00"
       }
     },
     {
@@ -544,20 +514,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Manchester City FC",
-        "scoreline": "3:1",
+        "scoreline": "2:0",
         "confidence": 0.65,
         "probs": {
           "home": 0.65,
-          "draw": 0.2,
-          "away": 0.15
+          "draw": 0.25,
+          "away": 0.1
         },
         "reasons": [
-          "Manchester City FC mit starker Heimform und offensiver Dominanz",
-          "SSC Napoli mit inkonsistenten Leistungen in der Fremde",
-          "Manchester City FC hat die höhere individuelle Qualität im Kader"
+          "Manchester City hat eine starke Heimbilanz in der Champions League.",
+          "Napoli zeigt auswärts in dieser Saison Schwächen.",
+          "Manchester Citys Kader ist breiter und tiefer besetzt."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:41.234312+00:00"
+        "generatedAt": "2026-11-22T19:04:01.310319+00:00"
       }
     },
     {
@@ -603,12 +573,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Arsenal FC hat eine starke Heimform in der Liga und der Champions League.",
-          "Borussia Dortmund zeigt Schwächen in der Defensive bei Auswärtsspielen.",
-          "Arsenal FC benötigt einen Sieg, um die Gruppenphase zu überstehen."
+          "Arsenal FC hat Heimvorteil und ist in guter Form.",
+          "Borussia Dortmund hat zuletzt schwankende Leistungen gezeigt.",
+          "Arsenal FC benötigt Punkte für das Weiterkommen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:43.040766+00:00"
+        "generatedAt": "2026-11-22T19:04:03.073437+00:00"
       }
     },
     {
@@ -646,21 +616,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Feyenoord",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.55,
-          "draw": 0.25,
+          "home": 0.4,
+          "draw": 0.4,
           "away": 0.2
         },
         "reasons": [
-          "Feyenoord hat Heimvorteil in Rotterdam",
-          "Porto zuletzt mit schwankender Form",
-          "Beide Teams brauchen Punkte für das Weiterkommen"
+          "Feyenoord mit starkem Heimvorteil in der Liga",
+          "Porto in der Champions League oft defensiv stabil",
+          "Beide Teams kämpfen um das Weiterkommen, was zu Vorsicht führt"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:44.789056+00:00"
+        "generatedAt": "2026-11-22T19:04:05.067676+00:00"
       }
     },
     {
@@ -699,20 +669,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg Real Betis Balompié",
-        "scoreline": "1:2",
-        "confidence": 0.4,
+        "scoreline": "0:2",
+        "confidence": 0.5,
         "probs": {
-          "home": 0.3,
+          "home": 0.2,
           "draw": 0.3,
-          "away": 0.4
+          "away": 0.5
         },
         "reasons": [
-          "Real Betis ist in besserer Form",
-          "Slovan Bratislava hat Heimvorteil, aber weniger internationale Erfahrung",
-          "Real Betis hat die stärkere Offensive"
+          "Real Betis hat die stärkere Form und ist in der Liga besser platziert.",
+          "Slovan Bratislava hat zuhause Probleme gegen stärkere Gegner.",
+          "Real Betis hat mehr Erfahrung auf internationaler Bühne."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:46.540617+00:00"
+        "generatedAt": "2026-11-22T19:04:06.912642+00:00"
       }
     },
     {
@@ -752,20 +722,20 @@
       "prediction": {
         "available": true,
         "outcome": "Sieg RB Leipzig",
-        "scoreline": "2:1",
-        "confidence": 0.55,
+        "scoreline": "2:0",
+        "confidence": 0.6,
         "probs": {
-          "home": 0.55,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.2
+          "away": 0.15
         },
         "reasons": [
-          "Leipzig mit starker Heimbilanz in der Champions League",
-          "Lens hat auswärts Probleme, Tore zu erzielen",
-          "Leipzig benötigt einen Sieg für das Weiterkommen"
+          "RB Leipzig hat Heimvorteil und ist in guter Form.",
+          "Lens hat Probleme in der Offensive und Auswärts.",
+          "Leipzig braucht Punkte für das Weiterkommen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:48.467870+00:00"
+        "generatedAt": "2026-11-22T19:04:08.651794+00:00"
       }
     },
     {
@@ -803,21 +773,21 @@
       },
       "prediction": {
         "available": true,
-        "outcome": "Sieg Heim",
-        "scoreline": "1:0",
-        "confidence": 0.55,
+        "outcome": "Unentschieden",
+        "scoreline": "1:1",
+        "confidence": 0.4,
         "probs": {
-          "home": 0.55,
-          "draw": 0.3,
-          "away": 0.15
+          "home": 0.4,
+          "draw": 0.4,
+          "away": 0.2
         },
         "reasons": [
-          "Como 1907 mit starker Heimform in der Liga",
-          "AEK Athen zuletzt auswärts anfällig",
-          "Beide Teams kämpfen um Platz 3 in der Gruppe"
+          "Como zuletzt formstark im heimischen Stadion",
+          "AEK mit Problemen in der Fremde",
+          "Beide Teams benötigen Punkte für das Weiterkommen"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:50.394218+00:00"
+        "generatedAt": "2026-11-22T19:04:10.478991+00:00"
       }
     },
     {
@@ -961,19 +931,19 @@
         "available": true,
         "outcome": "Sieg Heim",
         "scoreline": "2:0",
-        "confidence": 0.65,
+        "confidence": 0.6,
         "probs": {
-          "home": 0.65,
+          "home": 0.6,
           "draw": 0.25,
-          "away": 0.1
+          "away": 0.15
         },
         "reasons": [
-          "Inter hat Heimvorteil in der Champions League",
-          "Stuttgart zeigt inconsistente Leistungen auswärts",
-          "Inter ist in besserer Form und hat mehr Qualität im Kader"
+          "Inter ist in starker Form und hat Heimvorteil",
+          "Stuttgart hat Probleme in der Defensive",
+          "Inter hat die bessere individuelle Qualität"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-21T18:43:52.157560+00:00"
+        "generatedAt": "2026-11-22T19:04:12.174962+00:00"
       }
     },
     {
