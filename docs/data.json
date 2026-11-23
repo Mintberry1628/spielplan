@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T01:25:24.026907+00:00",
+  "generatedAt": "2026-11-23T11:49:50.216903+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -1488,9 +1488,7 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky",
-          "DAZN",
-          "WOW"
+          "Sky"
         ],
         "free": false,
         "note": null
@@ -1550,7 +1548,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfB Stuttgart",
+        "scoreline": "2:1",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Stuttgart in starker Form zuhause",
+          "Frankfurt auswärts anfällig",
+          "Stuttgarts Offensive zuletzt stark"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-23T11:49:49.216549+00:00"
       }
     },
     {
@@ -1733,11 +1746,11 @@
       "tv": {
         "known": true,
         "channels": [
+          "RTL",
           "Sky",
-          "RTL+",
-          "WOW"
+          "RTL+"
         ],
-        "free": false,
+        "free": true,
         "note": null
       },
       "odds": {
