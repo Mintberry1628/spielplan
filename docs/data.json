@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:25:40.555769+00:00",
+  "generatedAt": "2026-11-24T08:30:45.564487+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,42 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565859",
-      "competition": "Bundesliga",
-      "competitionStage": "10. Spieltag",
-      "dateLocal": "2026-11-20",
-      "kickoff": "2026-11-20T20:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Bayern München",
-        "short": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "score": 1
-      },
-      "away": {
-        "name": "1. FC Köln",
-        "short": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-565857",
       "competition": "Bundesliga",
@@ -1132,7 +1096,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "1:2",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.3,
+          "draw": 0.2,
+          "away": 0.5
+        },
+        "reasons": [
+          "Bayern mit stärkerer Form und breiterem Kader",
+          "Lille hat Heimvorteil, aber Bayerns internationale Erfahrung überwiegt",
+          "Tabellarische Situation spricht für Bayern, die einen Sieg zur Sicherung des Weiterkommens benötigen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-24T08:30:34.984773+00:00"
       }
     },
     {
@@ -1482,7 +1461,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "1:3",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.15,
+          "draw": 0.25,
+          "away": 0.6
+        },
+        "reasons": [
+          "Bayern ist deutlich überlegen und hat eine bessere Saisonleistung.",
+          "HSV hat Heimvorteil, aber Bayerns Qualität überwiegt.",
+          "Verletzungen und Formkurve sprechen für Bayern."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-24T08:30:36.837337+00:00"
       }
     },
     {
@@ -1528,12 +1522,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Stuttgart in starker Form zuhause",
+          "Stuttgart heimstark",
           "Frankfurt auswärts anfällig",
-          "Stuttgarts Offensive zuletzt stark"
+          "Stuttgarts aktuelle Form besser"
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-23T11:49:49.216549+00:00"
+        "generatedAt": "2026-11-24T08:30:38.357195+00:00"
       }
     },
     {
@@ -1937,7 +1931,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Bayer 04 Leverkusen",
+        "scoreline": "3:1",
+        "confidence": 0.6,
+        "probs": {
+          "home": 0.6,
+          "draw": 0.2,
+          "away": 0.2
+        },
+        "reasons": [
+          "Leverkusen in überragender Verfassung",
+          "Leipzig mit Ausfällen in der Defensive",
+          "Heimstärke von Leverkusen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-24T08:30:39.908394+00:00"
       }
     },
     {
@@ -1975,7 +1984,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Heim",
+        "scoreline": "1:0",
+        "confidence": 0.55,
+        "probs": {
+          "home": 0.55,
+          "draw": 0.25,
+          "away": 0.2
+        },
+        "reasons": [
+          "Kaiserslautern mit Heimvorteil und Pokal-Moral",
+          "Freiburg in schwankender Form, Pokal oft unterschätzt",
+          "Kaiserslautern hat nichts zu verlieren und kämpft"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-24T08:30:41.526838+00:00"
       }
     },
     {
@@ -2012,7 +2036,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg Eintracht Frankfurt",
+        "scoreline": "2:1",
+        "confidence": 0.5,
+        "probs": {
+          "home": 0.5,
+          "draw": 0.3,
+          "away": 0.2
+        },
+        "reasons": [
+          "Frankfurt mit starker Heimform",
+          "Dortmund aktuell inkonsistent",
+          "Pokal-Überraschungen sind möglich"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-24T08:30:43.024688+00:00"
       }
     },
     {
@@ -2050,7 +2089,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg VfL Bochum",
+        "scoreline": "1:0",
+        "confidence": 0.45,
+        "probs": {
+          "home": 0.45,
+          "draw": 0.3,
+          "away": 0.25
+        },
+        "reasons": [
+          "Bochum mit starker Heimform",
+          "Augsburg zuletzt auswärts schwächer",
+          "Pokalfight mit knappen Ergebnissen"
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-24T08:30:44.564137+00:00"
       }
     },
     {
