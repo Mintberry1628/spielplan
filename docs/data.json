@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:50:28.281968+00:00",
+  "generatedAt": "2026-11-26T01:35:58.808219+00:00",
   "timezone": "Europe/Berlin",
   "isSample": false,
   "favoriteTeams": [
@@ -8,78 +8,6 @@
     "Bosnien"
   ],
   "matches": [
-    {
-      "id": "fd-565864",
-      "competition": "Bundesliga",
-      "competitionStage": "10. Spieltag",
-      "dateLocal": "2026-11-22",
-      "kickoff": "2026-11-22T15:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "FC Augsburg",
-        "short": "FCA",
-        "crest": "https://crests.football-data.org/16.png",
-        "score": 3
-      },
-      "away": {
-        "name": "1. FSV Mainz 05",
-        "short": "M05",
-        "crest": "https://crests.football-data.org/15.png",
-        "score": 1
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
-    {
-      "id": "fd-565863",
-      "competition": "Bundesliga",
-      "competitionStage": "10. Spieltag",
-      "dateLocal": "2026-11-22",
-      "kickoff": "2026-11-22T17:30:00+01:00",
-      "kickoffKnown": true,
-      "status": "finished",
-      "minute": null,
-      "home": {
-        "name": "SV Werder Bremen",
-        "short": "SVW",
-        "crest": "https://crests.football-data.org/12.png",
-        "score": 4
-      },
-      "away": {
-        "name": "Hamburger SV",
-        "short": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "score": 0
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": false
-      }
-    },
     {
       "id": "fd-575395",
       "competition": "Champions League",
@@ -411,72 +339,19 @@
       "dateLocal": "2026-11-25",
       "kickoff": "2026-11-25T18:45:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Sabah FK",
         "short": "SAB",
         "crest": "https://crests.football-data.org/10233.png",
-        "score": null
+        "score": 1
       },
       "away": {
         "name": "FC Barcelona",
         "short": "FCB",
         "crest": "https://crests.football-data.org/81.png",
-        "score": null
-      },
-      "tv": {
-        "known": true,
-        "channels": [
-          "DAZN 1",
-          "DAZN 2",
-          "Sky"
-        ],
-        "free": false,
-        "note": null
-      },
-      "odds": {
-        "known": false
-      },
-      "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Barcelona",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.25,
-          "draw": 0.25,
-          "away": 0.5
-        },
-        "reasons": [
-          "FC Barcelona ist klarer Favorit aufgrund der individuellen Klasse und Erfahrung.",
-          "Sabah FK hat Heimvorteil, aber die internationale Erfahrung fehlt.",
-          "Barcelona benötigt Punkte für das Weiterkommen und wird entsprechend auftreten."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-25T16:49:51.293254+00:00"
-      }
-    },
-    {
-      "id": "fd-575405",
-      "competition": "Champions League",
-      "competitionStage": "Ligaphase · 5. Spieltag",
-      "dateLocal": "2026-11-25",
-      "kickoff": "2026-11-25T18:45:00+01:00",
-      "kickoffKnown": true,
-      "status": "scheduled",
-      "minute": null,
-      "home": {
-        "name": "SK Slavia Praha",
-        "short": "SLP",
-        "crest": "https://crests.football-data.org/930.png",
-        "score": null
-      },
-      "away": {
-        "name": "Villarreal CF",
-        "short": "VIL",
-        "crest": "https://crests.football-data.org/94.png",
-        "score": null
+        "score": 4
       },
       "tv": {
         "known": true,
@@ -490,22 +365,43 @@
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Villarreal CF",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.3,
-          "away": 0.4
-        },
-        "reasons": [
-          "Slavia Prag mit schwankender Form in den letzten Spielen",
-          "Villarreal CF hat eine bessere Tabellensituation und mehr Erfahrung in europäischen Wettbewerben",
-          "Heimvorteil für Slavia Prag wird durch die höhere Qualität des spanischen Teams ausgeglichen"
+        "available": false
+      }
+    },
+    {
+      "id": "fd-575405",
+      "competition": "Champions League",
+      "competitionStage": "Ligaphase · 5. Spieltag",
+      "dateLocal": "2026-11-25",
+      "kickoff": "2026-11-25T18:45:00+01:00",
+      "kickoffKnown": true,
+      "status": "finished",
+      "minute": null,
+      "home": {
+        "name": "SK Slavia Praha",
+        "short": "SLP",
+        "crest": "https://crests.football-data.org/930.png",
+        "score": 0
+      },
+      "away": {
+        "name": "Villarreal CF",
+        "short": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "score": 1
+      },
+      "tv": {
+        "known": true,
+        "channels": [
+          "DAZN"
         ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-25T16:49:52.943623+00:00"
+        "free": false,
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
+      },
+      "odds": {
+        "known": false
+      },
+      "prediction": {
+        "available": false
       }
     },
     {
@@ -515,28 +411,27 @@
       "dateLocal": "2026-11-25",
       "kickoff": "2026-11-25T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FC Internazionale Milano",
         "short": "INT",
         "crest": "https://crests.football-data.org/108.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "VfB Stuttgart",
         "short": "VFB",
         "crest": "https://crests.football-data.org/10.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -552,28 +447,27 @@
       "dateLocal": "2026-11-25",
       "kickoff": "2026-11-25T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Club Atlético de Madrid",
         "short": "ATL",
         "crest": "https://crests.football-data.org/78.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Viking FK",
         "short": "VIK",
         "crest": "https://crests.football-data.org/5720.png",
-        "score": null
+        "score": 0
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
@@ -589,49 +483,33 @@
       "dateLocal": "2026-11-25",
       "kickoff": "2026-11-25T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Paris Saint-Germain FC",
         "short": "PSG",
         "crest": "https://crests.football-data.org/524.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "AS Roma",
         "short": "ROM",
         "crest": "https://crests.football-data.org/100.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Paris Saint-Germain FC",
-        "scoreline": "2:0",
-        "confidence": 0.65,
-        "probs": {
-          "home": 0.65,
-          "draw": 0.25,
-          "away": 0.1
-        },
-        "reasons": [
-          "PSG mit starker Heimbilanz und Offensivkraft",
-          "Roma kämpft auswärts und hat Verletzungssorgen",
-          "PSG benötigt Sieg für Tabellenplatzierung"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-25T16:49:55.891284+00:00"
+        "available": false
       }
     },
     {
@@ -641,49 +519,33 @@
       "dateLocal": "2026-11-25",
       "kickoff": "2026-11-25T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Club Brugge KV",
         "short": "BRU",
         "crest": "https://crests.football-data.org/851.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Liverpool FC",
         "short": "LIV",
         "crest": "https://crests.football-data.org/64.png",
-        "score": null
+        "score": 3
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Liverpool FC",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.2,
-          "draw": 0.3,
-          "away": 0.5
-        },
-        "reasons": [
-          "Club Brugge hat eine schwache Heimbilanz gegen Top-Teams",
-          "Liverpool ist in guter Form und hat eine starke Offensive",
-          "Liverpool braucht Punkte für das Weiterkommen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-25T16:49:57.493230+00:00"
+        "available": false
       }
     },
     {
@@ -693,49 +555,33 @@
       "dateLocal": "2026-11-25",
       "kickoff": "2026-11-25T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Lille OSC",
         "short": "LIL",
         "crest": "https://crests.football-data.org/521.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "FC Bayern München",
         "short": "FCB",
         "crest": "https://crests.football-data.org/5.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 1",
-          "DAZN 2"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FC Bayern München",
-        "scoreline": "1:2",
-        "confidence": 0.5,
-        "probs": {
-          "home": 0.3,
-          "draw": 0.2,
-          "away": 0.5
-        },
-        "reasons": [
-          "Bayern ist in besserer Form",
-          "Lille hat Heimvorteil, aber Bayerns Qualität setzt sich durch",
-          "Beide Teams brauchen Punkte, aber Bayern ist offensiv stärker"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-25T16:49:59.088628+00:00"
+        "available": false
       }
     },
     {
@@ -745,49 +591,33 @@
       "dateLocal": "2026-11-25",
       "kickoff": "2026-11-25T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "Sporting Clube de Portugal",
         "short": "SPO",
         "crest": "https://crests.football-data.org/498.png",
-        "score": null
+        "score": 2
       },
       "away": {
         "name": "Manchester United FC",
         "short": "MUN",
         "crest": "https://crests.football-data.org/66.png",
-        "score": null
+        "score": 2
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg Manchester United FC",
-        "scoreline": "1:2",
-        "confidence": 0.4,
-        "probs": {
-          "home": 0.35,
-          "draw": 0.25,
-          "away": 0.4
-        },
-        "reasons": [
-          "Manchester United FC hat eine bessere aktuelle Form.",
-          "Sporting CP hat mit Verletzungssorgen zu kämpfen.",
-          "Manchester United FC hat in der Vergangenheit gegen ähnliche Gegner besser abgeschnitten."
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-25T16:50:00.639432+00:00"
+        "available": false
       }
     },
     {
@@ -797,49 +627,33 @@
       "dateLocal": "2026-11-25",
       "kickoff": "2026-11-25T21:00:00+01:00",
       "kickoffKnown": true,
-      "status": "scheduled",
+      "status": "finished",
       "minute": null,
       "home": {
         "name": "FK Shakhtar Donetsk",
         "short": "SHD",
         "crest": "https://crests.football-data.org/1887.png",
-        "score": null
+        "score": 0
       },
       "away": {
         "name": "Fenerbahçe SK",
         "short": "FEN",
         "crest": "https://crests.football-data.org/613.png",
-        "score": null
+        "score": 1
       },
       "tv": {
         "known": true,
         "channels": [
-          "DAZN 2",
-          "Sky"
+          "DAZN"
         ],
         "free": false,
-        "note": null
+        "note": "Dienstags-Topspiel bei Amazon Prime Video"
       },
       "odds": {
         "known": false
       },
       "prediction": {
-        "available": true,
-        "outcome": "Sieg FK Shakhtar Donetsk",
-        "scoreline": "2:1",
-        "confidence": 0.55,
-        "probs": {
-          "home": 0.55,
-          "draw": 0.25,
-          "away": 0.2
-        },
-        "reasons": [
-          "Shakhtar hat Heimvorteil",
-          "Fenerbahce in schwacher Form",
-          "Shakhtar braucht Sieg für Weiterkommen"
-        ],
-        "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-25T16:50:02.187002+00:00"
+        "available": false
       }
     },
     {
@@ -1306,12 +1120,12 @@
           "away": 0.2
         },
         "reasons": [
-          "Dortmund mit starker Heimbilanz",
-          "Leverkusen in guter Verfassung trotz Auswärtsspiel",
-          "Beide Teams offensivstark, defensive Schwächen möglich"
+          "Beide Teams in guter Form, aber mit jüngsten Schwächen in der Defensive.",
+          "Dortmunds Heimstärke trifft auf Leverkusens Auswärtsstärke.",
+          "Direkter Vergleich oft torreich und ausgeglichen."
         ],
         "model": "gemini-2.5-flash-lite",
-        "generatedAt": "2026-11-25T03:57:25.843448+00:00"
+        "generatedAt": "2026-11-26T01:35:56.087480+00:00"
       }
     },
     {
@@ -1768,7 +1582,22 @@
         "known": false
       },
       "prediction": {
-        "available": false
+        "available": true,
+        "outcome": "Sieg FC Bayern München",
+        "scoreline": "4:0",
+        "confidence": 0.9,
+        "probs": {
+          "home": 0.9,
+          "draw": 0.07,
+          "away": 0.03
+        },
+        "reasons": [
+          "FC Bayern München ist Tabellenführer und in bestechender Form.",
+          "SC Paderborn 07 kämpft gegen den Abstieg und hat eine schwache Auswärtsbilanz.",
+          "Die Heimstärke des FC Bayern München ist überragend."
+        ],
+        "model": "gemini-2.5-flash-lite",
+        "generatedAt": "2026-11-26T01:35:57.807816+00:00"
       }
     },
     {
@@ -1795,10 +1624,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1831,10 +1662,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1867,10 +1700,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1903,10 +1738,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
@@ -1939,10 +1776,12 @@
       "tv": {
         "known": true,
         "channels": [
-          "Sky"
+          "Sky",
+          "DAZN",
+          "WOW"
         ],
         "free": false,
-        "note": "Konferenz auf DAZN"
+        "note": null
       },
       "odds": {
         "known": false
